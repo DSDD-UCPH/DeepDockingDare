@@ -1,0 +1,7 @@
+HETATM    1  O   HOH R 501      98.888 112.936  87.780  1.00 30.41      G    O  
+HETATM    2  H1  HOH R 501      99.409 113.307  87.234  1.00 30.41      G    H  
+HETATM    3  H2  HOH R 501      99.230 112.193  87.974  1.00 30.41      G    H  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+END

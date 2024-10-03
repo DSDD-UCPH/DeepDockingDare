@@ -1,0 +1,122 @@
+CRYST1  135.289   42.460   94.787  90.00  90.00  90.00 P 21 21 2     4
+HETATM    1  C1  PGE A1601     -33.176  19.024  -5.860  1.00 65.64      C    C  
+HETATM    2  O1  PGE A1601     -33.798  19.149  -4.586  1.00 61.97      C    O  
+HETATM    3  C2  PGE A1601     -34.136  19.530  -6.918  1.00 63.34      C    C  
+HETATM    4  O2  PGE A1601     -33.459  19.585  -8.155  1.00 74.17      C    O  
+HETATM    5  C3  PGE A1601     -33.209  18.312  -8.716  1.00 70.59      C    C  
+HETATM    6  O3  PGE A1601     -32.946  19.467 -10.789  1.00 69.31      C    O  
+HETATM    7  C4  PGE A1601     -32.356  18.490  -9.957  1.00 65.68      C    C  
+HETATM    8  O4  PGE A1601     -32.888  19.818 -13.283  1.00 61.75      C    O  
+HETATM    9  C5  PGE A1601     -34.136  19.023 -11.413  1.00 73.62      C    C  
+HETATM   10  C6  PGE A1601     -34.214  19.638 -12.796  1.00 74.04      C    C  
+HETATM   11  C1  PEG A1602     -18.049  -2.979 -10.924  1.00 65.40      D    C  
+HETATM   12  O1  PEG A1602     -18.438  -3.160 -12.275  1.00 68.19      D    O  
+HETATM   13  C2  PEG A1602     -19.209  -3.081  -9.984  1.00 63.35      D    C  
+HETATM   14  O2  PEG A1602     -18.790  -2.810  -8.651  1.00 64.04      D    O  
+HETATM   15  C3  PEG A1602     -19.880  -2.779  -7.736  1.00 62.19      D    C  
+HETATM   16  C4  PEG A1602     -19.415  -2.309  -6.392  1.00 62.49      D    C  
+HETATM   17  O4  PEG A1602     -20.484  -2.182  -5.468  1.00 60.58      D    O  
+HETATM   18  C1  PG4 A1603      -9.063  21.801  -3.502  1.00 77.82      E    C  
+HETATM   19  O1  PG4 A1603      -8.579  21.128  -2.341  1.00 65.89      E    O  
+HETATM   20  C2  PG4 A1603      -8.683  21.102  -4.779  1.00 70.33      E    C  
+HETATM   21  O2  PG4 A1603      -9.363  21.675  -5.893  1.00 76.40      E    O  
+HETATM   22  C3  PG4 A1603      -9.178  20.925  -7.092  1.00 77.20      E    C  
+HETATM   23  O3  PG4 A1603      -9.850  20.673  -9.369  1.00 79.16      E    O  
+HETATM   24  C4  PG4 A1603      -9.940  21.536  -8.237  1.00 78.67      E    C  
+HETATM   25  O4  PG4 A1603     -10.122  22.531 -12.443  1.00 84.69      E    O  
+HETATM   26  C5  PG4 A1603     -10.535  21.154 -10.523  1.00 74.40      E    C  
+HETATM   27  O5  PG4 A1603     -10.678  22.355 -15.192  1.00 78.96      E    O  
+HETATM   28  C6  PG4 A1603      -9.861  22.384 -11.049  1.00 78.77      E    C  
+HETATM   29  C7  PG4 A1603      -9.613  21.451 -13.220  1.00 75.00      E    C  
+HETATM   30  C8  PG4 A1603      -9.468  21.865 -14.651  1.00 73.41      E    C  
+HETATM   31  C1  PEG A1604     -12.124  26.970 -13.646  1.00 86.76      F    C  
+HETATM   32  O1  PEG A1604     -11.900  25.689 -14.204  1.00 83.01      F    O  
+HETATM   33  C2  PEG A1604     -11.859  27.006 -12.171  1.00 86.90      F    C  
+HETATM   34  O2  PEG A1604     -12.774  26.152 -11.492  1.00 89.23      F    O  
+HETATM   35  C3  PEG A1604     -12.631  26.191 -10.075  1.00 82.40      F    C  
+HETATM   36  C4  PEG A1604     -11.261  25.728  -9.684  1.00 89.27      F    C  
+HETATM   37  O4  PEG A1604     -11.083  25.704  -8.279  1.00 95.20      F    O  
+HETATM   38  OH2 1PE A1605      -1.467  -4.399  10.901  1.00 72.40      G    O  
+HETATM   39  OH3 1PE A1605      -0.533  -4.331   8.184  1.00 76.27      G    O  
+HETATM   40  OH4 1PE A1605       0.526  -2.324   6.307  1.00 76.80      G    O  
+HETATM   41  OH5 1PE A1605       1.020  -2.964   2.860  1.00 59.59      G    O  
+HETATM   42  OH6 1PE A1605       0.666  -5.012   0.374  1.00 58.73      G    O  
+HETATM   43  OH7 1PE A1605      -0.035  -7.581  -1.200  1.00 52.81      G    O  
+HETATM   44  C12 1PE A1605      -0.602  -5.413  10.371  1.00 73.67      G    C  
+HETATM   45  C13 1PE A1605      -0.649  -3.116   6.104  1.00 70.00      G    C  
+HETATM   46  C14 1PE A1605       0.532  -2.060   3.852  1.00 66.44      G    C  
+HETATM   47  C15 1PE A1605       0.880  -3.601   0.520  1.00 56.54      G    C  
+HETATM   48  C16 1PE A1605       1.251  -6.988  -0.974  1.00 49.93      G    C  
+HETATM   49  C22 1PE A1605      -0.792  -5.567   8.860  1.00 77.92      G    C  
+HETATM   50  C23 1PE A1605      -0.508  -4.481   6.770  1.00 63.93      G    C  
+HETATM   51  C24 1PE A1605       1.350  -2.246   5.134  1.00 74.06      G    C  
+HETATM   52  C25 1PE A1605       0.148  -3.042   1.737  1.00 59.94      G    C  
+HETATM   53  C26 1PE A1605       1.137  -5.466  -0.904  1.00 55.84      G    C  
+HETATM   54  C1  PEG A1606      -4.368  19.755  -6.547  1.00 72.16      H    C  
+HETATM   55  O1  PEG A1606      -4.950  20.388  -5.421  1.00 65.05      H    O  
+HETATM   56  C2  PEG A1606      -4.975  20.212  -7.844  1.00 73.52      H    C  
+HETATM   57  O2  PEG A1606      -4.376  19.517  -8.933  1.00 72.45      H    O  
+HETATM   58  C3  PEG A1606      -4.946  19.859 -10.190  1.00 68.05      H    C  
+HETATM   59  C4  PEG A1606      -4.374  18.982 -11.256  1.00 73.88      H    C  
+HETATM   60  O4  PEG A1606      -4.982  19.212 -12.510  1.00 81.94      H    O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3    5
+CONECT    5    4    7
+CONECT    6    7    9
+CONECT    7    5    6
+CONECT    8   10
+CONECT    9    6   10
+CONECT   10    8    9
+CONECT   11   12   13
+CONECT   12   11
+CONECT   13   11   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16
+CONECT   18   19   20
+CONECT   19   18
+CONECT   20   18   21
+CONECT   21   20   22
+CONECT   22   21   24
+CONECT   23   24   26
+CONECT   24   22   23
+CONECT   25   28   29
+CONECT   26   23   28
+CONECT   27   30
+CONECT   28   25   26
+CONECT   29   25   30
+CONECT   30   27   29
+CONECT   31   32   33
+CONECT   32   31
+CONECT   33   31   34
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36
+CONECT   38   44
+CONECT   39   49   50
+CONECT   40   45   51
+CONECT   41   46   52
+CONECT   42   47   53
+CONECT   43   48
+CONECT   44   38   49
+CONECT   45   40   50
+CONECT   46   41   51
+CONECT   47   42   52
+CONECT   48   43   53
+CONECT   49   39   44
+CONECT   50   39   45
+CONECT   51   40   46
+CONECT   52   41   47
+CONECT   53   42   48
+CONECT   54   55   56
+CONECT   55   54
+CONECT   56   54   57
+CONECT   57   56   58
+CONECT   58   57   59
+CONECT   59   58   60
+CONECT   60   59
+END

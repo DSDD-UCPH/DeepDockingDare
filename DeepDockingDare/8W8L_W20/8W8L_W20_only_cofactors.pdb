@@ -1,0 +1,137 @@
+CRYST1   74.484  103.060  194.095  90.00  90.00  90.00 P 21 21 21    8
+HETATM    1  C1  EDO B 610      -9.788   2.656  -2.442  1.00 45.09      AA   C  
+HETATM    2  O1  EDO B 610     -10.002   3.444  -1.292  1.00 44.77      AA   O  
+HETATM    3  C2  EDO B 610     -10.681   3.016  -3.575  1.00 45.58      AA   C  
+HETATM    4  O2  EDO B 610     -10.214   4.093  -4.367  1.00 45.90      AA   O  
+HETATM    5  C1  EDO B 611     -32.391  57.760  43.804  1.00 34.67      BA   C  
+HETATM    6  O1  EDO B 611     -33.265  56.904  44.532  1.00 33.52      BA   O  
+HETATM    7  C2  EDO B 611     -32.511  57.632  42.326  1.00 34.46      BA   C  
+HETATM    8  O2  EDO B 611     -32.347  58.856  41.641  1.00 35.67      BA   O  
+HETATM    9  O1  SO4 A 602      19.387  10.865  42.174  1.00 67.68      D    O  
+HETATM   10  O2  SO4 A 602      18.088   8.932  42.466  1.00 65.08      D    O  
+HETATM   11  O3  SO4 A 602      20.348   8.930  43.108  1.00 70.10      D    O  
+HETATM   12  O4  SO4 A 602      18.789  10.179  44.339  1.00 67.75      D    O  
+HETATM   13  S   SO4 A 602      19.152   9.726  43.021  1.00 69.79      D    S  
+HETATM   14  O1  SO4 A 603      27.650  -7.416  41.987  1.00 40.06      E    O  
+HETATM   15  O2  SO4 A 603      26.023  -6.554  40.527  1.00 40.69      E    O  
+HETATM   16  O3  SO4 A 603      25.379  -7.470  42.594  1.00 38.96      E    O  
+HETATM   17  O4  SO4 A 603      26.528  -5.422  42.528  1.00 37.39      E    O  
+HETATM   18  S   SO4 A 603      26.393  -6.714  41.911  1.00 39.37      E    S  
+HETATM   19 MG    MG A 604      12.219 -25.548  47.741  1.00 30.57      F   MG  
+HETATM   20 MG    MG A 605      26.446   0.985  30.251  1.00 34.10      G   MG  
+HETATM   21 MG    MG A 606      28.291 -32.917  42.222  1.00 29.47      H   MG  
+HETATM   22 MG    MG A 607       0.712  -6.216  30.025  1.00 27.67      I   MG  
+HETATM   23 MG    MG A 608      -0.098 -18.107  26.282  1.00 44.49      J   MG  
+HETATM   24 MG    MG A 609       9.766 -28.782  41.799  1.00 29.91      K   MG  
+HETATM   25 MG    MG A 610      18.975  -4.691  40.703  1.00 34.55      L   MG  
+HETATM   26  C1  EDO A 611      11.128   5.121  22.474  1.00 42.12      M    C  
+HETATM   27  O1  EDO A 611      10.418   6.211  21.911  1.00 43.72      M    O  
+HETATM   28  C2  EDO A 611      11.595   4.142  21.461  1.00 41.02      M    C  
+HETATM   29  O2  EDO A 611      12.200   4.756  20.348  1.00 39.11      M    O  
+HETATM   30  C1  EDO A 612      22.696  -7.781  31.256  1.00 46.79      N    C  
+HETATM   31  O1  EDO A 612      23.190  -9.064  31.578  1.00 46.87      N    O  
+HETATM   32  C2  EDO A 612      22.992  -6.796  32.323  1.00 46.04      N    C  
+HETATM   33  O2  EDO A 612      24.357  -6.798  32.713  1.00 46.21      N    O  
+HETATM   34  C1  EDO A 613      28.056  -5.755  33.550  1.00 36.42      O    C  
+HETATM   35  O1  EDO A 613      29.218  -6.079  34.291  1.00 36.57      O    O  
+HETATM   36  C2  EDO A 613      28.357  -5.085  32.262  1.00 36.53      O    C  
+HETATM   37  O2  EDO A 613      28.571  -5.985  31.186  1.00 36.28      O    O  
+HETATM   38  C1  EDO A 614      17.784   4.788  27.858  1.00 44.28      P    C  
+HETATM   39  O1  EDO A 614      17.963   4.590  29.247  1.00 44.51      P    O  
+HETATM   40  C2  EDO A 614      16.615   4.065  27.279  1.00 43.57      P    C  
+HETATM   41  O2  EDO A 614      15.383   4.774  27.343  1.00 45.77      P    O  
+HETATM   42  C1  EDO A 615      32.930 -23.908  51.469  1.00 36.08      Q    C  
+HETATM   43  O1  EDO A 615      34.266 -23.943  51.970  1.00 34.25      Q    O  
+HETATM   44  C2  EDO A 615      31.982 -24.747  52.247  1.00 35.62      Q    C  
+HETATM   45  O2  EDO A 615      30.616 -24.601  51.935  1.00 36.90      Q    O  
+HETATM   46  O1  SO4 B 602     -16.179  18.844  26.286  1.00 53.96      S    O  
+HETATM   47  O2  SO4 B 602     -18.378  19.322  26.959  1.00 56.31      S    O  
+HETATM   48  O3  SO4 B 602     -17.326  17.361  27.709  1.00 52.34      S    O  
+HETATM   49  O4  SO4 B 602     -16.623  19.452  28.515  1.00 52.20      S    O  
+HETATM   50  S   SO4 B 602     -17.126  18.745  27.367  1.00 52.90      S    S  
+HETATM   51 MG    MG B 603     -10.229  11.225  18.122  1.00 33.35      T   MG  
+HETATM   52 MG    MG B 604      -3.940  40.387  37.331  1.00 30.39      U   MG  
+HETATM   53  C1  EDO B 605     -27.190  36.936  32.900  1.00 45.60      V    C  
+HETATM   54  O1  EDO B 605     -27.011  36.764  31.514  1.00 46.33      V    O  
+HETATM   55  C2  EDO B 605     -27.812  35.753  33.541  1.00 47.13      V    C  
+HETATM   56  O2  EDO B 605     -26.942  34.644  33.652  1.00 48.15      V    O  
+HETATM   57  C1  EDO B 606     -13.692  17.428  19.724  1.00 39.67      W    C  
+HETATM   58  O1  EDO B 606     -14.756  18.354  19.587  1.00 39.63      W    O  
+HETATM   59  C2  EDO B 606     -12.430  17.905  19.132  1.00 40.14      W    C  
+HETATM   60  O2  EDO B 606     -12.482  18.014  17.720  1.00 39.88      W    O  
+HETATM   61  C1  EDO B 607     -15.120  52.981  42.066  1.00 39.64      X    C  
+HETATM   62  O1  EDO B 607     -16.161  52.003  42.142  1.00 38.51      X    O  
+HETATM   63  C2  EDO B 607     -14.269  52.890  40.837  1.00 40.05      X    C  
+HETATM   64  O2  EDO B 607     -13.020  52.230  41.003  1.00 38.69      X    O  
+HETATM   65  C1  EDO B 608     -28.479  57.251  44.027  1.00 43.12      Y    C  
+HETATM   66  O1  EDO B 608     -27.926  57.570  45.288  1.00 43.10      Y    O  
+HETATM   67  C2  EDO B 608     -28.346  58.350  43.047  1.00 43.94      Y    C  
+HETATM   68  O2  EDO B 608     -27.004  58.594  42.652  1.00 45.79      Y    O  
+HETATM   69  C1  EDO B 609     -29.339  42.159  36.064  1.00 36.28      Z    C  
+HETATM   70  O1  EDO B 609     -28.944  43.358  36.697  1.00 34.91      Z    O  
+HETATM   71  C2  EDO B 609     -28.632  41.955  34.780  1.00 37.50      Z    C  
+HETATM   72  O2  EDO B 609     -27.216  41.927  34.912  1.00 38.45      Z    O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3
+CONECT    5    6    7
+CONECT    6    5
+CONECT    7    5    8
+CONECT    8    7
+CONECT    9   13
+CONECT   10   13
+CONECT   11   13
+CONECT   12   13
+CONECT   13    9   10   11   12
+CONECT   14   18
+CONECT   15   18
+CONECT   16   18
+CONECT   17   18
+CONECT   18   14   15   16   17
+CONECT   26   27   28
+CONECT   27   26
+CONECT   28   26   29
+CONECT   29   28
+CONECT   30   31   32
+CONECT   31   30
+CONECT   32   30   33
+CONECT   33   32
+CONECT   34   35   36
+CONECT   35   34
+CONECT   36   34   37
+CONECT   37   36
+CONECT   38   39   40
+CONECT   39   38
+CONECT   40   38   41
+CONECT   41   40
+CONECT   42   43   44
+CONECT   43   42
+CONECT   44   42   45
+CONECT   45   44
+CONECT   46   50
+CONECT   47   50
+CONECT   48   50
+CONECT   49   50
+CONECT   50   46   47   48   49
+CONECT   53   54   55
+CONECT   54   53
+CONECT   55   53   56
+CONECT   56   55
+CONECT   57   58   59
+CONECT   58   57
+CONECT   59   57   60
+CONECT   60   59
+CONECT   61   62   63
+CONECT   62   61
+CONECT   63   61   64
+CONECT   64   63
+CONECT   65   66   67
+CONECT   66   65
+CONECT   67   65   68
+CONECT   68   67
+CONECT   69   70   71
+CONECT   70   69
+CONECT   71   69   72
+CONECT   72   71
+END

@@ -1,0 +1,31 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+HETATM    1  C1  NAG A 801      60.635  62.760 112.840  1.00235.80      C    C  
+HETATM    2  C2  NAG A 801      60.848  63.737 114.014  1.00253.49      C    C  
+HETATM    3  N2  NAG A 801      62.149  64.409 113.957  1.00258.51      C    N  
+HETATM    4  C3  NAG A 801      60.722  63.011 115.358  1.00266.75      C    C  
+HETATM    5  O3  NAG A 801      60.689  63.984 116.409  1.00269.84      C    O  
+HETATM    6  C4  NAG A 801      59.469  62.126 115.448  1.00274.62      C    C  
+HETATM    7  O4  NAG A 801      59.578  61.263 116.587  1.00274.38      C    O  
+HETATM    8  C5  NAG A 801      59.262  61.286 114.177  1.00273.78      C    C  
+HETATM    9  O5  NAG A 801      59.368  62.109 113.004  1.00251.11      C    O  
+HETATM   10  C6  NAG A 801      57.900  60.600 114.180  1.00279.72      C    C  
+HETATM   11  O6  NAG A 801      57.687  59.934 112.929  1.00280.83      C    O  
+HETATM   12  C7  NAG A 801      62.363  65.704 113.642  1.00262.45      C    C  
+HETATM   13  O7  NAG A 801      61.483  66.510 113.376  1.00263.40      C    O  
+HETATM   14  C8  NAG A 801      63.803  66.140 113.611  1.00260.66      C    C  
+HETATM   15 NA    NA A 803      76.294  61.392  69.963  1.00 45.04      E   NA  
+CONECT    1    2    9
+CONECT    2    1    3    4
+CONECT    3    2   12
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9   10
+CONECT    9    1    8
+CONECT   10    8   11
+CONECT   11   10
+CONECT   12    3   13   14
+CONECT   13   12
+CONECT   14   12
+END

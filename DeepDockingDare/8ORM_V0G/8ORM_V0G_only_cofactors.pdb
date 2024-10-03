@@ -1,0 +1,8 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+HETATM    1  C   ACE I   0     131.557 138.217 131.454  1.00  3.25      B    C  
+HETATM    2  O   ACE I   0     131.014 137.968 132.525  1.00 11.60      B    O  
+HETATM    3  CH3 ACE I   0     133.039 138.086 131.258  1.00  0.24      B    C  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+END

@@ -1,0 +1,174 @@
+CRYST1   98.417  133.314  130.303  90.00  94.54  90.00 P 1 21 1      8
+HETATM    1  C1  GOL A 902       7.823 -22.147  -1.090  1.00 39.25      F    C  
+ANISOU    1  C1  GOL A 902     4793   5265   4853    120     43   -502  F    C  
+HETATM    2  O1  GOL A 902       6.932 -22.104  -2.162  1.00 39.34      F    O  
+ANISOU    2  O1  GOL A 902     4791   5311   4844    126     42   -512  F    O  
+HETATM    3  C2  GOL A 902       9.091 -22.864  -1.594  1.00 39.27      F    C  
+ANISOU    3  C2  GOL A 902     4781   5284   4858    126     41   -531  F    C  
+HETATM    4  O2  GOL A 902       9.734 -22.142  -2.582  1.00 38.26      F    O  
+ANISOU    4  O2  GOL A 902     4642   5200   4695    130     49   -526  F    O  
+HETATM    5  C3  GOL A 902       9.952 -23.061  -0.332  1.00 39.85      F    C  
+ANISOU    5  C3  GOL A 902     4869   5315   4958    120     41   -521  F    C  
+HETATM    6  O3  GOL A 902      11.268 -23.301  -0.775  1.00 40.81      F    O  
+ANISOU    6  O3  GOL A 902     4980   5454   5074    123     42   -538  F    O  
+HETATM    7  HO1 GOL A 902       6.245 -22.553  -1.921  1.00 47.22      F    H  
+HETATM    8  HO2 GOL A 902       9.900 -21.370  -2.273  1.00 45.93      F    H  
+HETATM    9  HO3 GOL A 902      11.719 -23.536  -0.092  1.00 48.99      F    H  
+HETATM   10  H2  GOL A 902       8.875 -23.719  -1.999  1.00 47.15      F    H  
+HETATM   11  H11 GOL A 902       7.465 -22.624  -0.325  1.00 47.11      F    H  
+HETATM   12  H12 GOL A 902       8.060 -21.264  -0.765  1.00 47.11      F    H  
+HETATM   13  H31 GOL A 902       9.582 -23.789   0.191  1.00 47.84      F    H  
+HETATM   14  H32 GOL A 902       9.871 -22.274   0.230  1.00 47.84      F    H  
+HETATM   15  C1  GOL A 903      24.308  11.679 -17.767  1.00 51.56      G    C  
+ANISOU   15  C1  GOL A 903     6007   7659   5926     16    197    655  G    C  
+HETATM   16  O1  GOL A 903      24.404  10.395 -18.326  1.00 51.93      G    O  
+ANISOU   16  O1  GOL A 903     6047   7748   5937     25    201    607  G    O  
+HETATM   17  C2  GOL A 903      22.889  12.196 -18.062  1.00 50.57      G    C  
+ANISOU   17  C2  GOL A 903     5878   7534   5803     15    193    675  G    C  
+HETATM   18  O2  GOL A 903      21.928  11.265 -17.733  1.00 50.29      G    O  
+ANISOU   18  O2  GOL A 903     5861   7481   5765     22    192    629  G    O  
+HETATM   19  C3  GOL A 903      22.766  13.492 -17.241  1.00 50.21      G    C  
+ANISOU   19  C3  GOL A 903     5844   7430   5802      7    187    718  G    C  
+HETATM   20  O3  GOL A 903      21.413  13.861 -17.246  1.00 49.17      G    O  
+ANISOU   20  O3  GOL A 903     5716   7286   5680      6    183    728  G    O  
+HETATM   21  HO1 GOL A 903      23.621  10.186 -18.581  1.00 62.34      G    H  
+HETATM   22  HO2 GOL A 903      21.434  11.148 -18.415  1.00 60.36      G    H  
+HETATM   23  HO3 GOL A 903      20.976  13.178 -17.511  1.00 59.02      G    H  
+HETATM   24  H2  GOL A 903      22.772  12.376 -19.009  1.00 60.71      G    H  
+HETATM   25  H11 GOL A 903      24.957  12.296 -18.138  1.00 61.89      G    H  
+HETATM   26  H12 GOL A 903      24.456  11.680 -16.809  1.00 61.89      G    H  
+HETATM   27  H31 GOL A 903      23.348  14.164 -17.629  1.00 60.26      G    H  
+HETATM   28  H32 GOL A 903      23.117  13.332 -16.351  1.00 60.26      G    H  
+HETATM   29 MG    MG A 904      -0.749   1.941  31.564  1.00 24.69      H   MG  
+ANISOU   29 MG    MG A 904     3281   2909   3189     19    136     -8  H   MG  
+HETATM   30  C1  GOL B 902     -18.286  -5.341  72.403  1.00 60.03      J    C  
+ANISOU   30  C1  GOL B 902     7272   8383   7153    -45    154     48  J    C  
+HETATM   31  O1  GOL B 902     -18.185  -6.743  72.413  1.00 59.96      J    O  
+ANISOU   31  O1  GOL B 902     7259   8373   7149    -60    150     92  J    O  
+HETATM   32  C2  GOL B 902     -16.911  -4.790  72.842  1.00 59.74      J    C  
+ANISOU   32  C2  GOL B 902     7239   8346   7113    -42    154     28  J    C  
+HETATM   33  O2  GOL B 902     -16.078  -4.551  71.758  1.00 58.80      J    O  
+ANISOU   33  O2  GOL B 902     7148   8171   7023    -40    152     19  J    O  
+HETATM   34  C3  GOL B 902     -17.235  -3.513  73.643  1.00 59.77      J    C  
+ANISOU   34  C3  GOL B 902     7228   8386   7095    -28    158    -13  J    C  
+HETATM   35  O3  GOL B 902     -16.008  -3.007  74.111  1.00 59.18      J    O  
+ANISOU   35  O3  GOL B 902     7155   8315   7017    -26    158    -31  J    O  
+HETATM   36  HO1 GOL B 902     -17.740  -6.964  71.722  1.00 71.96      J    H  
+HETATM   37  HO2 GOL B 902     -15.317  -4.321  72.062  1.00 70.58      J    H  
+HETATM   38  HO3 GOL B 902     -15.980  -3.176  74.948  1.00 71.03      J    H  
+HETATM   39  H2  GOL B 902     -16.441  -5.432  73.396  1.00 71.70      J    H  
+HETATM   40  H11 GOL B 902     -18.971  -5.012  73.004  1.00 72.05      J    H  
+HETATM   41  H12 GOL B 902     -18.509  -4.989  71.527  1.00 72.05      J    H  
+HETATM   42  H31 GOL B 902     -17.857  -3.736  74.353  1.00 71.74      J    H  
+HETATM   43  H32 GOL B 902     -17.713  -2.894  73.069  1.00 71.74      J    H  
+HETATM   44  C1  GOL B 903     -11.550 -16.737  68.093  1.00 39.57      K    C  
+ANISOU   44  C1  GOL B 903     4745   5507   4782   -160     90    349  K    C  
+HETATM   45  O1  GOL B 903     -12.884 -16.626  68.524  1.00 39.04      K    O  
+ANISOU   45  O1  GOL B 903     4663   5473   4699   -159     93    355  K    O  
+HETATM   46  C2  GOL B 903     -10.859 -15.401  68.426  1.00 39.82      K    C  
+ANISOU   46  C2  GOL B 903     4786   5549   4794   -149     98    313  K    C  
+HETATM   47  O2  GOL B 903     -11.416 -14.803  69.547  1.00 40.21      K    O  
+ANISOU   47  O2  GOL B 903     4816   5650   4811   -146    103    307  K    O  
+HETATM   48  C3  GOL B 903      -9.379 -15.754  68.627  1.00 40.16      K    C  
+ANISOU   48  C3  GOL B 903     4834   5581   4846   -155     94    320  K    C  
+HETATM   49  O3  GOL B 903      -8.814 -14.728  69.405  1.00 40.41      K    O  
+ANISOU   49  O3  GOL B 903     4862   5638   4852   -148    100    296  K    O  
+HETATM   50  HO1 GOL B 903     -13.262 -17.368  68.360  1.00 46.87      K    H  
+HETATM   51  HO2 GOL B 903     -11.527 -13.981  69.372  1.00 48.26      K    H  
+HETATM   52  HO3 GOL B 903      -9.444 -14.387  69.857  1.00 48.50      K    H  
+HETATM   53  H2  GOL B 903     -10.965 -14.768  67.699  1.00 47.80      K    H  
+HETATM   54  H11 GOL B 903     -11.477 -16.907  67.141  1.00 47.50      K    H  
+HETATM   55  H12 GOL B 903     -11.075 -17.462  68.530  1.00 47.50      K    H  
+HETATM   56  H31 GOL B 903      -8.960 -15.853  67.758  1.00 48.21      K    H  
+HETATM   57  H32 GOL B 903      -9.319 -16.629  69.042  1.00 48.21      K    H  
+HETATM   58  C1  GOL D 902     -14.859  19.659   9.419  1.00 52.78      N    C  
+ANISOU   58  C1  GOL D 902     6639   6577   6840     71     82    355  N    C  
+HETATM   59  O1  GOL D 902     -13.603  19.151   9.136  1.00 53.42      N    O  
+ANISOU   59  O1  GOL D 902     6722   6670   6905     67     86    356  N    O  
+HETATM   60  C2  GOL D 902     -15.280  19.057  10.769  1.00 51.97      N    C  
+ANISOU   60  C2  GOL D 902     6552   6457   6739     73     85    322  N    C  
+HETATM   61  O2  GOL D 902     -16.472  19.613  11.206  1.00 52.04      N    O  
+ANISOU   61  O2  GOL D 902     6559   6451   6765     77     81    318  N    O  
+HETATM   62  C3  GOL D 902     -15.368  17.546  10.519  1.00 50.43      N    C  
+ANISOU   62  C3  GOL D 902     6367   6285   6510     72     91    304  N    C  
+HETATM   63  O3  GOL D 902     -16.155  17.008  11.555  1.00 49.40      N    O  
+ANISOU   63  O3  GOL D 902     6248   6142   6379     75     93    278  N    O  
+HETATM   64  HO1 GOL D 902     -13.696  18.632   8.465  1.00 64.12      N    H  
+HETATM   65  HO2 GOL D 902     -17.024  19.593  10.557  1.00 62.47      N    H  
+HETATM   66  HO3 GOL D 902     -16.239  17.621  12.143  1.00 59.29      N    H  
+HETATM   67  H2  GOL D 902     -14.628  19.239  11.464  1.00 62.38      N    H  
+HETATM   68  H11 GOL D 902     -15.517  19.430   8.744  1.00 63.36      N    H  
+HETATM   69  H12 GOL D 902     -14.868  20.627   9.479  1.00 63.36      N    H  
+HETATM   70  H31 GOL D 902     -14.471  17.179  10.488  1.00 60.53      N    H  
+HETATM   71  H32 GOL D 902     -15.738  17.394   9.636  1.00 60.53      N    H  
+CONECT    1    2    3   11   12
+CONECT    2    1    7
+CONECT    3    1    4    5   10
+CONECT    4    3    8
+CONECT    5    3    6   13   14
+CONECT    6    5    9
+CONECT    7    2
+CONECT    8    4
+CONECT    9    6
+CONECT   10    3
+CONECT   11    1
+CONECT   12    1
+CONECT   13    5
+CONECT   14    5
+CONECT   15   16   17   25   26
+CONECT   16   15   21
+CONECT   17   15   18   19   24
+CONECT   18   17   22
+CONECT   19   17   20   27   28
+CONECT   20   19   23
+CONECT   21   16
+CONECT   22   18
+CONECT   23   20
+CONECT   24   17
+CONECT   25   15
+CONECT   26   15
+CONECT   27   19
+CONECT   28   19
+CONECT   30   31   32   40   41
+CONECT   31   30   36
+CONECT   32   30   33   34   39
+CONECT   33   32   37
+CONECT   34   32   35   42   43
+CONECT   35   34   38
+CONECT   36   31
+CONECT   37   33
+CONECT   38   35
+CONECT   39   32
+CONECT   40   30
+CONECT   41   30
+CONECT   42   34
+CONECT   43   34
+CONECT   44   45   46   54   55
+CONECT   45   44   50
+CONECT   46   44   47   48   53
+CONECT   47   46   51
+CONECT   48   46   49   56   57
+CONECT   49   48   52
+CONECT   50   45
+CONECT   51   47
+CONECT   52   49
+CONECT   53   46
+CONECT   54   44
+CONECT   55   44
+CONECT   56   48
+CONECT   57   48
+CONECT   58   59   60   68   69
+CONECT   59   58   64
+CONECT   60   58   61   62   67
+CONECT   61   60   65
+CONECT   62   60   63   70   71
+CONECT   63   62   66
+CONECT   64   59
+CONECT   65   61
+CONECT   66   63
+CONECT   67   60
+CONECT   68   58
+CONECT   69   58
+CONECT   70   62
+CONECT   71   62
+END

@@ -1,0 +1,100 @@
+CRYST1  107.755  107.755   90.228  90.00  90.00 120.00 P 31 2 1      6
+HETATM    1  O1  SO4 A 702     -60.628  39.212  16.809  1.00 46.62      C    O  
+HETATM    2  O2  SO4 A 702     -62.802  39.280  15.746  1.00 53.53      C    O  
+HETATM    3  O3  SO4 A 702     -62.296  37.688  17.504  1.00 41.76      C    O  
+HETATM    4  O4  SO4 A 702     -62.546  40.054  17.986  1.00 47.08      C    O  
+HETATM    5  S   SO4 A 702     -62.088  39.051  17.012  1.00 45.76      C    S  
+HETATM    6  O1  SO4 A 703     -44.580  41.412  -2.464  1.00 75.59      D    O  
+HETATM    7  O2  SO4 A 703     -46.539  42.826  -2.475  1.00 75.90      D    O  
+HETATM    8  O3  SO4 A 703     -46.775  40.423  -2.335  1.00 60.82      D    O  
+HETATM    9  O4  SO4 A 703     -45.926  41.666  -0.459  1.00 70.55      D    O  
+HETATM   10  S   SO4 A 703     -45.953  41.581  -1.935  1.00 68.68      D    S  
+HETATM   11  O1  SO4 A 704     -24.739  22.497  12.811  1.00 64.67      E    O  
+HETATM   12  O2  SO4 A 704     -26.189  24.211  13.732  1.00 79.25      E    O  
+HETATM   13  O3  SO4 A 704     -24.971  22.708  15.190  1.00 84.62      E    O  
+HETATM   14  O4  SO4 A 704     -26.839  21.905  13.895  1.00 69.00      E    O  
+HETATM   15  S   SO4 A 704     -25.688  22.829  13.901  1.00 74.13      E    S  
+HETATM   16  O1  SO4 A 705     -53.198  43.680  -2.038  1.00103.73      F    O  
+HETATM   17  O2  SO4 A 705     -55.204  42.748  -1.020  1.00 92.55      F    O  
+HETATM   18  O3  SO4 A 705     -53.123  41.552  -0.937  1.00 69.80      F    O  
+HETATM   19  O4  SO4 A 705     -53.384  43.537   0.382  1.00112.04      F    O  
+HETATM   20  S   SO4 A 705     -53.731  42.887  -0.905  1.00 95.71      F    S  
+HETATM   21  C1  EDO A 706     -48.105  23.181  -4.452  1.00 62.24      G    C  
+HETATM   22  O1  EDO A 706     -47.333  24.320  -4.869  1.00 49.84      G    O  
+HETATM   23  C2  EDO A 706     -49.517  23.552  -4.021  1.00 60.26      G    C  
+HETATM   24  O2  EDO A 706     -50.160  24.445  -4.944  1.00 64.83      G    O  
+HETATM   25  N   NO3 A 707     -52.391  39.211  -7.508  1.00 77.50      H    N  
+HETATM   26  O1  NO3 A 707     -53.067  38.966  -6.515  1.00 62.33      H    O  
+HETATM   27  O2  NO3 A 707     -52.608  40.392  -8.223  1.00 83.38      H    O  
+HETATM   28  O3  NO3 A 707     -51.391  38.328  -7.938  1.00 69.43      H    O  
+HETATM   29  C1  EDO A 708     -20.014  27.172   9.310  1.00 61.10      I    C  
+HETATM   30  O1  EDO A 708     -19.488  27.296   7.981  1.00 49.38      I    O  
+HETATM   31  C2  EDO A 708     -19.813  25.759   9.849  1.00 68.63      I    C  
+HETATM   32  O2  EDO A 708     -18.435  25.475  10.136  1.00 74.57      I    O  
+HETATM   33  C1  EDO A 709     -37.780  42.827  -1.242  1.00 82.55      J    C  
+HETATM   34  O1  EDO A 709     -37.029  41.678  -0.819  1.00 77.56      J    O  
+HETATM   35  C2  EDO A 709     -38.606  43.400  -0.090  1.00 73.66      J    C  
+HETATM   36  O2  EDO A 709     -39.605  42.485   0.399  1.00 65.69      J    O  
+HETATM   37  N   NO3 A 710     -25.378  14.929  -4.713  1.00 83.16      K    N  
+HETATM   38  O1  NO3 A 710     -25.681  14.294  -3.707  1.00 63.58      K    O  
+HETATM   39  O2  NO3 A 710     -24.306  15.834  -4.720  1.00 68.40      K    O  
+HETATM   40  O3  NO3 A 710     -26.109  14.756  -5.883  1.00 69.51      K    O  
+HETATM   41  C   ACT A 711     -23.803  40.148  -6.209  1.00 66.47      L    C  
+HETATM   42  O   ACT A 711     -24.290  40.952  -7.036  1.00 75.97      L    O  
+HETATM   43  CH3 ACT A 711     -22.604  39.363  -6.570  1.00 83.85      L    C  
+HETATM   44  OXT ACT A 711     -24.257  39.986  -5.076  1.00 67.67      L    O  
+HETATM   45  O1  SO4 A 712     -55.356  29.602  -6.189  0.75 85.37      M    O  
+HETATM   46  O2  SO4 A 712     -56.239  31.832  -6.055  0.75 83.06      M    O  
+HETATM   47  O3  SO4 A 712     -56.057  30.477  -4.058  0.75 86.60      M    O  
+HETATM   48  O4  SO4 A 712     -54.056  31.358  -5.103  0.75 62.74      M    O  
+HETATM   49  S   SO4 A 712     -55.422  30.820  -5.350  0.75 89.66      M    S  
+CONECT    1    5
+CONECT    2    5
+CONECT    3    5
+CONECT    4    5
+CONECT    5    1    2    3    4
+CONECT    6   10
+CONECT    7   10
+CONECT    8   10
+CONECT    9   10
+CONECT   10    6    7    8    9
+CONECT   11   15
+CONECT   12   15
+CONECT   13   15
+CONECT   14   15
+CONECT   15   11   12   13   14
+CONECT   16   20
+CONECT   17   20
+CONECT   18   20
+CONECT   19   20
+CONECT   20   16   17   18   19
+CONECT   21   22   23
+CONECT   22   21
+CONECT   23   21   24
+CONECT   24   23
+CONECT   25   26   27   28
+CONECT   26   25
+CONECT   27   25
+CONECT   28   25
+CONECT   29   30   31
+CONECT   30   29
+CONECT   31   29   32
+CONECT   32   31
+CONECT   33   34   35
+CONECT   34   33
+CONECT   35   33   36
+CONECT   36   35
+CONECT   37   38   39   40
+CONECT   38   37
+CONECT   39   37
+CONECT   40   37
+CONECT   41   42   43   44
+CONECT   42   41
+CONECT   43   41
+CONECT   44   41
+CONECT   45   49
+CONECT   46   49
+CONECT   47   49
+CONECT   48   49
+CONECT   49   45   46   47   48
+END

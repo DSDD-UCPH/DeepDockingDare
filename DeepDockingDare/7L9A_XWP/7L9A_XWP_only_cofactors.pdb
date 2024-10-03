@@ -1,0 +1,18 @@
+CRYST1   56.470   56.470  191.901  90.00  90.00 120.00 P 32 2 1     12
+HETATM    1  C1  BME A 402      28.092 -16.907 -14.185  1.00 77.78      D    C  
+HETATM    2  O1  BME A 402      28.822 -15.800 -14.637  1.00 77.38      D    O  
+HETATM    3  C2  BME A 402      27.772 -16.728 -12.704  1.00 78.01      D    C  
+HETATM    4  S2  BME A 402      26.454 -15.487 -12.568  1.00 78.54      D    S  
+HETATM    5  C1  BME B 402       9.720 -18.906   0.838  1.00 79.84      F    C  
+HETATM    6  O1  BME B 402      10.139 -17.668   0.332  1.00 78.42      F    O  
+HETATM    7  C2  BME B 402       8.215 -19.042   0.634  1.00 81.01      F    C  
+HETATM    8  S2  BME B 402       7.869 -20.589  -0.255  1.00 78.91      F    S  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3
+CONECT    5    6    7
+CONECT    6    5
+CONECT    7    5    8
+CONECT    8    7
+END

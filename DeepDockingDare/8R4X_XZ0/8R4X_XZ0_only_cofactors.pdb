@@ -1,0 +1,548 @@
+CRYST1  109.180  121.390  134.300  90.00  90.00  90.00 P 21 21 21   16
+HETATM    1  C1  EDO D 401     -36.689   4.191  28.179  1.00 48.46      AA   C  
+ANISOU    1  C1  EDO D 401     6112   6140   6162     48    -32     59  AA   C  
+HETATM    2  O1  EDO D 401     -35.297   4.647  28.118  1.00 44.87      AA   O  
+ANISOU    2  O1  EDO D 401     5660   5669   5720     46    -23     64  AA   O  
+HETATM    3  C2  EDO D 401     -36.827   2.810  28.832  1.00 44.60      AA   C  
+ANISOU    3  C2  EDO D 401     5615   5654   5676     38    -35     51  AA   C  
+HETATM    4  O2  EDO D 401     -38.229   2.444  28.907  1.00 43.82      AA   O  
+ANISOU    4  O2  EDO D 401     5512   5572   5568     38    -42     47  AA   O  
+HETATM    5  C1  EDO D 402     -55.970  12.380  -0.092  1.00 50.67      BA   C  
+ANISOU    5  C1  EDO D 402     6653   6921   5677    373   -708    345  BA   C  
+HETATM    6  O1  EDO D 402     -55.039  13.453  -0.283  1.00 60.60      BA   O  
+ANISOU    6  O1  EDO D 402     7954   8148   6923    390   -673    383  BA   O  
+HETATM    7  C2  EDO D 402     -55.712  11.746   1.273  1.00 37.20      BA   C  
+ANISOU    7  C2  EDO D 402     4907   5196   4031    352   -672    312  BA   C  
+HETATM    8  O2  EDO D 402     -56.359  12.560   2.276  1.00 35.48      BA   O  
+ANISOU    8  O2  EDO D 402     4646   4965   3870    377   -676    327  BA   O  
+HETATM    9  C1  EDO D 403     -39.307   6.901  11.943  1.00 35.62      CA   C  
+ANISOU    9  C1  EDO D 403     4694   4636   4205    114    -41    140  CA   C  
+HETATM   10  O1  EDO D 403     -39.492   5.537  12.354  1.00 46.99      CA   O  
+ANISOU   10  O1  EDO D 403     6118   6083   5655    102    -46    110  CA   O  
+HETATM   11  C2  EDO D 403     -39.870   6.894  10.530  1.00 52.14      CA   C  
+ANISOU   11  C2  EDO D 403     6812   6751   6248    120    -56    145  CA   C  
+HETATM   12  O2  EDO D 403     -40.701   5.713  10.398  1.00 50.67      CA   O  
+ANISOU   12  O2  EDO D 403     6618   6584   6051    113    -79    118  CA   O  
+HETATM   13  C1  EDO D 404     -44.777  12.027   8.011  1.00 58.84      DA   C  
+ANISOU   13  C1  EDO D 404     7701   7646   7009    229   -204    274  DA   C  
+HETATM   14  O1  EDO D 404     -44.218  11.693   6.745  1.00 53.41      DA   O  
+ANISOU   14  O1  EDO D 404     7050   6970   6272    221   -195    278  DA   O  
+HETATM   15  C2  EDO D 404     -46.156  11.403   8.056  1.00 58.56      DA   C  
+ANISOU   15  C2  EDO D 404     7639   7639   6971    233   -247    256  DA   C  
+HETATM   16  O2  EDO D 404     -46.032   9.985   8.169  1.00 35.24      DA   O  
+ANISOU   16  O2  EDO D 404     4676   4699   4016    210   -243    221  DA   O  
+HETATM   17  C1  NAG H   1     -15.352 -28.418  50.017  1.00 42.44      E    C  
+ANISOU   17  C1  NAG H   1     5390   4761   5973    385   -512    591  E    C  
+HETATM   18  C2  NAG H   1     -15.767 -29.795  50.523  1.00 44.16      E    C  
+ANISOU   18  C2  NAG H   1     5651   4932   6197    392   -516    627  E    C  
+HETATM   19  N2  NAG H   1     -16.702 -30.428  49.605  1.00 49.01      E    N  
+ANISOU   19  N2  NAG H   1     6288   5515   6820    375   -469    606  E    N  
+HETATM   20  C3  NAG H   1     -16.392 -29.681  51.918  1.00 52.00      E    C  
+ANISOU   20  C3  NAG H   1     6684   5942   7132    372   -542    665  E    C  
+HETATM   21  O3  NAG H   1     -16.544 -30.994  52.445  1.00 59.15      E    O  
+ANISOU   21  O3  NAG H   1     7626   6800   8048    384   -551    705  E    O  
+HETATM   22  C4  NAG H   1     -15.532 -28.835  52.851  1.00 57.71      E    C  
+ANISOU   22  C4  NAG H   1     7387   6705   7836    383   -591    680  E    C  
+HETATM   23  O4  NAG H   1     -16.260 -28.526  54.035  1.00 64.20      E    O  
+ANISOU   23  O4  NAG H   1     8248   7551   8596    358   -608    707  E    O  
+HETATM   24  C5  NAG H   1     -15.133 -27.523  52.170  1.00 49.93      E    C  
+ANISOU   24  C5  NAG H   1     6356   5760   6854    376   -583    638  E    C  
+HETATM   25  O5  NAG H   1     -14.470 -27.825  50.938  1.00 38.91      E    O  
+ANISOU   25  O5  NAG H   1     4923   4342   5518    399   -560    610  E    O  
+HETATM   26  C6  NAG H   1     -14.175 -26.688  52.986  1.00 46.55      E    C  
+ANISOU   26  C6  NAG H   1     5902   5370   6417    387   -632    648  E    C  
+HETATM   27  O6  NAG H   1     -13.085 -27.495  53.414  1.00 50.73      E    O  
+ANISOU   27  O6  NAG H   1     6417   5873   6983    427   -670    678  E    O  
+HETATM   28  C7  NAG H   1     -16.382 -31.424  48.773  1.00 47.79      E    C  
+ANISOU   28  C7  NAG H   1     6128   5313   6716    398   -450    596  E    C  
+HETATM   29  O7  NAG H   1     -17.216 -31.939  48.028  1.00 56.49      E    O  
+ANISOU   29  O7  NAG H   1     7251   6390   7822    381   -413    577  E    O  
+HETATM   30  C8  NAG H   1     -14.972 -31.872  48.793  1.00 46.97      E    C  
+ANISOU   30  C8  NAG H   1     5993   5190   6665    446   -476    608  E    C  
+HETATM   31  C1  NAG H   2     -15.850 -29.280  55.193  1.00 71.17      E    C  
+ANISOU   31  C1  NAG H   2     9155   8416   9471    378   -650    758  E    C  
+HETATM   32  C2  NAG H   2     -16.410 -28.545  56.431  1.00 72.14      E    C  
+ANISOU   32  C2  NAG H   2     9309   8581   9521    352   -672    777  E    C  
+HETATM   33  N2  NAG H   2     -15.756 -27.253  56.580  1.00 67.50      E    N  
+ANISOU   33  N2  NAG H   2     8685   8041   8920    352   -697    754  E    N  
+HETATM   34  C3  NAG H   2     -16.229 -29.379  57.708  1.00 76.06      E    C  
+ANISOU   34  C3  NAG H   2     9843   9060   9997    367   -712    834  E    C  
+HETATM   35  O3  NAG H   2     -16.935 -28.752  58.773  1.00 76.98      E    O  
+ANISOU   35  O3  NAG H   2     9995   9213  10040    338   -721    848  E    O  
+HETATM   36  C4  NAG H   2     -16.741 -30.799  57.517  1.00 77.24      E    C  
+ANISOU   36  C4  NAG H   2    10027   9152  10170    371   -688    860  E    C  
+HETATM   37  O4  NAG H   2     -16.534 -31.583  58.688  1.00 82.13      E    O  
+ANISOU   37  O4  NAG H   2    10682   9753  10770    387   -725    916  E    O  
+HETATM   38  C5  NAG H   2     -16.034 -31.421  56.323  1.00 75.88      E    C  
+ANISOU   38  C5  NAG H   2     9818   8941  10073    401   -673    839  E    C  
+HETATM   39  O5  NAG H   2     -16.324 -30.629  55.164  1.00 76.57      E    O  
+ANISOU   39  O5  NAG H   2     9874   9048  10171    383   -634    784  E    O  
+HETATM   40  C6  NAG H   2     -16.526 -32.815  56.017  1.00 72.29      E    C  
+ANISOU   40  C6  NAG H   2     9395   8425   9646    405   -647    858  E    C  
+HETATM   41  O6  NAG H   2     -17.929 -32.801  55.784  1.00 82.52      E    O  
+ANISOU   41  O6  NAG H   2    10723   9721  10911    363   -603    845  E    O  
+HETATM   42  C7  NAG H   2     -16.302 -26.083  56.230  1.00 70.51      E    C  
+ANISOU   42  C7  NAG H   2     9057   8460   9274    322   -674    717  E    C  
+HETATM   43  O7  NAG H   2     -17.434 -26.002  55.759  1.00 73.11      E    O  
+ANISOU   43  O7  NAG H   2     9406   8789   9586    294   -630    699  E    O  
+HETATM   44  C8  NAG H   2     -15.446 -24.873  56.449  1.00 71.73      E    C  
+ANISOU   44  C8  NAG H   2     9175   8656   9423    326   -707    698  E    C  
+HETATM   45  C1  EDO D 405     -32.230  12.748   7.679  1.00 55.36      EA   C  
+ANISOU   45  C1  EDO D 405     7337   7041   6656     99    183    314  EA   C  
+HETATM   46  O1  EDO D 405     -31.307  13.773   7.289  1.00 54.16      EA   O  
+ANISOU   46  O1  EDO D 405     7199   6870   6509     92    217    345  EA   O  
+HETATM   47  C2  EDO D 405     -33.631  13.287   7.959  1.00 51.11      EA   C  
+ANISOU   47  C2  EDO D 405     6800   6506   6112    117    138    322  EA   C  
+HETATM   48  O2  EDO D 405     -34.143  13.824   6.732  1.00 66.17      EA   O  
+ANISOU   48  O2  EDO D 405     8744   8426   7971    128    131    348  EA   O  
+HETATM   49  C1  NAG E   1     -65.652 -20.026  65.171  1.00 54.64      F    C  
+ANISOU   49  C1  NAG E   1     6855   7297   6610   -692    976    645  F    C  
+HETATM   50  C2  NAG E   1     -65.216 -20.659  66.501  1.00 52.81      F    C  
+ANISOU   50  C2  NAG E   1     6692   7056   6317   -705   1001    693  F    C  
+HETATM   51  N2  NAG E   1     -64.216 -19.825  67.149  1.00 54.13      F    N  
+ANISOU   51  N2  NAG E   1     6914   7234   6420   -661    979    684  F    N  
+HETATM   52  C3  NAG E   1     -64.655 -22.066  66.285  1.00 57.99      F    C  
+ANISOU   52  C3  NAG E   1     7380   7658   6995   -738    974    732  F    C  
+HETATM   53  O3  NAG E   1     -64.525 -22.668  67.571  1.00 56.88      F    O  
+ANISOU   53  O3  NAG E   1     7297   7515   6801   -755   1008    781  F    O  
+HETATM   54  C4  NAG E   1     -65.559 -22.912  65.393  1.00 65.71      F    C  
+ANISOU   54  C4  NAG E   1     8302   8618   8047   -782    983    734  F    C  
+HETATM   55  O4  NAG E   1     -64.867 -24.104  65.026  1.00 71.85      F    O  
+ANISOU   55  O4  NAG E   1     9112   9340   8849   -804    946    761  F    O  
+HETATM   56  C5  NAG E   1     -65.923 -22.136  64.126  1.00 60.35      F    C  
+ANISOU   56  C5  NAG E   1     7558   7954   7419   -764    955    681  F    C  
+HETATM   57  O5  NAG E   1     -66.541 -20.898  64.491  1.00 49.19      F    O  
+ANISOU   57  O5  NAG E   1     6114   6594   5982   -736    989    653  F    O  
+HETATM   58  C6  NAG E   1     -66.896 -22.852  63.215  1.00 47.58      F    C  
+ANISOU   58  C6  NAG E   1     5878   6326   5874   -807    963    677  F    C  
+HETATM   59  O6  NAG E   1     -68.034 -23.319  63.929  1.00 57.40      F    O  
+ANISOU   59  O6  NAG E   1     7098   7589   7121   -848   1029    704  F    O  
+HETATM   60  C7  NAG E   1     -64.441 -19.095  68.246  1.00 49.39      F    C  
+ANISOU   60  C7  NAG E   1     6335   6672   5759   -644   1020    683  F    C  
+HETATM   61  O7  NAG E   1     -65.534 -19.055  68.786  1.00 50.70      F    O  
+ANISOU   61  O7  NAG E   1     6474   6870   5920   -663   1084    690  F    O  
+HETATM   62  C8  NAG E   1     -63.273 -18.306  68.758  1.00 50.19      F    C  
+ANISOU   62  C8  NAG E   1     6493   6777   5801   -600    984    670  F    C  
+HETATM   63  C1  NAG E   2     -65.183 -25.233  65.875  1.00 78.21      F    C  
+ANISOU   63  C1  NAG E   2     9947  10126   9643   -848    987    815  F    C  
+HETATM   64  C2  NAG E   2     -64.815 -26.528  65.139  1.00 79.37      F    C  
+ANISOU   64  C2  NAG E   2    10103  10211   9841   -879    952    834  F    C  
+HETATM   65  N2  NAG E   2     -65.579 -26.669  63.909  1.00 77.90      F    N  
+ANISOU   65  N2  NAG E   2     9849  10021   9728   -901    943    803  F    N  
+HETATM   66  C3  NAG E   2     -65.035 -27.741  66.040  1.00 85.43      F    C  
+ANISOU   66  C3  NAG E   2    10910  10952  10596   -923    990    895  F    C  
+HETATM   67  O3  NAG E   2     -64.529 -28.894  65.377  1.00 98.55      F    O  
+ANISOU   67  O3  NAG E   2    12589  12553  12303   -945    952    911  F    O  
+HETATM   68  C4  NAG E   2     -64.329 -27.558  67.377  1.00 91.86      F    C  
+ANISOU   68  C4  NAG E   2    11795  11777  11329   -900   1002    929  F    C  
+HETATM   69  O4  NAG E   2     -64.640 -28.635  68.257  1.00 99.44      F    O  
+ANISOU   69  O4  NAG E   2    12790  12716  12275   -942   1044    987  F    O  
+HETATM   70  C5  NAG E   2     -64.758 -26.241  68.013  1.00 89.99      F    C  
+ANISOU   70  C5  NAG E   2    11543  11604  11043   -871   1037    904  F    C  
+HETATM   71  O5  NAG E   2     -64.469 -25.163  67.112  1.00 84.82      F    O  
+ANISOU   71  O5  NAG E   2    10854  10967  10406   -830    996    847  F    O  
+HETATM   72  C6  NAG E   2     -64.029 -25.942  69.303  1.00 85.42      F    C  
+ANISOU   72  C6  NAG E   2    11037  11040  10380   -845   1044    931  F    C  
+HETATM   73  O6  NAG E   2     -62.670 -26.350  69.236  1.00 75.55      F    O  
+ANISOU   73  O6  NAG E   2     9843   9747   9116   -824    983    946  F    O  
+HETATM   74  C7  NAG E   2     -65.083 -26.368  62.706  1.00 66.49      F    C  
+ANISOU   74  C7  NAG E   2     8384   8562   8318   -878    886    763  F    C  
+HETATM   75  O7  NAG E   2     -63.948 -25.939  62.564  1.00 72.40      F    O  
+ANISOU   75  O7  NAG E   2     9168   9300   9041   -837    841    751  F    O  
+HETATM   76  C8  NAG E   2     -66.003 -26.580  61.545  1.00 68.71      F    C  
+ANISOU   76  C8  NAG E   2     8594   8842   8669   -907    882    735  F    C  
+HETATM   77  C1  NAG F   1     -17.754  31.805  17.428  1.00 35.81      G    C  
+ANISOU   77  C1  NAG F   1     4722   3881   5004   -290    397    521  G    C  
+HETATM   78  C2  NAG F   1     -18.215  33.112  16.838  1.00 42.44      G    C  
+ANISOU   78  C2  NAG F   1     5609   4676   5841   -289    406    557  G    C  
+HETATM   79  N2  NAG F   1     -19.150  33.779  17.732  1.00 42.39      G    N  
+ANISOU   79  N2  NAG F   1     5624   4640   5842   -269    366    540  G    N  
+HETATM   80  C3  NAG F   1     -18.848  32.893  15.451  1.00 52.12      G    C  
+ANISOU   80  C3  NAG F   1     6869   5924   7012   -263    428    594  G    C  
+HETATM   81  O3  NAG F   1     -19.062  34.171  14.864  1.00 52.79      G    O  
+ANISOU   81  O3  NAG F   1     6996   5963   7100   -267    441    632  G    O  
+HETATM   82  C4  NAG F   1     -17.965  32.026  14.552  1.00 53.32      G    C  
+ANISOU   82  C4  NAG F   1     6998   6113   7149   -278    469    606  G    C  
+HETATM   83  O4  NAG F   1     -18.673  31.620  13.380  1.00 53.51      G    O  
+ANISOU   83  O4  NAG F   1     7053   6165   7113   -250    482    630  G    O  
+HETATM   84  C5  NAG F   1     -17.550  30.768  15.301  1.00 43.33      G    C  
+ANISOU   84  C5  NAG F   1     5685   4887   5893   -279    456    564  G    C  
+HETATM   85  O5  NAG F   1     -16.897  31.145  16.514  1.00 41.65      G    O  
+ANISOU   85  O5  NAG F   1     5441   4649   5735   -305    437    538  G    O  
+HETATM   86  C6  NAG F   1     -16.588  29.871  14.544  1.00 39.28      G    C  
+ANISOU   86  C6  NAG F   1     5144   4410   5373   -293    496    570  G    C  
+HETATM   87  O6  NAG F   1     -15.430  30.592  14.136  1.00 49.34      G    O  
+ANISOU   87  O6  NAG F   1     6407   5657   6682   -332    536    595  G    O  
+HETATM   88  C7  NAG F   1     -18.773  34.723  18.601  1.00 41.98      G    C  
+ANISOU   88  C7  NAG F   1     5571   4543   5838   -293    353    527  G    C  
+HETATM   89  O7  NAG F   1     -17.597  35.069  18.718  1.00 47.75      G    O  
+ANISOU   89  O7  NAG F   1     6279   5254   6611   -334    372    529  G    O  
+HETATM   90  C8  NAG F   1     -19.867  35.325  19.443  1.00 41.53      G    C  
+ANISOU   90  C8  NAG F   1     5539   4459   5780   -266    315    508  G    C  
+HETATM   91  C1  NAG F   2     -18.264  32.313  12.169  1.00 68.53      G    C  
+ANISOU   91  C1  NAG F   2     8984   8050   9004   -265    525    678  G    C  
+HETATM   92  C2  NAG F   2     -18.776  31.530  10.941  1.00 71.03      G    C  
+ANISOU   92  C2  NAG F   2     9323   8410   9254   -239    541    696  G    C  
+HETATM   93  N2  NAG F   2     -18.184  30.201  10.902  1.00 73.00      G    N  
+ANISOU   93  N2  NAG F   2     9535   8707   9496   -242    556    670  G    N  
+HETATM   94  C3  NAG F   2     -18.460  32.287   9.647  1.00 85.10      G    C  
+ANISOU   94  C3  NAG F   2    11142  10175  11016   -251    585    749  G    C  
+HETATM   95  O3  NAG F   2     -19.100  31.642   8.550  1.00 89.89      G    O  
+ANISOU   95  O3  NAG F   2    11777  10821  11556   -224    593    765  G    O  
+HETATM   96  C4  NAG F   2     -18.942  33.728   9.724  1.00 85.84      G    C  
+ANISOU   96  C4  NAG F   2    11275  10213  11126   -251    572    778  G    C  
+HETATM   97  O4  NAG F   2     -18.519  34.440   8.565  1.00 93.79      G    O  
+ANISOU   97  O4  NAG F   2    12315  11203  12120   -267    615    830  G    O  
+HETATM   98  C5  NAG F   2     -18.394  34.405  10.975  1.00 74.70      G    C  
+ANISOU   98  C5  NAG F   2     9838   8761   9786   -278    556    756  G    C  
+HETATM   99  O5  NAG F   2     -18.782  33.653  12.134  1.00 76.77      G    O  
+ANISOU   99  O5  NAG F   2    10068   9043  10057   -263    515    705  G    O  
+HETATM  100  C6  NAG F   2     -18.945  35.796  11.167  1.00 71.46      G    C  
+ANISOU  100  C6  NAG F   2     9466   8291   9393   -275    540    778  G    C  
+HETATM  101  O6  NAG F   2     -20.366  35.781  11.161  1.00 69.96      G    O  
+ANISOU  101  O6  NAG F   2     9308   8109   9166   -228    502    776  G    O  
+HETATM  102  C7  NAG F   2     -18.801  29.101  11.345  1.00 73.14      G    C  
+ANISOU  102  C7  NAG F   2     9537   8761   9492   -216    526    635  G    C  
+HETATM  103  O7  NAG F   2     -19.930  29.135  11.828  1.00 75.78      G    O  
+ANISOU  103  O7  NAG F   2     9887   9095   9812   -188    485    622  G    O  
+HETATM  104  C8  NAG F   2     -18.023  27.823  11.229  1.00 68.57      G    C  
+ANISOU  104  C8  NAG F   2     8919   8223   8911   -223    548    613  G    C  
+HETATM  105  C1  NAG G   1     -64.388  20.073  -1.014  1.00 48.99      H    C  
+ANISOU  105  C1  NAG G   1     6247   6767   5599    720  -1069    602  H    C  
+HETATM  106  C2  NAG G   1     -63.901  20.575  -2.374  1.00 54.92      H    C  
+ANISOU  106  C2  NAG G   1     7071   7519   6277    731  -1088    643  H    C  
+HETATM  107  N2  NAG G   1     -62.962  19.629  -2.958  1.00 50.69      H    N  
+ANISOU  107  N2  NAG G   1     6582   6994   5685    685  -1065    621  H    N  
+HETATM  108  C3  NAG G   1     -63.243  21.956  -2.238  1.00 51.87      H    C  
+ANISOU  108  C3  NAG G   1     6725   7080   5902    762  -1054    689  H    C  
+HETATM  109  O3  NAG G   1     -62.992  22.484  -3.532  1.00 61.89      H    O  
+ANISOU  109  O3  NAG G   1     8057   8354   7105    777  -1079    733  H    O  
+HETATM  110  C4  NAG G   1     -64.105  22.918  -1.429  1.00 57.65      H    C  
+ANISOU  110  C4  NAG G   1     7408   7793   6702    809  -1065    706  H    C  
+HETATM  111  O4  NAG G   1     -63.340  24.082  -1.126  1.00 70.43      H    O  
+ANISOU  111  O4  NAG G   1     9066   9358   8338    829  -1022    740  H    O  
+HETATM  112  C5  NAG G   1     -64.509  22.247  -0.118  1.00 54.04      H    C  
+ANISOU  112  C5  NAG G   1     6882   7342   6310    792  -1043    658  H    C  
+HETATM  113  O5  NAG G   1     -65.219  21.041  -0.421  1.00 52.44      H    O  
+ANISOU  113  O5  NAG G   1     6642   7191   6091    766  -1083    623  H    O  
+HETATM  114  C6  NAG G   1     -65.425  23.082   0.742  1.00 45.59      H    C  
+ANISOU  114  C6  NAG G   1     5757   6257   5309    836  -1052    668  H    C  
+HETATM  115  O6  NAG G   1     -66.511  23.558  -0.042  1.00 56.83      H    O  
+ANISOU  115  O6  NAG G   1     7164   7707   6722    877  -1120    698  H    O  
+HETATM  116  C7  NAG G   1     -63.289  18.756  -3.917  1.00 49.22      H    C  
+ANISOU  116  C7  NAG G   1     6406   6853   5444    665  -1108    604  H    C  
+HETATM  117  O7  NAG G   1     -64.431  18.668  -4.356  1.00 52.42      H    O  
+ANISOU  117  O7  NAG G   1     6778   7294   5844    682  -1173    607  H    O  
+HETATM  118  C8  NAG G   1     -62.177  17.869  -4.403  1.00 50.64      H    C  
+ANISOU  118  C8  NAG G   1     6637   7033   5570    620  -1073    580  H    C  
+HETATM  119  C1  NAG G   2     -63.693  25.228  -1.922  1.00 80.86      H    C  
+ANISOU  119  C1  NAG G   2    10416  10666   9639    876  -1059    796  H    C  
+HETATM  120  C2  NAG G   2     -63.186  26.496  -1.212  1.00 84.52      H    C  
+ANISOU  120  C2  NAG G   2    10897  11068  10149    903  -1014    824  H    C  
+HETATM  121  N2  NAG G   2     -63.830  26.663   0.083  1.00 80.78      H    N  
+ANISOU  121  N2  NAG G   2    10358  10582   9753    921  -1003    799  H    N  
+HETATM  122  C3  NAG G   2     -63.416  27.732  -2.087  1.00 95.10      H    C  
+ANISOU  122  C3  NAG G   2    12278  12389  11467    950  -1047    887  H    C  
+HETATM  123  O3  NAG G   2     -62.806  28.871  -1.490  1.00102.28      H    O  
+ANISOU  123  O3  NAG G   2    13212  13235  12415    970  -1002    912  H    O  
+HETATM  124  C4  NAG G   2     -62.836  27.518  -3.477  1.00 93.41      H    C  
+ANISOU  124  C4  NAG G   2    12132  12194  11167    933  -1062    913  H    C  
+HETATM  125  O4  NAG G   2     -63.116  28.640  -4.307  1.00 98.28      H    O  
+ANISOU  125  O4  NAG G   2    12787  12795  11761    978  -1096    974  H    O  
+HETATM  126  C5  NAG G   2     -63.421  26.246  -4.077  1.00 90.26      H    C  
+ANISOU  126  C5  NAG G   2    11709  11859  10726    908  -1108    881  H    C  
+HETATM  127  O5  NAG G   2     -63.112  25.138  -3.219  1.00 87.55      H    O  
+ANISOU  127  O5  NAG G   2    11330  11526  10408    863  -1071    822  H    O  
+HETATM  128  C6  NAG G   2     -62.848  25.916  -5.434  1.00 89.48      H    C  
+ANISOU  128  C6  NAG G   2    11678  11783  10537    887  -1121    899  H    C  
+HETATM  129  O6  NAG G   2     -61.456  25.649  -5.335  1.00 83.09      H    O  
+ANISOU  129  O6  NAG G   2    10915  10948   9707    847  -1053    888  H    O  
+HETATM  130  C7  NAG G   2     -63.223  26.407   1.249  1.00 81.37      H    C  
+ANISOU  130  C7  NAG G   2    10417  10631   9869    895   -945    765  H    C  
+HETATM  131  O7  NAG G   2     -62.064  26.005   1.308  1.00 75.87      H    O  
+ANISOU  131  O7  NAG G   2     9757   9919   9150    855   -899    752  H    O  
+HETATM  132  C8  NAG G   2     -64.045  26.640   2.481  1.00 71.90      H    C  
+ANISOU  132  C8  NAG G   2     9151   9425   8745    919   -940    743  H    C  
+HETATM  133  C1  EDO A 401     -20.163   0.641  36.367  1.00 40.94      I    C  
+ANISOU  133  C1  EDO A 401     4978   5066   5509      7   -124     87  I    C  
+HETATM  134  O1  EDO A 401     -19.149  -0.151  35.759  1.00 29.23      I    O  
+ANISOU  134  O1  EDO A 401     3470   3577   4057     15   -113     90  I    O  
+HETATM  135  C2  EDO A 401     -20.714  -0.045  37.612  1.00 41.94      I    C  
+ANISOU  135  C2  EDO A 401     5122   5197   5618     10   -151     91  I    C  
+HETATM  136  O2  EDO A 401     -20.749  -1.489  37.511  1.00 31.73      I    O  
+ANISOU  136  O2  EDO A 401     3827   3900   4328     23   -148     96  I    O  
+HETATM  137  C1  EDO A 402     -28.805 -28.971  42.329  1.00 51.44      J    C  
+ANISOU  137  C1  EDO A 402     6704   5888   6955     36   -137    331  J    C  
+HETATM  138  O1  EDO A 402     -27.671 -28.123  42.375  1.00 59.34      J    O  
+ANISOU  138  O1  EDO A 402     7679   6912   7956     65   -152    328  J    O  
+HETATM  139  C2  EDO A 402     -28.749 -29.601  40.947  1.00 43.53      J    C  
+ANISOU  139  C2  EDO A 402     5699   4856   5983     40   -118    295  J    C  
+HETATM  140  O2  EDO A 402     -29.329 -28.596  40.110  1.00 30.71      J    O  
+ANISOU  140  O2  EDO A 402     4059   3272   4337     24   -104    261  J    O  
+HETATM  141  C1  EDO A 403     -24.316 -26.378  41.698  1.00 35.15      K    C  
+ANISOU  141  C1  EDO A 403     4536   3888   4931    144   -180    305  K    C  
+HETATM  142  O1  EDO A 403     -23.684 -25.463  42.608  1.00 34.81      K    O  
+ANISOU  142  O1  EDO A 403     4478   3877   4872    153   -205    323  K    O  
+HETATM  143  C2  EDO A 403     -24.337 -27.795  42.244  1.00 48.32      K    C  
+ANISOU  143  C2  EDO A 403     6231   5509   6620    151   -187    332  K    C  
+HETATM  144  O2  EDO A 403     -25.126 -27.829  43.435  1.00 51.11      K    O  
+ANISOU  144  O2  EDO A 403     6608   5870   6941    129   -199    363  K    O  
+HETATM  145  C1  EDO A 404     -28.645 -16.494  37.250  1.00 43.50      L    C  
+ANISOU  145  C1  EDO A 404     5506   5241   5783     29    -92    134  L    C  
+HETATM  146  O1  EDO A 404     -28.495 -17.685  36.403  1.00 33.27      L    O  
+ANISOU  146  O1  EDO A 404     4216   3915   4509     34    -79    123  L    O  
+HETATM  147  C2  EDO A 404     -29.424 -15.340  36.588  1.00 34.49      L    C  
+ANISOU  147  C2  EDO A 404     4359   4128   4616     17    -81    117  L    C  
+HETATM  148  O2  EDO A 404     -28.583 -14.485  35.782  1.00 22.45      L    O  
+ANISOU  148  O2  EDO A 404     2818   2614   3099     29    -75    104  L    O  
+HETATM  149  C1  EDO A 405     -17.964 -20.776  17.130  1.00 33.79      M    C  
+ANISOU  149  C1  EDO A 405     4261   3898   4681    269    394   -259  M    C  
+HETATM  150  O1  EDO A 405     -16.756 -20.664  16.325  1.00 56.14      M    O  
+ANISOU  150  O1  EDO A 405     7073   6733   7525    292    440   -271  M    O  
+HETATM  151  C2  EDO A 405     -18.751 -21.914  16.498  1.00 39.79      M    C  
+ANISOU  151  C2  EDO A 405     5063   4632   5422    265    396   -293  M    C  
+HETATM  152  O2  EDO A 405     -19.185 -21.686  15.097  1.00 44.34      M    O  
+ANISOU  152  O2  EDO A 405     5671   5227   5947    256    422   -322  M    O  
+HETATM  153  C1  EDO A 406     -40.597 -16.319  34.808  1.00 35.90      N    C  
+ANISOU  153  C1  EDO A 406     4549   4395   4695   -152    -37     61  N    C  
+HETATM  154  O1  EDO A 406     -40.664 -15.251  33.875  1.00 37.85      N    O  
+ANISOU  154  O1  EDO A 406     4785   4666   4929   -142    -40     44  N    O  
+HETATM  155  C2  EDO A 406     -41.076 -15.753  36.163  1.00 28.43      N    C  
+ANISOU  155  C2  EDO A 406     3598   3468   3736   -156    -35     82  N    C  
+HETATM  156  O2  EDO A 406     -41.155 -16.986  36.901  1.00 57.33      N    O  
+ANISOU  156  O2  EDO A 406     7271   7103   7409   -170    -32     98  N    O  
+HETATM  157  C1  EDO A 407       4.097 -16.672  48.151  1.00 49.86      O    C  
+ANISOU  157  C1  EDO A 407     5322   6093   7530    528   -829    422  O    C  
+HETATM  158  O1  EDO A 407       4.804 -15.572  47.577  1.00 68.99      O    O  
+ANISOU  158  O1  EDO A 407     7687   8540   9986    505   -813    397  O    O  
+HETATM  159  C2  EDO A 407       3.623 -16.239  49.523  1.00 39.82      O    C  
+ANISOU  159  C2  EDO A 407     4093   4839   6197    505   -894    438  O    C  
+HETATM  160  O2  EDO A 407       2.645 -15.202  49.342  1.00 58.83      O    O  
+ANISOU  160  O2  EDO A 407     6543   7260   8548    459   -866    415  O    O  
+HETATM  161  C1  EDO B 401     -31.802  17.854  26.037  1.00 41.18      Q    C  
+ANISOU  161  C1  EDO B 401     5296   5011   5339     63     26    168  Q    C  
+HETATM  162  O1  EDO B 401     -33.109  18.204  26.502  1.00 55.02      Q    O  
+ANISOU  162  O1  EDO B 401     7055   6767   7082     84     12    161  Q    O  
+HETATM  163  C2  EDO B 401     -31.235  16.919  27.090  1.00 39.12      Q    C  
+ANISOU  163  C2  EDO B 401     5015   4760   5088     50     20    148  Q    C  
+HETATM  164  O2  EDO B 401     -31.188  17.582  28.381  1.00 37.91      Q    O  
+ANISOU  164  O2  EDO B 401     4862   4590   4952     47      7    133  Q    O  
+HETATM  165  C1  EDO B 402     -27.651  30.651  25.283  1.00 44.57      R    C  
+ANISOU  165  C1  EDO B 402     5895   5044   5995    -25     92    282  R    C  
+HETATM  166  O1  EDO B 402     -27.286  31.277  24.050  1.00 47.90      R    O  
+ANISOU  166  O1  EDO B 402     6334   5445   6419    -33    115    321  R    O  
+HETATM  167  C2  EDO B 402     -26.502  29.865  25.872  1.00 35.20      R    C  
+ANISOU  167  C2  EDO B 402     4675   3876   4823    -57     92    262  R    C  
+HETATM  168  O2  EDO B 402     -25.955  28.902  24.934  1.00 31.30      R    O  
+ANISOU  168  O2  EDO B 402     4163   3415   4313    -66    110    280  R    O  
+HETATM  169  C1  EDO B 403       1.942  19.560  19.492  1.00 40.34      S    C  
+ANISOU  169  C1  EDO B 403     4300   4826   6201   -511    651    340  S    C  
+HETATM  170  O1  EDO B 403       1.904  18.158  19.738  1.00 72.03      S    O  
+ANISOU  170  O1  EDO B 403     8295   8870  10205   -470    637    319  S    O  
+HETATM  171  C2  EDO B 403       1.651  19.776  18.015  1.00 49.45      S    C  
+ANISOU  171  C2  EDO B 403     5493   5982   7313   -508    721    366  S    C  
+HETATM  172  O2  EDO B 403       0.333  19.273  17.781  1.00 61.02      S    O  
+ANISOU  172  O2  EDO B 403     7024   7454   8706   -470    707    361  S    O  
+HETATM  173  C1  EDO B 404     -19.421  23.924  51.187  1.00 61.53      T    C  
+ANISOU  173  C1  EDO B 404     7919   7428   8033   -262   -478   -290  T    C  
+HETATM  174  O1  EDO B 404     -18.222  24.644  51.467  1.00 53.08      T    O  
+ANISOU  174  O1  EDO B 404     6835   6336   6995   -297   -511   -307  T    O  
+HETATM  175  C2  EDO B 404     -20.135  24.704  50.105  1.00 32.83      T    C  
+ANISOU  175  C2  EDO B 404     4293   3763   4416   -251   -435   -281  T    C  
+HETATM  176  O2  EDO B 404     -20.870  25.754  50.718  1.00 39.48      T    O  
+ANISOU  176  O2  EDO B 404     5179   4582   5239   -245   -433   -313  T    O  
+HETATM  177 CL    CL B 406     -48.534   1.616  36.110  1.00 56.88      V   CL  
+ANISOU  177 CL    CL B 406     7045   7358   7210     30    -18     29  V   CL  
+HETATM  178 CL    CL B 407     -33.530   1.699  34.491  1.00 53.34      W   CL  
+ANISOU  178 CL    CL B 407     6712   6723   6833     17    -59     56  W   CL  
+HETATM  179  C1  EDO C 401     -52.222   3.728  38.312  1.00 52.69      X    C  
+ANISOU  179  C1  EDO C 401     6450   6885   6683     73     29     16  X    C  
+HETATM  180  O1  EDO C 401     -51.064   4.293  37.678  1.00 68.72      X    O  
+ANISOU  180  O1  EDO C 401     8506   8893   8710     82     13     16  X    O  
+HETATM  181  C2  EDO C 401     -52.005   2.232  38.403  1.00 50.83      X    C  
+ANISOU  181  C2  EDO C 401     6216   6649   6447     42     29     22  X    C  
+HETATM  182  O2  EDO C 401     -51.947   1.615  37.103  1.00 48.87      X    O  
+ANISOU  182  O2  EDO C 401     5962   6399   6207     32      9     24  X    O  
+HETATM  183 CL    CL C 403     -39.555   1.261  38.638  1.00 66.20      Z   CL  
+ANISOU  183 CL    CL C 403     8345   8419   8389     12    -50     49  Z   CL  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3
+CONECT    5    6    7
+CONECT    6    5
+CONECT    7    5    8
+CONECT    8    7
+CONECT    9   10   11
+CONECT   10    9
+CONECT   11    9   12
+CONECT   12   11
+CONECT   13   14   15
+CONECT   14   13
+CONECT   15   13   16
+CONECT   16   15
+CONECT   17   18   25
+CONECT   18   17   19   20
+CONECT   19   18   28
+CONECT   20   18   21   22
+CONECT   21   20
+CONECT   22   20   23   24
+CONECT   23   22   31
+CONECT   24   22   25   26
+CONECT   25   17   24
+CONECT   26   24   27
+CONECT   27   26
+CONECT   28   19   29   30
+CONECT   29   28
+CONECT   30   28
+CONECT   31   32   39   23
+CONECT   32   31   33   34
+CONECT   33   32   42
+CONECT   34   32   35   36
+CONECT   35   34
+CONECT   36   34   37   38
+CONECT   37   36
+CONECT   38   36   39   40
+CONECT   39   31   38
+CONECT   40   38   41
+CONECT   41   40
+CONECT   42   33   43   44
+CONECT   43   42
+CONECT   44   42
+CONECT   45   46   47
+CONECT   46   45
+CONECT   47   45   48
+CONECT   48   47
+CONECT   49   50   57
+CONECT   50   49   51   52
+CONECT   51   50   60
+CONECT   52   50   53   54
+CONECT   53   52
+CONECT   54   52   55   56
+CONECT   55   54   63
+CONECT   56   54   57   58
+CONECT   57   49   56
+CONECT   58   56   59
+CONECT   59   58
+CONECT   60   51   61   62
+CONECT   61   60
+CONECT   62   60
+CONECT   63   64   71   55
+CONECT   64   63   65   66
+CONECT   65   64   74
+CONECT   66   64   67   68
+CONECT   67   66
+CONECT   68   66   69   70
+CONECT   69   68
+CONECT   70   68   71   72
+CONECT   71   63   70
+CONECT   72   70   73
+CONECT   73   72
+CONECT   74   65   75   76
+CONECT   75   74
+CONECT   76   74
+CONECT   77   78   85
+CONECT   78   77   79   80
+CONECT   79   78   88
+CONECT   80   78   81   82
+CONECT   81   80
+CONECT   82   80   83   84
+CONECT   83   82   91
+CONECT   84   82   85   86
+CONECT   85   77   84
+CONECT   86   84   87
+CONECT   87   86
+CONECT   88   79   89   90
+CONECT   89   88
+CONECT   90   88
+CONECT   91   92   99   83
+CONECT   92   91   93   94
+CONECT   93   92  102
+CONECT   94   92   95   96
+CONECT   95   94
+CONECT   96   94   97   98
+CONECT   97   96
+CONECT   98   96   99  100
+CONECT   99   91   98
+CONECT  100   98  101
+CONECT  101  100
+CONECT  102   93  103  104
+CONECT  103  102
+CONECT  104  102
+CONECT  105  106  113
+CONECT  106  105  107  108
+CONECT  107  106  116
+CONECT  108  106  109  110
+CONECT  109  108
+CONECT  110  108  111  112
+CONECT  111  110  119
+CONECT  112  110  113  114
+CONECT  113  105  112
+CONECT  114  112  115
+CONECT  115  114
+CONECT  116  107  117  118
+CONECT  117  116
+CONECT  118  116
+CONECT  119  120  127  111
+CONECT  120  119  121  122
+CONECT  121  120  130
+CONECT  122  120  123  124
+CONECT  123  122
+CONECT  124  122  125  126
+CONECT  125  124
+CONECT  126  124  127  128
+CONECT  127  119  126
+CONECT  128  126  129
+CONECT  129  128
+CONECT  130  121  131  132
+CONECT  131  130
+CONECT  132  130
+CONECT  133  134  135
+CONECT  134  133
+CONECT  135  133  136
+CONECT  136  135
+CONECT  137  138  139
+CONECT  138  137
+CONECT  139  137  140
+CONECT  140  139
+CONECT  141  142  143
+CONECT  142  141
+CONECT  143  141  144
+CONECT  144  143
+CONECT  145  146  147
+CONECT  146  145
+CONECT  147  145  148
+CONECT  148  147
+CONECT  149  150  151
+CONECT  150  149
+CONECT  151  149  152
+CONECT  152  151
+CONECT  153  154  155
+CONECT  154  153
+CONECT  155  153  156
+CONECT  156  155
+CONECT  157  158  159
+CONECT  158  157
+CONECT  159  157  160
+CONECT  160  159
+CONECT  161  162  163
+CONECT  162  161
+CONECT  163  161  164
+CONECT  164  163
+CONECT  165  166  167
+CONECT  166  165
+CONECT  167  165  168
+CONECT  168  167
+CONECT  169  170  171
+CONECT  170  169
+CONECT  171  169  172
+CONECT  172  171
+CONECT  173  174  175
+CONECT  174  173
+CONECT  175  173  176
+CONECT  176  175
+CONECT  179  180  181
+CONECT  180  179
+CONECT  181  179  182
+CONECT  182  181
+END

@@ -1,0 +1,95 @@
+CRYST1   96.420   50.863  184.629  90.00  90.67  90.00 C 1 2 1       4
+HETATM    1  P   FMN A1202     -11.353  15.153 -17.474  1.00 45.03      C    P  
+ANISOU    1  P   FMN A1202     5364   5001   6746     -3     19   -310  C    P  
+HETATM    2  O1P FMN A1202     -12.531  14.983 -16.550  1.00 51.91      C    O  
+ANISOU    2  O1P FMN A1202     6217   5838   7669     34    -67   -324  C    O  
+HETATM    3  O2P FMN A1202     -10.742  16.498 -17.137  1.00 53.01      C    O  
+ANISOU    3  O2P FMN A1202     6364   6004   7773    -55      6   -246  C    O  
+HETATM    4  O3P FMN A1202     -11.815  15.098 -18.916  1.00 50.27      C    O  
+ANISOU    4  O3P FMN A1202     6121   5687   7293    -44     19   -311  C    O  
+HETATM    5  C5' FMN A1202      -9.172  13.876 -18.186  1.00 46.22      C    C  
+ANISOU    5  C5' FMN A1202     5459   5265   6839     60    234   -340  C    C  
+HETATM    6  O5' FMN A1202     -10.266  13.979 -17.295  1.00 42.11      C    O  
+ANISOU    6  O5' FMN A1202     4946   4664   6388     57    130   -351  C    O  
+HETATM    7  C4' FMN A1202      -8.839  12.403 -18.188  1.00 45.46      C    C  
+ANISOU    7  C4' FMN A1202     5405   5153   6716    182    333   -396  C    C  
+HETATM    8  O4' FMN A1202      -9.900  11.834 -18.887  1.00 45.19      C    O  
+ANISOU    8  O4' FMN A1202     5529   5028   6614    135    307   -452  C    O  
+HETATM    9  C3' FMN A1202      -7.527  11.978 -18.848  1.00 49.69      C    C  
+ANISOU    9  C3' FMN A1202     5907   5801   7172    274    479   -383  C    C  
+HETATM   10  O3' FMN A1202      -7.551  12.272 -20.223  1.00 49.22      C    O  
+ANISOU   10  O3' FMN A1202     5932   5760   7009    201    511   -385  C    O  
+HETATM   11  C2' FMN A1202      -6.251  12.485 -18.160  1.00 49.04      C    C  
+ANISOU   11  C2' FMN A1202     5608   5904   7122    304    516   -311  C    C  
+HETATM   12  O2' FMN A1202      -6.406  12.392 -16.763  1.00 51.72      C    O  
+ANISOU   12  O2' FMN A1202     5870   6219   7561    340    453   -305  C    O  
+HETATM   13  C1' FMN A1202      -5.051  11.635 -18.599  1.00 47.20      C    C  
+ANISOU   13  C1' FMN A1202     5318   5819   6795    484    680   -296  C    C  
+HETATM   14  N1  FMN A1202      -3.784  10.353 -16.379  1.00 48.80      C    N  
+ANISOU   14  N1  FMN A1202     5280   6207   7056    845    758   -230  C    N  
+HETATM   15  C2  FMN A1202      -3.199   9.712 -15.304  1.00 46.22      C    C  
+ANISOU   15  C2  FMN A1202     4842   5979   6742   1041    792   -187  C    C  
+HETATM   16  O2  FMN A1202      -3.721   8.736 -14.779  1.00 46.18      C    O  
+ANISOU   16  O2  FMN A1202     5004   5785   6759   1184    808   -226  C    O  
+HETATM   17  N3  FMN A1202      -1.995  10.149 -14.813  1.00 46.13      C    N  
+ANISOU   17  N3  FMN A1202     4530   6304   6695   1067    811    -89  C    N  
+HETATM   18  C4  FMN A1202      -1.392  11.251 -15.373  1.00 52.42      C    C  
+ANISOU   18  C4  FMN A1202     5156   7318   7443    856    797    -43  C    C  
+HETATM   19  C4A FMN A1202      -1.979  11.896 -16.444  1.00 50.30      C    C  
+ANISOU   19  C4A FMN A1202     5036   6906   7168    663    772    -89  C    C  
+HETATM   20  O4  FMN A1202      -0.318  11.660 -14.938  1.00 63.57      C    O  
+ANISOU   20  O4  FMN A1202     6287   9070   8798    826    808     46  C    O  
+HETATM   21  C5A FMN A1202      -1.879  13.637 -18.062  1.00 51.49      C    C  
+ANISOU   21  C5A FMN A1202     5213   7120   7230    271    748    -67  C    C  
+HETATM   22  N5  FMN A1202      -1.331  12.972 -16.996  1.00 50.65      C    N  
+ANISOU   22  N5  FMN A1202     4946   7154   7145    446    770    -36  C    N  
+HETATM   23  C6  FMN A1202      -1.215  14.741 -18.599  1.00 56.87      C    C  
+ANISOU   23  C6  FMN A1202     5796   7986   7827     32    752     -7  C    C  
+HETATM   24  C7  FMN A1202      -1.760  15.387 -19.702  1.00 54.22      C    C  
+ANISOU   24  C7  FMN A1202     5646   7501   7454   -120    736    -27  C    C  
+HETATM   25  C7M FMN A1202      -1.089  16.560 -20.345  1.00 52.40      C    C  
+ANISOU   25  C7M FMN A1202     5367   7429   7112   -393    751     39  C    C  
+HETATM   26  C8  FMN A1202      -2.966  14.933 -20.205  1.00 52.30      C    C  
+ANISOU   26  C8  FMN A1202     5644   6969   7257    -34    703   -104  C    C  
+HETATM   27  C8M FMN A1202      -3.569  15.620 -21.374  1.00 51.92      C    C  
+ANISOU   27  C8M FMN A1202     5781   6796   7152   -176    676   -111  C    C  
+HETATM   28  C9  FMN A1202      -3.630  13.861 -19.650  1.00 52.57      C    C  
+ANISOU   28  C9  FMN A1202     5759   6849   7368    161    691   -167  C    C  
+HETATM   29  C9A FMN A1202      -3.088  13.198 -18.575  1.00 48.65      C    C  
+ANISOU   29  C9A FMN A1202     5117   6456   6912    317    719   -151  C    C  
+HETATM   30  C10 FMN A1202      -3.178  11.449 -16.959  1.00 49.67      C    C  
+ANISOU   30  C10 FMN A1202     5239   6509   7126    674    750   -180  C    C  
+HETATM   31  N10 FMN A1202      -3.744  12.114 -18.028  1.00 47.39      C    N  
+ANISOU   31  N10 FMN A1202     5076   6120   6811    497    717   -209  C    N  
+CONECT    1    2    3    4    6
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    6    7
+CONECT    6    1    5
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   31
+CONECT   14   15   30
+CONECT   15   14   16   17
+CONECT   16   15
+CONECT   17   15   18
+CONECT   18   17   19   20
+CONECT   19   18   22   30
+CONECT   20   18
+CONECT   21   22   23   29
+CONECT   22   19   21
+CONECT   23   21   24
+CONECT   24   23   25   26
+CONECT   25   24
+CONECT   26   24   27   28
+CONECT   27   26
+CONECT   28   26   29
+CONECT   29   21   28   31
+CONECT   30   14   19   31
+CONECT   31   13   29   30
+END

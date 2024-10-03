@@ -1,0 +1,50 @@
+CRYST1   81.577   81.577  234.132  90.00  90.00 120.00 P 61 2 2     12
+HETATM    1  C1  EDO P1403      -7.680 -30.848   9.109  1.00 47.09      D    C  
+ANISOU    1  C1  EDO P1403     6354   5808   5730    -54    230    -96  D    C  
+HETATM    2  O1  EDO P1403      -6.540 -31.631   9.368  1.00 45.79      D    O  
+ANISOU    2  O1  EDO P1403     6160   5643   5592    -27    235   -142  D    O  
+HETATM    3  C2  EDO P1403      -7.448 -29.459   9.492  1.00 45.44      D    C  
+ANISOU    3  C2  EDO P1403     6118   5586   5560    -79    244    -57  D    C  
+HETATM    4  O2  EDO P1403      -6.465 -28.811   8.713  1.00 41.56      D    O  
+ANISOU    4  O2  EDO P1403     5589   5119   5082    -94    301    -34  D    O  
+HETATM    5  C1  EDO P1404     -16.019 -32.345   5.799  1.00 68.56      E    C  
+ANISOU    5  C1  EDO P1404     9153   8591   8305    -56    -16   -210  E    C  
+HETATM    6  O1  EDO P1404     -16.400 -32.482   7.177  1.00 77.32      E    O  
+ANISOU    6  O1  EDO P1404    10242   9631   9502    -96     -4   -176  E    O  
+HETATM    7  C2  EDO P1404     -14.865 -33.204   5.533  1.00 66.29      E    C  
+ANISOU    7  C2  EDO P1404     8874   8299   8014    -42      5   -255  E    C  
+HETATM    8  O2  EDO P1404     -14.328 -33.023   4.259  1.00 68.99      E    O  
+ANISOU    8  O2  EDO P1404     9232   8729   8252      3     13   -281  E    O  
+HETATM    9  C1  EDO P1405     -20.152 -22.414  -2.995  1.00 68.65      F    C  
+ANISOU    9  C1  EDO P1405     9433   9214   7435    544   -230    613  F    C  
+HETATM   10  O1  EDO P1405     -18.965 -22.567  -2.300  1.00 72.34      F    O  
+ANISOU   10  O1  EDO P1405     9892   9600   7992    451   -126    625  F    O  
+HETATM   11  C2  EDO P1405     -19.908 -21.966  -4.387  1.00 76.10      F    C  
+ANISOU   11  C2  EDO P1405    10433  10296   8184    644   -212    749  F    C  
+HETATM   12  O2  EDO P1405     -20.743 -22.545  -5.420  1.00 74.71      F    O  
+ANISOU   12  O2  EDO P1405    10262  10294   7829    755   -316    660  F    O  
+HETATM   13  C1  EDO P1406     -27.414 -13.741  10.632  1.00 42.37      G    C  
+ANISOU   13  C1  EDO P1406     5464   4793   5838    617   -568   -113  G    C  
+HETATM   14  O1  EDO P1406     -28.201 -13.216   9.583  1.00 45.76      G    O  
+ANISOU   14  O1  EDO P1406     5905   5199   6282    691   -643    -40  G    O  
+HETATM   15  C2  EDO P1406     -28.404 -14.026  11.640  1.00 42.59      G    C  
+ANISOU   15  C2  EDO P1406     5399   4921   5861    649   -566   -253  G    C  
+HETATM   16  O2  EDO P1406     -29.674 -14.084  11.146  1.00 45.50      G    O  
+ANISOU   16  O2  EDO P1406     5718   5352   6217    707   -620   -266  G    O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3
+CONECT    5    6    7
+CONECT    6    5
+CONECT    7    5    8
+CONECT    8    7
+CONECT    9   10   11
+CONECT   10    9
+CONECT   11    9   12
+CONECT   12   11
+CONECT   13   14   15
+CONECT   14   13
+CONECT   15   13   16
+CONECT   16   15
+END

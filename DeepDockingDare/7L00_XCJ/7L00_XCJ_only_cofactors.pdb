@@ -1,0 +1,426 @@
+CRYST1   97.900   66.150  101.780  90.00  90.09  90.00 P 1 21 1      8
+HETATM    1  P   FMN A 401       0.468   9.564  38.037  1.00 19.99      E    P  
+ANISOU    1  P   FMN A 401     2506   2818   2271    -44    180     79  E    P  
+HETATM    2  O1P FMN A 401       0.251   8.068  37.932  1.00 20.23      E    O  
+ANISOU    2  O1P FMN A 401     2500   2809   2378    152     14    275  E    O  
+HETATM    3  O2P FMN A 401       1.729   9.879  38.823  1.00 20.07      E    O1-
+ANISOU    3  O2P FMN A 401     2238   2868   2520    153   -252    -41  E    O1-
+HETATM    4  O3P FMN A 401      -0.729  10.251  38.636  1.00 20.94      E    O1-
+ANISOU    4  O3P FMN A 401     2752   3129   2075   -161    639    -25  E    O1-
+HETATM    5  C5' FMN A 401       1.431   9.528  35.583  1.00 19.53      E    C  
+ANISOU    5  C5' FMN A 401     2385   2897   2139    294    328    259  E    C  
+HETATM    6  O5' FMN A 401       0.658  10.204  36.538  1.00 20.27      E    O  
+ANISOU    6  O5' FMN A 401     2622   2936   2144     43     65    543  E    O  
+HETATM    7  C4' FMN A 401       2.847  10.066  35.552  1.00 21.27      E    C  
+ANISOU    7  C4' FMN A 401     2559   3384   2139     12    386    366  E    C  
+HETATM    8  O4' FMN A 401       3.483   9.846  36.789  1.00 21.76      E    O  
+ANISOU    8  O4' FMN A 401     2664   3473   2130    203    459    319  E    O  
+HETATM    9  C3' FMN A 401       3.610   9.342  34.435  1.00 21.95      E    C  
+ANISOU    9  C3' FMN A 401     2614   3448   2280    162    491    568  E    C  
+HETATM   10  O3' FMN A 401       3.083   9.661  33.167  1.00 21.31      E    O  
+ANISOU   10  O3' FMN A 401     2604   3319   2173    283    559    460  E    O  
+HETATM   11  C2' FMN A 401       5.113   9.596  34.472  1.00 23.09      E    C  
+ANISOU   11  C2' FMN A 401     2699   3703   2372    318    445    457  E    C  
+HETATM   12  O2' FMN A 401       5.704   8.811  33.462  1.00 23.67      E    O  
+ANISOU   12  O2' FMN A 401     2779   3920   2295    274    447    415  E    O  
+HETATM   13  C1' FMN A 401       5.465  11.093  34.337  1.00 21.75      E    C  
+ANISOU   13  C1' FMN A 401     2501   3502   2260    404    310    522  E    C  
+HETATM   14  N1  FMN A 401       7.428  11.161  32.296  1.00 24.08      E    N  
+ANISOU   14  N1  FMN A 401     2448   4017   2683    488    359   1056  E    N  
+HETATM   15  C2  FMN A 401       8.319  11.172  31.253  1.00 25.29      E    C  
+ANISOU   15  C2  FMN A 401     2624   4219   2767    496    471   1361  E    C  
+HETATM   16  O2  FMN A 401       7.904  11.107  30.144  1.00 27.06      E    O  
+ANISOU   16  O2  FMN A 401     2562   4833   2888    811    707    896  E    O  
+HETATM   17  N3  FMN A 401       9.669  11.254  31.493  1.00 26.77      E    N  
+ANISOU   17  N3  FMN A 401     2792   4429   2951    528    465   1327  E    N  
+HETATM   18  C4  FMN A 401      10.102  11.316  32.760  1.00 27.37      E    C  
+ANISOU   18  C4  FMN A 401     2724   4579   3097    194    368    827  E    C  
+HETATM   19  C4A FMN A 401       9.201  11.302  33.850  1.00 25.34      E    C  
+ANISOU   19  C4A FMN A 401     2555   4144   2929    196    263    729  E    C  
+HETATM   20  O4  FMN A 401      11.284  11.365  32.968  1.00 28.65      E    O  
+ANISOU   20  O4  FMN A 401     2595   4806   3486    634    553    613  E    O  
+HETATM   21  C5A FMN A 401       8.751  11.349  36.153  1.00 22.98      E    C  
+ANISOU   21  C5A FMN A 401     2510   3668   2552    398    386    446  E    C  
+HETATM   22  N5  FMN A 401       9.643  11.367  35.114  1.00 24.48      E    N  
+ANISOU   22  N5  FMN A 401     2518   4097   2687    145    242    694  E    N  
+HETATM   23  C6  FMN A 401       9.201  11.397  37.486  1.00 23.29      E    C  
+ANISOU   23  C6  FMN A 401     2609   3636   2603    452    461    246  E    C  
+HETATM   24  C7  FMN A 401       8.308  11.363  38.547  1.00 23.70      E    C  
+ANISOU   24  C7  FMN A 401     2807   3848   2351    564    390     74  E    C  
+HETATM   25  C7M FMN A 401       8.806  11.419  39.995  1.00 25.74      E    C  
+ANISOU   25  C7M FMN A 401     2937   4347   2495    403    194    248  E    C  
+HETATM   26  C8  FMN A 401       6.923  11.282  38.310  1.00 21.28      E    C  
+ANISOU   26  C8  FMN A 401     2711   3107   2269    319    399     64  E    C  
+HETATM   27  C8M FMN A 401       5.944  11.246  39.477  1.00 20.22      E    C  
+ANISOU   27  C8M FMN A 401     2582   2808   2293    173    433    354  E    C  
+HETATM   28  C9  FMN A 401       6.459  11.239  37.000  1.00 21.41      E    C  
+ANISOU   28  C9  FMN A 401     2626   3192   2316    373    284    123  E    C  
+HETATM   29  C9A FMN A 401       7.358  11.256  35.936  1.00 21.47      E    C  
+ANISOU   29  C9A FMN A 401     2546   3252   2361    354    295    423  E    C  
+HETATM   30  C10 FMN A 401       7.855  11.218  33.554  1.00 23.84      E    C  
+ANISOU   30  C10 FMN A 401     2526   3821   2713    298    279    822  E    C  
+HETATM   31  N10 FMN A 401       6.907  11.215  34.632  1.00 22.43      E    N  
+ANISOU   31  N10 FMN A 401     2641   3428   2453    321    254    450  E    N  
+HETATM   32 NA    NA A 403      -1.691   8.826  50.645  1.00 40.39      G   NA  
+ANISOU   32 NA    NA A 403     7012   4267   4069  -1810  -1709   1227  G   NA  
+HETATM   33 NA    NA A 404       4.797  14.404  34.137  1.00 37.77      H   NA  
+ANISOU   33 NA    NA A 404     4025   7030   3298    750    935    552  H   NA  
+HETATM   34  C1  GOL A 405      12.295  21.917  40.950  1.00 52.44      I    C  
+ANISOU   34  C1  GOL A 405     6870   6677   6379   -632    341    -34  I    C  
+HETATM   35  O1  GOL A 405      11.788  21.455  39.735  1.00 53.02      I    O  
+ANISOU   35  O1  GOL A 405     6800   6920   6426   -639    338    110  I    O  
+HETATM   36  C2  GOL A 405      11.172  21.678  41.978  1.00 52.58      I    C  
+ANISOU   36  C2  GOL A 405     7042   6484   6451   -517    167     25  I    C  
+HETATM   37  O2  GOL A 405      10.766  20.349  41.998  1.00 51.03      I    O  
+ANISOU   37  O2  GOL A 405     7059   5874   6456   -879    122    213  I    O  
+HETATM   38  C3  GOL A 405      11.748  22.148  43.333  1.00 53.86      I    C  
+ANISOU   38  C3  GOL A 405     7066   6939   6458      0    195    187  I    C  
+HETATM   39  O3  GOL A 405      10.688  22.748  44.020  1.00 54.31      I    O  
+ANISOU   39  O3  GOL A 405     7001   7198   6435    329    266    358  I    O  
+HETATM   40  P   FMN B 401     -18.085  21.909  33.568  1.00 16.49      J    P  
+ANISOU   40  P   FMN B 401     2227   2307   1732   -204    565   -440  J    P  
+HETATM   41  O1P FMN B 401     -18.258  23.372  33.183  1.00 16.53      J    O  
+ANISOU   41  O1P FMN B 401     2163   2293   1824    -56    576   -298  J    O  
+HETATM   42  O2P FMN B 401     -16.813  21.333  32.976  1.00 17.39      J    O1-
+ANISOU   42  O2P FMN B 401     2458   2701   1449   -438    663   -548  J    O1-
+HETATM   43  O3P FMN B 401     -19.297  21.081  33.146  1.00 16.97      J    O1-
+ANISOU   43  O3P FMN B 401     2151   2556   1742      0    521   -207  J    O1-
+HETATM   44  C5' FMN B 401     -19.046  21.913  35.989  1.00 15.62      J    C  
+ANISOU   44  C5' FMN B 401     2255   1998   1684    252    723   -531  J    C  
+HETATM   45  O5' FMN B 401     -17.884  21.823  35.184  1.00 16.96      J    O  
+ANISOU   45  O5' FMN B 401     2374   2464   1608    -88    559   -408  J    O  
+HETATM   46  C4' FMN B 401     -19.289  23.345  36.451  1.00 16.89      J    C  
+ANISOU   46  C4' FMN B 401     2601   2069   1748     49    666   -246  J    C  
+HETATM   47  O4' FMN B 401     -19.598  24.186  35.375  1.00 18.55      J    O  
+ANISOU   47  O4' FMN B 401     2826   2353   1869   -144    544    -66  J    O  
+HETATM   48  C3' FMN B 401     -20.476  23.363  37.429  1.00 16.64      J    C  
+ANISOU   48  C3' FMN B 401     2363   2228   1732    -68    598   -172  J    C  
+HETATM   49  O3' FMN B 401     -20.140  22.667  38.605  1.00 17.49      J    O  
+ANISOU   49  O3' FMN B 401     2450   2429   1768     12    689     36  J    O  
+HETATM   50  C2' FMN B 401     -20.968  24.776  37.755  1.00 16.53      J    C  
+ANISOU   50  C2' FMN B 401     2221   2398   1662    -78    552   -262  J    C  
+HETATM   51  O2' FMN B 401     -22.138  24.660  38.528  1.00 18.02      J    O  
+ANISOU   51  O2' FMN B 401     2332   2714   1802     84    787   -208  J    O  
+HETATM   52  C1' FMN B 401     -19.900  25.668  38.433  1.00 16.82      J    C  
+ANISOU   52  C1' FMN B 401     2377   2345   1670     -7    367   -107  J    C  
+HETATM   53  N1  FMN B 401     -21.165  26.784  40.652  1.00 18.47      J    N  
+ANISOU   53  N1  FMN B 401     2538   2541   1941     85    376   -196  J    N  
+HETATM   54  C2  FMN B 401     -21.807  27.242  41.778  1.00 19.73      J    C  
+ANISOU   54  C2  FMN B 401     3028   2544   1924     40    331   -380  J    C  
+HETATM   55  O2  FMN B 401     -21.876  26.509  42.719  1.00 22.00      J    O  
+ANISOU   55  O2  FMN B 401     3237   2855   2269    120    746   -361  J    O  
+HETATM   56  N3  FMN B 401     -22.360  28.520  41.816  1.00 21.11      J    N  
+ANISOU   56  N3  FMN B 401     3026   2891   2103    420    346    -61  J    N  
+HETATM   57  C4  FMN B 401     -22.273  29.309  40.734  1.00 20.57      J    C  
+ANISOU   57  C4  FMN B 401     3082   2619   2116    336    240   -361  J    C  
+HETATM   58  C4A FMN B 401     -21.618  28.857  39.560  1.00 19.00      J    C  
+ANISOU   58  C4A FMN B 401     2854   2460   1904    246    204   -216  J    C  
+HETATM   59  O4  FMN B 401     -22.778  30.404  40.773  1.00 21.19      J    O  
+ANISOU   59  O4  FMN B 401     3120   2684   2247    299    522   -680  J    O  
+HETATM   60  C5A FMN B 401     -20.889  29.139  37.356  1.00 19.40      J    C  
+ANISOU   60  C5A FMN B 401     2526   2830   2015    287    417    113  J    C  
+HETATM   61  N5  FMN B 401     -21.512  29.634  38.464  1.00 19.63      J    N  
+ANISOU   61  N5  FMN B 401     2918   2489   2051    229    327   -290  J    N  
+HETATM   62  C6  FMN B 401     -20.807  29.927  36.192  1.00 20.06      J    C  
+ANISOU   62  C6  FMN B 401     2429   3062   2130    421    600    178  J    C  
+HETATM   63  C7  FMN B 401     -20.206  29.464  35.051  1.00 19.62      J    C  
+ANISOU   63  C7  FMN B 401     2445   2916   2094    298    566    187  J    C  
+HETATM   64  C7M FMN B 401     -20.177  30.379  33.832  1.00 20.84      J    C  
+ANISOU   64  C7M FMN B 401     2621   2909   2390    294    676    252  J    C  
+HETATM   65  C8  FMN B 401     -19.643  28.165  35.005  1.00 17.27      J    C  
+ANISOU   65  C8  FMN B 401     2363   2434   1767     99    516    -69  J    C  
+HETATM   66  C8M FMN B 401     -18.978  27.632  33.734  1.00 17.26      J    C  
+ANISOU   66  C8M FMN B 401     2608   2264   1687     75    615   -474  J    C  
+HETATM   67  C9  FMN B 401     -19.720  27.367  36.142  1.00 17.01      J    C  
+ANISOU   67  C9  FMN B 401     2357   2437   1668     71    584     12  J    C  
+HETATM   68  C9A FMN B 401     -20.347  27.846  37.295  1.00 17.93      J    C  
+ANISOU   68  C9A FMN B 401     2448   2547   1818    341    482    163  J    C  
+HETATM   69  C10 FMN B 401     -21.083  27.572  39.585  1.00 17.71      J    C  
+ANISOU   69  C10 FMN B 401     2521   2416   1794    317    428   -145  J    C  
+HETATM   70  N10 FMN B 401     -20.423  27.062  38.424  1.00 18.03      J    N  
+ANISOU   70  N10 FMN B 401     2538   2523   1789    108    572      6  J    N  
+HETATM   71 NA    NA B 403     -16.844  26.409  39.391  1.00 31.40      L   NA  
+ANISOU   71 NA    NA B 403     3840   3918   4174    -54    945   -245  L   NA  
+HETATM   72 NA    NA B 404     -15.393  23.560  21.151  1.00 32.05      M   NA  
+ANISOU   72 NA    NA B 404     3937   4451   3789    363    -14    465  M   NA  
+HETATM   73  P   FMN C 401     -24.985  -4.027   4.260  1.00 18.36      N    P  
+ANISOU   73  P   FMN C 401     2216   2541   2221    -57    239    -35  N    P  
+HETATM   74  O1P FMN C 401     -24.279  -2.692   4.195  1.00 20.10      N    O  
+ANISOU   74  O1P FMN C 401     2239   2793   2607    -56    209    252  N    O  
+HETATM   75  O2P FMN C 401     -25.631  -4.239   5.619  1.00 18.45      N    O1-
+ANISOU   75  O2P FMN C 401     2229   2712   2068    212    419    -59  N    O1-
+HETATM   76  O3P FMN C 401     -24.019  -5.139   3.894  1.00 19.82      N    O1-
+ANISOU   76  O3P FMN C 401     1812   3133   2586   -185    -37     28  N    O1-
+HETATM   77  C5' FMN C 401     -25.871  -4.217   1.805  1.00 18.62      N    C  
+ANISOU   77  C5' FMN C 401     2350   2697   2030    -80    482    219  N    C  
+HETATM   78  O5' FMN C 401     -26.206  -4.035   3.162  1.00 18.62      N    O  
+ANISOU   78  O5' FMN C 401     2218   2649   2207    -41    369     86  N    O  
+HETATM   79  C4' FMN C 401     -25.727  -2.899   1.059  1.00 20.63      N    C  
+ANISOU   79  C4' FMN C 401     2416   3057   2365   -187    124    188  N    C  
+HETATM   80  O4' FMN C 401     -24.612  -2.160   1.513  1.00 20.99      N    O  
+ANISOU   80  O4' FMN C 401     2405   3112   2457    -54    159     63  N    O  
+HETATM   81  C3' FMN C 401     -25.543  -3.182  -0.434  1.00 20.86      N    C  
+ANISOU   81  C3' FMN C 401     2317   3229   2379    -86     62    313  N    C  
+HETATM   82  O3' FMN C 401     -26.729  -3.714  -0.967  1.00 22.07      N    O  
+ANISOU   82  O3' FMN C 401     2408   3459   2520   -180     -8    281  N    O  
+HETATM   83  C2' FMN C 401     -25.078  -1.944  -1.222  1.00 21.28      N    C  
+ANISOU   83  C2' FMN C 401     2311   3335   2439    134    157    329  N    C  
+HETATM   84  O2' FMN C 401     -24.768  -2.299  -2.560  1.00 20.82      N    O  
+ANISOU   84  O2' FMN C 401     2237   3181   2495    -88    312    524  N    O  
+HETATM   85  C1' FMN C 401     -26.086  -0.768  -1.157  1.00 21.15      N    C  
+ANISOU   85  C1' FMN C 401     2245   3345   2447     -2    115    132  N    C  
+HETATM   86  N1  FMN C 401     -26.446  -0.005  -3.839  1.00 24.28      N    N  
+ANISOU   86  N1  FMN C 401     2362   3790   3075   -153   -131    926  N    N  
+HETATM   87  C2  FMN C 401     -26.652   0.283  -5.179  1.00 25.64      N    C  
+ANISOU   87  C2  FMN C 401     2358   4019   3365    217   -179    984  N    C  
+HETATM   88  O2  FMN C 401     -27.393  -0.389  -5.834  1.00 25.98      N    O  
+ANISOU   88  O2  FMN C 401     2356   4096   3419     -7    -40   1182  N    O  
+HETATM   89  N3  FMN C 401     -26.005   1.356  -5.762  1.00 25.65      N    N  
+ANISOU   89  N3  FMN C 401     2435   3944   3368    -90    -31    570  N    N  
+HETATM   90  C4  FMN C 401     -25.173   2.099  -5.025  1.00 25.64      N    C  
+ANISOU   90  C4  FMN C 401     2669   3767   3307   -151    -18    517  N    C  
+HETATM   91  C4A FMN C 401     -24.937   1.815  -3.664  1.00 23.55      N    C  
+ANISOU   91  C4A FMN C 401     2605   3396   2948   -257     28    514  N    C  
+HETATM   92  O4  FMN C 401     -24.605   3.015  -5.559  1.00 27.86      N    O  
+ANISOU   92  O4  FMN C 401     3125   4154   3309   -300    239    483  N    O  
+HETATM   93  C5A FMN C 401     -23.892   2.257  -1.613  1.00 23.41      N    C  
+ANISOU   93  C5A FMN C 401     2849   3283   2763    -23    -84      1  N    C  
+HETATM   94  N5  FMN C 401     -24.095   2.570  -2.926  1.00 24.28      N    N  
+ANISOU   94  N5  FMN C 401     2878   3469   2880     66    -47    591  N    N  
+HETATM   95  C6  FMN C 401     -23.013   3.035  -0.835  1.00 24.50      N    C  
+ANISOU   95  C6  FMN C 401     3122   3386   2802   -125     -1    -87  N    C  
+HETATM   96  C7  FMN C 401     -22.751   2.738   0.479  1.00 24.54      N    C  
+ANISOU   96  C7  FMN C 401     3129   3293   2904   -590    121   -144  N    C  
+HETATM   97  C7M FMN C 401     -21.762   3.611   1.264  1.00 24.92      N    C  
+ANISOU   97  C7M FMN C 401     3279   3061   3129  -1060    -18    123  N    C  
+HETATM   98  C8  FMN C 401     -23.397   1.653   1.104  1.00 23.00      N    C  
+ANISOU   98  C8  FMN C 401     2924   3099   2715   -587    177   -175  N    C  
+HETATM   99  C8M FMN C 401     -23.116   1.343   2.567  1.00 23.17      N    C  
+ANISOU   99  C8M FMN C 401     2897   3332   2577   -757    148   -119  N    C  
+HETATM  100  C9  FMN C 401     -24.289   0.883   0.361  1.00 22.52      N    C  
+ANISOU  100  C9  FMN C 401     2851   3194   2513   -490    152   -325  N    C  
+HETATM  101  C9A FMN C 401     -24.529   1.176  -0.981  1.00 22.47      N    C  
+ANISOU  101  C9A FMN C 401     2650   3289   2599   -168     83    -35  N    C  
+HETATM  102  C10 FMN C 401     -25.608   0.735  -3.118  1.00 23.38      N    C  
+ANISOU  102  C10 FMN C 401     2467   3540   2877     35    -39    538  N    C  
+HETATM  103  N10 FMN C 401     -25.402   0.419  -1.729  1.00 22.47      N    N  
+ANISOU  103  N10 FMN C 401     2396   3561   2581     59     24    110  N    N  
+HETATM  104 NA    NA C 403     -28.742   0.826  -0.104  1.00 33.69      P   NA  
+ANISOU  104 NA    NA C 403     4555   4320   3926    108     90    316  P   NA  
+HETATM  105 NA    NA C 404     -18.173  -1.841  14.990  1.00 34.78      Q   NA  
+ANISOU  105 NA    NA C 404     4166   4392   4658    326   -497   -538  Q   NA  
+HETATM  106  C1  GOL C 405     -27.403  13.085   5.028  1.00 33.50      R    C  
+ANISOU  106  C1  GOL C 405     4036   4454   4238    322   -521    -84  R    C  
+HETATM  107  O1  GOL C 405     -26.437  12.897   6.037  1.00 37.36      R    O  
+ANISOU  107  O1  GOL C 405     4324   5173   4698    250   -800    359  R    O  
+HETATM  108  C2  GOL C 405     -26.706  12.705   3.717  1.00 32.76      R    C  
+ANISOU  108  C2  GOL C 405     4242   3780   4426    747   -280   -319  R    C  
+HETATM  109  O2  GOL C 405     -26.086  11.440   3.833  1.00 38.27      R    O  
+ANISOU  109  O2  GOL C 405     4955   4067   5518    671   -351    214  R    O  
+HETATM  110  C3  GOL C 405     -27.846  12.683   2.654  1.00 32.42      R    C  
+ANISOU  110  C3  GOL C 405     4300   3862   4157    820     31   -779  R    C  
+HETATM  111  O3  GOL C 405     -27.422  11.757   1.688  1.00 38.89      R    O  
+ANISOU  111  O3  GOL C 405     5164   4988   4627    527    279   -681  R    O  
+HETATM  112  P   FMN D 401     -43.871 -10.411  15.163  1.00 20.89      S    P  
+ANISOU  112  P   FMN D 401     1936   3822   2178    273     13     85  S    P  
+HETATM  113  O1P FMN D 401     -44.024 -11.894  15.367  1.00 23.00      S    O  
+ANISOU  113  O1P FMN D 401     1832   4348   2559    229    -67   -289  S    O  
+HETATM  114  O2P FMN D 401     -43.316 -10.064  13.798  1.00 21.21      S    O1-
+ANISOU  114  O2P FMN D 401     1957   4090   2013    520      1   -201  S    O1-
+HETATM  115  O3P FMN D 401     -45.197  -9.712  15.385  1.00 22.56      S    O1-
+ANISOU  115  O3P FMN D 401     2018   4180   2373    219   -368    350  S    O1-
+HETATM  116  C5' FMN D 401     -42.902 -10.255  17.603  1.00 19.17      S    C  
+ANISOU  116  C5' FMN D 401     1598   4015   1673    772   -256   -343  S    C  
+HETATM  117  O5' FMN D 401     -42.813  -9.824  16.272  1.00 19.45      S    O  
+ANISOU  117  O5' FMN D 401     1635   3916   1841    284    -56    -43  S    O  
+HETATM  118  C4' FMN D 401     -43.755  -9.313  18.443  1.00 20.17      S    C  
+ANISOU  118  C4' FMN D 401     1517   4181   1967    923     12   -204  S    C  
+HETATM  119  O4' FMN D 401     -45.101  -9.340  18.007  1.00 22.10      S    O  
+ANISOU  119  O4' FMN D 401     1779   4260   2360    805    165   -128  S    O  
+HETATM  120  C3' FMN D 401     -43.662  -9.778  19.888  1.00 20.70      S    C  
+ANISOU  120  C3' FMN D 401     1785   4141   1939    683     79   -125  S    C  
+HETATM  121  O3' FMN D 401     -42.354  -9.595  20.378  1.00 20.08      S    O  
+ANISOU  121  O3' FMN D 401     2036   3694   1901    543   -136    117  S    O  
+HETATM  122  C2' FMN D 401     -44.690  -9.085  20.789  1.00 21.55      S    C  
+ANISOU  122  C2' FMN D 401     2071   4092   2026    812    372    136  S    C  
+HETATM  123  O2' FMN D 401     -44.643  -9.676  22.072  1.00 22.11      S    O  
+ANISOU  123  O2' FMN D 401     2017   4200   2184    500    479    358  S    O  
+HETATM  124  C1' FMN D 401     -44.475  -7.555  20.853  1.00 21.65      S    C  
+ANISOU  124  C1' FMN D 401     2091   4134   2001   1096    408    242  S    C  
+HETATM  125  N1  FMN D 401     -44.464  -6.984  23.608  1.00 22.71      S    N  
+ANISOU  125  N1  FMN D 401     2150   4143   2338   1188    196   -100  S    N  
+HETATM  126  C2  FMN D 401     -44.385  -6.761  24.964  1.00 24.13      S    C  
+ANISOU  126  C2  FMN D 401     2472   4117   2581   1015    116     93  S    C  
+HETATM  127  O2  FMN D 401     -43.353  -6.968  25.539  1.00 23.51      S    O  
+ANISOU  127  O2  FMN D 401     2587   3878   2470    927     43    211  S    O  
+HETATM  128  N3  FMN D 401     -45.503  -6.300  25.643  1.00 25.09      S    N  
+ANISOU  128  N3  FMN D 401     2479   4409   2646   1176    247    240  S    N  
+HETATM  129  C4  FMN D 401     -46.648  -6.097  24.976  1.00 25.71      S    C  
+ANISOU  129  C4  FMN D 401     2461   4681   2627   1439    355     51  S    C  
+HETATM  130  C4A FMN D 401     -46.756  -6.337  23.594  1.00 24.55      S    C  
+ANISOU  130  C4A FMN D 401     2189   4630   2508   1274    286    203  S    C  
+HETATM  131  O4  FMN D 401     -47.626  -5.717  25.569  1.00 26.87      S    O  
+ANISOU  131  O4  FMN D 401     2650   4979   2580   1508    506    -93  S    O  
+HETATM  132  C5A FMN D 401     -47.971  -6.368  21.602  1.00 25.07      S    C  
+ANISOU  132  C5A FMN D 401     2239   4684   2604   1175    211    429  S    C  
+HETATM  133  N5  FMN D 401     -47.922  -6.117  22.944  1.00 25.61      S    N  
+ANISOU  133  N5  FMN D 401     2393   4708   2631   1154    342    375  S    N  
+HETATM  134  C6  FMN D 401     -49.171  -6.169  20.885  1.00 26.28      S    C  
+ANISOU  134  C6  FMN D 401     2407   4736   2844   1050    353    419  S    C  
+HETATM  135  C7  FMN D 401     -49.248  -6.419  19.539  1.00 26.17      S    C  
+ANISOU  135  C7  FMN D 401     2269   4757   2919   1142    442    462  S    C  
+HETATM  136  C7M FMN D 401     -50.567  -6.202  18.816  1.00 28.25      S    C  
+ANISOU  136  C7M FMN D 401     2165   5256   3315   1169    501    308  S    C  
+HETATM  137  C8  FMN D 401     -48.124  -6.883  18.820  1.00 23.97      S    C  
+ANISOU  137  C8  FMN D 401     1941   4569   2599   1050    477    613  S    C  
+HETATM  138  C8M FMN D 401     -48.222  -7.167  17.325  1.00 24.30      S    C  
+ANISOU  138  C8M FMN D 401     1985   4672   2578    713    393    622  S    C  
+HETATM  139  C9  FMN D 401     -46.931  -7.082  19.502  1.00 23.37      S    C  
+ANISOU  139  C9  FMN D 401     1973   4475   2431   1078    323    485  S    C  
+HETATM  140  C9A FMN D 401     -46.853  -6.835  20.875  1.00 24.14      S    C  
+ANISOU  140  C9A FMN D 401     2059   4579   2534   1225    164    446  S    C  
+HETATM  141  C10 FMN D 401     -45.611  -6.789  22.955  1.00 23.55      S    C  
+ANISOU  141  C10 FMN D 401     2181   4359   2407   1197    226     93  S    C  
+HETATM  142  N10 FMN D 401     -45.670  -7.031  21.552  1.00 23.32      S    N  
+ANISOU  142  N10 FMN D 401     2046   4491   2325   1046    238    252  S    N  
+HETATM  143 NA    NA D 403     -51.136 -11.358   4.491  1.00 41.61      U   NA  
+ANISOU  143 NA    NA D 403     3504   7158   5149   -423   -375    656  U   NA  
+HETATM  144 NA    NA D 404     -43.172  -4.537  20.002  1.00 34.24      V   NA  
+ANISOU  144 NA    NA D 404     3821   5677   3511   1767    748    281  V   NA  
+CONECT    1    2    3    4    6
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    6    7
+CONECT    6    1    5
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   31
+CONECT   14   15   30
+CONECT   15   14   16   17
+CONECT   16   15
+CONECT   17   15   18
+CONECT   18   17   19   20
+CONECT   19   18   22   30
+CONECT   20   18
+CONECT   21   22   23   29
+CONECT   22   19   21
+CONECT   23   21   24
+CONECT   24   23   25   26
+CONECT   25   24
+CONECT   26   24   27   28
+CONECT   27   26
+CONECT   28   26   29
+CONECT   29   21   28   31
+CONECT   30   14   19   31
+CONECT   31   13   29   30
+CONECT   34   35   36
+CONECT   35   34
+CONECT   36   34   37   38
+CONECT   37   36
+CONECT   38   36   39
+CONECT   39   38
+CONECT   40   41   42   43   45
+CONECT   41   40
+CONECT   42   40
+CONECT   43   40
+CONECT   44   45   46
+CONECT   45   40   44
+CONECT   46   44   47   48
+CONECT   47   46
+CONECT   48   46   49   50
+CONECT   49   48
+CONECT   50   48   51   52
+CONECT   51   50
+CONECT   52   50   70
+CONECT   53   54   69
+CONECT   54   53   55   56
+CONECT   55   54
+CONECT   56   54   57
+CONECT   57   56   58   59
+CONECT   58   57   61   69
+CONECT   59   57
+CONECT   60   61   62   68
+CONECT   61   58   60
+CONECT   62   60   63
+CONECT   63   62   64   65
+CONECT   64   63
+CONECT   65   63   66   67
+CONECT   66   65
+CONECT   67   65   68
+CONECT   68   60   67   70
+CONECT   69   53   58   70
+CONECT   70   52   68   69
+CONECT   73   74   75   76   78
+CONECT   74   73
+CONECT   75   73
+CONECT   76   73
+CONECT   77   78   79
+CONECT   78   73   77
+CONECT   79   77   80   81
+CONECT   80   79
+CONECT   81   79   82   83
+CONECT   82   81
+CONECT   83   81   84   85
+CONECT   84   83
+CONECT   85   83  103
+CONECT   86   87  102
+CONECT   87   86   88   89
+CONECT   88   87
+CONECT   89   87   90
+CONECT   90   89   91   92
+CONECT   91   90   94  102
+CONECT   92   90
+CONECT   93   94   95  101
+CONECT   94   91   93
+CONECT   95   93   96
+CONECT   96   95   97   98
+CONECT   97   96
+CONECT   98   96   99  100
+CONECT   99   98
+CONECT  100   98  101
+CONECT  101   93  100  103
+CONECT  102   86   91  103
+CONECT  103   85  101  102
+CONECT  106  107  108
+CONECT  107  106
+CONECT  108  106  109  110
+CONECT  109  108
+CONECT  110  108  111
+CONECT  111  110
+CONECT  112  113  114  115  117
+CONECT  113  112
+CONECT  114  112
+CONECT  115  112
+CONECT  116  117  118
+CONECT  117  112  116
+CONECT  118  116  119  120
+CONECT  119  118
+CONECT  120  118  121  122
+CONECT  121  120
+CONECT  122  120  123  124
+CONECT  123  122
+CONECT  124  122  142
+CONECT  125  126  141
+CONECT  126  125  127  128
+CONECT  127  126
+CONECT  128  126  129
+CONECT  129  128  130  131
+CONECT  130  129  133  141
+CONECT  131  129
+CONECT  132  133  134  140
+CONECT  133  130  132
+CONECT  134  132  135
+CONECT  135  134  136  137
+CONECT  136  135
+CONECT  137  135  138  139
+CONECT  138  137
+CONECT  139  137  140
+CONECT  140  132  139  142
+CONECT  141  125  130  142
+CONECT  142  124  140  141
+END

@@ -1,0 +1,164 @@
+CRYST1   82.142   82.142  169.177  90.00  90.00 120.00 P 61 2 2     12
+HETATM    1  PA  ADP A 402      -8.487 -26.220   5.963  1.00 64.22      C    P  
+HETATM    2  PB  ADP A 402     -10.014 -23.942   4.811  1.00 69.97      C    P  
+HETATM    3  C5' ADP A 402      -6.899 -26.667   3.877  1.00 60.30      C    C  
+HETATM    4  O5' ADP A 402      -7.079 -26.644   5.304  1.00 62.12      C    O  
+HETATM    5  C4' ADP A 402      -6.258 -27.961   3.455  1.00 60.11      C    C  
+HETATM    6  O4' ADP A 402      -4.920 -28.045   3.999  1.00 60.12      C    O  
+HETATM    7  C3' ADP A 402      -6.935 -29.234   3.944  1.00 60.61      C    C  
+HETATM    8  O3' ADP A 402      -8.084 -29.618   3.211  1.00 62.08      C    O  
+HETATM    9  C2' ADP A 402      -5.798 -30.230   3.831  1.00 61.42      C    C  
+HETATM   10  O2' ADP A 402      -5.573 -30.549   2.459  1.00 63.86      C    O  
+HETATM   11  C1' ADP A 402      -4.652 -29.386   4.392  1.00 62.73      C    C  
+HETATM   12  N1  ADP A 402      -2.655 -31.731   8.567  1.00 69.84      C    N  
+HETATM   13  O1A ADP A 402      -9.526 -27.239   5.505  1.00 60.37      C    O  
+HETATM   14  O1B ADP A 402     -10.780 -24.780   3.765  1.00 67.99      C    O  
+HETATM   15  C2  ADP A 402      -2.497 -31.962   7.259  1.00 67.84      C    C  
+HETATM   16  O2A ADP A 402      -8.466 -26.092   7.445  1.00 62.88      C    O  
+HETATM   17  O2B ADP A 402      -9.276 -22.806   4.091  1.00 70.30      C    O  
+HETATM   18  N3  ADP A 402      -3.035 -31.308   6.222  1.00 66.32      C    N  
+HETATM   19  O3A ADP A 402      -8.757 -24.787   5.315  1.00 67.03      C    O  
+HETATM   20  O3B ADP A 402     -10.940 -23.477   5.922  1.00 63.99      C    O  
+HETATM   21  C4  ADP A 402      -3.824 -30.306   6.633  1.00 66.51      C    C  
+HETATM   22  C5  ADP A 402      -4.089 -29.964   7.943  1.00 68.71      C    C  
+HETATM   23  C6  ADP A 402      -3.473 -30.717   8.952  1.00 70.55      C    C  
+HETATM   24  N6  ADP A 402      -3.663 -30.504  10.254  1.00 68.04      C    N  
+HETATM   25  N7  ADP A 402      -4.990 -28.887   7.995  1.00 67.06      C    N  
+HETATM   26  C8  ADP A 402      -5.214 -28.632   6.741  1.00 67.67      C    C  
+HETATM   27  N9  ADP A 402      -4.558 -29.435   5.852  1.00 67.07      C    N  
+HETATM   28 MG    MG A 403     -11.382 -27.068   3.900  1.00 65.67      D   MG2+
+HETATM   29 MG    MG A 404     -13.010 -23.962   5.663  1.00 82.42      E   MG2+
+HETATM   30  C   T5L A 405     -11.107 -20.035   7.442  1.00 79.15      F    C  
+HETATM   31  O   T5L A 405     -10.795 -20.689   8.413  1.00 81.15      F    O  
+HETATM   32  C1  T5L A 405     -12.376 -19.221   7.356  1.00 79.02      F    C  
+HETATM   33  O1  T5L A 405     -10.367 -19.927   6.375  1.00 77.00      F    O  
+HETATM   34  C2  T5L A 405     -13.630 -20.087   7.155  1.00 80.66      F    C  
+HETATM   35  O2  T5L A 405     -13.246 -22.316   6.675  1.00 82.78      F    O  
+HETATM   36  C3  T5L A 405     -13.453 -21.158   6.113  1.00 81.73      F    C  
+HETATM   37  O3  T5L A 405     -13.505 -20.971   4.907  1.00 82.88      F    O  
+HETATM   38  C4  T5L A 405     -14.869 -19.209   6.943  1.00 81.07      F    C  
+HETATM   39  C5  T5L A 405     -15.071 -18.261   8.123  1.00 81.12      F    C  
+HETATM   40  C6  T5L A 405     -13.817 -17.431   8.411  1.00 81.10      F    C  
+HETATM   41  C7  T5L A 405     -12.575 -18.308   8.573  1.00 79.57      F    C  
+HETATM   42  O1  SO4 A 406     -31.838 -23.317 -14.416  1.00141.32      G    O  
+HETATM   43  O2  SO4 A 406     -33.893 -24.550 -14.156  1.00140.97      G    O  
+HETATM   44  O3  SO4 A 406     -32.041 -24.879 -12.646  1.00140.84      G    O  
+HETATM   45  O4  SO4 A 406     -33.316 -22.848 -12.570  1.00141.07      G    O  
+HETATM   46  S   SO4 A 406     -32.775 -23.899 -13.449  1.00141.14      G    S  
+HETATM   47  O1  SO4 A 407     -38.445 -36.878   0.705  1.00187.63      H    O  
+HETATM   48  O2  SO4 A 407     -36.299 -36.922   1.727  1.00187.37      H    O  
+HETATM   49  O3  SO4 A 407     -37.908 -38.606   2.257  1.00187.75      H    O  
+HETATM   50  O4  SO4 A 407     -38.259 -36.393   3.036  1.00187.77      H    O  
+HETATM   51  S   SO4 A 407     -37.721 -37.195   1.934  1.00187.59      H    S  
+HETATM   52  O1  SO4 A 408     -21.771 -20.381  17.799  1.00160.52      I    O  
+HETATM   53  O2  SO4 A 408     -22.888 -18.485  17.051  1.00161.82      I    O  
+HETATM   54  O3  SO4 A 408     -21.650 -18.394  19.109  1.00160.07      I    O  
+HETATM   55  O4  SO4 A 408     -23.726 -19.610  18.970  1.00160.51      I    O  
+HETATM   56  S   SO4 A 408     -22.511 -19.220  18.249  1.00160.78      I    S  
+HETATM   57  O1  SO4 A 409      19.311 -29.438  13.987  1.00161.46      J    O  
+HETATM   58  O2  SO4 A 409      17.311 -29.764  12.724  1.00161.43      J    O  
+HETATM   59  O3  SO4 A 409      17.650 -31.009  14.742  1.00160.91      J    O  
+HETATM   60  O4  SO4 A 409      17.236 -28.647  14.836  1.00161.91      J    O  
+HETATM   61  S   SO4 A 409      17.875 -29.719  14.072  1.00161.49      J    S  
+HETATM   62  O1  SO4 A 410     -11.373  -7.269  13.040  0.50139.53      K    O  
+HETATM   63  O2  SO4 A 410     -13.638  -6.662  13.518  0.50139.39      K    O  
+HETATM   64  O3  SO4 A 410     -12.624  -8.448  14.714  0.50139.37      K    O  
+HETATM   65  O4  SO4 A 410     -11.897  -6.199  15.101  0.50139.44      K    O  
+HETATM   66  S   SO4 A 410     -12.382  -7.145  14.094  0.50139.55      K    S  
+HETATM   67  O   DMS A 411     -27.191 -39.162  18.646  1.00121.74      L    O  
+HETATM   68  C1  DMS A 411     -25.304 -40.213  20.125  1.00121.10      L    C  
+HETATM   69  C2  DMS A 411     -25.594 -37.514  19.787  1.00121.85      L    C  
+HETATM   70  S   DMS A 411     -26.570 -38.986  19.963  1.00122.08      L    S  
+HETATM   71  O   DMS A 412       4.605 -18.058   4.647  1.00127.28      M    O  
+HETATM   72  C1  DMS A 412       3.984 -16.893   6.858  1.00127.88      M    C  
+HETATM   73  C2  DMS A 412       2.612 -16.409   4.570  1.00126.94      M    C  
+HETATM   74  S   DMS A 412       3.394 -17.752   5.429  1.00127.67      M    S  
+HETATM   75  O   DMS A 413     -16.024 -37.167  -6.065  1.00114.76      N    O  
+HETATM   76  C1  DMS A 413     -15.992 -36.482  -8.579  1.00114.33      N    C  
+HETATM   77  C2  DMS A 413     -16.631 -34.730  -6.564  1.00114.92      N    C  
+HETATM   78  S   DMS A 413     -15.531 -36.072  -6.915  1.00115.34      N    S  
+HETATM   79  C   ACT A 414     -39.589 -31.439   3.678  1.00134.87      O    C  
+HETATM   80  O   ACT A 414     -39.475 -32.622   4.141  1.00135.32      O    O  
+HETATM   81  CH3 ACT A 414     -39.968 -31.176   2.153  1.00134.58      O    C  
+HETATM   82  OXT ACT A 414     -39.448 -30.406   4.368  1.00134.77      O    O  
+CONECT    1    4   13   16   19
+CONECT    2   14   17   19   20
+CONECT    3    4    5
+CONECT    4    1    3
+CONECT    5    3    6    7
+CONECT    6    5   11
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    6    9   27
+CONECT   12   15   23
+CONECT   13    1
+CONECT   14    2
+CONECT   15   12   18
+CONECT   16    1
+CONECT   17    2
+CONECT   18   15   21
+CONECT   19    1    2
+CONECT   20    2
+CONECT   21   18   22   27
+CONECT   22   21   23   25
+CONECT   23   12   22   24
+CONECT   24   23
+CONECT   25   22   26
+CONECT   26   25   27
+CONECT   27   11   21   26
+CONECT   30   31   32   33
+CONECT   31   30
+CONECT   32   30   34   41
+CONECT   33   30
+CONECT   34   32   36   38
+CONECT   35   36
+CONECT   36   34   35   37
+CONECT   37   36
+CONECT   38   34   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   32   40
+CONECT   42   46
+CONECT   43   46
+CONECT   44   46
+CONECT   45   46
+CONECT   46   42   43   44   45
+CONECT   47   51
+CONECT   48   51
+CONECT   49   51
+CONECT   50   51
+CONECT   51   47   48   49   50
+CONECT   52   56
+CONECT   53   56
+CONECT   54   56
+CONECT   55   56
+CONECT   56   52   53   54   55
+CONECT   57   61
+CONECT   58   61
+CONECT   59   61
+CONECT   60   61
+CONECT   61   57   58   59   60
+CONECT   62   66
+CONECT   63   66
+CONECT   64   66
+CONECT   65   66
+CONECT   66   62   63   64   65
+CONECT   67   70
+CONECT   68   70
+CONECT   69   70
+CONECT   70   67   68   69
+CONECT   71   74
+CONECT   72   74
+CONECT   73   74
+CONECT   74   71   72   73
+CONECT   75   78
+CONECT   76   78
+CONECT   77   78
+CONECT   78   75   76   77
+CONECT   79   80   81   82
+CONECT   80   79
+CONECT   81   79
+CONECT   82   79
+END
