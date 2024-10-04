@@ -1,0 +1,23 @@
+CRYST1   47.937   76.093  105.464  90.00  90.00  90.00 P 21 21 21    4
+HETATM    1 ZN    ZN A 501      18.707  -5.324  31.644  1.00 37.33      B   ZN  
+HETATM    2 ZN    ZN A 502      20.929   5.646  40.102  1.00 37.79      C   ZN  
+HETATM    3  C1  EDO A 504       2.705 -18.379  10.500  1.00 35.47      E    C  
+HETATM    4  O1  EDO A 504       3.820 -17.828  11.062  1.00 30.90      E    O  
+HETATM    5  C2  EDO A 504       1.620 -18.462  11.501  1.00 40.15      E    C  
+HETATM    6  O2  EDO A 504       0.360 -18.215  10.964  1.00 35.98      E    O  
+HETATM    7  O1  SO4 A 505      -4.574  12.397   6.810  1.00 45.47      F    O  
+HETATM    8  O2  SO4 A 505      -6.173  10.708   7.192  1.00 44.97      F    O  
+HETATM    9  O3  SO4 A 505      -4.225  10.750   8.469  1.00 46.57      F    O  
+HETATM   10  O4  SO4 A 505      -5.860  12.440   8.798  1.00 43.87      F    O  
+HETATM   11  S   SO4 A 505      -5.213  11.573   7.821  1.00 53.36      F    S  
+HETATM   12  UNK UNX A 506      10.102   6.597   2.071  1.00 33.61      G    X  
+CONECT    3    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5
+CONECT    7   11
+CONECT    8   11
+CONECT    9   11
+CONECT   10   11
+CONECT   11    7    8    9   10
+END

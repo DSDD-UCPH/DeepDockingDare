@@ -1,0 +1,13 @@
+HETATM    1  O   HOH R 601     106.283 112.623 100.649  1.00 30.00      G    O  
+HETATM    2  H1  HOH R 601     107.078 112.415 100.161  1.00 30.00      G    H  
+HETATM    3  H2  HOH R 601     106.267 111.987 101.361  1.00 30.00      G    H  
+HETATM    4  O   HOH R 602     100.779 114.733 108.947  1.00 30.00      G    O  
+HETATM    5  H1  HOH R 602     101.482 114.103 108.789  1.00 30.00      G    H  
+HETATM    6  H2  HOH R 602     100.520 115.028 108.074  1.00 30.00      G    H  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+CONECT    4    5    6
+CONECT    5    4
+CONECT    6    4
+END

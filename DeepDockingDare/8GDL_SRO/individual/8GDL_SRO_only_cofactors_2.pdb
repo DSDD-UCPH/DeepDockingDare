@@ -1,0 +1,53 @@
+CRYST1   47.968   71.898  113.513  90.00  91.54  90.00 P 1 21 1      4
+HETATM    1  O1  SO4 B 402      29.797  -9.769  43.661  1.00 21.93      I    O  
+ANISOU    1  O1  SO4 B 402     2791   2881   2662     28   -195    -80  I    O  
+HETATM    2  O2  SO4 B 402      31.818 -10.895  43.165  1.00 24.43      I    O  
+ANISOU    2  O2  SO4 B 402     3056   3199   3028     76   -148    -70  I    O  
+HETATM    3  O3  SO4 B 402      30.269 -11.928  44.594  1.00 24.18      I    O  
+ANISOU    3  O3  SO4 B 402     3086   3149   2951     75   -207    -87  I    O  
+HETATM    4  O4  SO4 B 402      31.529 -10.031  45.365  1.00 20.92      I    O  
+ANISOU    4  O4  SO4 B 402     2589   2760   2600     49   -239    -73  I    O  
+HETATM    5  S   SO4 B 402      30.851 -10.633  44.219  1.00 21.52      I    S  
+ANISOU    5  S   SO4 B 402     2710   2828   2640     56   -198    -78  I    S  
+HETATM    6  C1  PAM B 403      29.772 -11.810  50.186  1.00 25.90      J    C  
+HETATM    7  O1  PAM B 403      30.155 -11.348  51.285  1.00 28.58      J    O  
+HETATM    8  C2  PAM B 403      29.389 -13.296  50.147  1.00 29.41      J    C  
+HETATM    9  O2  PAM B 403      29.674 -11.189  49.116  1.00 26.50      J    O  
+HETATM   10  C3  PAM B 403      28.438 -13.777  51.224  1.00 28.76      J    C  
+HETATM   11  C4  PAM B 403      29.215 -14.209  52.457  1.00 28.44      J    C  
+HETATM   12  C5  PAM B 403      28.366 -14.920  53.503  1.00 28.42      J    C  
+HETATM   13  C6  PAM B 403      28.105 -16.381  53.177  1.00 27.62      J    C  
+HETATM   14  C7  PAM B 403      27.299 -17.120  54.237  1.00 25.41      J    C  
+HETATM   15  C8  PAM B 403      26.186 -17.915  53.563  1.00 28.54      J    C  
+HETATM   16  C9  PAM B 403      25.359 -18.811  54.435  1.00 28.51      J    C  
+HETATM   17  C10 PAM B 403      24.303 -19.468  53.966  1.00 24.58      J    C  
+HETATM   18  C11 PAM B 403      23.810 -19.392  52.547  1.00 24.65      J    C  
+HETATM   19  C12 PAM B 403      22.890 -18.192  52.281  1.00 25.20      J    C  
+HETATM   20  C13 PAM B 403      23.327 -17.281  51.133  1.00 22.56      J    C  
+HETATM   21  C14 PAM B 403      22.784 -17.652  49.753  1.00 19.59      J    C  
+HETATM   22  C15 PAM B 403      21.672 -16.744  49.236  1.00 22.36      J    C  
+HETATM   23  C16 PAM B 403      22.019 -15.267  49.081  1.00 21.13      J    C  
+CONECT    1    5
+CONECT    2    5
+CONECT    3    5
+CONECT    4    5
+CONECT    5    1    2    3    4
+CONECT    6    7    8    9
+CONECT    7    6
+CONECT    8    6   10
+CONECT    9    6
+CONECT   10    8   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22
+END
