@@ -1,0 +1,15 @@
+CRYST1   50.651   74.537   85.641  83.02  80.90  89.90 P 1           4
+HETATM    1  C1  GOL D 401      26.849 -40.738  41.368  1.00 44.17      M    C  
+HETATM    2  O1  GOL D 401      25.586 -40.643  42.007  1.00 50.79      M    O  
+HETATM    3  C2  GOL D 401      27.113 -42.168  40.881  1.00 46.15      M    C  
+HETATM    4  O2  GOL D 401      28.503 -42.503  40.870  1.00 48.15      M    O  
+HETATM    5  C3  GOL D 401      26.342 -42.500  39.586  1.00 47.47      M    C  
+HETATM    6  O3  GOL D 401      25.577 -41.457  39.020  1.00 43.53      M    O  
+HETATM    7 CA    CA D 403      29.606 -42.278  43.593  1.00 37.67      O   CA  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5
+END

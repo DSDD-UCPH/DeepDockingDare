@@ -1,0 +1,63 @@
+CRYST1  246.850   69.320  147.430  90.00 122.55  90.00 C 1 2 1       8
+HETATM    1 MG    MG A2600      27.556   2.568  47.248  1.00 62.41      G   MG  
+HETATM    2  PA  DG3 A2601      29.701   4.731  49.072  1.00 61.75      H    P  
+HETATM    3  PB  DG3 A2601      27.763   3.390  50.614  1.00 79.29      H    P  
+HETATM    4  PG  DG3 A2601      25.558   4.546  49.295  1.00 67.19      H    P  
+HETATM    5  C5' DG3 A2601      31.406   2.728  49.161  1.00 47.76      H    C  
+HETATM    6  O5' DG3 A2601      30.875   3.894  49.782  1.00 64.05      H    O  
+HETATM    7  C4' DG3 A2601      32.450   2.118  50.085  1.00 73.57      H    C  
+HETATM    8  O4' DG3 A2601      33.487   3.067  50.343  1.00 61.09      H    O  
+HETATM    9  C3' DG3 A2601      31.808   1.789  51.424  1.00 54.52      H    C  
+HETATM   10  C2' DG3 A2601      32.813   2.236  52.471  1.00 68.72      H    C  
+HETATM   11  C1' DG3 A2601      33.866   3.039  51.721  1.00 68.22      H    C  
+HETATM   12  N1  DG3 A2601      35.874   6.193  55.391  1.00 58.40      H    N  
+HETATM   13  O1A DG3 A2601      30.169   6.157  48.906  1.00 66.67      H    O  
+HETATM   14  O1B DG3 A2601      28.115   3.038  52.040  1.00 65.61      H    O  
+HETATM   15  O1G DG3 A2601      26.187   3.816  48.134  1.00 84.53      H    O  
+HETATM   16  C2  DG3 A2601      36.078   4.878  55.183  1.00 56.85      H    C  
+HETATM   17  N2  DG3 A2601      36.917   4.212  56.013  1.00 67.98      H    N  
+HETATM   18  O2A DG3 A2601      29.211   3.969  47.863  1.00 63.41      H    O  
+HETATM   19  O2B DG3 A2601      27.937   2.338  49.546  1.00 76.70      H    O  
+HETATM   20  O2G DG3 A2601      24.089   4.255  49.485  1.00 69.50      H    O  
+HETATM   21  N3  DG3 A2601      35.480   4.191  54.178  1.00 54.86      H    N  
+HETATM   22  O3A DG3 A2601      28.574   4.728  50.224  1.00 78.43      H    O  
+HETATM   23  O3B DG3 A2601      26.242   3.918  50.613  1.00 71.23      H    O  
+HETATM   24  O3G DG3 A2601      25.923   6.010  49.362  1.00 66.25      H    O  
+HETATM   25  C4  DG3 A2601      34.634   4.806  53.320  1.00 53.88      H    C  
+HETATM   26  C5  DG3 A2601      34.370   6.241  53.497  1.00 47.39      H    C  
+HETATM   27  C6  DG3 A2601      35.060   6.922  54.616  1.00 54.49      H    C  
+HETATM   28  O6  DG3 A2601      34.889   8.141  54.832  1.00 63.20      H    O  
+HETATM   29  N7  DG3 A2601      33.507   6.596  52.526  1.00 54.19      H    N  
+HETATM   30  C8  DG3 A2601      33.241   5.484  51.792  1.00 50.39      H    C  
+HETATM   31  N9  DG3 A2601      33.914   4.418  52.266  1.00 60.01      H    N  
+CONECT    2    6   13   18   22
+CONECT    3   14   19   22   23
+CONECT    4   15   20   23   24
+CONECT    5    6    7
+CONECT    6    2    5
+CONECT    7    5    8    9
+CONECT    8    7   11
+CONECT    9    7   10
+CONECT   10    9   11
+CONECT   11    8   10   31
+CONECT   12   16   27
+CONECT   13    2
+CONECT   14    3
+CONECT   15    4
+CONECT   16   12   17   21
+CONECT   17   16
+CONECT   18    2
+CONECT   19    3
+CONECT   20    4
+CONECT   21   16   25
+CONECT   22    2    3
+CONECT   23    3    4
+CONECT   24    4
+CONECT   25   21   26   31
+CONECT   26   25   27   29
+CONECT   27   12   26   28
+CONECT   28   27
+CONECT   29   26   30
+CONECT   30   29   31
+CONECT   31   11   25   30
+END

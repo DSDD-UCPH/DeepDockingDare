@@ -1,0 +1,20 @@
+CRYST1   41.879   71.721  148.630  90.00  93.98  90.00 P 1 21 1      2
+HETATM    1 ZN    ZN A 602      31.927  22.146  25.578  1.00117.57      E   ZN  
+HETATM    2  C1  EDO A 603      13.941  23.554 -12.168  1.00 85.99      F    C  
+HETATM    3  O1  EDO A 603      13.043  23.202 -13.227  1.00 75.61      F    O  
+HETATM    4  C2  EDO A 603      13.279  24.588 -11.266  1.00 86.95      F    C  
+HETATM    5  O2  EDO A 603      14.172  24.933 -10.201  1.00 86.44      F    O  
+HETATM    6 ZN    ZN A 602     -31.927 -13.715 -25.578  1.00117.57      E   ZN  
+HETATM    7  C1  EDO A 603     -13.941 -12.306  12.168  1.00 85.99      F    C  
+HETATM    8  O1  EDO A 603     -13.043 -12.659  13.227  1.00 75.61      F    O  
+HETATM    9  C2  EDO A 603     -13.279 -11.273  11.266  1.00 86.95      F    C  
+HETATM   10  O2  EDO A 603     -14.172 -10.927  10.201  1.00 86.44      F    O  
+CONECT    2    3    4
+CONECT    3    2
+CONECT    4    2    5
+CONECT    5    4
+CONECT    7    8    9
+CONECT    8    7
+CONECT    9    7   10
+CONECT   10    9
+END

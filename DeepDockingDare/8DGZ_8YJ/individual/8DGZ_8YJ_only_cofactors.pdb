@@ -1,0 +1,14 @@
+CRYST1   89.045   89.045  183.623  90.00  90.00 120.00 P 32 2 1     12
+HETATM    1  C   ACE C   1      57.148 -30.833   3.660  0.80167.71      C    C  
+HETATM    2  O   ACE C   1      56.837 -32.005   3.457  0.80167.55      C    O  
+HETATM    3  CH3 ACE C   1      57.597 -30.360   5.006  0.80165.07      C    C  
+HETATM    4  C   ACE D   1      13.387   1.063  11.669  0.80128.41      D    C  
+HETATM    5  O   ACE D   1      13.458   2.192  11.190  0.80125.68      D    O  
+HETATM    6  CH3 ACE D   1      12.504   0.749  12.833  0.80127.43      D    C  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+CONECT    4    5    6
+CONECT    5    4
+CONECT    6    4
+END

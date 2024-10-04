@@ -1,0 +1,176 @@
+CRYST1   73.443  119.074  141.643  90.00 102.77  90.00 P 1 21 1      4
+HETATM    1  O   HOH B1201     -23.404 -59.018  21.357  1.00 26.80      PA   O  
+ANISOU    1  O   HOH B1201     3486   3588   3108   -574    194   -476  PA   O  
+HETATM    2  O   HOH B1202     -28.001 -18.981   9.659  1.00 39.18      PA   O  
+ANISOU    2  O   HOH B1202     4410   5795   4682     31   -283    814  PA   O  
+HETATM    3  O   HOH B1203      -9.458 -55.743  19.399  1.00 30.08      PA   O  
+ANISOU    3  O   HOH B1203     3946   3952   3531   -240    188   -359  PA   O  
+HETATM    4  O   HOH B1204     -20.096 -52.921  23.521  1.00 25.33      PA   O  
+ANISOU    4  O   HOH B1204     3252   3402   2970   -371    106   -248  PA   O  
+HETATM    5  O   HOH B1205       0.772 -37.718  38.834  1.00 45.77      PA   O  
+ANISOU    5  O   HOH B1205     5883   5655   5851    188    -32    175  PA   O  
+HETATM    6  O   HOH B1206     -32.166 -39.443  12.642  1.00 40.60      PA   O  
+ANISOU    6  O   HOH B1206     4578   6237   4613   -408   -255    145  PA   O  
+HETATM    7  O   HOH B1207      11.605 -44.298   5.335  1.00 41.50      PA   O  
+ANISOU    7  O   HOH B1207     5022   6078   4670   -109    245   -174  PA   O  
+HETATM    8  O   HOH B1208     -30.845 -41.515  12.346  1.00 40.04      PA   O  
+ANISOU    8  O   HOH B1208     4561   6130   4521   -452   -218     63  PA   O  
+HETATM    9  O   HOH B1209      20.344 -40.274   5.226  1.00 40.66      PA   O  
+ANISOU    9  O   HOH B1209     4772   6068   4608    -54    305    -93  PA   O  
+HETATM   10  O   HOH B1210     -10.155 -31.631  14.501  1.00 36.47      PA   O  
+ANISOU   10  O   HOH B1210     4362   5233   4262   -114   -124    398  PA   O  
+HETATM   11  O   HOH B1211     -16.557 -23.580  25.794  1.00 35.33      PA   O  
+ANISOU   11  O   HOH B1211     4235   4697   4492     61   -145    543  PA   O  
+HETATM   12  O   HOH B1212       8.743 -55.731   9.602  1.00 50.04      PA   O  
+ANISOU   12  O   HOH B1212     6331   6768   5915    -23    350   -516  PA   O  
+HETATM   13  O   HOH B1213       7.788 -30.093  29.747  1.00 36.09      PA   O  
+ANISOU   13  O   HOH B1213     4452   4682   4579    106    -37    281  PA   O  
+HETATM   14  O   HOH B1214      19.297 -37.238  27.785  1.00 38.28      PA   O  
+ANISOU   14  O   HOH B1214     4629   5105   4810    238     44     84  PA   O  
+HETATM   15  O   HOH B1215     -38.320 -16.827  15.475  1.00 44.04      PA   O  
+ANISOU   15  O   HOH B1215     4895   6359   5478    171   -314    819  PA   O  
+HETATM   16  O   HOH B1216      -8.991 -18.690  12.649  1.00 44.85      PA   O  
+ANISOU   16  O   HOH B1216     5369   6186   5485    -30   -139    731  PA   O  
+HETATM   17  O   HOH B1217      16.872 -50.836   6.203  1.00 37.26      PA   O  
+ANISOU   17  O   HOH B1217     4517   5418   4222     32    383   -429  PA   O  
+HETATM   18  O   HOH B1218      -1.003 -16.722  27.532  1.00 41.02      PA   O  
+ANISOU   18  O   HOH B1218     5041   5223   5323     38    -69    551  PA   O  
+HETATM   19  O   HOH B1219     -33.916 -34.290   8.656  1.00 35.70      PA   O  
+ANISOU   19  O   HOH B1219     3863   5756   3946   -304   -313    350  PA   O  
+HETATM   20  O   HOH B1220     -12.547 -34.637  10.013  1.00 43.43      PA   O  
+ANISOU   20  O   HOH B1220     5196   6330   4976   -211   -136    315  PA   O  
+HETATM   21  O   HOH B1221      -1.431 -50.405  36.167  1.00 27.10      PA   O  
+ANISOU   21  O   HOH B1221     3692   3164   3439    170     99    -18  PA   O  
+HETATM   22  O   HOH B1222       3.044 -40.665  29.535  1.00 29.82      PA   O  
+ANISOU   22  O   HOH B1222     3792   3818   3721    132     17    100  PA   O  
+HETATM   23  O   HOH B1223       9.659 -30.127  27.904  1.00 27.41      PA   O  
+ANISOU   23  O   HOH B1223     3321   3640   3453     95    -23    276  PA   O  
+HETATM   24  O   HOH B1224      12.687 -74.295  24.480  1.00 35.16      PA   O  
+ANISOU   24  O   HOH B1224     4905   3856   4599    469    490   -615  PA   O  
+HETATM   25  O   HOH B1225     -29.216 -27.179  12.358  1.00 38.14      PA   O  
+ANISOU   25  O   HOH B1225     4274   5748   4469    -94   -289    580  PA   O  
+HETATM   26  O   HOH B1226      -8.392 -37.994  22.650  1.00 44.69      PA   O  
+ANISOU   26  O   HOH B1226     5567   5945   5469    -58    -40    177  PA   O  
+HETATM   27  O   HOH B1227     -22.743 -69.807  25.347  1.00 47.50      PA   O  
+ANISOU   27  O   HOH B1227     6435   5715   5897   -649    438   -684  PA   O  
+HETATM   28  O   HOH B1228     -19.522 -27.494  14.742  1.00 33.94      PA   O  
+ANISOU   28  O   HOH B1228     3914   4991   3992    -76   -220    558  PA   O  
+HETATM   29  O   HOH B1229      -2.959 -70.767  31.211  1.00 34.69      PA   O  
+ANISOU   29  O   HOH B1229     4991   3710   4480     73    418   -425  PA   O  
+HETATM   30  O   HOH B1230       5.434 -28.300  36.483  1.00 46.11      PA   O  
+ANISOU   30  O   HOH B1230     5785   5794   5942    142    -71    289  PA   O  
+HETATM   31  O   HOH B1231      -0.481 -30.419  31.146  1.00 22.32      PA   O  
+ANISOU   31  O   HOH B1231     2764   2867   2849     91    -60    310  PA   O  
+HETATM   32  O   HOH B1232      22.023 -41.756  28.424  1.00 52.03      PA   O  
+ANISOU   32  O   HOH B1232     6373   6831   6564    351     75     -6  PA   O  
+HETATM   33  O   HOH B1233     -36.681 -30.100   3.805  1.00 42.73      PA   O  
+ANISOU   33  O   HOH B1233     4648   6826   4761   -240   -366    520  PA   O  
+HETATM   34  O   HOH B1234      13.071 -40.095  13.966  1.00 43.23      PA   O  
+ANISOU   34  O   HOH B1234     5258   6024   5142     24    150      8  PA   O  
+HETATM   35  O   HOH B1235      25.235 -45.599  22.571  1.00 32.82      PA   O  
+ANISOU   35  O   HOH B1235     3876   4528   4068    380    191   -144  PA   O  
+HETATM   36  O   HOH B1236      -3.251 -28.177  16.702  1.00 40.10      PA   O  
+ANISOU   36  O   HOH B1236     4858   5550   4827    -53    -82    464  PA   O  
+HETATM   37  O   HOH B1237     -10.064 -17.989  27.984  1.00 35.38      PA   O  
+ANISOU   37  O   HOH B1237     4312   4528   4604     79    -95    537  PA   O  
+HETATM   38  O   HOH B1238     -18.705 -13.407 -19.136  1.00 43.30      PA   O  
+ANISOU   38  O   HOH B1238     4781   7233   4437   -204   -337   1259  PA   O  
+HETATM   39  O   HOH B1239      -2.739 -26.994  38.291  1.00 48.85      PA   O  
+ANISOU   39  O   HOH B1239     6174   6068   6319    124    -71    310  PA   O  
+HETATM   40  O   HOH B1240      16.938 -25.444  25.880  1.00 31.60      PA   O  
+ANISOU   40  O   HOH B1240     3727   4284   3996     32      9    323  PA   O  
+HETATM   41  O   HOH B1241       7.392 -75.437  25.289  1.00 44.01      PA   O  
+ANISOU   41  O   HOH B1241     6117   4896   5707    318    499   -612  PA   O  
+HETATM   42  O   HOH B1242       6.051 -20.964   5.206  1.00 47.62      PA   O  
+ANISOU   42  O   HOH B1242     5696   6822   5577   -189     -4    689  PA   O  
+HETATM   43  O   HOH B1243     -26.779 -30.041  12.174  1.00 28.38      PA   O  
+ANISOU   43  O   HOH B1243     3079   4527   3178   -154   -275    496  PA   O  
+HETATM   44  O   HOH B1244      -1.354 -48.868  25.459  1.00 46.59      PA   O  
+ANISOU   44  O   HOH B1244     6004   5936   5761     34    108    -97  PA   O  
+HETATM   45  O   HOH B1245      11.695 -33.032  29.073  1.00 47.23      PA   O  
+ANISOU   45  O   HOH B1245     5843   6138   5964    143    -11    206  PA   O  
+HETATM   46  O   HOH B1246     -17.604 -21.676  27.929  1.00 56.34      PA   O  
+ANISOU   46  O   HOH B1246     6905   7280   7220     89   -131    539  PA   O  
+HETATM   47  O   HOH B1247     -29.224 -39.538  16.560  1.00 22.54      PA   O  
+ANISOU   47  O   HOH B1247     2418   3692   2454   -338   -188    141  PA   O  
+HETATM   48  O   HOH B1248      -5.384 -56.963  44.406  1.00 32.95      PA   O  
+ANISOU   48  O   HOH B1248     4639   3644   4236    170    168     -1  PA   O  
+HETATM   49  O   HOH B1249     -20.871 -15.945  -8.754  1.00 50.03      PA   O  
+ANISOU   49  O   HOH B1249     5701   7717   5592   -124   -309   1066  PA   O  
+HETATM   50  O   HOH B1250     -24.698 -24.448  13.041  1.00 33.61      PA   O  
+ANISOU   50  O   HOH B1250     3781   5024   3964    -42   -254    646  PA   O  
+HETATM   51  O   HOH B1251     -25.498 -20.938 -10.915  1.00 36.21      PA   O  
+ANISOU   51  O   HOH B1251     3851   6233   3675   -211   -355    927  PA   O  
+HETATM   52  O   HOH B1252      -0.934 -39.707  13.307  1.00 47.06      PA   O  
+ANISOU   52  O   HOH B1252     5803   6525   5551   -119     29     89  PA   O  
+HETATM   53  O   HOH B1253      10.846 -44.711  12.910  1.00 31.31      PA   O  
+ANISOU   53  O   HOH B1253     3811   4488   3596     15    187   -126  PA   O  
+HETATM   54  O   HOH B1254       4.519 -24.694   2.445  1.00 41.44      PA   O  
+ANISOU   54  O   HOH B1254     4898   6189   4659   -219     -5    596  PA   O  
+HETATM   55  O   HOH B1255      25.583 -28.010  21.660  1.00 44.97      PA   O  
+ANISOU   55  O   HOH B1255     5255   6221   5612     30    101    212  PA   O  
+HETATM   56  O   HOH B1256     -15.800 -64.422  37.898  1.00 44.54      PA   O  
+ANISOU   56  O   HOH B1256     6207   5031   5684   -202    356   -268  PA   O  
+HETATM   57  O   HOH B1257     -23.821 -38.731 -12.852  1.00 37.23      PA   O  
+ANISOU   57  O   HOH B1257     4021   6617   3508   -609   -231    176  PA   O  
+HETATM   58  O   HOH B1258     -13.627 -29.067 -23.603  1.00 35.84      PA   O  
+ANISOU   58  O   HOH B1258     3819   6678   3119   -555   -218    588  PA   O  
+HETATM   59  O   HOH B1259     -21.740 -38.803  21.947  1.00 44.39      PA   O  
+ANISOU   59  O   HOH B1259     5393   6089   5386   -195   -103    167  PA   O  
+HETATM   60  O   HOH B1260     -13.695 -55.720 -10.289  1.00 34.22      PA   O  
+ANISOU   60  O   HOH B1260     3998   5783   3221   -791    119   -645  PA   O  
+HETATM   61  O   HOH B1261      -5.543 -21.331   9.266  1.00 46.38      PA   O  
+ANISOU   61  O   HOH B1261     5553   6530   5541    -93   -121    697  PA   O  
+HETATM   62  O   HOH B1262     -26.636 -27.273  17.805  1.00 44.89      PA   O  
+ANISOU   62  O   HOH B1262     5216   6379   5461    -46   -253    555  PA   O  
+HETATM   63  O   HOH B1263      -8.647 -71.962  15.693  1.00 62.66      PA   O  
+ANISOU   63  O   HOH B1263     8362   7711   7734   -380    499   -869  PA   O  
+HETATM   64  O   HOH B1264     -35.322 -56.982  22.127  1.00 46.77      PA   O  
+ANISOU   64  O   HOH B1264     5744   6424   5603   -801    115   -466  PA   O  
+HETATM   65  O   HOH B1265      -1.373 -45.995  15.577  1.00 60.22      PA   O  
+ANISOU   65  O   HOH B1265     7572   8039   7269   -105     94   -102  PA   O  
+HETATM   66  O   HOH B1266      -3.425 -38.980  26.725  1.00 31.85      PA   O  
+ANISOU   66  O   HOH B1266     4012   4162   3926     30     -9    145  PA   O  
+HETATM   67  O   HOH B1267      -6.768 -56.056  10.522  1.00 44.62      PA   O  
+ANISOU   67  O   HOH B1267     5687   6115   5151   -334    216   -495  PA   O  
+HETATM   68  O   HOH B1268     -21.272 -72.916  33.612  1.00 42.65      PA   O  
+ANISOU   68  O   HOH B1268     6008   4759   5438   -476    502   -499  PA   O  
+HETATM   69  O   HOH B1269     -32.020 -26.341  21.116  1.00 46.17      PA   O  
+ANISOU   69  O   HOH B1269     5303   6515   5724     -1   -259    557  PA   O  
+HETATM   70  O   HOH B1270     -49.230 -33.763  -0.008  1.00 45.87      PA   O  
+ANISOU   70  O   HOH B1270     4743   7714   4970   -388   -458    378  PA   O  
+HETATM   71  O   HOH B1271     -16.527 -16.698 -23.822  1.00 47.22      PA   O  
+ANISOU   71  O   HOH B1271     5243   7984   4713   -332   -320   1159  PA   O  
+HETATM   72  O   HOH B1272      29.236 -27.667  19.858  1.00 44.97      PA   O  
+ANISOU   72  O   HOH B1272     5165   6334   5589      3    146    188  PA   O  
+HETATM   73  O   HOH B1273      17.349 -33.545  32.877  1.00 48.05      PA   O  
+ANISOU   73  O   HOH B1273     5904   6235   6117    223    -25    160  PA   O  
+HETATM   74  O   HOH B1274       0.102 -33.436  15.060  1.00 50.70      PA   O  
+ANISOU   74  O   HOH B1274     6225   6947   6093    -76    -20    288  PA   O  
+HETATM   75  O   HOH B1275      18.501 -32.183  30.704  1.00 48.38      PA   O  
+ANISOU   75  O   HOH B1275     5900   6339   6143    185     -9    174  PA   O  
+HETATM   76  O   HOH B1276     -17.401 -16.027 -21.584  1.00 41.33      PA   O  
+ANISOU   76  O   HOH B1276     4512   7134   4059   -287   -325   1171  PA   O  
+HETATM   77  O   HOH B1277      -0.242 -35.849  11.812  1.00 52.45      PA   O  
+ANISOU   77  O   HOH B1277     6434   7286   6208   -126      1    215  PA   O  
+HETATM   78  O   HOH B1278     -37.852 -19.924  16.687  1.00 50.24      PA   O  
+ANISOU   78  O   HOH B1278     5690   7161   6239    113   -307    734  PA   O  
+HETATM   79  O   HOH B1279      -8.996 -30.001 -13.027  1.00 29.34      PA   O  
+ANISOU   79  O   HOH B1279     3165   5351   2630   -430   -143    495  PA   O  
+HETATM   80  O   HOH B1280     -30.092 -48.277  -0.320  1.00 47.87      PA   O  
+ANISOU   80  O   HOH B1280     5511   7550   5129   -734   -154   -241  PA   O  
+HETATM   81  O   HOH B1281       1.924 -44.445  15.341  1.00 46.17      PA   O  
+ANISOU   81  O   HOH B1281     5765   6279   5498    -63    100    -64  PA   O  
+HETATM   82  O   HOH B1282     -17.874 -22.362  23.870  1.00 38.68      PA   O  
+ANISOU   82  O   HOH B1282     4623   5176   4897     60   -157    581  PA   O  
+HETATM   83  O   HOH B1283     -33.916 -37.713   3.784  1.00 46.17      PA   O  
+ANISOU   83  O   HOH B1283     5166   7282   5093   -439   -302    223  PA   O  
+HETATM   84  O   HOH B1284      19.262 -20.627  30.605  1.00 50.46      PA   O  
+ANISOU   84  O   HOH B1284     6095   6576   6500     -4    -18    345  PA   O  
+HETATM   85  O   HOH B1285       0.370 -35.544 -20.964  1.00 60.90      PA   O  
+ANISOU   85  O   HOH B1285     7174   9612   6354   -590     29    187  PA   O  
+HETATM   86  O   HOH B1286      22.464 -16.260   5.824  1.00 53.41      PA   O  
+ANISOU   86  O   HOH B1286     6316   7577   6402   -329    201    672  PA   O  
+HETATM   87  O   HOH B1287     -21.726   2.064   3.733  1.00 59.63      PA   O  
+ANISOU   87  O   HOH B1287     7131   8013   7511    244   -221   1374  PA   O  
+END
