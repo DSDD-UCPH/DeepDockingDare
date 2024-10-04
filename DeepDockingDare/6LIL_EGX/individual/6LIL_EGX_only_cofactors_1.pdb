@@ -1,0 +1,110 @@
+CRYST1   52.778   52.839   92.145  88.20  78.00  60.93 P 1           2
+HETATM    1  CA  FLC B 401       6.403   6.158 -46.168  1.00 50.43      H    C  
+HETATM    2  CAC FLC B 401       6.454   4.785 -46.806  1.00 46.00      H    C  
+HETATM    3  OA1 FLC B 401       7.019   4.667 -47.923  1.00 43.75      H    O  
+HETATM    4  OA2 FLC B 401       5.952   3.833 -46.173  1.00 45.52      H    O  
+HETATM    5  CB  FLC B 401       6.624   7.332 -47.131  1.00 51.81      H    C  
+HETATM    6  CBC FLC B 401       7.960   7.144 -47.902  1.00 48.13      H    C  
+HETATM    7  OB1 FLC B 401       7.907   7.302 -49.139  1.00 45.41      H    O  
+HETATM    8  OB2 FLC B 401       9.017   6.869 -47.236  1.00 44.35      H    O  
+HETATM    9  CG  FLC B 401       6.699   8.672 -46.378  1.00 48.77      H    C  
+HETATM   10  CGC FLC B 401       5.554   8.967 -45.420  1.00 51.42      H    C  
+HETATM   11  OG1 FLC B 401       4.391   8.769 -45.812  1.00 49.42      H    O  
+HETATM   12  OG2 FLC B 401       5.834   9.397 -44.287  1.00 55.63      H    O  
+HETATM   13  OHB FLC B 401       5.520   7.315 -48.021  1.00 47.57      H    O  
+HETATM   14  C1  PEG B 402      -3.163   3.659 -35.491  1.00 36.08      I    C  
+HETATM   15  O1  PEG B 402      -3.469   5.076 -35.669  1.00 37.08      I    O  
+HETATM   16  C2  PEG B 402      -4.395   2.853 -35.586  1.00 50.65      I    C  
+HETATM   17  O2  PEG B 402      -5.474   3.765 -35.444  1.00 50.55      I    O  
+HETATM   18  C3  PEG B 402      -5.991   3.759 -34.122  1.00 43.89      I    C  
+HETATM   19  C4  PEG B 402      -7.298   2.996 -34.147  1.00 43.52      I    C  
+HETATM   20  O4  PEG B 402      -8.282   3.736 -33.503  1.00 49.21      I    O  
+HETATM   21  C1  PEG B 403       4.368  16.357 -47.707  1.00 72.67      J    C  
+HETATM   22  O1  PEG B 403       2.940  16.444 -47.659  1.00 67.15      J    O  
+HETATM   23  C2  PEG B 403       5.014  16.345 -46.340  1.00 70.50      J    C  
+HETATM   24  O2  PEG B 403       5.904  17.456 -46.173  1.00 74.74      J    O  
+HETATM   25  C3  PEG B 403       5.252  18.701 -45.903  1.00 63.64      J    C  
+HETATM   26  C4  PEG B 403       5.874  19.377 -44.711  1.00 59.58      J    C  
+HETATM   27  O4  PEG B 403       4.904  20.060 -43.890  1.00 54.38      J    O  
+HETATM   28  CA  FLC B 401      59.181   6.158 -46.168  1.00 50.43      H    C  
+HETATM   29  CAC FLC B 401      59.232   4.785 -46.806  1.00 46.00      H    C  
+HETATM   30  OA1 FLC B 401      59.797   4.667 -47.923  1.00 43.75      H    O  
+HETATM   31  OA2 FLC B 401      58.730   3.833 -46.173  1.00 45.52      H    O  
+HETATM   32  CB  FLC B 401      59.402   7.332 -47.131  1.00 51.81      H    C  
+HETATM   33  CBC FLC B 401      60.738   7.144 -47.902  1.00 48.13      H    C  
+HETATM   34  OB1 FLC B 401      60.685   7.302 -49.139  1.00 45.41      H    O  
+HETATM   35  OB2 FLC B 401      61.795   6.869 -47.236  1.00 44.35      H    O  
+HETATM   36  CG  FLC B 401      59.477   8.672 -46.378  1.00 48.77      H    C  
+HETATM   37  CGC FLC B 401      58.332   8.967 -45.420  1.00 51.42      H    C  
+HETATM   38  OG1 FLC B 401      57.169   8.769 -45.812  1.00 49.42      H    O  
+HETATM   39  OG2 FLC B 401      58.612   9.397 -44.287  1.00 55.63      H    O  
+HETATM   40  OHB FLC B 401      58.298   7.315 -48.021  1.00 47.57      H    O  
+HETATM   41  C1  PEG B 402      49.615   3.659 -35.491  1.00 36.08      I    C  
+HETATM   42  O1  PEG B 402      49.309   5.076 -35.669  1.00 37.08      I    O  
+HETATM   43  C2  PEG B 402      48.383   2.853 -35.586  1.00 50.65      I    C  
+HETATM   44  O2  PEG B 402      47.304   3.765 -35.444  1.00 50.55      I    O  
+HETATM   45  C3  PEG B 402      46.787   3.759 -34.122  1.00 43.89      I    C  
+HETATM   46  C4  PEG B 402      45.480   2.996 -34.147  1.00 43.52      I    C  
+HETATM   47  O4  PEG B 402      44.496   3.736 -33.503  1.00 49.21      I    O  
+HETATM   48  C1  PEG B 403      57.146  16.357 -47.707  1.00 72.67      J    C  
+HETATM   49  O1  PEG B 403      55.718  16.444 -47.659  1.00 67.15      J    O  
+HETATM   50  C2  PEG B 403      57.792  16.345 -46.340  1.00 70.50      J    C  
+HETATM   51  O2  PEG B 403      58.682  17.456 -46.173  1.00 74.74      J    O  
+HETATM   52  C3  PEG B 403      58.030  18.701 -45.903  1.00 63.64      J    C  
+HETATM   53  C4  PEG B 403      58.652  19.377 -44.711  1.00 59.58      J    C  
+HETATM   54  O4  PEG B 403      57.682  20.060 -43.890  1.00 54.38      J    O  
+CONECT    1    2    5
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2
+CONECT    5    1    6    9   13
+CONECT    6    5    7    8
+CONECT    7    6
+CONECT    8    6
+CONECT    9    5   10
+CONECT   10    9   11   12
+CONECT   11   10
+CONECT   12   10
+CONECT   13    5
+CONECT   14   15   16
+CONECT   15   14
+CONECT   16   14   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19
+CONECT   21   22   23
+CONECT   22   21
+CONECT   23   21   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26
+CONECT   28   29   32
+CONECT   29   28   30   31
+CONECT   30   29
+CONECT   31   29
+CONECT   32   28   33   36   40
+CONECT   33   32   34   35
+CONECT   34   33
+CONECT   35   33
+CONECT   36   32   37
+CONECT   37   36   38   39
+CONECT   38   37
+CONECT   39   37
+CONECT   40   32
+CONECT   41   42   43
+CONECT   42   41
+CONECT   43   41   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46
+CONECT   48   49   50
+CONECT   49   48
+CONECT   50   48   51
+CONECT   51   50   52
+CONECT   52   51   53
+CONECT   53   52   54
+CONECT   54   53
+END

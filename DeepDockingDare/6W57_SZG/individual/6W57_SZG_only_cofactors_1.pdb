@@ -1,0 +1,62 @@
+CRYST1   73.365   73.365  233.185  90.00  90.00  90.00 P 43 21 2     8
+HETATM    1  N1  EPE A 601      28.744 -25.422 -20.330  1.00 32.77      B    N  
+HETATM    2  O1S EPE A 601      32.109 -22.780 -19.993  1.00 41.38      B    O  
+HETATM    3  C2  EPE A 601      28.897 -26.548 -19.385  1.00 30.15      B    C  
+HETATM    4  O2S EPE A 601      31.473 -21.525 -22.045  1.00 37.82      B    O1-
+HETATM    5  C3  EPE A 601      27.961 -27.695 -19.835  1.00 28.14      B    C  
+HETATM    6  O3S EPE A 601      30.279 -21.245 -19.758  1.00 37.66      B    O  
+HETATM    7  N4  EPE A 601      26.567 -27.199 -19.965  1.00 27.15      B    N  
+HETATM    8  C5  EPE A 601      26.512 -26.074 -20.931  1.00 29.01      B    C  
+HETATM    9  C6  EPE A 601      27.363 -24.957 -20.362  1.00 32.44      B    C  
+HETATM   10  C7  EPE A 601      25.736 -28.289 -20.496  1.00 28.50      B    C  
+HETATM   11  C8  EPE A 601      25.847 -29.585 -19.626  1.00 26.86      B    C  
+HETATM   12  O8  EPE A 601      25.780 -29.363 -18.212  1.00 23.59      B    O  
+HETATM   13  C9  EPE A 601      29.680 -24.328 -19.995  1.00 38.39      B    C  
+HETATM   14  C10 EPE A 601      29.890 -23.364 -21.182  1.00 39.80      B    C  
+HETATM   15  S   EPE A 601      30.987 -22.117 -20.758  1.00 43.84      B    S  
+HETATM   16  N1  EPE A 601      47.943 -44.621  20.330  1.00 32.77      B    N  
+HETATM   17  O1S EPE A 601      50.585 -41.256  19.993  1.00 41.38      B    O  
+HETATM   18  C2  EPE A 601      46.817 -44.468  19.385  1.00 30.15      B    C  
+HETATM   19  O2S EPE A 601      51.840 -41.892  22.045  1.00 37.82      B    O1-
+HETATM   20  C3  EPE A 601      45.670 -45.404  19.835  1.00 28.14      B    C  
+HETATM   21  O3S EPE A 601      52.120 -43.086  19.758  1.00 37.66      B    O  
+HETATM   22  N4  EPE A 601      46.166 -46.798  19.965  1.00 27.15      B    N  
+HETATM   23  C5  EPE A 601      47.291 -46.853  20.931  1.00 29.01      B    C  
+HETATM   24  C6  EPE A 601      48.408 -46.002  20.362  1.00 32.44      B    C  
+HETATM   25  C7  EPE A 601      45.076 -47.629  20.496  1.00 28.50      B    C  
+HETATM   26  C8  EPE A 601      43.780 -47.518  19.626  1.00 26.86      B    C  
+HETATM   27  O8  EPE A 601      44.002 -47.585  18.212  1.00 23.59      B    O  
+HETATM   28  C9  EPE A 601      49.037 -43.685  19.995  1.00 38.39      B    C  
+HETATM   29  C10 EPE A 601      50.001 -43.475  21.182  1.00 39.80      B    C  
+HETATM   30  S   EPE A 601      51.248 -42.378  20.758  1.00 43.84      B    S  
+CONECT    1    3    9   13
+CONECT    2   15
+CONECT    3    1    5
+CONECT    4   15
+CONECT    5    3    7
+CONECT    6   15
+CONECT    7    5    8   10
+CONECT    8    7    9
+CONECT    9    1    8
+CONECT   10    7   11
+CONECT   11   10   12
+CONECT   12   11
+CONECT   13    1   14
+CONECT   14   13   15
+CONECT   15    2    4    6   14
+CONECT   16   18   24   28
+CONECT   17   30
+CONECT   18   16   20
+CONECT   19   30
+CONECT   20   18   22
+CONECT   21   30
+CONECT   22   20   23   25
+CONECT   23   22   24
+CONECT   24   16   23
+CONECT   25   22   26
+CONECT   26   25   27
+CONECT   27   26
+CONECT   28   16   29
+CONECT   29   28   30
+CONECT   30   17   19   21   29
+END

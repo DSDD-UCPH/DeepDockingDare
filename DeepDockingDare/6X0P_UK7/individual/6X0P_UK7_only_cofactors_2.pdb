@@ -1,0 +1,59 @@
+CRYST1   54.131   62.315   72.969  87.76  85.55  90.04 P 1           4
+HETATM    1 ZN    ZN B2302      -9.922  13.247 -15.485  1.00 18.59      K   ZN  
+HETATM    2 ZN    ZN B2303      -9.473  10.139 -13.234  1.00 19.89      L   ZN  
+HETATM    3 ZN    ZN B2304      15.517  -3.080 -38.445  1.00 11.35      M   ZN  
+HETATM    4  N   SAM B2305      14.316 -12.021 -28.519  1.00  9.37      N    N  
+HETATM    5  CA  SAM B2305      14.675 -11.910 -27.110  1.00 10.56      N    C  
+HETATM    6  C   SAM B2305      14.733 -13.288 -26.460  1.00 14.61      N    C  
+HETATM    7  O   SAM B2305      14.671 -14.310 -27.144  1.00 12.81      N    O  
+HETATM    8  CB  SAM B2305      13.699 -11.012 -26.364  1.00  9.66      N    C  
+HETATM    9  CG  SAM B2305      13.949  -9.517 -26.572  1.00 11.13      N    C  
+HETATM   10  SD  SAM B2305      15.398  -8.986 -25.642  1.00 12.37      N    S  
+HETATM   11  CE  SAM B2305      14.745  -7.521 -24.795  1.00 15.51      N    C  
+HETATM   12  C5' SAM B2305      16.497  -8.167 -26.823  1.00 10.64      N    C  
+HETATM   13  C4' SAM B2305      17.294  -9.147 -27.656  1.00 12.93      N    C  
+HETATM   14  O4' SAM B2305      16.453  -9.735 -28.627  1.00 14.22      N    O  
+HETATM   15  C3' SAM B2305      18.404  -8.442 -28.430  1.00 14.84      N    C  
+HETATM   16  O3' SAM B2305      19.594  -8.311 -27.660  1.00 15.03      N    O  
+HETATM   17  C2' SAM B2305      18.551  -9.325 -29.649  1.00 15.19      N    C  
+HETATM   18  O2' SAM B2305      19.366 -10.443 -29.358  1.00 16.52      N    O  
+HETATM   19  C1' SAM B2305      17.129  -9.813 -29.869  1.00 13.00      N    C  
+HETATM   20  OXT SAM B2305      14.860 -13.402 -25.237  1.00 14.02      N    O  
+HETATM   21  N1  SAM B2305      16.519  -8.344 -34.832  1.00 11.62      N    N  
+HETATM   22  C2  SAM B2305      17.376  -9.296 -34.336  1.00 10.47      N    C  
+HETATM   23  N3  SAM B2305      17.415  -9.577 -32.985  1.00 11.24      N    N  
+HETATM   24  C4  SAM B2305      16.589  -8.883 -32.167  1.00 11.17      N    C  
+HETATM   25  C5  SAM B2305      15.711  -7.909 -32.654  1.00  8.20      N    C  
+HETATM   26  C6  SAM B2305      15.685  -7.631 -34.011  1.00 10.15      N    C  
+HETATM   27  N6  SAM B2305      14.873  -6.703 -34.513  1.00  8.45      N    N  
+HETATM   28  N7  SAM B2305      15.031  -7.385 -31.604  1.00 10.88      N    N  
+HETATM   29  C8  SAM B2305      15.457  -8.008 -30.489  1.00  9.52      N    C  
+HETATM   30  N9  SAM B2305      16.422  -8.930 -30.815  1.00  9.91      N    N  
+CONECT    4    5
+CONECT    5    4    6    8
+CONECT    6    5    7   20
+CONECT    7    6
+CONECT    8    5    9
+CONECT    9    8   10
+CONECT   10    9   11   12
+CONECT   11   10
+CONECT   12   10   13
+CONECT   13   12   14   15
+CONECT   14   13   19
+CONECT   15   13   16   17
+CONECT   16   15
+CONECT   17   15   18   19
+CONECT   18   17
+CONECT   19   14   17   30
+CONECT   20    6
+CONECT   21   22   26
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25   30
+CONECT   25   24   26   28
+CONECT   26   21   25   27
+CONECT   27   26
+CONECT   28   25   29
+CONECT   29   28   30
+CONECT   30   19   24   29
+END

@@ -1,0 +1,26 @@
+CRYST1   61.640   61.640  233.910  90.00  90.00  90.00 P 41 21 2     8
+HETATM    1 ZN    ZN A 602     -18.408  18.461  34.616  1.00 12.98      D   ZN2+
+ANISOU    1 ZN    ZN A 602     1178   1835   1919     17    115    -85  D   ZN2+
+HETATM    2  C1  PEG A 603      11.558  21.505  66.857  1.00 51.50      E    C  
+HETATM    3  O1  PEG A 603      10.900  22.530  67.551  1.00 53.32      E    O  
+HETATM    4  C2  PEG A 603      12.006  22.008  65.487  1.00 49.62      E    C  
+HETATM    5  O2  PEG A 603      11.033  22.864  64.959  1.00 52.09      E    O  
+HETATM    6  C3  PEG A 603      10.596  22.527  63.672  1.00 50.48      E    C  
+HETATM    7  C4  PEG A 603      10.035  23.765  62.973  1.00 48.87      E    C  
+HETATM    8  O4  PEG A 603      11.051  24.375  62.225  1.00 47.99      E    O  
+HETATM    9  O1  BO3 A 604      36.246  12.917  64.201  1.00 62.00      F    O  
+HETATM   10  O2  BO3 A 604      35.810  13.985  62.173  1.00 65.27      F    O  
+HETATM   11  O3  BO3 A 604      36.188  15.246  64.097  1.00 63.93      F    O  
+HETATM   12  B   BO3 A 604      36.077  14.049  63.491  1.00 64.00      F    B  
+CONECT    2    3    4
+CONECT    3    2
+CONECT    4    2    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7
+CONECT    9   12
+CONECT   10   12
+CONECT   11   12
+CONECT   12    9   10   11
+END

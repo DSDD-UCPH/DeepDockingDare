@@ -1,0 +1,40 @@
+CRYST1  150.584  165.088   83.384  90.00  90.00  90.00 P 21 21 2    16
+HETATM    1  C1  CIT B1002      13.982  32.923 -15.333  1.00 94.10      I    C  
+HETATM    2  O1  CIT B1002      13.476  31.821 -15.638  1.00102.20      I    O  
+HETATM    3  C2  CIT B1002      13.050  34.104 -15.088  1.00 83.63      I    C  
+HETATM    4  O2  CIT B1002      15.214  33.108 -15.217  1.00 91.01      I    O  
+HETATM    5  C3  CIT B1002      12.242  34.604 -16.298  1.00 79.99      I    C  
+HETATM    6  O3  CIT B1002      10.052  35.433 -14.631  1.00 67.42      I    O  
+HETATM    7  C4  CIT B1002      11.846  36.072 -16.067  1.00 71.91      I    C  
+HETATM    8  O4  CIT B1002      10.831  37.476 -14.447  1.00 61.58      I    O  
+HETATM    9  C5  CIT B1002      10.838  36.341 -14.961  1.00 69.33      I    C  
+HETATM   10  O5  CIT B1002      13.221  33.376 -18.111  1.00 75.12      I    O  
+HETATM   11  C6  CIT B1002      13.096  34.506 -17.596  1.00 78.19      I    C  
+HETATM   12  O6  CIT B1002      13.589  35.564 -18.058  1.00 69.69      I    O  
+HETATM   13  O7  CIT B1002      11.069  33.818 -16.441  1.00 66.96      I    O  
+HETATM   14  C1  GOL B1003       5.373  61.607 -15.854  1.00 49.62      J    C  
+HETATM   15  O1  GOL B1003       4.623  62.430 -14.962  1.00 49.80      J    O  
+HETATM   16  C2  GOL B1003       6.839  61.985 -15.866  1.00 44.04      J    C  
+HETATM   17  O2  GOL B1003       6.959  63.393 -15.667  1.00 40.35      J    O  
+HETATM   18  C3  GOL B1003       7.663  61.253 -14.826  1.00 45.29      J    C  
+HETATM   19  O3  GOL B1003       8.238  60.051 -15.338  1.00 48.29      J    O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5
+CONECT    4    1
+CONECT    5    3    7   11   13
+CONECT    6    9
+CONECT    7    5    9
+CONECT    8    9
+CONECT    9    6    7    8
+CONECT   10   11
+CONECT   11    5   10   12
+CONECT   12   11
+CONECT   13    5
+CONECT   14   15   16
+CONECT   15   14
+CONECT   16   14   17   18
+CONECT   17   16
+CONECT   18   16   19
+CONECT   19   18
+END

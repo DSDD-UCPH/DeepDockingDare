@@ -1,0 +1,126 @@
+CRYST1   52.778   52.839   92.145  88.20  78.00  60.93 P 1           2
+HETATM    1  CA  FLC A 401      -0.635   4.253   5.550  1.00 56.08      C    C  
+HETATM    2  CAC FLC A 401      -0.382   5.437   4.625  1.00 60.06      C    C  
+HETATM    3  OA1 FLC A 401      -1.083   5.527   3.599  1.00 60.96      C    O  
+HETATM    4  OA2 FLC A 401       0.483   6.278   4.945  1.00 54.24      C    O  
+HETATM    5  CB  FLC A 401       0.583   3.643   6.276  1.00 54.11      C    C  
+HETATM    6  CBC FLC A 401       0.082   2.386   7.045  1.00 53.35      C    C  
+HETATM    7  OB1 FLC A 401      -0.161   1.337   6.379  1.00 51.43      C    O  
+HETATM    8  OB2 FLC A 401      -0.087   2.509   8.274  1.00 50.31      C    O  
+HETATM    9  CG  FLC A 401       1.694   3.244   5.295  1.00 51.52      C    C  
+HETATM   10  CGC FLC A 401       2.909   2.585   5.937  1.00 50.62      C    C  
+HETATM   11  OG1 FLC A 401       3.970   2.550   5.293  1.00 51.50      C    O  
+HETATM   12  OG2 FLC A 401       2.791   2.102   7.076  1.00 44.60      C    O  
+HETATM   13  OHB FLC A 401       1.161   4.576   7.175  1.00 48.17      C    O  
+HETATM   14  C1  PEG A 402      10.860  14.213  -6.753  1.00 52.56      D    C  
+HETATM   15  O1  PEG A 402       9.929  13.183  -6.379  1.00 57.60      D    O  
+HETATM   16  C2  PEG A 402      10.495  14.860  -8.068  1.00 59.80      D    C  
+HETATM   17  O2  PEG A 402       9.262  15.595  -8.006  1.00 65.33      D    O  
+HETATM   18  C3  PEG A 402       8.393  15.383  -9.120  1.00 61.88      D    C  
+HETATM   19  C4  PEG A 402       8.183  16.650  -9.891  1.00 61.58      D    C  
+HETATM   20  O4  PEG A 402       7.803  16.395 -11.234  1.00 66.53      D    O  
+HETATM   21  C1  GOL A 403      -7.759  10.423   5.725  1.00 70.51      E    C  
+HETATM   22  O1  GOL A 403      -6.752   9.415   5.802  1.00 68.88      E    O  
+HETATM   23  C2  GOL A 403      -8.369  10.497   4.340  1.00 64.80      E    C  
+HETATM   24  O2  GOL A 403      -9.416   9.539   4.225  1.00 55.52      E    O  
+HETATM   25  C3  GOL A 403      -8.907  11.867   3.976  1.00 65.04      E    C  
+HETATM   26  O3  GOL A 403      -9.600  11.846   2.727  1.00 57.30      E    O  
+HETATM   27  O1  SO4 A 404       4.317  -5.836 -10.871  1.00 95.37      F    O  
+HETATM   28  O2  SO4 A 404       2.324  -5.641  -9.658  1.00 87.85      F    O  
+HETATM   29  O3  SO4 A 404       4.314  -6.358  -8.576  1.00 86.41      F    O  
+HETATM   30  O4  SO4 A 404       4.085  -4.103  -9.284  1.00 81.97      F    O  
+HETATM   31  S   SO4 A 404       3.761  -5.484  -9.593  1.00103.59      F    S  
+HETATM   32  CA  FLC A 401     -26.308 -41.930   5.550  1.00 56.08      C    C  
+HETATM   33  CAC FLC A 401     -26.055 -40.746   4.625  1.00 60.06      C    C  
+HETATM   34  OA1 FLC A 401     -26.756 -40.656   3.599  1.00 60.96      C    O  
+HETATM   35  OA2 FLC A 401     -25.190 -39.905   4.945  1.00 54.24      C    O  
+HETATM   36  CB  FLC A 401     -25.090 -42.540   6.276  1.00 54.11      C    C  
+HETATM   37  CBC FLC A 401     -25.591 -43.797   7.045  1.00 53.35      C    C  
+HETATM   38  OB1 FLC A 401     -25.834 -44.846   6.379  1.00 51.43      C    O  
+HETATM   39  OB2 FLC A 401     -25.760 -43.674   8.274  1.00 50.31      C    O  
+HETATM   40  CG  FLC A 401     -23.979 -42.939   5.295  1.00 51.52      C    C  
+HETATM   41  CGC FLC A 401     -22.764 -43.598   5.937  1.00 50.62      C    C  
+HETATM   42  OG1 FLC A 401     -21.703 -43.633   5.293  1.00 51.50      C    O  
+HETATM   43  OG2 FLC A 401     -22.882 -44.081   7.076  1.00 44.60      C    O  
+HETATM   44  OHB FLC A 401     -24.512 -41.607   7.175  1.00 48.17      C    O  
+HETATM   45  C1  PEG A 402     -14.813 -31.970  -6.753  1.00 52.56      D    C  
+HETATM   46  O1  PEG A 402     -15.744 -33.000  -6.379  1.00 57.60      D    O  
+HETATM   47  C2  PEG A 402     -15.178 -31.323  -8.068  1.00 59.80      D    C  
+HETATM   48  O2  PEG A 402     -16.411 -30.588  -8.006  1.00 65.33      D    O  
+HETATM   49  C3  PEG A 402     -17.280 -30.800  -9.120  1.00 61.88      D    C  
+HETATM   50  C4  PEG A 402     -17.490 -29.533  -9.891  1.00 61.58      D    C  
+HETATM   51  O4  PEG A 402     -17.870 -29.788 -11.234  1.00 66.53      D    O  
+HETATM   52  C1  GOL A 403     -33.432 -35.760   5.725  1.00 70.51      E    C  
+HETATM   53  O1  GOL A 403     -32.425 -36.768   5.802  1.00 68.88      E    O  
+HETATM   54  C2  GOL A 403     -34.042 -35.686   4.340  1.00 64.80      E    C  
+HETATM   55  O2  GOL A 403     -35.089 -36.644   4.225  1.00 55.52      E    O  
+HETATM   56  C3  GOL A 403     -34.580 -34.316   3.976  1.00 65.04      E    C  
+HETATM   57  O3  GOL A 403     -35.273 -34.337   2.727  1.00 57.30      E    O  
+HETATM   58  O1  SO4 A 404     -21.356 -52.019 -10.871  1.00 95.37      F    O  
+HETATM   59  O2  SO4 A 404     -23.349 -51.824  -9.658  1.00 87.85      F    O  
+HETATM   60  O3  SO4 A 404     -21.359 -52.541  -8.576  1.00 86.41      F    O  
+HETATM   61  O4  SO4 A 404     -21.588 -50.286  -9.284  1.00 81.97      F    O  
+HETATM   62  S   SO4 A 404     -21.912 -51.667  -9.593  1.00103.59      F    S  
+CONECT    1    2    5
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2
+CONECT    5    1    6    9   13
+CONECT    6    5    7    8
+CONECT    7    6
+CONECT    8    6
+CONECT    9    5   10
+CONECT   10    9   11   12
+CONECT   11   10
+CONECT   12   10
+CONECT   13    5
+CONECT   14   15   16
+CONECT   15   14
+CONECT   16   14   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19
+CONECT   21   22   23
+CONECT   22   21
+CONECT   23   21   24   25
+CONECT   24   23
+CONECT   25   23   26
+CONECT   26   25
+CONECT   27   31
+CONECT   28   31
+CONECT   29   31
+CONECT   30   31
+CONECT   31   27   28   29   30
+CONECT   32   33   36
+CONECT   33   32   34   35
+CONECT   34   33
+CONECT   35   33
+CONECT   36   32   37   40   44
+CONECT   37   36   38   39
+CONECT   38   37
+CONECT   39   37
+CONECT   40   36   41
+CONECT   41   40   42   43
+CONECT   42   41
+CONECT   43   41
+CONECT   44   36
+CONECT   45   46   47
+CONECT   46   45
+CONECT   47   45   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50
+CONECT   52   53   54
+CONECT   53   52
+CONECT   54   52   55   56
+CONECT   55   54
+CONECT   56   54   57
+CONECT   57   56
+CONECT   58   62
+CONECT   59   62
+CONECT   60   62
+CONECT   61   62
+CONECT   62   58   59   60   61
+END

@@ -1,0 +1,42 @@
+CRYST1   82.278  158.993  209.230  90.00  90.00  90.00 P 21 21 21    8
+HETATM    1 ZN    ZN B1001      33.161  -5.299  -1.670  1.00 64.29      M   ZN  
+HETATM    2 ZN    ZN B1002      30.352  -5.131   1.302  0.50103.86      N   ZN  
+HETATM    3  C1  NAG B1003      43.934  20.918   8.411  1.00117.66      O    C  
+HETATM    4  C2  NAG B1003      44.477  22.310   8.750  1.00116.73      O    C  
+HETATM    5  N2  NAG B1003      43.792  23.436   8.138  1.00113.53      O    N  
+HETATM    6  C3  NAG B1003      45.930  22.430   8.286  1.00118.27      O    C  
+HETATM    7  O3  NAG B1003      46.484  23.672   8.733  1.00117.94      O    O  
+HETATM    8  C4  NAG B1003      46.780  21.262   8.778  1.00124.27      O    C  
+HETATM    9  O4  NAG B1003      48.092  21.362   8.211  1.00125.26      O    O  
+HETATM   10  C5  NAG B1003      46.104  19.960   8.371  1.00126.37      O    C  
+HETATM   11  O5  NAG B1003      44.807  19.940   8.982  1.00124.69      O    O  
+HETATM   12  C6  NAG B1003      46.931  18.739   8.763  1.00121.33      O    C  
+HETATM   13  O6  NAG B1003      46.115  17.871   9.539  1.00119.58      O    O  
+HETATM   14  C7  NAG B1003      42.910  24.203   8.766  1.00105.05      O    C  
+HETATM   15  O7  NAG B1003      42.247  23.849   9.723  1.00 92.96      O    O  
+HETATM   16  C8  NAG B1003      42.911  25.621   8.278  1.00101.60      O    C  
+HETATM   17  P   PO4 B1005      34.421  -3.014   0.680  1.00107.34      Q    P  
+HETATM   18  O1  PO4 B1005      35.269  -3.138  -0.601  1.00 86.93      Q    O  
+HETATM   19  O2  PO4 B1005      33.369  -1.885   0.530  1.00 86.75      Q    O  
+HETATM   20  O3  PO4 B1005      33.717  -4.345   0.948  1.00104.26      Q    O  
+HETATM   21  O4  PO4 B1005      35.334  -2.703   1.860  1.00103.36      Q    O  
+CONECT    3    4   11
+CONECT    4    3    5    6
+CONECT    5    4   14
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9   10
+CONECT    9    8
+CONECT   10    8   11   12
+CONECT   11    3   10
+CONECT   12   10   13
+CONECT   13   12
+CONECT   14    5   15   16
+CONECT   15   14
+CONECT   16   14
+CONECT   17   18   19   20   21
+CONECT   18   17
+CONECT   19   17
+CONECT   20   17
+CONECT   21   17
+END

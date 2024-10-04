@@ -1,0 +1,34 @@
+CRYST1   66.110  129.390   83.310  90.00  91.81  90.00 P 1 21 1     12
+HETATM    1  C1  DTT D 501      59.416 -50.930 -35.500  1.00 81.60      N    C  
+HETATM    2  S1  DTT D 501      58.896 -52.625 -35.873  1.00 90.08      N    S  
+HETATM    3  C2  DTT D 501      58.438 -50.245 -34.551  1.00 79.26      N    C  
+HETATM    4  O2  DTT D 501      57.129 -50.437 -35.044  1.00 79.06      N    O  
+HETATM    5  C3  DTT D 501      58.765 -48.757 -34.378  1.00 73.12      N    C  
+HETATM    6  O3  DTT D 501      58.730 -48.070 -35.612  1.00 74.36      N    O  
+HETATM    7  C4  DTT D 501      57.832 -48.041 -33.408  1.00 58.12      N    C  
+HETATM    8  S4  DTT D 501      58.497 -46.402 -33.031  1.00 52.74      N    S  
+HETATM    9  C1  DTT D 501      75.435  13.765 -47.768  1.00 81.60      N    C  
+HETATM   10  S1  DTT D 501      75.955  12.070 -47.395  1.00 90.08      N    S  
+HETATM   11  C2  DTT D 501      76.413  14.450 -48.717  1.00 79.26      N    C  
+HETATM   12  O2  DTT D 501      77.722  14.258 -48.224  1.00 79.06      N    O  
+HETATM   13  C3  DTT D 501      76.086  15.938 -48.890  1.00 73.12      N    C  
+HETATM   14  O3  DTT D 501      76.121  16.625 -47.656  1.00 74.36      N    O  
+HETATM   15  C4  DTT D 501      77.019  16.654 -49.860  1.00 58.12      N    C  
+HETATM   16  S4  DTT D 501      76.354  18.293 -50.237  1.00 52.74      N    S  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8
+CONECT    8    7
+CONECT    9   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13
+CONECT   15   13   16
+CONECT   16   15
+END

@@ -1,0 +1,20 @@
+CRYST1   47.708   64.471   48.372  90.00 110.82  90.00 P 1 21 1      2
+HETATM    1  O1  SO4 A 302      15.035   6.485  51.493  1.00 26.76      C    O  
+HETATM    2  O2  SO4 A 302      17.242   5.529  51.651  1.00 29.55      C    O  
+HETATM    3  O3  SO4 A 302      15.316   4.141  51.894  1.00 27.48      C    O  
+HETATM    4  O4  SO4 A 302      15.885   5.671  53.567  1.00 26.20      C    O  
+HETATM    5  S   SO4 A 302      15.863   5.474  52.125  1.00 18.36      C    S  
+HETATM    6  C1  EDO A 303      16.884   3.401  46.874  1.00 20.43      D    C  
+HETATM    7  O1  EDO A 303      17.742   2.654  47.760  1.00 22.86      D    O  
+HETATM    8  C2  EDO A 303      15.798   4.103  47.677  1.00 25.20      D    C  
+HETATM    9  O2  EDO A 303      16.416   5.053  48.553  1.00 28.90      D    O  
+CONECT    1    5
+CONECT    2    5
+CONECT    3    5
+CONECT    4    5
+CONECT    5    1    2    3    4
+CONECT    6    7    8
+CONECT    7    6
+CONECT    8    6    9
+CONECT    9    8
+END

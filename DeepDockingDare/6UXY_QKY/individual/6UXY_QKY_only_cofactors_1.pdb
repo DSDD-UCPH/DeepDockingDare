@@ -1,0 +1,22 @@
+CRYST1  102.370  140.800  178.420  90.00  90.00  90.00 I 2 2 2       8
+HETATM    1  C1  EDO A 702      14.489 -68.356 -29.643  1.00 57.40      D    C  
+HETATM    2  O1  EDO A 702      14.365 -69.659 -30.195  1.00 56.75      D    O  
+HETATM    3  C2  EDO A 702      15.409 -67.493 -30.553  1.00 58.05      D    C  
+HETATM    4  O2  EDO A 702      15.563 -66.199 -29.995  1.00 58.25      D    O  
+HETATM    5  C1  GOL A 703      13.423 -39.825  -4.223  1.00 73.54      E    C  
+HETATM    6  O1  GOL A 703      13.481 -39.421  -5.590  1.00 73.91      E    O  
+HETATM    7  C2  GOL A 703      12.469 -38.956  -3.430  1.00 73.15      E    C  
+HETATM    8  O2  GOL A 703      12.798 -37.574  -3.621  1.00 72.48      E    O  
+HETATM    9  C3  GOL A 703      11.022 -39.192  -3.808  1.00 73.15      E    C  
+HETATM   10  O3  GOL A 703      10.594 -40.493  -3.420  1.00 73.24      E    O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3
+CONECT    5    6    7
+CONECT    6    5
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10
+CONECT   10    9
+END
