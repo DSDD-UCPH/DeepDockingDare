@@ -1,0 +1,29 @@
+CRYST1  156.163   39.871   62.801  90.00 101.09  90.00 C 1 2 1       4
+HETATM    1  C1  EDO A 402      48.966  -1.284  29.753  1.00 38.25      C    C  
+ANISOU    1  C1  EDO A 402     5088   4089   5355    126    354     19  C    C  
+HETATM    2  O1  EDO A 402      49.316  -1.367  28.370  1.00 35.18      C    O  
+ANISOU    2  O1  EDO A 402     4699   3716   4949    111    342    -21  C    O  
+HETATM    3  C2  EDO A 402      47.557  -0.726  29.885  1.00 38.32      C    C  
+ANISOU    3  C2  EDO A 402     5077   4123   5360     94    329     26  C    C  
+HETATM    4  O2  EDO A 402      47.258  -0.516  31.266  1.00 35.93      C    O  
+ANISOU    4  O2  EDO A 402     4775   3795   5082     97    346     59  C    O  
+HETATM    5  O1  SO4 A 403      55.662  15.776  58.706  1.00 29.60      D    O  
+ANISOU    5  O1  SO4 A 403     3686   4159   3400    371    373    439  D    O  
+HETATM    6  O2  SO4 A 403      57.299  17.521  58.277  1.00 30.77      D    O  
+ANISOU    6  O2  SO4 A 403     3795   4375   3518    377    329    383  D    O  
+HETATM    7  O3  SO4 A 403      57.968  15.457  59.255  1.00 31.27      D    O  
+ANISOU    7  O3  SO4 A 403     3895   4453   3531    423    335    480  D    O  
+HETATM    8  O4  SO4 A 403      56.645  17.008  60.527  1.00 32.79      D    O  
+ANISOU    8  O4  SO4 A 403     4064   4690   3704    361    370    421  D    O  
+HETATM    9  S   SO4 A 403      56.909  16.437  59.155  1.00 32.37      D    S  
+ANISOU    9  S   SO4 A 403     4021   4578   3700    384    351    431  D    S  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3
+CONECT    5    9
+CONECT    6    9
+CONECT    7    9
+CONECT    8    9
+CONECT    9    5    6    7    8
+END

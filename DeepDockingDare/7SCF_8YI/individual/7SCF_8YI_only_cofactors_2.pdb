@@ -1,0 +1,83 @@
+CRYST1   69.102   71.570  145.095  90.00  90.00  90.00 P 21 21 21    8
+HETATM    1  O2  PEG B 402     -18.564   7.996  49.408  1.00 39.21      N    O  
+ANISOU    1  O2  PEG B 402     5183   5151   4562   -111   -449   -562  N    O  
+HETATM    2  C3  PEG B 402     -17.172   8.055  49.243  1.00 38.90      N    C  
+ANISOU    2  C3  PEG B 402     5122   5115   4542   -148   -472   -579  N    C  
+HETATM    3  C4  PEG B 402     -16.659   6.774  48.577  1.00 38.02      N    C  
+ANISOU    3  C4  PEG B 402     4974   5026   4446   -165   -451   -543  N    C  
+HETATM    4  O4  PEG B 402     -17.419   6.438  47.442  1.00 40.66      N    O  
+ANISOU    4  O4  PEG B 402     5307   5340   4802   -176   -420   -507  N    O  
+HETATM    5  O2  PEG B 403     -33.046   6.512  37.761  1.00 35.36      O    O  
+ANISOU    5  O2  PEG B 403     4762   4409   4265    -77   -132   -195  O    O  
+HETATM    6  C3  PEG B 403     -34.012   5.512  37.562  1.00 36.03      O    C  
+ANISOU    6  C3  PEG B 403     4829   4507   4354    -58   -113   -163  O    C  
+HETATM    7  C4  PEG B 403     -34.140   4.687  38.842  1.00 36.70      O    C  
+ANISOU    7  C4  PEG B 403     4899   4629   4418    -25   -108   -154  O    C  
+HETATM    8  O4  PEG B 403     -32.857   4.284  39.241  1.00 36.57      O    O  
+ANISOU    8  O4  PEG B 403     4869   4631   4396    -40   -120   -167  O    O  
+HETATM    9  C1  PEG B 404     -55.907   1.822   5.592  1.00 35.75      P    C  
+ANISOU    9  C1  PEG B 404     4750   4164   4670     61   -210     99  P    C  
+HETATM   10  O1  PEG B 404     -56.233   3.179   5.443  1.00 34.13      P    O  
+ANISOU   10  O1  PEG B 404     4571   3952   4446     74   -199    102  P    O  
+HETATM   11  C2  PEG B 404     -56.359   1.320   6.968  1.00 37.38      P    C  
+ANISOU   11  C2  PEG B 404     4929   4378   4897     57   -204    109  P    C  
+HETATM   12  O2  PEG B 404     -55.467   0.350   7.457  1.00 39.50      P    O  
+ANISOU   12  O2  PEG B 404     5182   4652   5174     38   -203    106  P    O  
+HETATM   13  C3  PEG B 404     -56.048  -0.823   7.958  1.00 38.16      P    C  
+ANISOU   13  C3  PEG B 404     4977   4488   5033     37   -213    113  P    C  
+HETATM   14  C4  PEG B 404     -55.789  -0.960   9.455  1.00 34.25      P    C  
+ANISOU   14  C4  PEG B 404     4469   4000   4543     28   -195    122  P    C  
+HETATM   15  O4  PEG B 404     -56.347  -2.172   9.894  1.00 35.45      P    O  
+ANISOU   15  O4  PEG B 404     4585   4157   4726     27   -205    131  P    O  
+HETATM   16  C1  PEG B 405     -50.125  -1.292   2.689  1.00 27.19      Q    C  
+ANISOU   16  C1  PEG B 405     3685   3096   3549      2   -228     52  Q    C  
+HETATM   17  O1  PEG B 405     -48.814  -0.950   3.089  1.00 26.08      Q    O  
+ANISOU   17  O1  PEG B 405     3556   2959   3394    -15   -208     52  Q    O  
+HETATM   18  C2  PEG B 405     -51.095  -0.116   2.847  1.00 27.89      Q    C  
+ANISOU   18  C2  PEG B 405     3787   3178   3633     15   -221     59  Q    C  
+HETATM   19  O2  PEG B 405     -51.109   0.358   4.176  1.00 31.90      Q    O  
+ANISOU   19  O2  PEG B 405     4290   3685   4145      5   -203     67  Q    O  
+HETATM   20  C3  PEG B 405     -51.987   1.435   4.353  1.00 32.41      Q    C  
+ANISOU   20  C3  PEG B 405     4367   3743   4205     18   -197     74  Q    C  
+HETATM   21  C4  PEG B 405     -51.143   2.608   4.826  1.00 30.36      Q    C  
+ANISOU   21  C4  PEG B 405     4132   3478   3925      7   -173     75  Q    C  
+HETATM   22  O4  PEG B 405     -50.392   2.107   5.893  1.00 29.71      Q    O  
+ANISOU   22  O4  PEG B 405     4037   3403   3850    -12   -165     74  Q    O  
+HETATM   23  P   PO4 B 406     -18.591  24.296  22.021  1.00 38.17      R    P  
+ANISOU   23  P   PO4 B 406     5242   4131   5129   -763   -177   -236  R    P  
+HETATM   24  O1  PO4 B 406     -18.731  23.618  20.672  1.00 33.79      R    O  
+ANISOU   24  O1  PO4 B 406     4676   3592   4570   -757   -146   -196  R    O  
+HETATM   25  O2  PO4 B 406     -19.818  25.129  22.354  1.00 34.47      R    O  
+ANISOU   25  O2  PO4 B 406     4815   3632   4650   -738   -181   -251  R    O  
+HETATM   26  O3  PO4 B 406     -18.419  23.251  23.115  1.00 33.54      R    O  
+ANISOU   26  O3  PO4 B 406     4636   3589   4518   -750   -194   -257  R    O  
+HETATM   27  O4  PO4 B 406     -17.410  25.234  21.910  1.00 37.15      R    O  
+ANISOU   27  O4  PO4 B 406     5104   3970   5041   -807   -185   -239  R    O  
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3
+CONECT    5    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7
+CONECT    9   10   11
+CONECT   10    9
+CONECT   11    9   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14
+CONECT   16   17   18
+CONECT   17   16
+CONECT   18   16   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21
+CONECT   23   24   25   26   27
+CONECT   24   23
+CONECT   25   23
+CONECT   26   23
+CONECT   27   23
+END

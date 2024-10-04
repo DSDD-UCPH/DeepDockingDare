@@ -1,0 +1,26 @@
+CRYST1   63.878   48.772  109.353  90.00 101.18  90.00 P 1 21 1      2
+HETATM    1 ZN    ZN A1701      -8.727  -1.165   6.801  1.00 25.60      B   ZN  
+ANISOU    1 ZN    ZN A1701     3276   3227   3224   -107    -41      1  B   ZN  
+HETATM    2 ZN    ZN A1702      -2.347   4.786  -3.910  1.00 29.51      C   ZN  
+ANISOU    2 ZN    ZN A1702     3371   4420   3420   -247   -175    584  C   ZN  
+HETATM    3  C1  EDO A1703     -31.026   5.460   9.671  1.00 38.04      D    C  
+ANISOU    3  C1  EDO A1703     4435   4683   5333     72      6   -463  D    C  
+HETATM    4  O1  EDO A1703     -31.807   4.650   8.813  1.00 34.25      D    O  
+ANISOU    4  O1  EDO A1703     3951   4199   4861     56      8   -422  D    O  
+HETATM    5  C2  EDO A1703     -31.439   5.484  11.111  1.00 38.53      D    C  
+ANISOU    5  C2  EDO A1703     4456   4826   5358     86     44   -520  D    C  
+HETATM    6  O2  EDO A1703     -32.732   6.054  11.309  1.00 38.45      D    O  
+ANISOU    6  O2  EDO A1703     4389   4835   5383    117     41   -580  D    O  
+HETATM    7  C   ACT A1705     -36.774  -5.211   8.876  1.00 28.66      F    C  
+HETATM    8  O   ACT A1705     -38.010  -5.122   8.848  1.00 30.88      F    O  
+HETATM    9  CH3 ACT A1705     -36.035  -5.662   7.637  1.00 30.15      F    C  
+HETATM   10  OXT ACT A1705     -36.095  -4.925   9.853  1.00 31.16      F    O  
+CONECT    3    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5
+CONECT    7    8    9   10
+CONECT    8    7
+CONECT    9    7
+CONECT   10    7
+END
