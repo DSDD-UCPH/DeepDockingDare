@@ -1,0 +1,84 @@
+CRYST1   84.930   86.962   91.554  76.78  66.88  80.22 P 1           4
+HETATM    1 MG    MG A 601      -6.754  13.791  -0.467  1.00 36.41      E   MG  
+HETATM    2  P1  FBP A 602      29.085   0.788 -11.072  1.00 15.46      F    P  
+HETATM    3  P2  FBP A 602      23.133  -0.170  -5.613  1.00 18.47      F    P  
+HETATM    4  O1P FBP A 602      28.359   2.108 -10.980  1.00 15.60      F    O  
+HETATM    5  O2P FBP A 602      28.390  -0.244 -11.938  1.00 13.16      F    O1-
+HETATM    6  O3P FBP A 602      30.554   0.937 -11.418  1.00 19.74      F    O1-
+HETATM    7  O4P FBP A 602      22.984   0.657  -4.356  1.00 18.14      F    O  
+HETATM    8  O5P FBP A 602      23.308  -1.650  -5.352  1.00 21.86      F    O1-
+HETATM    9  O6P FBP A 602      22.059   0.111  -6.649  1.00 24.64      F    O1-
+HETATM   10  C1  FBP A 602      29.443   1.015  -8.464  1.00 17.12      F    C  
+HETATM   11  O1  FBP A 602      28.987   0.206  -9.560  1.00 20.27      F    O  
+HETATM   12  C2  FBP A 602      28.901   0.409  -7.181  1.00 19.20      F    C  
+HETATM   13  O2  FBP A 602      29.636   0.900  -6.094  1.00 15.81      F    O  
+HETATM   14  C3  FBP A 602      28.967  -1.127  -7.232  1.00 15.13      F    C  
+HETATM   15  O3  FBP A 602      30.244  -1.619  -6.848  1.00 17.49      F    O  
+HETATM   16  C4  FBP A 602      27.830  -1.482  -6.292  1.00 19.47      F    C  
+HETATM   17  O4  FBP A 602      27.341  -2.810  -6.472  1.00 21.38      F    O  
+HETATM   18  C5  FBP A 602      26.783  -0.455  -6.702  1.00 18.67      F    C  
+HETATM   19  O5  FBP A 602      27.517   0.745  -7.012  1.00 17.14      F    O  
+HETATM   20  C6  FBP A 602      25.746  -0.161  -5.649  1.00 16.52      F    C  
+HETATM   21  O6  FBP A 602      24.534   0.268  -6.304  1.00 18.78      F    O  
+HETATM   22 MG    MG B 601       5.319  39.652  26.541  1.00 33.65      G   MG  
+HETATM   23  P1  FBP B 602      -6.306  17.328  57.948  1.00 21.27      H    P  
+HETATM   24  P2  FBP B 602      -0.461  18.341  52.526  1.00 16.68      H    P  
+HETATM   25  O1P FBP B 602      -6.939  17.947  56.717  1.00 19.45      H    O  
+HETATM   26  O2P FBP B 602      -5.572  18.332  58.811  1.00 23.34      H    O1-
+HETATM   27  O3P FBP B 602      -7.266  16.456  58.730  1.00 28.84      H    O1-
+HETATM   28  O4P FBP B 602      -0.612  17.700  51.163  1.00 19.88      H    O  
+HETATM   29  O5P FBP B 602       0.857  18.007  53.193  1.00 18.85      H    O1-
+HETATM   30  O6P FBP B 602      -0.773  19.819  52.537  1.00 20.87      H    O1-
+HETATM   31  C1  FBP B 602      -5.400  15.318  56.515  1.00 16.19      H    C  
+HETATM   32  O1  FBP B 602      -5.114  16.361  57.444  1.00 19.16      H    O  
+HETATM   33  C2  FBP B 602      -4.084  14.909  55.910  1.00 17.72      H    C  
+HETATM   34  O2  FBP B 602      -4.271  13.678  55.279  1.00 10.58      H    O  
+HETATM   35  C3  FBP B 602      -2.941  14.830  56.940  1.00 15.84      H    C  
+HETATM   36  O3  FBP B 602      -2.938  13.598  57.639  1.00 19.73      H    O  
+HETATM   37  C4  FBP B 602      -1.747  15.030  56.037  1.00 17.45      H    C  
+HETATM   38  O4  FBP B 602      -0.585  15.452  56.739  1.00 19.27      H    O  
+HETATM   39  C5  FBP B 602      -2.251  16.154  55.144  1.00 19.10      H    C  
+HETATM   40  O5  FBP B 602      -3.646  15.868  54.936  1.00 19.63      H    O  
+HETATM   41  C6  FBP B 602      -1.540  16.310  53.821  1.00 14.37      H    C  
+HETATM   42  O6  FBP B 602      -1.655  17.693  53.426  1.00 20.50      H    O  
+CONECT    2    4    5    6   11
+CONECT    3    7    8    9   21
+CONECT    4    2
+CONECT    5    2
+CONECT    6    2
+CONECT    7    3
+CONECT    8    3
+CONECT    9    3
+CONECT   10   11   12
+CONECT   11    2   10
+CONECT   12   10   13   14   19
+CONECT   13   12
+CONECT   14   12   15   16
+CONECT   15   14
+CONECT   16   14   17   18
+CONECT   17   16
+CONECT   18   16   19   20
+CONECT   19   12   18
+CONECT   20   18   21
+CONECT   21    3   20
+CONECT   23   25   26   27   32
+CONECT   24   28   29   30   42
+CONECT   25   23
+CONECT   26   23
+CONECT   27   23
+CONECT   28   24
+CONECT   29   24
+CONECT   30   24
+CONECT   31   32   33
+CONECT   32   23   31
+CONECT   33   31   34   35   40
+CONECT   34   33
+CONECT   35   33   36   37
+CONECT   36   35
+CONECT   37   35   38   39
+CONECT   38   37
+CONECT   39   37   40   41
+CONECT   40   33   39
+CONECT   41   39   42
+CONECT   42   24   41
+END
