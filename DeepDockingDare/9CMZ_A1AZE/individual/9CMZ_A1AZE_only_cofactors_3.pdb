@@ -1,0 +1,22 @@
+CRYST1   77.539   99.428   78.148  90.00 100.78  90.00 P 1 21 1      6
+HETATM    1  O1  SO4 C 401      63.448  -4.484   0.931  1.00105.42      L    O  
+HETATM    2  O2  SO4 C 401      62.590  -6.288  -0.480  1.00 92.25      L    O  
+HETATM    3  O3  SO4 C 401      62.438  -6.488   1.932  1.00 91.61      L    O  
+HETATM    4  O4  SO4 C 401      61.061  -4.810   0.778  1.00 80.33      L    O  
+HETATM    5  S   SO4 C 401      62.376  -5.523   0.791  1.00 83.96      L    S  
+HETATM    6  O1  SO4 C 401      14.091  45.230  -0.931  1.00105.42      L    O  
+HETATM    7  O2  SO4 C 401      14.949  43.426   0.480  1.00 92.25      L    O  
+HETATM    8  O3  SO4 C 401      15.101  43.226  -1.932  1.00 91.61      L    O  
+HETATM    9  O4  SO4 C 401      16.478  44.904  -0.778  1.00 80.33      L    O  
+HETATM   10  S   SO4 C 401      15.163  44.191  -0.791  1.00 83.96      L    S  
+CONECT    1    5
+CONECT    2    5
+CONECT    3    5
+CONECT    4    5
+CONECT    5    1    2    3    4
+CONECT    6   10
+CONECT    7   10
+CONECT    8   10
+CONECT    9   10
+CONECT   10    6    7    8    9
+END

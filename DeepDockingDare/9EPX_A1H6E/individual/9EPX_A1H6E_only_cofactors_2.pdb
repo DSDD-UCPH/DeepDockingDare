@@ -1,0 +1,70 @@
+CRYST1  128.158  128.158  124.014  90.00  90.00  90.00 P 43 21 2    16
+HETATM    1  O1  SO4 A 401      33.171 -33.336  -9.151  1.00 48.37      C    O  
+HETATM    2  O2  SO4 A 401      32.294 -31.142  -8.800  1.00 44.32      C    O  
+HETATM    3  O3  SO4 A 401      31.008 -33.029  -8.272  1.00 59.30      C    O  
+HETATM    4  O4  SO4 A 401      32.921 -32.514  -6.980  1.00 57.63      C    O  
+HETATM    5  S   SO4 A 401      32.350 -32.500  -8.307  1.00 55.93      C    S  
+HETATM    6  O1  SO4 A 402      37.234 -37.222  -0.740  1.00 61.24      D    O  
+HETATM    7  O2  SO4 A 402      36.003 -35.425  -1.672  1.00 71.70      D    O  
+HETATM    8  O3  SO4 A 402      36.248 -35.571   0.654  1.00 71.57      D    O  
+HETATM    9  O4  SO4 A 402      38.089 -35.017  -0.705  1.00 81.63      D    O  
+HETATM   10  S   SO4 A 402      36.894 -35.818  -0.614  1.00 70.54      D    S  
+HETATM   11  O1  SO4 A 403      -6.303 -60.028  19.975  1.00 75.30      E    O  
+HETATM   12  O2  SO4 A 403      -5.236 -58.644  21.511  1.00 56.79      E    O  
+HETATM   13  O3  SO4 A 403      -7.427 -59.377  21.931  1.00 47.75      E    O  
+HETATM   14  O4  SO4 A 403      -5.655 -60.908  22.082  1.00 59.42      E    O  
+HETATM   15  S   SO4 A 403      -6.155 -59.738  21.384  1.00 62.57      E    S  
+HETATM   16  O1  SO4 A 404       4.880 -58.124  -7.165  1.00108.11      F    O  
+HETATM   17  O2  SO4 A 404       3.899 -56.001  -6.804  1.00 97.53      F    O  
+HETATM   18  O3  SO4 A 404       3.632 -57.720  -5.216  1.00101.43      F    O  
+HETATM   19  O4  SO4 A 404       5.733 -56.681  -5.509  1.00 89.61      F    O  
+HETATM   20  S   SO4 A 404       4.534 -57.131  -6.175  1.00102.97      F    S  
+HETATM   21  O1  SO4 A 405      32.748 -40.781  -9.428  1.00 74.10      G    O  
+HETATM   22  O2  SO4 A 405      33.454 -43.021  -9.259  1.00 81.04      G    O  
+HETATM   23  O3  SO4 A 405      32.785 -41.841  -7.359  1.00105.07      G    O  
+HETATM   24  O4  SO4 A 405      34.826 -41.263  -8.394  1.00 76.86      G    O  
+HETATM   25  S   SO4 A 405      33.462 -41.726  -8.618  1.00 86.84      G    S  
+HETATM   26  O1  SO4 A 406      11.947 -55.364  13.279  1.00 62.87      H    O  
+HETATM   27  O2  SO4 A 406      11.443 -53.433  14.492  1.00 50.13      H    O  
+HETATM   28  O3  SO4 A 406      12.137 -55.397  15.609  1.00 59.17      H    O  
+HETATM   29  O4  SO4 A 406       9.983 -55.295  14.552  1.00 47.90      H    O  
+HETATM   30  S   SO4 A 406      11.369 -54.870  14.489  1.00 57.45      H    S  
+HETATM   31  C1  EDO A 407      -3.863 -33.784  12.679  1.00 68.40      I    C  
+HETATM   32  O1  EDO A 407      -4.068 -34.417  13.919  1.00 62.84      I    O  
+HETATM   33  C2  EDO A 407      -3.640 -32.320  12.847  1.00 72.78      I    C  
+HETATM   34  O2  EDO A 407      -2.859 -31.768  11.812  1.00 68.75      I    O  
+CONECT    1    5
+CONECT    2    5
+CONECT    3    5
+CONECT    4    5
+CONECT    5    1    2    3    4
+CONECT    6   10
+CONECT    7   10
+CONECT    8   10
+CONECT    9   10
+CONECT   10    6    7    8    9
+CONECT   11   15
+CONECT   12   15
+CONECT   13   15
+CONECT   14   15
+CONECT   15   11   12   13   14
+CONECT   16   20
+CONECT   17   20
+CONECT   18   20
+CONECT   19   20
+CONECT   20   16   17   18   19
+CONECT   21   25
+CONECT   22   25
+CONECT   23   25
+CONECT   24   25
+CONECT   25   21   22   23   24
+CONECT   26   30
+CONECT   27   30
+CONECT   28   30
+CONECT   29   30
+CONECT   30   26   27   28   29
+CONECT   31   32   33
+CONECT   32   31
+CONECT   33   31   34
+CONECT   34   33
+END
