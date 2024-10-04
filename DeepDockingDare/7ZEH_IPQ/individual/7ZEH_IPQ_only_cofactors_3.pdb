@@ -1,0 +1,81 @@
+CRYST1   60.590   80.890   83.170  82.22  72.46  68.20 P 1           4
+HETATM    1  C1  RBL B 402      29.560  42.772  29.311  1.00 51.21      Q    C  
+HETATM    2  O1  RBL B 402      30.355  41.886  28.550  1.00 55.75      Q    O  
+HETATM    3  C2  RBL B 402      28.893  43.829  28.440  1.00 38.58      Q    C  
+HETATM    4  O2  RBL B 402      28.426  44.836  28.947  1.00 47.94      Q    O  
+HETATM    5  C3  RBL B 402      28.749  43.596  26.911  1.00 35.08      Q    C  
+HETATM    6  C4  RBL B 402      27.915  42.323  26.778  1.00 40.36      Q    C  
+HETATM    7  O4  RBL B 402      27.464  42.189  25.449  1.00 38.01      Q    O  
+HETATM    8  C5  RBL B 402      26.636  42.434  27.596  1.00 40.59      Q    C  
+HETATM    9  O5  RBL B 402      25.862  43.499  27.204  1.00 37.41      Q    O  
+HETATM   10  C1  EDO B 403      17.313  17.289  27.000  1.00 39.01      R    C  
+HETATM   11  O1  EDO B 403      18.692  17.659  27.181  1.00 31.33      R    O  
+HETATM   12  C2  EDO B 403      16.843  16.239  27.999  1.00 52.28      R    C  
+HETATM   13  O2  EDO B 403      15.436  16.050  27.813  1.00 62.72      R    O  
+HETATM   14  C1  EDO B 404      14.658  27.209  19.424  1.00 43.82      S    C  
+HETATM   15  O1  EDO B 404      15.513  26.776  20.509  1.00 46.07      S    O  
+HETATM   16  C2  EDO B 404      13.326  26.453  19.393  1.00 49.51      S    C  
+HETATM   17  O2  EDO B 404      12.528  26.856  18.274  1.00 56.81      S    O  
+HETATM   18  C1  EDO B 405      28.372  35.444   8.125  1.00 50.29      T    C  
+HETATM   19  O1  EDO B 405      26.951  35.292   7.990  1.00 45.60      T    O  
+HETATM   20  C2  EDO B 405      28.772  35.940   9.519  1.00 46.45      T    C  
+HETATM   21  O2  EDO B 405      30.215  36.017   9.636  1.00 34.94      T    O  
+HETATM   22  C1  EDO B 406      23.809  45.785  27.702  1.00 46.16      U    C  
+HETATM   23  O1  EDO B 406      22.616  45.051  27.397  1.00 70.77      U    O  
+HETATM   24  C2  EDO B 406      24.166  45.653  29.188  1.00 22.92      U    C  
+HETATM   25  O2  EDO B 406      23.305  46.458  30.032  1.00 26.72      U    O  
+HETATM   26  C1  EDO B 407       9.370  35.969  21.522  1.00 49.45      V    C  
+HETATM   27  O1  EDO B 407      10.253  36.887  20.876  1.00 54.24      V    O  
+HETATM   28  C2  EDO B 407       8.899  36.532  22.854  1.00 37.92      V    C  
+HETATM   29  O2  EDO B 407       7.485  36.285  22.941  1.00 37.36      V    O  
+HETATM   30 MG    MG B 408      23.479  38.254  30.959  1.00 17.28      W   MG  
+HETATM   31  P   PO4 B 409      24.791  39.323  25.874  1.00 20.02      X    P  
+HETATM   32  O1  PO4 B 409      25.943  39.631  24.942  1.00 25.57      X    O1-
+HETATM   33  O2  PO4 B 409      23.775  40.382  25.945  1.00 25.28      X    O  
+HETATM   34  O3  PO4 B 409      23.991  38.169  25.463  1.00 19.03      X    O  
+HETATM   35  O4  PO4 B 409      25.500  39.070  27.223  1.00 22.44      X    O  
+HETATM   36  O1  SO4 B 410      31.745  43.249  43.008  1.00 25.67      Y    O  
+HETATM   37  O2  SO4 B 410      29.830  43.520  44.513  1.00 23.86      Y    O  
+HETATM   38  O3  SO4 B 410      31.878  42.474  45.286  1.00 37.30      Y    O  
+HETATM   39  O4  SO4 B 410      31.633  44.760  44.971  1.00 36.14      Y    O  
+HETATM   40  S   SO4 B 410      31.260  43.462  44.422  1.00 26.45      Y    S  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5    7    8
+CONECT    7    6
+CONECT    8    6    9
+CONECT    9    8
+CONECT   10   11   12
+CONECT   11   10
+CONECT   12   10   13
+CONECT   13   12
+CONECT   14   15   16
+CONECT   15   14
+CONECT   16   14   17
+CONECT   17   16
+CONECT   18   19   20
+CONECT   19   18
+CONECT   20   18   21
+CONECT   21   20
+CONECT   22   23   24
+CONECT   23   22
+CONECT   24   22   25
+CONECT   25   24
+CONECT   26   27   28
+CONECT   27   26
+CONECT   28   26   29
+CONECT   29   28
+CONECT   31   32   33   34   35
+CONECT   32   31
+CONECT   33   31
+CONECT   34   31
+CONECT   35   31
+CONECT   36   40
+CONECT   37   40
+CONECT   38   40
+CONECT   39   40
+CONECT   40   36   37   38   39
+END
