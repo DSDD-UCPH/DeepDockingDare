@@ -1,0 +1,42 @@
+CRYST1   67.076  143.329   73.491  90.00 108.14  90.00 P 1 21 1      8
+HETATM    1  P1  FBP B 402     -15.034   7.764  20.050  1.00 46.93      H    P  
+HETATM    2  P2  FBP B 402     -17.393  14.642  16.712  1.00 36.69      H    P  
+HETATM    3  O1P FBP B 402     -13.873   8.087  19.126  1.00 37.88      H    O  
+HETATM    4  O2P FBP B 402     -14.540   7.292  21.400  1.00 49.78      H    O  
+HETATM    5  O3P FBP B 402     -15.995   6.789  19.389  1.00 46.01      H    O  
+HETATM    6  O4P FBP B 402     -16.513  13.997  15.661  1.00 34.38      H    O  
+HETATM    7  O5P FBP B 402     -18.877  14.412  16.452  1.00 33.73      H    O  
+HETATM    8  O6P FBP B 402     -16.979  16.090  16.885  1.00 33.03      H    O  
+HETATM    9  C1  FBP B 402     -15.664  10.078  21.302  1.00 39.66      H    C  
+HETATM   10  O1  FBP B 402     -16.007   9.062  20.394  1.00 45.52      H    O  
+HETATM   11  C2  FBP B 402     -15.212  11.251  20.493  1.00 38.07      H    C  
+HETATM   12  O2  FBP B 402     -14.266  10.814  19.578  1.00 38.02      H    O  
+HETATM   13  C3  FBP B 402     -14.582  12.402  21.514  1.00 38.04      H    C  
+HETATM   14  O3  FBP B 402     -13.195  11.987  21.784  1.00 37.16      H    O  
+HETATM   15  C4  FBP B 402     -14.698  13.529  20.903  1.00 38.15      H    C  
+HETATM   16  O4  FBP B 402     -15.011  14.727  21.794  1.00 36.76      H    O  
+HETATM   17  C5  FBP B 402     -15.951  13.328  19.953  1.00 37.91      H    C  
+HETATM   18  O5  FBP B 402     -16.219  11.817  19.914  1.00 37.26      H    O  
+HETATM   19  C6  FBP B 402     -15.753  13.825  18.686  1.00 37.75      H    C  
+HETATM   20  O6  FBP B 402     -17.061  13.844  18.113  1.00 37.65      H    O  
+CONECT    1    3    4    5   10
+CONECT    2    6    7    8   20
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1
+CONECT    6    2
+CONECT    7    2
+CONECT    8    2
+CONECT    9   10   11
+CONECT   10    1    9
+CONECT   11    9   12   13   18
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13
+CONECT   15   13   16   17
+CONECT   16   15
+CONECT   17   15   18   19
+CONECT   18   11   17
+CONECT   19   17   20
+CONECT   20    2   19
+END

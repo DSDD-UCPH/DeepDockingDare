@@ -1,0 +1,99 @@
+CRYST1   60.909   66.050  107.277  90.00  90.00  90.00 P 21 21 21    4
+HETATM    1  N   SAM A 501      10.818  14.700  23.117  1.00 18.77      B    N  
+HETATM    2  CA  SAM A 501      10.715  14.575  21.655  1.00 18.03      B    C  
+HETATM    3  C   SAM A 501       9.711  15.579  21.111  1.00 20.90      B    C  
+HETATM    4  O   SAM A 501       9.342  15.569  19.922  1.00 19.18      B    O  
+HETATM    5  CB  SAM A 501      10.337  13.146  21.258  1.00 18.65      B    C  
+HETATM    6  CG  SAM A 501      11.566  12.225  21.071  1.00 19.74      B    C  
+HETATM    7  SD  SAM A 501      12.520  12.738  19.592  1.00 21.18      B    S  
+HETATM    8  CE  SAM A 501      12.706  11.146  18.741  1.00 19.54      B    C  
+HETATM    9  C5' SAM A 501      14.197  12.892  20.288  1.00 19.77      B    C  
+HETATM   10  C4' SAM A 501      14.405  14.127  21.173  1.00 19.87      B    C  
+HETATM   11  O4' SAM A 501      13.715  13.997  22.414  1.00 22.12      B    O  
+HETATM   12  C3' SAM A 501      15.871  14.330  21.565  1.00 22.66      B    C  
+HETATM   13  O3' SAM A 501      16.619  14.994  20.563  1.00 22.80      B    O  
+HETATM   14  C2' SAM A 501      15.760  15.114  22.858  1.00 20.72      B    C  
+HETATM   15  O2' SAM A 501      15.382  16.448  22.543  1.00 22.84      B    O  
+HETATM   16  C1' SAM A 501      14.538  14.467  23.474  1.00 19.43      B    C  
+HETATM   17  OXT SAM A 501       9.260  16.447  21.876  1.00 19.29      B    O  
+HETATM   18  N1  SAM A 501      16.230  12.860  28.101  1.00 23.63      B    N  
+HETATM   19  C2  SAM A 501      16.131  14.152  27.636  1.00 21.45      B    C  
+HETATM   20  N3  SAM A 501      15.654  14.404  26.367  1.00 21.97      B    N  
+HETATM   21  C4  SAM A 501      15.309  13.337  25.600  1.00 21.78      B    C  
+HETATM   22  C5  SAM A 501      15.406  12.023  26.056  1.00 18.69      B    C  
+HETATM   23  C6  SAM A 501      15.885  11.775  27.335  1.00 17.25      B    C  
+HETATM   24  N6  SAM A 501      15.995  10.539  27.846  1.00 19.85      B    N  
+HETATM   25  N7  SAM A 501      14.994  11.202  25.054  1.00 20.19      B    N  
+HETATM   26  C8  SAM A 501      14.645  11.968  23.999  1.00 17.01      B    C  
+HETATM   27  N9  SAM A 501      14.831  13.285  24.327  1.00 17.62      B    N  
+HETATM   28 ZN    ZN A 503      21.326   6.570  30.007  1.00 22.31      D   ZN  
+HETATM   29 ZN    ZN A 504      10.850  -5.683  -3.594  1.00 23.72      E   ZN  
+HETATM   30 ZN    ZN A 505      14.032   6.169 -11.692  1.00 25.46      F   ZN  
+HETATM   31  C   ACT A 506      18.520  -2.667 -18.371  1.00 60.72      G    C  
+HETATM   32  O   ACT A 506      19.299  -2.287 -19.293  1.00 57.08      G    O  
+HETATM   33  CH3 ACT A 506      17.892  -4.092 -18.537  1.00 43.19      G    C  
+HETATM   34  OXT ACT A 506      18.170  -2.049 -17.322  1.00 63.50      G    O  
+HETATM   35  C   ACT A 507      27.452  16.948   1.608  1.00 47.41      H    C  
+HETATM   36  O   ACT A 507      26.706  16.860   0.590  1.00 40.06      H    O  
+HETATM   37  CH3 ACT A 507      27.001  17.962   2.726  1.00 30.03      H    C  
+HETATM   38  OXT ACT A 507      28.526  16.329   1.851  1.00 57.84      H    O  
+HETATM   39  C1  GOL A 508      14.149   8.679  16.057  1.00 30.58      I    C  
+HETATM   40  O1  GOL A 508      12.885   9.118  16.486  1.00 35.50      I    O  
+HETATM   41  C2  GOL A 508      14.852   7.954  17.232  1.00 34.86      I    C  
+HETATM   42  O2  GOL A 508      14.047   6.998  17.821  1.00 32.32      I    O  
+HETATM   43  C3  GOL A 508      16.062   7.318  16.559  1.00 29.89      I    C  
+HETATM   44  O3  GOL A 508      16.693   8.372  15.883  1.00 35.88      I    O  
+HETATM   45  C1  GOL A 509      18.457   0.434  18.034  1.00 39.43      J    C  
+HETATM   46  O1  GOL A 509      17.136   0.001  17.801  1.00 42.02      J    O  
+HETATM   47  C2  GOL A 509      19.156  -0.636  18.967  1.00 38.21      J    C  
+HETATM   48  O2  GOL A 509      19.146  -1.944  18.428  1.00 31.92      J    O  
+HETATM   49  C3  GOL A 509      18.439  -0.548  20.341  1.00 29.78      J    C  
+HETATM   50  O3  GOL A 509      19.304  -1.210  21.263  1.00 22.14      J    O  
+CONECT    1    2
+CONECT    2    1    3    5
+CONECT    3    2    4   17
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5    7
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7   10
+CONECT   10    9   11   12
+CONECT   11   10   16
+CONECT   12   10   13   14
+CONECT   13   12
+CONECT   14   12   15   16
+CONECT   15   14
+CONECT   16   11   14   27
+CONECT   17    3
+CONECT   18   19   23
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22   27
+CONECT   22   21   23   25
+CONECT   23   18   22   24
+CONECT   24   23
+CONECT   25   22   26
+CONECT   26   25   27
+CONECT   27   16   21   26
+CONECT   31   32   33   34
+CONECT   32   31
+CONECT   33   31
+CONECT   34   31
+CONECT   35   36   37   38
+CONECT   36   35
+CONECT   37   35
+CONECT   38   35
+CONECT   39   40   41
+CONECT   40   39
+CONECT   41   39   42   43
+CONECT   42   41
+CONECT   43   41   44
+CONECT   44   43
+CONECT   45   46   47
+CONECT   46   45
+CONECT   47   45   48   49
+CONECT   48   47
+CONECT   49   47   50
+CONECT   50   49
+END

@@ -1,0 +1,82 @@
+CRYST1   67.100  143.000   73.600  90.00 107.74  90.00 P 1 21 1      8
+HETATM    1  P1  FBP D 401      -0.362  -8.848  40.114  1.00 42.58      K    P  
+HETATM    2  P2  FBP D 401       3.744 -15.836  39.167  1.00 44.93      K    P  
+HETATM    3  O1P FBP D 401      -0.142  -9.161  38.681  1.00 38.52      K    O  
+HETATM    4  O2P FBP D 401      -1.245  -7.610  40.211  1.00 42.70      K    O  
+HETATM    5  O3P FBP D 401       0.949  -8.588  40.793  1.00 42.45      K    O  
+HETATM    6  O4P FBP D 401       4.328 -14.956  38.091  1.00 44.74      K    O  
+HETATM    7  O5P FBP D 401       3.214 -17.123  38.612  1.00 34.33      K    O  
+HETATM    8  O6P FBP D 401       4.807 -16.139  40.148  1.00 42.49      K    O  
+HETATM    9  C1  FBP D 401      -0.353 -11.178  41.334  1.00 41.27      K    C  
+HETATM   10  O1  FBP D 401      -1.128 -10.135  40.801  1.00 42.77      K    O  
+HETATM   11  C2  FBP D 401      -0.254 -12.331  40.369  1.00 40.27      K    C  
+HETATM   12  O2  FBP D 401      -0.248 -11.930  39.053  1.00 41.07      K    O  
+HETATM   13  C3  FBP D 401      -1.465 -13.431  40.653  1.00 38.26      K    C  
+HETATM   14  O3  FBP D 401      -2.689 -12.944  40.039  1.00 33.76      K    O  
+HETATM   15  C4  FBP D 401      -1.059 -14.485  40.102  1.00 37.81      K    C  
+HETATM   16  O4  FBP D 401      -1.661 -15.688  40.752  1.00 35.49      K    O  
+HETATM   17  C5  FBP D 401       0.479 -14.459  40.442  1.00 39.59      K    C  
+HETATM   18  O5  FBP D 401       0.832 -12.982  40.596  1.00 40.09      K    O  
+HETATM   19  C6  FBP D 401       1.235 -15.014  39.443  1.00 43.00      K    C  
+HETATM   20  O6  FBP D 401       2.565 -14.997  39.932  1.00 45.38      K    O  
+HETATM   21  P1  FBP D 401     -22.788  -8.848 110.214  1.00 42.58      K    P  
+HETATM   22  P2  FBP D 401     -18.682 -15.836 109.267  1.00 44.93      K    P  
+HETATM   23  O1P FBP D 401     -22.568  -9.161 108.781  1.00 38.52      K    O  
+HETATM   24  O2P FBP D 401     -23.671  -7.610 110.311  1.00 42.70      K    O  
+HETATM   25  O3P FBP D 401     -21.477  -8.588 110.893  1.00 42.45      K    O  
+HETATM   26  O4P FBP D 401     -18.098 -14.956 108.191  1.00 44.74      K    O  
+HETATM   27  O5P FBP D 401     -19.212 -17.123 108.712  1.00 34.33      K    O  
+HETATM   28  O6P FBP D 401     -17.619 -16.139 110.248  1.00 42.49      K    O  
+HETATM   29  C1  FBP D 401     -22.779 -11.178 111.434  1.00 41.27      K    C  
+HETATM   30  O1  FBP D 401     -23.554 -10.135 110.901  1.00 42.77      K    O  
+HETATM   31  C2  FBP D 401     -22.680 -12.331 110.469  1.00 40.27      K    C  
+HETATM   32  O2  FBP D 401     -22.674 -11.930 109.153  1.00 41.07      K    O  
+HETATM   33  C3  FBP D 401     -23.891 -13.431 110.753  1.00 38.26      K    C  
+HETATM   34  O3  FBP D 401     -25.115 -12.944 110.139  1.00 33.76      K    O  
+HETATM   35  C4  FBP D 401     -23.485 -14.485 110.202  1.00 37.81      K    C  
+HETATM   36  O4  FBP D 401     -24.087 -15.688 110.852  1.00 35.49      K    O  
+HETATM   37  C5  FBP D 401     -21.947 -14.459 110.542  1.00 39.59      K    C  
+HETATM   38  O5  FBP D 401     -21.594 -12.982 110.696  1.00 40.09      K    O  
+HETATM   39  C6  FBP D 401     -21.191 -15.014 109.543  1.00 43.00      K    C  
+HETATM   40  O6  FBP D 401     -19.861 -14.997 110.032  1.00 45.38      K    O  
+CONECT    1    3    4    5   10
+CONECT    2    6    7    8   20
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1
+CONECT    6    2
+CONECT    7    2
+CONECT    8    2
+CONECT    9   10   11
+CONECT   10    1    9
+CONECT   11    9   12   13   18
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13
+CONECT   15   13   16   17
+CONECT   16   15
+CONECT   17   15   18   19
+CONECT   18   11   17
+CONECT   19   17   20
+CONECT   20    2   19
+CONECT   21   23   24   25   30
+CONECT   22   26   27   28   40
+CONECT   23   21
+CONECT   24   21
+CONECT   25   21
+CONECT   26   22
+CONECT   27   22
+CONECT   28   22
+CONECT   29   30   31
+CONECT   30   21   29
+CONECT   31   29   32   33   38
+CONECT   32   31
+CONECT   33   31   34   35
+CONECT   34   33
+CONECT   35   33   36   37
+CONECT   36   35
+CONECT   37   35   38   39
+CONECT   38   31   37
+CONECT   39   37   40
+CONECT   40   22   39
+END

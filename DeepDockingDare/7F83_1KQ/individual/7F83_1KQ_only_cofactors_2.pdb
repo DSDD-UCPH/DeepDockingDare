@@ -1,0 +1,88 @@
+CRYST1   84.710   58.680  119.240  90.00  90.60  90.00 P 1 21 1      4
+HETATM    1  C1  OLC A1201      12.875 -10.099  23.922  1.00 78.27      C    C  
+HETATM    2  C2  OLC A1201      12.113 -10.317  25.225  1.00 61.63      C    C  
+HETATM    3  C3  OLC A1201      11.210  -9.104  25.441  1.00 59.52      C    C  
+HETATM    4  C4  OLC A1201      10.390  -9.321  26.706  1.00 68.44      C    C  
+HETATM    5  C5  OLC A1201       8.932  -8.948  26.447  1.00 57.87      C    C  
+HETATM    6  C6  OLC A1201       8.173  -9.140  27.761  1.00 50.34      C    C  
+HETATM    7  C7  OLC A1201       6.883  -8.319  27.738  1.00 49.57      C    C  
+HETATM    8  C8  OLC A1201       6.515  -7.830  29.143  1.00 49.18      C    C  
+HETATM    9  C9  OLC A1201       5.162  -7.111  29.110  1.00 48.71      C    C  
+HETATM   10  C10 OLC A1201       4.491  -6.842  30.213  1.00 38.43      C    C  
+HETATM   11  C11 OLC A1201       5.041  -7.247  31.580  1.00 46.85      C    C  
+HETATM   12  O19 OLC A1201      12.395  -9.411  23.087  1.00 69.03      C    O  
+HETATM   13  O20 OLC A1201      14.126 -10.694  23.704  1.00 86.19      C    O  
+HETATM   14  C21 OLC A1201      14.667 -10.435  22.434  1.00 75.36      C    C  
+HETATM   15  C22 OLC A1201      15.734 -11.481  22.116  1.00 77.27      C    C  
+HETATM   16  O23 OLC A1201      16.349 -11.876  23.311  1.00 76.58      C    O  
+HETATM   17  C24 OLC A1201      16.780 -10.902  21.161  1.00 70.66      C    C  
+HETATM   18  O25 OLC A1201      17.424 -11.941  20.468  1.00 62.33      C    O  
+HETATM   19  C1  OLC A1202      10.052 -10.647   2.461  1.00 68.70      D    C  
+HETATM   20  C2  OLC A1202       8.860 -11.615   2.481  1.00 59.20      D    C  
+HETATM   21  C3  OLC A1202       8.006 -11.472   1.212  1.00 54.87      D    C  
+HETATM   22  C4  OLC A1202       6.894 -12.535   1.218  1.00 68.71      D    C  
+HETATM   23  C5  OLC A1202       5.709 -12.170   0.309  1.00 65.63      D    C  
+HETATM   24  C6  OLC A1202       4.672 -13.305   0.295  1.00 54.73      D    C  
+HETATM   25  C7  OLC A1202       3.358 -12.813  -0.315  1.00 56.90      D    C  
+HETATM   26  C8  OLC A1202       2.192 -13.104   0.638  1.00 67.93      D    C  
+HETATM   27  C9  OLC A1202       1.271 -11.886   0.790  1.00 66.15      D    C  
+HETATM   28  C10 OLC A1202       0.018 -11.910   0.365  1.00 61.35      D    C  
+HETATM   29  C11 OLC A1202      -0.891 -10.685   0.527  1.00 52.63      D    C  
+HETATM   30  C12 OLC A1202      -1.870 -10.580  -0.649  1.00 53.09      D    C  
+HETATM   31  C13 OLC A1202      -3.193  -9.911  -0.247  1.00 50.76      D    C  
+HETATM   32  C14 OLC A1202      -3.866  -9.276  -1.474  1.00 45.25      D    C  
+HETATM   33  C15 OLC A1202      -5.364  -9.060  -1.233  1.00 46.47      D    C  
+HETATM   34  C16 OLC A1202      -6.014  -8.364  -2.434  1.00 44.90      D    C  
+HETATM   35  C17 OLC A1202      -7.533  -8.228  -2.253  1.00 42.59      D    C  
+HETATM   36  C18 OLC A1202      -8.058  -7.027  -3.053  1.00 34.37      D    C  
+HETATM   37  O19 OLC A1202      10.390 -10.169   1.431  1.00 70.48      D    O  
+HETATM   38  O20 OLC A1202      10.759 -10.308   3.633  1.00 62.83      D    O  
+HETATM   39  C21 OLC A1202      11.461 -11.364   4.234  1.00 66.73      D    C  
+HETATM   40  C22 OLC A1202      12.915 -10.987   4.543  1.00 72.05      D    C  
+HETATM   41  O23 OLC A1202      13.514 -10.416   3.412  1.00 76.31      D    O  
+HETATM   42  C24 OLC A1202      13.702 -12.242   4.945  1.00 76.63      D    C  
+HETATM   43  O25 OLC A1202      15.058 -12.121   4.597  1.00 60.60      D    O  
+CONECT    1    2   12   13
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10
+CONECT   12    1
+CONECT   13    1   14
+CONECT   14   13   15
+CONECT   15   14   16   17
+CONECT   16   15
+CONECT   17   15   18
+CONECT   18   17
+CONECT   19   20   37   38
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32   34
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35
+CONECT   37   19
+CONECT   38   19   39
+CONECT   39   38   40
+CONECT   40   39   41   42
+CONECT   41   40
+CONECT   42   40   43
+CONECT   43   42
+END
