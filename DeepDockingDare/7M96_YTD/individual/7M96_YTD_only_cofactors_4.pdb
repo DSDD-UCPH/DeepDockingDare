@@ -1,0 +1,62 @@
+CRYST1   70.700   55.350   92.950  90.00  94.50  90.00 P 1 21 1      8
+HETATM    1  C11 OLC C 202     -10.917 -43.197 -14.407  1.00 66.48      U    C  
+HETATM    2  C12 OLC C 202     -12.095 -42.961 -13.465  1.00 65.53      U    C  
+HETATM    3  C13 OLC C 202     -11.787 -43.554 -12.091  1.00 62.10      U    C  
+HETATM    4  C14 OLC C 202     -10.590 -42.837 -11.471  1.00 64.33      U    C  
+HETATM    5  C15 OLC C 202      -9.944 -43.737 -10.418  1.00 65.68      U    C  
+HETATM    6  C16 OLC C 202      -8.836 -42.970  -9.697  1.00 67.76      U    C  
+HETATM    7  C17 OLC C 202      -7.879 -43.954  -9.027  1.00 61.80      U    C  
+HETATM    8  C18 OLC C 202      -6.796 -43.181  -8.276  1.00 61.26      U    C  
+HETATM    9  C2  OLC C 203     -19.557 -34.889 -16.935  1.00 47.55      V    C  
+HETATM   10  C3  OLC C 203     -20.615 -35.404 -15.961  1.00 36.21      V    C  
+HETATM   11  C4  OLC C 203     -20.289 -36.847 -15.580  1.00 43.59      V    C  
+HETATM   12  C5  OLC C 203     -19.207 -36.878 -14.502  1.00 36.16      V    C  
+HETATM   13  C6  OLC C 203     -18.626 -38.288 -14.395  1.00 38.20      V    C  
+HETATM   14  C7  OLC C 203     -19.726 -39.261 -13.981  1.00 45.73      V    C  
+HETATM   15  C8  OLC C 203     -19.161 -40.650 -13.688  1.00 49.18      V    C  
+HETATM   16  C9  OLC C 203     -18.211 -40.564 -12.498  1.00 44.17      V    C  
+HETATM   17  C10 OLC C 203     -16.964 -40.949 -12.644  1.00 45.27      V    C  
+HETATM   18  C11 OLC C 203     -15.987 -40.865 -11.475  1.00 47.82      V    C  
+HETATM   19  C12 OLC C 203     -14.575 -40.754 -12.046  1.00 54.86      V    C  
+HETATM   20  C13 OLC C 203     -13.659 -40.035 -11.058  1.00 60.17      V    C  
+HETATM   21  C5  OLC C 204     -29.593 -37.845 -29.029  1.00 53.71      W    C  
+HETATM   22  C6  OLC C 204     -28.348 -38.508 -29.618  1.00 69.78      W    C  
+HETATM   23  C7  OLC C 204     -27.366 -38.861 -28.500  1.00 66.82      W    C  
+HETATM   24  C8  OLC C 204     -26.849 -37.595 -27.816  1.00 64.90      W    C  
+HETATM   25  C9  OLC C 204     -25.837 -37.988 -26.740  1.00 60.80      W    C  
+HETATM   26  C10 OLC C 204     -25.061 -37.097 -26.158  1.00 54.93      W    C  
+HETATM   27  C11 OLC C 204     -24.078 -37.575 -25.091  1.00 54.89      W    C  
+HETATM   28  C12 OLC C 204     -23.271 -36.411 -24.520  1.00 51.35      W    C  
+HETATM   29  C13 OLC C 204     -22.104 -36.979 -23.712  1.00 54.94      W    C  
+HETATM   30  C14 OLC C 204     -21.548 -35.907 -22.778  1.00 60.52      W    C  
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7
+CONECT    9   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19
+CONECT   21   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29
+END

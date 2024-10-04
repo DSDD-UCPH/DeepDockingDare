@@ -1,0 +1,72 @@
+CRYST1   98.417  133.314  130.303  90.00  94.54  90.00 P 1 21 1      8
+HETATM    1  C1  GOL A 902       7.823 -22.147  -1.090  1.00 39.25      F    C  
+ANISOU    1  C1  GOL A 902     4793   5265   4853    120     43   -502  F    C  
+HETATM    2  O1  GOL A 902       6.932 -22.104  -2.162  1.00 39.34      F    O  
+ANISOU    2  O1  GOL A 902     4791   5311   4844    126     42   -512  F    O  
+HETATM    3  C2  GOL A 902       9.091 -22.864  -1.594  1.00 39.27      F    C  
+ANISOU    3  C2  GOL A 902     4781   5284   4858    126     41   -531  F    C  
+HETATM    4  O2  GOL A 902       9.734 -22.142  -2.582  1.00 38.26      F    O  
+ANISOU    4  O2  GOL A 902     4642   5200   4695    130     49   -526  F    O  
+HETATM    5  C3  GOL A 902       9.952 -23.061  -0.332  1.00 39.85      F    C  
+ANISOU    5  C3  GOL A 902     4869   5315   4958    120     41   -521  F    C  
+HETATM    6  O3  GOL A 902      11.268 -23.301  -0.775  1.00 40.81      F    O  
+ANISOU    6  O3  GOL A 902     4980   5454   5074    123     42   -538  F    O  
+HETATM    7  HO1 GOL A 902       6.245 -22.553  -1.921  1.00 47.22      F    H  
+HETATM    8  HO2 GOL A 902       9.900 -21.370  -2.273  1.00 45.93      F    H  
+HETATM    9  HO3 GOL A 902      11.719 -23.536  -0.092  1.00 48.99      F    H  
+HETATM   10  H2  GOL A 902       8.875 -23.719  -1.999  1.00 47.15      F    H  
+HETATM   11  H11 GOL A 902       7.465 -22.624  -0.325  1.00 47.11      F    H  
+HETATM   12  H12 GOL A 902       8.060 -21.264  -0.765  1.00 47.11      F    H  
+HETATM   13  H31 GOL A 902       9.582 -23.789   0.191  1.00 47.84      F    H  
+HETATM   14  H32 GOL A 902       9.871 -22.274   0.230  1.00 47.84      F    H  
+HETATM   15  C1  GOL A 903      24.308  11.679 -17.767  1.00 51.56      G    C  
+ANISOU   15  C1  GOL A 903     6007   7659   5926     16    197    655  G    C  
+HETATM   16  O1  GOL A 903      24.404  10.395 -18.326  1.00 51.93      G    O  
+ANISOU   16  O1  GOL A 903     6047   7748   5937     25    201    607  G    O  
+HETATM   17  C2  GOL A 903      22.889  12.196 -18.062  1.00 50.57      G    C  
+ANISOU   17  C2  GOL A 903     5878   7534   5803     15    193    675  G    C  
+HETATM   18  O2  GOL A 903      21.928  11.265 -17.733  1.00 50.29      G    O  
+ANISOU   18  O2  GOL A 903     5861   7481   5765     22    192    629  G    O  
+HETATM   19  C3  GOL A 903      22.766  13.492 -17.241  1.00 50.21      G    C  
+ANISOU   19  C3  GOL A 903     5844   7430   5802      7    187    718  G    C  
+HETATM   20  O3  GOL A 903      21.413  13.861 -17.246  1.00 49.17      G    O  
+ANISOU   20  O3  GOL A 903     5716   7286   5680      6    183    728  G    O  
+HETATM   21  HO1 GOL A 903      23.621  10.186 -18.581  1.00 62.34      G    H  
+HETATM   22  HO2 GOL A 903      21.434  11.148 -18.415  1.00 60.36      G    H  
+HETATM   23  HO3 GOL A 903      20.976  13.178 -17.511  1.00 59.02      G    H  
+HETATM   24  H2  GOL A 903      22.772  12.376 -19.009  1.00 60.71      G    H  
+HETATM   25  H11 GOL A 903      24.957  12.296 -18.138  1.00 61.89      G    H  
+HETATM   26  H12 GOL A 903      24.456  11.680 -16.809  1.00 61.89      G    H  
+HETATM   27  H31 GOL A 903      23.348  14.164 -17.629  1.00 60.26      G    H  
+HETATM   28  H32 GOL A 903      23.117  13.332 -16.351  1.00 60.26      G    H  
+HETATM   29 MG    MG A 904      -0.749   1.941  31.564  1.00 24.69      H   MG  
+ANISOU   29 MG    MG A 904     3281   2909   3189     19    136     -8  H   MG  
+CONECT    1    2    3   11   12
+CONECT    2    1    7
+CONECT    3    1    4    5   10
+CONECT    4    3    8
+CONECT    5    3    6   13   14
+CONECT    6    5    9
+CONECT    7    2
+CONECT    8    4
+CONECT    9    6
+CONECT   10    3
+CONECT   11    1
+CONECT   12    1
+CONECT   13    5
+CONECT   14    5
+CONECT   15   16   17   25   26
+CONECT   16   15   21
+CONECT   17   15   18   19   24
+CONECT   18   17   22
+CONECT   19   17   20   27   28
+CONECT   20   19   23
+CONECT   21   16
+CONECT   22   18
+CONECT   23   20
+CONECT   24   17
+CONECT   25   15
+CONECT   26   15
+CONECT   27   19
+CONECT   28   19
+END

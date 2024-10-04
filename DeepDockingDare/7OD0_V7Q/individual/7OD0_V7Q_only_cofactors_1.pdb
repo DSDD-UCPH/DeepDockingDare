@@ -1,0 +1,21 @@
+CRYST1   77.593   77.640   81.995  92.46  90.00 119.98 P 1           6
+HETATM    1  C   ACT C 402      45.276 -31.504  52.101  1.00 10.74      T    C  
+HETATM    2  O   ACT C 402      45.992 -30.738  51.421  1.00 11.59      T    O  
+HETATM    3  CH3 ACT C 402      44.726 -30.927  53.401  1.00 11.17      T    C  
+HETATM    4  OXT ACT C 402      45.086 -32.711  51.828  1.00  8.16      T    O  
+HETATM    5  H1  ACT C 402      44.991 -31.498  54.139  1.00 11.10      T    H  
+HETATM    6  H2  ACT C 402      43.756 -30.888  53.356  1.00 11.10      T    H  
+HETATM    7  H3  ACT C 402      45.083 -30.034  53.537  1.00 11.11      T    H  
+HETATM    8 ZN    ZN C 403      45.303 -32.775  49.717  1.00  7.49      U   ZN  
+HETATM    9 CA    CA C 404      38.371 -44.502  47.378  1.00 10.73      V   CA  
+HETATM   10 CA    CA C 405      40.167 -41.508  38.998  1.00 14.10      W   CA  
+HETATM   11 CA    CA C 406      54.475 -11.785  54.416  1.00 35.05      X   CA  
+HETATM   12 CL    CL C 407      39.626 -40.066  53.413  1.00 31.74      Y   CL  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5    6    7
+CONECT    4    1
+CONECT    5    3
+CONECT    6    3
+CONECT    7    3
+END

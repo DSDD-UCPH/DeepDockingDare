@@ -1,0 +1,100 @@
+CRYST1   69.050   54.161   99.699  90.00  91.09  90.00 P 1 21 1      8
+HETATM    1  C1  OLC A 202      20.552 -12.922  36.730  1.00 65.60      F    C  
+HETATM    2  C2  OLC A 202      19.199 -12.216  36.744  1.00 56.19      F    C  
+HETATM    3  C3  OLC A 202      18.088 -13.258  36.635  1.00 57.43      F    C  
+HETATM    4  C4  OLC A 202      17.001 -12.742  35.695  1.00 60.49      F    C  
+HETATM    5  C5  OLC A 202      15.660 -13.393  36.027  1.00 58.82      F    C  
+HETATM    6  C6  OLC A 202      14.562 -12.801  35.145  1.00 57.38      F    C  
+HETATM    7  C7  OLC A 202      14.478 -11.288  35.343  1.00 59.62      F    C  
+HETATM    8  C8  OLC A 202      14.673 -10.581  34.003  1.00 68.17      F    C  
+HETATM    9  C9  OLC A 202      13.759  -9.361  33.903  1.00 61.99      F    C  
+HETATM   10  C10 OLC A 202      13.849  -8.557  32.864  1.00 69.60      F    C  
+HETATM   11  C11 OLC A 202      12.938  -7.338  32.760  1.00 73.30      F    C  
+HETATM   12  C12 OLC A 202      12.928  -6.618  34.105  1.00 59.49      F    C  
+HETATM   13  C11 OLC A 203      -0.521  -9.155  46.145  1.00 63.65      G    C  
+HETATM   14  C12 OLC A 203      -1.729  -9.716  45.396  1.00 68.84      G    C  
+HETATM   15  C13 OLC A 203      -1.520 -11.203  45.117  1.00 58.24      G    C  
+HETATM   16  C14 OLC A 203      -2.634 -11.714  44.206  1.00 58.08      G    C  
+HETATM   17  C15 OLC A 203      -2.507 -11.060  42.832  1.00 58.18      G    C  
+HETATM   18  C16 OLC A 203      -3.844 -10.442  42.424  1.00 58.59      G    C  
+HETATM   19  C17 OLC A 203      -4.951 -11.492  42.504  1.00 61.10      G    C  
+HETATM   20  C18 OLC A 203      -6.314 -10.818  42.366  1.00 53.27      G    C  
+HETATM   21  C1  OLC A 204      11.873  -9.815  26.070  1.00 61.31      H    C  
+HETATM   22  C2  OLC A 204      10.819  -8.835  25.552  1.00 64.37      H    C  
+HETATM   23  C3  OLC A 204       9.666  -9.597  24.898  1.00 55.55      H    C  
+HETATM   24  C4  OLC A 204       9.087  -8.782  23.742  1.00 53.49      H    C  
+HETATM   25  C5  OLC A 204       7.690  -9.308  23.416  1.00 54.87      H    C  
+HETATM   26  C6  OLC A 204       7.351  -9.044  21.950  1.00 59.05      H    C  
+HETATM   27  C7  OLC A 204       6.617 -10.256  21.373  1.00 64.53      H    C  
+HETATM   28  C8  OLC A 204       5.118 -10.131  21.641  1.00 61.70      H    C  
+HETATM   29  C9  OLC A 204       4.338 -10.380  20.351  1.00 66.97      H    C  
+HETATM   30  C10 OLC A 204       3.091  -9.971  20.249  1.00 62.82      H    C  
+HETATM   31  C11 OLC A 204       2.317 -10.223  18.957  1.00 70.86      H    C  
+HETATM   32  C12 OLC A 204       0.900  -9.667  19.075  1.00 68.29      H    C  
+HETATM   33  C13 OLC A 204       0.094 -10.088  17.847  1.00 78.38      H    C  
+HETATM   34  C14 OLC A 204      -1.187  -9.258  17.768  1.00 79.56      H    C  
+HETATM   35  C15 OLC A 204      -2.097  -9.810  16.671  1.00 81.09      H    C  
+HETATM   36  C2  OLC A 205      -2.296  -5.883  43.833  1.00 58.10      I    C  
+HETATM   37  C3  OLC A 205      -3.683  -6.489  43.620  1.00 65.38      I    C  
+HETATM   38  C4  OLC A 205      -3.960  -6.672  42.128  1.00 60.65      I    C  
+HETATM   39  C5  OLC A 205      -5.414  -7.100  41.925  1.00 59.51      I    C  
+HETATM   40  C6  OLC A 205      -6.323  -5.872  41.901  1.00 61.67      I    C  
+HETATM   41  C7  OLC A 205      -7.454  -6.075  40.893  1.00 58.57      I    C  
+HETATM   42  C8  OLC A 205      -7.031  -5.495  39.546  1.00 57.18      I    C  
+HETATM   43  C9  OLC A 205      -8.006  -5.919  38.451  1.00 54.78      I    C  
+HETATM   44  C10 OLC A 205      -9.260  -5.525  38.479  1.00 57.59      I    C  
+HETATM   45  C11 OLC A 205     -10.190  -5.976  37.357  1.00 59.92      I    C  
+HETATM   46  C12 OLC A 205     -11.607  -5.478  37.627  1.00 69.55      I    C  
+HETATM   47  C13 OLC A 205     -12.562  -6.084  36.599  1.00 70.67      I    C  
+HETATM   48  C14 OLC A 205     -11.987  -5.913  35.194  1.00 59.47      I    C  
+HETATM   49  C15 OLC A 205     -13.131  -5.764  34.193  1.00 60.25      I    C  
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11
+CONECT   13   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19
+CONECT   21   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32   34
+CONECT   34   33   35
+CONECT   35   34
+CONECT   36   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48
+END

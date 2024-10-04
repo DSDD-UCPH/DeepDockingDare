@@ -1,0 +1,102 @@
+CRYST1   55.368   61.539  110.411  90.00  90.00  90.00 P 21 21 21    8
+HETATM    1  C3  OLC B 202      39.763  -3.004  35.828  1.00 65.95      L    C  
+HETATM    2  C4  OLC B 202      39.505  -4.498  35.924  1.00 65.44      L    C  
+HETATM    3  C5  OLC B 202      39.642  -5.057  37.330  1.00 67.93      L    C  
+HETATM    4  C6  OLC B 202      38.919  -6.377  37.535  1.00 63.87      L    C  
+HETATM    5  C7  OLC B 202      39.526  -7.252  38.619  1.00 64.70      L    C  
+HETATM    6  C8  OLC B 202      39.790  -6.538  39.946  1.00 69.74      L    C  
+HETATM    7  C9  OLC B 202      38.731  -6.764  40.983  1.00 69.02      L    C  
+HETATM    8  C10 OLC B 202      38.913  -7.298  42.179  1.00 69.27      L    C  
+HETATM    9  C11 OLC B 202      37.853  -7.519  43.219  1.00 67.36      L    C  
+HETATM   10  C12 OLC B 202      37.904  -8.893  43.888  1.00 64.86      L    C  
+HETATM   11  C13 OLC B 202      38.432  -8.873  45.313  1.00 68.47      L    C  
+HETATM   12  C14 OLC B 202      37.622  -8.004  46.262  1.00 61.68      L    C  
+HETATM   13  C15 OLC B 202      36.212  -8.504  46.517  1.00 60.90      L    C  
+HETATM   14  C16 OLC B 202      35.436  -7.659  47.514  1.00 59.52      L    C  
+HETATM   15  C3  OLC B 203      13.304  -2.045  27.745  1.00 50.49      M    C  
+HETATM   16  C4  OLC B 203      13.130  -3.287  28.601  1.00 52.87      M    C  
+HETATM   17  C5  OLC B 203      14.066  -3.345  29.792  1.00 51.91      M    C  
+HETATM   18  C6  OLC B 203      15.523  -3.544  29.420  1.00 41.88      M    C  
+HETATM   19  C7  OLC B 203      16.431  -3.724  30.621  1.00 37.81      M    C  
+HETATM   20  C8  OLC B 203      17.857  -4.151  30.291  1.00 38.92      M    C  
+HETATM   21  C9  OLC B 203      18.774  -3.852  31.431  1.00 43.44      M    C  
+HETATM   22  C10 OLC B 203      18.478  -3.953  32.713  1.00 49.71      M    C  
+HETATM   23  C11 OLC B 203      19.393  -3.634  33.853  1.00 50.16      M    C  
+HETATM   24  C12 OLC B 203      18.926  -2.404  34.634  1.00 51.28      M    C  
+HETATM   25  C13 OLC B 203      17.729  -2.660  35.532  1.00 44.00      M    C  
+HETATM   26  C1  OLC B 204      39.162   5.297  19.388  1.00 79.61      N    C  
+HETATM   27  C2  OLC B 204      38.361   4.026  19.526  1.00 66.88      N    C  
+HETATM   28  C3  OLC B 204      36.863   4.211  19.263  1.00 61.82      N    C  
+HETATM   29  C4  OLC B 204      35.945   4.042  20.477  1.00 65.44      N    C  
+HETATM   30  C5  OLC B 204      34.494   4.484  20.231  1.00 62.00      N    C  
+HETATM   31  C6  OLC B 204      33.533   4.158  21.371  1.00 68.08      N    C  
+HETATM   32  C7  OLC B 204      32.820   5.371  21.968  1.00 68.61      N    C  
+HETATM   33  C8  OLC B 204      32.484   5.216  23.457  1.00 64.07      N    C  
+HETATM   34  C9  OLC B 204      31.938   6.460  24.098  1.00 66.76      N    C  
+HETATM   35  C10 OLC B 204      31.011   6.525  25.042  1.00 63.55      N    C  
+HETATM   36  C11 OLC B 204      30.292   5.374  25.689  1.00 59.37      N    C  
+HETATM   37  C12 OLC B 204      28.780   5.599  25.802  1.00 56.96      N    C  
+HETATM   38  C13 OLC B 204      28.167   5.108  27.109  1.00 57.32      N    C  
+HETATM   39  C14 OLC B 204      26.645   5.080  27.107  1.00 62.27      N    C  
+HETATM   40  C15 OLC B 204      25.996   6.420  26.800  1.00 63.90      N    C  
+HETATM   41  C16 OLC B 204      24.561   6.311  26.298  1.00 61.25      N    C  
+HETATM   42  C17 OLC B 204      23.520   5.913  27.331  1.00 64.80      N    C  
+HETATM   43  C18 OLC B 204      23.226   7.011  28.325  1.00 68.61      N    C  
+HETATM   44  O19 OLC B 204      38.678   6.396  19.354  1.00 77.11      N    O  
+HETATM   45  O20 OLC B 204      40.485   5.073  19.353  1.00 84.91      N    O  
+HETATM   46  C21 OLC B 204      41.314   6.189  19.766  1.00 81.09      N    C  
+HETATM   47  C22 OLC B 204      42.474   6.547  18.857  1.00 85.20      N    C  
+HETATM   48  O23 OLC B 204      42.355   5.963  17.556  1.00 80.57      N    O  
+HETATM   49  C24 OLC B 204      43.821   6.226  19.471  1.00 82.51      N    C  
+HETATM   50  O25 OLC B 204      44.833   7.099  18.982  1.00 80.60      N    O  
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13
+CONECT   15   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24
+CONECT   26   27   44   45
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32   34
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42
+CONECT   44   26
+CONECT   45   26   46
+CONECT   46   45   47
+CONECT   47   46   48   49
+CONECT   48   47
+CONECT   49   47   50
+CONECT   50   49
+END

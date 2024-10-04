@@ -1,0 +1,20 @@
+CRYST1   46.843   49.032  135.380  90.00  90.00  90.00 P 21 21 21    8
+HETATM    1  C1  EDO A 301      52.364  74.757 281.874  1.00 30.64      C    C  
+HETATM    2  O1  EDO A 301      52.300  74.100 283.114  1.00 46.12      C    O  
+HETATM    3  C2  EDO A 301      52.409  73.823 280.735  1.00 35.57      C    C  
+HETATM    4  O2  EDO A 301      51.861  72.569 281.036  1.00 30.07      C    O  
+HETATM    5 MG    MG A 302      48.161  63.615 292.871  1.00 27.79      D   MG  
+HETATM    6  C1  EDO A 301       5.521  74.757 281.874  1.00 30.64      C    C  
+HETATM    7  O1  EDO A 301       5.457  74.100 283.114  1.00 46.12      C    O  
+HETATM    8  C2  EDO A 301       5.566  73.823 280.735  1.00 35.57      C    C  
+HETATM    9  O2  EDO A 301       5.018  72.569 281.036  1.00 30.07      C    O  
+HETATM   10 MG    MG A 302       1.318  63.615 292.871  1.00 27.79      D   MG  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3
+CONECT    6    7    8
+CONECT    7    6
+CONECT    8    6    9
+CONECT    9    8
+END

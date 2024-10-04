@@ -1,0 +1,39 @@
+CRYST1   77.593   77.640   81.995  92.46  90.00 119.98 P 1           6
+HETATM    1  C1  EDO A 402      -2.258 -30.716  14.641  1.00 14.52      H    C  
+HETATM    2  O1  EDO A 402      -1.012 -31.023  15.149  1.00 13.73      H    O  
+HETATM    3  C2  EDO A 402      -2.402 -29.463  13.982  1.00 14.26      H    C  
+HETATM    4  O2  EDO A 402      -3.672 -29.400  13.405  1.00 14.15      H    O  
+HETATM    5  HO1 EDO A 402      -1.028 -31.772  15.524  0.00 16.31      H    H  
+HETATM    6  HO2 EDO A 402      -4.154 -28.867  13.848  1.00 14.19      H    H  
+HETATM    7  H11 EDO A 402      -2.900 -30.725  15.378  1.00 14.25      H    H  
+HETATM    8  H12 EDO A 402      -2.515 -31.412  14.007  1.00 14.23      H    H  
+HETATM    9  H21 EDO A 402      -1.713 -29.371  13.293  1.00 14.24      H    H  
+HETATM   10  H22 EDO A 402      -2.300 -28.742  14.635  1.00 14.28      H    H  
+HETATM   11  C   ACT A 403       7.032 -27.280  -1.806  1.00  9.38      I    C  
+HETATM   12  O   ACT A 403       7.178 -28.491  -1.628  1.00  8.14      I    O  
+HETATM   13  CH3 ACT A 403       8.202 -26.467  -2.390  1.00  9.65      I    C  
+HETATM   14  OXT ACT A 403       6.003 -26.677  -1.495  1.00 10.31      I    O  
+HETATM   15  H1  ACT A 403       7.861 -25.667  -2.822  1.00  9.60      I    H  
+HETATM   16  H2  ACT A 403       8.682 -27.005  -3.041  1.00  9.59      I    H  
+HETATM   17  H3  ACT A 403       8.808 -26.220  -1.675  1.00  9.60      I    H  
+HETATM   18 ZN    ZN A 404       6.888 -28.705   0.434  1.00  8.70      J   ZN  
+HETATM   19 CA    CA A 405      13.838 -40.523   2.826  1.00  9.20      K   CA  
+HETATM   20 CA    CA A 406      12.037 -37.458  11.203  1.00 18.02      L   CA  
+CONECT    1    2    3    7    8
+CONECT    2    1    5
+CONECT    3    1    4    9   10
+CONECT    4    3    6
+CONECT    5    2
+CONECT    6    4
+CONECT    7    1
+CONECT    8    1
+CONECT    9    3
+CONECT   10    3
+CONECT   11   12   13   14
+CONECT   12   11
+CONECT   13   11   15   16   17
+CONECT   14   11
+CONECT   15   13
+CONECT   16   13
+CONECT   17   13
+END
