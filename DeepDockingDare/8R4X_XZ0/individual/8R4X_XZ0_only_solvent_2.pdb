@@ -1,0 +1,638 @@
+CRYST1  109.180  121.390  134.300  90.00  90.00  90.00 P 21 21 21   16
+HETATM    1  O   HOH D 501     -47.333  -5.058 -14.117  1.00 59.30      JA   O  
+ANISOU    1  O   HOH D 501     8458   8171   5901      3   -493   -304  JA   O  
+HETATM    2  O   HOH D 502     -52.741 -17.802   4.172  1.00 54.86      JA   O  
+ANISOU    2  O   HOH D 502     7173   7167   6503   -336   -503   -550  JA   O  
+HETATM    3  O   HOH D 503     -76.080  21.244  16.382  1.00 54.20      JA   O  
+ANISOU    3  O   HOH D 503     5914   7466   7213    941   -781    318  JA   O  
+HETATM    4  O   HOH D 504     -77.537 -11.701  -5.395  1.00 66.67      JA   O  
+ANISOU    4  O   HOH D 504     7863   9545   7922   -471  -1830   -553  JA   O  
+HETATM    5  O   HOH D 505     -59.958 -16.572  18.232  1.00 55.66      JA   O  
+ANISOU    5  O   HOH D 505     6744   7282   7121   -439   -412   -280  JA   O  
+HETATM    6  O   HOH D 506     -49.500 -16.055  21.076  1.00 36.92      JA   O  
+ANISOU    6  O   HOH D 506     4621   4703   4705   -268   -187   -199  JA   O  
+HETATM    7  O   HOH D 507     -32.865 -10.687  12.074  1.00 38.84      JA   O  
+ANISOU    7  O   HOH D 507     5114   4897   4747     16    130   -206  JA   O  
+HETATM    8  O   HOH D 508     -43.402 -13.294  13.008  1.00 42.77      JA   O  
+ANISOU    8  O   HOH D 508     5564   5470   5216   -129   -136   -270  JA   O  
+HETATM    9  O   HOH D 509     -43.603  -0.446  24.507  1.00 33.06      JA   O  
+ANISOU    9  O   HOH D 509     4129   4292   4141     19    -92     13  JA   O  
+HETATM   10  O   HOH D 510     -60.651  -1.373  27.652  1.00 37.55      JA   O  
+ANISOU   10  O   HOH D 510     4267   5142   4857    -27   -192    -16  JA   O  
+HETATM   11  O   HOH D 511     -58.207 -16.616   1.918  1.00 41.01      JA   O  
+ANISOU   11  O   HOH D 511     5314   5583   4685   -394   -749   -569  JA   O  
+HETATM   12  O   HOH D 512     -59.668  12.365  27.728  1.00 55.26      JA   O  
+ANISOU   12  O   HOH D 512     6602   7293   7100    354   -179     73  JA   O  
+HETATM   13  O   HOH D 513     -46.501 -12.210  -0.777  1.00 34.24      JA   O  
+ANISOU   13  O   HOH D 513     4798   4636   3574   -132   -329   -445  JA   O  
+HETATM   14  O   HOH D 514     -60.931  -2.950 -12.932  1.00 44.50      JA   O  
+ANISOU   14  O   HOH D 514     6149   6558   4202     -8  -1247   -227  JA   O  
+HETATM   15  O   HOH D 515     -62.193  -9.488  -8.883  1.00 62.09      JA   O  
+ANISOU   15  O   HOH D 515     8175   8665   6752   -223  -1204   -478  JA   O  
+HETATM   16  O   HOH D 516     -64.822   2.064  28.809  1.00 49.71      JA   O  
+ANISOU   16  O   HOH D 516     5643   6773   6471     75   -185      0  JA   O  
+HETATM   17  O   HOH D 517     -34.814  -5.482  17.892  1.00 45.22      JA   O  
+ANISOU   17  O   HOH D 517     5800   5736   5645     13     42    -62  JA   O  
+HETATM   18  O   HOH D 518     -80.833  13.264  15.733  1.00 44.70      JA   O  
+ANISOU   18  O   HOH D 518     4340   6565   6080    653   -920    180  JA   O  
+HETATM   19  O   HOH D 519     -65.037  -8.045  -7.964  1.00 45.89      JA   O  
+ANISOU   19  O   HOH D 519     5962   6681   4794   -202  -1323   -415  JA   O  
+HETATM   20  O   HOH D 520     -63.336  10.212  -3.587  1.00 31.93      JA   O  
+ANISOU   20  O   HOH D 520     4123   4796   3213    391  -1109    290  JA   O  
+HETATM   21  O   HOH D 521     -37.799   9.484  13.746  1.00 56.52      JA   O  
+ANISOU   21  O   HOH D 521     7326   7225   6924    122     -5    183  JA   O  
+HETATM   22  O   HOH D 522     -49.256 -12.297  -5.233  1.00 44.46      JA   O  
+ANISOU   22  O   HOH D 522     6201   6054   4640   -160   -495   -515  JA   O  
+HETATM   23  O   HOH D 523     -80.827  13.019   8.537  1.00 42.34      JA   O  
+ANISOU   23  O   HOH D 523     4180   6355   5552    656  -1281    248  JA   O  
+HETATM   24  O   HOH D 524     -57.436 -20.129   8.300  1.00 43.74      JA   O  
+ANISOU   24  O   HOH D 524     5546   5736   5336   -481   -577   -539  JA   O  
+HETATM   25  O   HOH D 525     -57.041  11.114  25.750  1.00 40.86      JA   O  
+ANISOU   25  O   HOH D 525     4866   5442   5217    298   -204     85  JA   O  
+HETATM   26  O   HOH D 526     -46.200  10.191   2.602  1.00 35.91      JA   O  
+ANISOU   26  O   HOH D 526     4910   4859   3875    226   -293    267  JA   O  
+HETATM   27  O   HOH D 527     -53.884   4.330  -1.804  1.00 24.37      JA   O  
+ANISOU   27  O   HOH D 527     3394   3647   2220    167   -658     89  JA   O  
+HETATM   28  O   HOH D 528     -63.485  -9.050  22.636  1.00 37.40      JA   O  
+ANISOU   28  O   HOH D 528     4194   5148   4868   -264   -355   -125  JA   O  
+HETATM   29  O   HOH D 529     -28.964  -4.794   7.548  1.00 30.38      JA   O  
+ANISOU   29  O   HOH D 529     4101   3905   3537     63    285   -108  JA   O  
+HETATM   30  O   HOH D 530     -36.036   8.930  10.660  1.00 37.14      JA   O  
+ANISOU   30  O   HOH D 530     4937   4786   4390    111     50    195  JA   O  
+HETATM   31  O   HOH D 531     -31.560  11.757   0.088  1.00 36.25      JA   O  
+ANISOU   31  O   HOH D 531     5125   4731   3918    106    278    359  JA   O  
+HETATM   32  O   HOH D 532     -26.703  -4.665   4.413  1.00 39.47      JA   O  
+ANISOU   32  O   HOH D 532     5314   5077   4606     80    405   -121  JA   O  
+HETATM   33  O   HOH D 533     -79.485   4.647  10.593  1.00 34.38      JA   O  
+ANISOU   33  O   HOH D 533     3161   5357   4543    248  -1147     34  JA   O  
+HETATM   34  O   HOH D 534     -32.216   2.613  16.510  1.00 41.48      JA   O  
+ANISOU   34  O   HOH D 534     5342   5276   5144     52    101     63  JA   O  
+HETATM   35  O   HOH D 535     -60.555 -14.014  -0.393  1.00 41.19      JA   O  
+ANISOU   35  O   HOH D 535     5306   5748   4597   -352   -900   -529  JA   O  
+HETATM   36  O   HOH D 536     -57.889  -7.792  -8.753  1.00 38.98      JA   O  
+ANISOU   36  O   HOH D 536     5389   5660   3760   -136   -982   -398  JA   O  
+HETATM   37  O   HOH D 537     -83.194  14.519  11.703  1.00 52.63      JA   O  
+ANISOU   37  O   HOH D 537     5269   7667   7060    752  -1183    247  JA   O  
+HETATM   38  O   HOH D 538     -42.803 -10.712   0.847  1.00 30.81      JA   O  
+ANISOU   38  O   HOH D 538     4353   4143   3210    -71   -171   -367  JA   O  
+HETATM   39  O   HOH D 539     -38.633   3.163  -7.077  1.00 44.18      JA   O  
+ANISOU   39  O   HOH D 539     6342   6004   4440    114     -1     81  JA   O  
+HETATM   40  O   HOH D 540     -48.172   5.620  20.507  1.00 31.95      JA   O  
+ANISOU   40  O   HOH D 540     3973   4233   3932    127   -181     71  JA   O  
+HETATM   41  O   HOH D 541     -40.769   2.440  16.927  1.00 40.38      JA   O  
+ANISOU   41  O   HOH D 541     5179   5231   4934     66    -73     45  JA   O  
+HETATM   42  O   HOH D 542     -86.178   7.424   9.192  1.00 52.25      JA   O  
+ANISOU   42  O   HOH D 542     5011   7830   7010    422  -1409     98  JA   O  
+HETATM   43  O   HOH D 543     -38.156  -4.438  24.553  1.00 31.85      JA   O  
+ANISOU   43  O   HOH D 543     4021   4050   4032     -8    -33    -11  JA   O  
+HETATM   44  O   HOH D 544     -36.284  -0.725  19.661  1.00 31.38      JA   O  
+ANISOU   44  O   HOH D 544     4017   4014   3893     32      5     11  JA   O  
+HETATM   45  O   HOH D 545     -69.858  -2.814  17.759  1.00 44.87      JA   O  
+ANISOU   45  O   HOH D 545     4897   6341   5813    -80   -619    -89  JA   O  
+HETATM   46  O   HOH D 546     -44.088   5.902  -3.887  1.00 24.05      JA   O  
+ANISOU   46  O   HOH D 546     3630   3465   2044    160   -251    166  JA   O  
+HETATM   47  O   HOH D 547     -34.413   2.428  26.971  1.00 53.45      JA   O  
+ANISOU   47  O   HOH D 547     6745   6755   6807     35    -10     55  JA   O  
+HETATM   48  O   HOH D 548     -76.591  -1.843  12.164  1.00 46.88      JA   O  
+ANISOU   48  O   HOH D 548     4880   6837   6095    -50   -998   -106  JA   O  
+HETATM   49  O   HOH D 549     -49.523  11.903   1.330  1.00 35.97      JA   O  
+ANISOU   49  O   HOH D 549     4907   4922   3839    291   -430    325  JA   O  
+HETATM   50  O   HOH D 550     -46.127 -15.407  11.371  1.00 39.71      JA   O  
+ANISOU   50  O   HOH D 550     5190   5099   4800   -194   -214   -346  JA   O  
+HETATM   51  O   HOH D 551     -75.135  16.146   0.942  1.00 40.20      JA   O  
+ANISOU   51  O   HOH D 551     4493   5982   4800    740  -1436    433  JA   O  
+HETATM   52  O   HOH D 552     -65.078  14.545  25.555  1.00 52.26      JA   O  
+ANISOU   52  O   HOH D 552     6045   7009   6803    489   -280    106  JA   O  
+HETATM   53  O   HOH D 553     -74.913   1.803  14.281  1.00 40.28      JA   O  
+ANISOU   53  O   HOH D 553     4104   5937   5262    104   -864    -23  JA   O  
+HETATM   54  O   HOH D 554     -67.162  -3.424 -13.879  1.00 48.45      JA   O  
+ANISOU   54  O   HOH D 554     6432   7227   4749    -45  -1629   -264  JA   O  
+HETATM   55  O   HOH D 555     -51.375   6.567  13.836  1.00 28.61      JA   O  
+ANISOU   55  O   HOH D 555     3591   3915   3365    174   -326    106  JA   O  
+HETATM   56  O   HOH D 556     -50.956   9.735  -0.844  1.00 33.46      JA   O  
+ANISOU   56  O   HOH D 556     4613   4690   3412    266   -517    271  JA   O  
+HETATM   57  O   HOH D 557     -63.293  -1.564 -15.000  1.00 57.55      JA   O  
+ANISOU   57  O   HOH D 557     7804   8320   5744     32  -1440   -176  JA   O  
+HETATM   58  O   HOH D 558     -69.045  20.174  22.701  1.00 49.54      JA   O  
+ANISOU   58  O   HOH D 558     5606   6663   6552    752   -412    198  JA   O  
+HETATM   59  O   HOH D 559     -51.333  -5.426  -7.990  1.00 37.96      JA   O  
+ANISOU   59  O   HOH D 559     5407   5409   3608    -36   -636   -284  JA   O  
+HETATM   60  O   HOH D 560     -66.496  10.332  -1.981  1.00 32.49      JA   O  
+ANISOU   60  O   HOH D 560     4003   4913   3429    420  -1198    278  JA   O  
+HETATM   61  O   HOH D 561     -28.964  -7.458  -1.431  1.00 39.61      JA   O  
+ANISOU   61  O   HOH D 561     5546   5172   4331     78    403   -256  JA   O  
+HETATM   62  O   HOH D 562     -30.147  15.194   4.019  1.00 53.05      JA   O  
+ANISOU   62  O   HOH D 562     7153   6737   6266     87    292    422  JA   O  
+HETATM   63  O   HOH D 563     -58.949  10.695  14.102  1.00 29.21      JA   O  
+ANISOU   63  O   HOH D 563     3470   4097   3532    329   -496    172  JA   O  
+HETATM   64  O   HOH D 564     -51.388  16.858  19.714  1.00 53.00      JA   O  
+ANISOU   64  O   HOH D 564     6668   6822   6649    372   -235    222  JA   O  
+HETATM   65  O   HOH D 565     -26.673   4.530   6.352  1.00 26.55      JA   O  
+ANISOU   65  O   HOH D 565     3630   3434   3025     57    374    127  JA   O  
+HETATM   66  O   HOH D 566     -26.422  -0.263  25.919  1.00 37.69      JA   O  
+ANISOU   66  O   HOH D 566     4696   4694   4928     31     68     52  JA   O  
+HETATM   67  O   HOH D 567     -62.351   2.755  10.390  1.00 30.06      JA   O  
+ANISOU   67  O   HOH D 567     3490   4372   3560    125   -681     16  JA   O  
+HETATM   68  O   HOH D 568     -28.158  -0.988  13.521  1.00 47.66      JA   O  
+ANISOU   68  O   HOH D 568     6145   6046   5920     53    225      5  JA   O  
+HETATM   69  O   HOH D 569     -67.524  18.247  -2.822  1.00 48.12      JA   O  
+ANISOU   69  O   HOH D 569     6038   6807   5440    715  -1263    565  JA   O  
+HETATM   70  O   HOH D 570     -40.422   5.467  -1.546  1.00 24.41      JA   O  
+ANISOU   70  O   HOH D 570     3629   3418   2226    133    -83    150  JA   O  
+HETATM   71  O   HOH D 571     -60.749 -17.196   1.496  1.00 49.56      JA   O  
+ANISOU   71  O   HOH D 571     6327   6714   5791   -451   -857   -600  JA   O  
+HETATM   72  O   HOH D 572     -52.434   0.837  -6.851  1.00 26.84      JA   O  
+ANISOU   72  O   HOH D 572     3922   4029   2249     94   -675    -34  JA   O  
+HETATM   73  O   HOH D 573     -62.959  13.018  21.797  1.00 38.47      JA   O  
+ANISOU   73  O   HOH D 573     4403   5261   4953    423   -369    133  JA   O  
+HETATM   74  O   HOH D 574     -57.367  -6.283 -11.440  1.00 52.70      JA   O  
+ANISOU   74  O   HOH D 574     7252   7459   5311    -88  -1014   -358  JA   O  
+HETATM   75  O   HOH D 575     -74.043   3.104  -5.156  1.00 45.58      JA   O  
+ANISOU   75  O   HOH D 575     5359   6876   5083    190  -1658     19  JA   O  
+HETATM   76  O   HOH D 576     -28.528  -5.022  17.785  1.00 43.38      JA   O  
+ANISOU   76  O   HOH D 576     5536   5450   5497     48    160    -42  JA   O  
+HETATM   77  O   HOH D 577     -37.540  -0.098  13.851  1.00 27.00      JA   O  
+ANISOU   77  O   HOH D 577     3552   3521   3185     46     -1      3  JA   O  
+HETATM   78  O   HOH D 578     -43.180  12.361  -0.147  1.00 36.20      JA   O  
+ANISOU   78  O   HOH D 578     5090   4865   3799    234   -191    363  JA   O  
+HETATM   79  O   HOH D 579     -62.035  -4.719  26.708  1.00 45.82      JA   O  
+ANISOU   79  O   HOH D 579     5271   6204   5933   -128   -227    -46  JA   O  
+HETATM   80  O   HOH D 580     -59.148  15.546   8.356  1.00 32.70      JA   O  
+ANISOU   80  O   HOH D 580     4067   4539   3819    478   -633    338  JA   O  
+HETATM   81  O   HOH D 581     -63.762   9.983  29.819  1.00 55.68      JA   O  
+ANISOU   81  O   HOH D 581     6476   7457   7224    320   -146     37  JA   O  
+HETATM   82  O   HOH D 582     -53.200  15.192   8.908  1.00 46.44      JA   O  
+ANISOU   82  O   HOH D 582     5970   6159   5516    386   -445    329  JA   O  
+HETATM   83  O   HOH D 583     -29.140   3.970  23.850  1.00 43.31      JA   O  
+ANISOU   83  O   HOH D 583     5462   5432   5560     31     70     79  JA   O  
+HETATM   84  O   HOH D 584     -58.052  -7.642  25.966  1.00 50.40      JA   O  
+ANISOU   84  O   HOH D 584     6004   6677   6466   -184   -211    -67  JA   O  
+HETATM   85  O   HOH D 585     -52.128 -16.411   7.244  1.00 43.45      JA   O  
+ANISOU   85  O   HOH D 585     5647   5701   5160   -299   -436   -454  JA   O  
+HETATM   86  O   HOH D 586     -78.153  16.691  15.435  1.00 49.17      JA   O  
+ANISOU   86  O   HOH D 586     5113   6997   6572    777   -873    249  JA   O  
+HETATM   87  O   HOH D 587     -40.695 -10.333   2.786  1.00 27.89      JA   O  
+ANISOU   87  O   HOH D 587     3941   3720   2934    -48    -85   -328  JA   O  
+HETATM   88  O   HOH D 588     -28.583   0.693  20.700  1.00 44.96      JA   O  
+ANISOU   88  O   HOH D 588     5694   5657   5733     38    118     46  JA   O  
+HETATM   89  O   HOH D 589     -54.632  -1.774 -13.531  1.00 41.03      JA   O  
+ANISOU   89  O   HOH D 589     5943   6002   3646     43   -904   -165  JA   O  
+HETATM   90  O   HOH D 590     -75.913  -0.513   8.361  1.00 38.73      JA   O  
+ANISOU   90  O   HOH D 590     3970   5838   4908     15  -1149    -86  JA   O  
+HETATM   91  O   HOH D 591     -63.233 -11.552   5.606  1.00 37.05      JA   O  
+ANISOU   91  O   HOH D 591     4483   5236   4358   -317   -840   -375  JA   O  
+HETATM   92  O   HOH D 592     -50.496  15.310  23.960  1.00 34.18      JA   O  
+ANISOU   92  O   HOH D 592     4243   4424   4321    318   -165    150  JA   O  
+HETATM   93  O   HOH D 593     -64.546  -7.994   0.472  1.00 32.63      JA   O  
+ANISOU   93  O   HOH D 593     4001   4835   3562   -208  -1042   -330  JA   O  
+HETATM   94  O   HOH D 594     -59.483  10.858  -4.424  1.00 33.97      JA   O  
+ANISOU   94  O   HOH D 594     4561   4974   3370    377   -957    326  JA   O  
+HETATM   95  O   HOH D 595     -28.302  -1.765   1.158  1.00 28.42      JA   O  
+ANISOU   95  O   HOH D 595     4026   3753   3020     76    392    -57  JA   O  
+HETATM   96  O   HOH D 596     -39.106   5.357  19.742  1.00 33.01      JA   O  
+ANISOU   96  O   HOH D 596     4225   4246   4071     83    -41     86  JA   O  
+HETATM   97  O   HOH D 597     -77.950   1.994   2.766  1.00 38.17      JA   O  
+ANISOU   97  O   HOH D 597     3927   5910   4665    135  -1471    -27  JA   O  
+HETATM   98  O   HOH D 598     -32.062  -6.462  18.516  1.00 28.64      JA   O  
+ANISOU   98  O   HOH D 598     3687   3596   3600     25     88    -65  JA   O  
+HETATM   99  O   HOH D 599     -45.366  -2.064   6.752  1.00 26.38      JA   O  
+ANISOU   99  O   HOH D 599     3562   3623   2840     25   -235    -78  JA   O  
+HETATM  100  O   HOH D 600     -38.306   9.517  17.382  1.00 45.46      JA   O  
+ANISOU  100  O   HOH D 600     5861   5798   5612    119    -23    158  JA   O  
+HETATM  101  O   HOH D 601     -67.892  -3.907  -9.405  1.00 43.35      JA   O  
+ANISOU  101  O   HOH D 601     5558   6499   4415    -72  -1517   -262  JA   O  
+HETATM  102  O   HOH D 602     -43.938  -2.832  23.116  1.00 33.84      JA   O  
+ANISOU  102  O   HOH D 602     4236   4394   4229    -10   -102    -16  JA   O  
+HETATM  103  O   HOH D 603     -43.396   9.757   2.799  1.00 35.21      JA   O  
+ANISOU  103  O   HOH D 603     4851   4729   3798    195   -187    257  JA   O  
+HETATM  104  O   HOH D 604     -27.627   9.652   0.503  1.00 40.29      JA   O  
+ANISOU  104  O   HOH D 604     5579   5225   4506     67    429    296  JA   O  
+HETATM  105  O   HOH D 605     -81.788   9.099  18.409  1.00 50.23      JA   O  
+ANISOU  105  O   HOH D 605     4906   7318   6861    458   -807     84  JA   O  
+HETATM  106  O   HOH D 606     -67.477 -10.873   3.669  1.00 43.89      JA   O  
+ANISOU  106  O   HOH D 606     5215   6242   5218   -338  -1049   -389  JA   O  
+HETATM  107  O   HOH D 607     -56.992  22.496  26.237  1.00 53.28      JA   O  
+ANISOU  107  O   HOH D 607     6561   6793   6889    583   -181    168  JA   O  
+HETATM  108  O   HOH D 608     -60.288   7.348 -14.291  1.00 37.79      JA   O  
+ANISOU  108  O   HOH D 608     5404   5715   3239    301  -1244    243  JA   O  
+HETATM  109  O   HOH D 609     -51.762 -15.029   1.320  1.00 45.95      JA   O  
+ANISOU  109  O   HOH D 609     6128   6125   5206   -257   -513   -515  JA   O  
+HETATM  110  O   HOH D 610     -53.228   8.761  -7.910  1.00 35.25      JA   O  
+ANISOU  110  O   HOH D 610     5036   5096   3261    277   -729    279  JA   O  
+HETATM  111  O   HOH D 611     -79.336   2.402   0.268  1.00 50.24      JA   O  
+ANISOU  111  O   HOH D 611     5446   7521   6121    160  -1643    -16  JA   O  
+HETATM  112  O   HOH D 612     -48.870  13.181  25.685  1.00 40.74      JA   O  
+ANISOU  112  O   HOH D 612     5073   5253   5152    254   -130    113  JA   O  
+HETATM  113  O   HOH D 613     -56.410  17.150   7.334  1.00 53.94      JA   O  
+ANISOU  113  O   HOH D 613     6887   7155   6451    483   -570    395  JA   O  
+HETATM  114  O   HOH D 614     -49.105   9.643   9.059  1.00 37.27      JA   O  
+ANISOU  114  O   HOH D 614     4854   4999   4308    228   -326    202  JA   O  
+HETATM  115  O   HOH D 615     -33.761  14.985   2.376  1.00 54.48      JA   O  
+ANISOU  115  O   HOH D 615     7397   6981   6323    139    176    430  JA   O  
+HETATM  116  O   HOH D 616     -77.217  14.673   1.857  1.00 40.54      JA   O  
+ANISOU  116  O   HOH D 616     4371   6095   4938    702  -1477    372  JA   O  
+HETATM  117  O   HOH D 617     -76.104  18.244  15.795  1.00 56.70      JA   O  
+ANISOU  117  O   HOH D 617     6201   7858   7485    813   -811    274  JA   O  
+HETATM  118  O   HOH D 618     -64.650 -16.688   2.052  1.00 53.04      JA   O  
+ANISOU  118  O   HOH D 618     6591   7247   6315   -499   -991   -583  JA   O  
+HETATM  119  O   HOH D 619     -48.062  11.783  -3.627  1.00 45.72      JA   O  
+ANISOU  119  O   HOH D 619     6336   6215   4820    284   -425    368  JA   O  
+HETATM  120  O   HOH D 620     -43.465   6.596   9.557  1.00 36.13      JA   O  
+ANISOU  120  O   HOH D 620     4771   4785   4171    139   -160    137  JA   O  
+HETATM  121  O   HOH D 621     -66.618  -3.913  16.804  1.00 38.48      JA   O  
+ANISOU  121  O   HOH D 621     4255   5453   4913   -107   -589   -106  JA   O  
+HETATM  122  O   HOH D 622     -40.332   7.393   5.083  1.00 28.89      JA   O  
+ANISOU  122  O   HOH D 622     4002   3874   3100    139    -73    182  JA   O  
+HETATM  123  O   HOH D 623     -33.746   3.483  25.089  1.00 46.57      JA   O  
+ANISOU  123  O   HOH D 623     5889   5882   5923     41      8     65  JA   O  
+HETATM  124  O   HOH D 624     -68.722  -8.281  13.927  1.00 59.99      JA   O  
+ANISOU  124  O   HOH D 624     6942   8216   7634   -270   -732   -213  JA   O  
+HETATM  125  O   HOH D 625     -42.926 -11.606  11.565  1.00 34.46      JA   O  
+ANISOU  125  O   HOH D 625     4536   4455   4103    -99   -132   -255  JA   O  
+HETATM  126  O   HOH D 626     -49.146   7.823  -3.507  1.00 37.03      JA   O  
+ANISOU  126  O   HOH D 626     5184   5172   3714    220   -474    225  JA   O  
+HETATM  127  O   HOH D 627     -28.425  11.230   9.820  1.00 42.13      JA   O  
+ANISOU  127  O   HOH D 627     5572   5327   5108     52    271    265  JA   O  
+HETATM  128  O   HOH D 628     -27.015   6.589  13.224  1.00 35.23      JA   O  
+ANISOU  128  O   HOH D 628     4582   4452   4352     40    257    150  JA   O  
+HETATM  129  O   HOH D 629     -75.223   6.185  -6.049  1.00 56.88      JA   O  
+ANISOU  129  O   HOH D 629     6767   8346   6499    327  -1751    138  JA   O  
+HETATM  130  O   HOH D 630     -63.008 -10.941  18.642  1.00 42.23      JA   O  
+ANISOU  130  O   HOH D 630     4882   5751   5413   -313   -461   -195  JA   O  
+HETATM  131  O   HOH D 631     -69.728  11.586  -9.361  1.00 42.18      JA   O  
+ANISOU  131  O   HOH D 631     5364   6352   4312    511  -1606    383  JA   O  
+HETATM  132  O   HOH D 632     -55.282  10.681  27.653  1.00 42.79      JA   O  
+ANISOU  132  O   HOH D 632     5148   5649   5459    266   -152     69  JA   O  
+HETATM  133  O   HOH D 633     -49.700  -3.087  12.808  1.00 23.88      JA   O  
+ANISOU  133  O   HOH D 633     3031   3301   2742    -16   -300    -82  JA   O  
+HETATM  134  O   HOH D 634     -51.218  -0.058  30.737  1.00 48.38      JA   O  
+ANISOU  134  O   HOH D 634     5906   6329   6147     10    -85     16  JA   O  
+HETATM  135  O   HOH D 635     -57.947   5.932 -14.667  1.00 36.33      JA   O  
+ANISOU  135  O   HOH D 635     5312   5496   2996    248  -1118    182  JA   O  
+HETATM  136  O   HOH D 636     -35.419 -10.570  -1.256  1.00 39.44      JA   O  
+ANISOU  136  O   HOH D 636     5559   5174   4253     10    132   -372  JA   O  
+HETATM  137  O   HOH D 637     -66.317  -7.457  18.269  1.00 41.77      JA   O  
+ANISOU  137  O   HOH D 637     4673   5819   5380   -229   -534   -152  JA   O  
+HETATM  138  O   HOH D 638     -78.265  14.210  16.752  1.00 45.62      JA   O  
+ANISOU  138  O   HOH D 638     4611   6581   6142    664   -817    188  JA   O  
+HETATM  139  O   HOH D 639     -46.526  -4.051   3.740  1.00 28.63      JA   O  
+ANISOU  139  O   HOH D 639     3913   3955   3010     -5   -297   -149  JA   O  
+HETATM  140  O   HOH D 640     -67.868  24.873   2.576  1.00 57.78      JA   O  
+ANISOU  140  O   HOH D 640     7161   7780   7011    947  -1082    684  JA   O  
+HETATM  141  O   HOH D 641     -53.962   4.734 -15.652  1.00 43.41      JA   O  
+ANISOU  141  O   HOH D 641     6372   6338   3785    203   -903    135  JA   O  
+HETATM  142  O   HOH D 642     -56.747  27.557  24.460  1.00 42.54      JA   O  
+ANISOU  142  O   HOH D 642     5301   5287   5574    710   -208    250  JA   O  
+HETATM  143  O   HOH D 643     -70.125   9.433 -11.755  1.00 43.26      JA   O  
+ANISOU  143  O   HOH D 643     5566   6575   4295    437  -1717    309  JA   O  
+HETATM  144  O   HOH D 644     -63.436  20.670  22.080  1.00 43.99      JA   O  
+ANISOU  144  O   HOH D 644     5164   5821   5729    667   -358    220  JA   O  
+HETATM  145  O   HOH D 645     -54.377 -18.232  15.333  1.00 56.80      JA   O  
+ANISOU  145  O   HOH D 645     7125   7302   7154   -386   -360   -349  JA   O  
+HETATM  146  O   HOH D 646     -61.785  10.619  13.003  1.00 28.49      JA   O  
+ANISOU  146  O   HOH D 646     3296   4079   3449    356   -592    176  JA   O  
+HETATM  147  O   HOH D 647     -37.408   3.236  -2.643  1.00 35.31      JA   O  
+ANISOU  147  O   HOH D 647     5058   4786   3572    103     47     81  JA   O  
+HETATM  148  O   HOH D 648     -79.867  12.465  -1.667  1.00 52.07      JA   O  
+ANISOU  148  O   HOH D 648     5757   7728   6297    640  -1753    334  JA   O  
+HETATM  149  O   HOH D 649     -73.895   4.486  -7.581  1.00 44.22      JA   O  
+ANISOU  149  O   HOH D 649     5291   6744   4766    252  -1752     77  JA   O  
+HETATM  150  O   HOH D 650     -42.516  -1.410  -9.224  1.00 44.47      JA   O  
+ANISOU  150  O   HOH D 650     6429   6134   4334     68   -199   -111  JA   O  
+HETATM  151  O   HOH D 651     -41.449 -14.461   5.402  1.00 48.43      JA   O  
+ANISOU  151  O   HOH D 651     6490   6225   5687   -107   -103   -409  JA   O  
+HETATM  152  O   HOH D 652     -49.416  -6.485 -17.476  1.00 61.38      JA   O  
+ANISOU  152  O   HOH D 652     8846   8536   5938    -31   -653   -401  JA   O  
+HETATM  153  O   HOH D 653     -38.982 -15.736   6.658  1.00 52.39      JA   O  
+ANISOU  153  O   HOH D 653     6986   6651   6268    -86    -19   -416  JA   O  
+HETATM  154  O   HOH D 654     -47.698   9.623  11.538  1.00 48.12      JA   O  
+ANISOU  154  O   HOH D 654     6200   6322   5762    211   -261    186  JA   O  
+HETATM  155  O   HOH D 655     -65.709  17.633  -5.952  1.00 55.37      JA   O  
+ANISOU  155  O   HOH D 655     7145   7752   6143    671  -1284    590  JA   O  
+HETATM  156  O   HOH D 656     -44.636   7.611  16.570  1.00 37.98      JA   O  
+ANISOU  156  O   HOH D 656     4858   4959   4612    146   -150    122  JA   O  
+HETATM  157  O   HOH D 657     -76.103  13.026  -3.356  1.00 45.92      JA   O  
+ANISOU  157  O   HOH D 657     5273   6861   5313    626  -1668    375  JA   O  
+HETATM  158  O   HOH D 658     -30.439   0.292  16.435  1.00 47.66      JA   O  
+ANISOU  158  O   HOH D 658     6112   6043   5955     46    138     30  JA   O  
+HETATM  159  O   HOH D 659     -57.624  18.694  24.998  1.00 54.25      JA   O  
+ANISOU  159  O   HOH D 659     6623   7026   6965    501   -219    158  JA   O  
+HETATM  160  O   HOH D 660     -32.345  -4.729  -8.396  1.00 43.00      JA   O  
+ANISOU  160  O   HOH D 660     6250   5781   4305     74    320   -220  JA   O  
+HETATM  161  O   HOH D 661     -30.547  -2.483  27.730  1.00 34.17      JA   O  
+ANISOU  161  O   HOH D 661     4279   4267   4436     23     12     36  JA   O  
+HETATM  162  O   HOH D 662     -24.354   5.588  12.972  1.00 44.92      JA   O  
+ANISOU  162  O   HOH D 662     5775   5669   5626     30    327    137  JA   O  
+HETATM  163  O   HOH D 663     -48.735  11.480  17.740  1.00 39.54      JA   O  
+ANISOU  163  O   HOH D 663     4996   5173   4855    240   -218    170  JA   O  
+HETATM  164  O   HOH D 664     -65.706  -8.206  15.954  1.00 36.95      JA   O  
+ANISOU  164  O   HOH D 664     4127   5205   4706   -246   -596   -186  JA   O  
+HETATM  165  O   HOH D 665     -40.272   1.925   7.929  1.00 20.60      JA   O  
+ANISOU  165  O   HOH D 665     2859   2809   2158     76    -70     34  JA   O  
+HETATM  166  O   HOH D 666     -34.275  11.696  -0.059  1.00 33.72      JA   O  
+ANISOU  166  O   HOH D 666     4816   4442   3553    134    170    354  JA   O  
+HETATM  167  O   HOH D 667     -78.414  19.041   6.201  1.00 41.32      JA   O  
+ANISOU  167  O   HOH D 667     4323   6077   5299    908  -1312    439  JA   O  
+HETATM  168  O   HOH D 668     -42.410  12.282  -4.147  1.00 38.29      JA   O  
+ANISOU  168  O   HOH D 668     5502   5186   3861    234   -173    399  JA   O  
+HETATM  169  O   HOH D 669     -19.880   4.076   5.530  1.00 28.41      JA   O  
+ANISOU  169  O   HOH D 669     3772   3637   3384     38    615    130  JA   O  
+HETATM  170  O   HOH D 670     -41.212   3.340  14.880  1.00 37.40      JA   O  
+ANISOU  170  O   HOH D 670     4834   4874   4501     80    -85     60  JA   O  
+HETATM  171  O   HOH D 671     -26.640  -0.343  11.019  1.00 39.37      JA   O  
+ANISOU  171  O   HOH D 671     5130   5009   4820     59    301     14  JA   O  
+HETATM  172  O   HOH D 672     -43.916 -12.920  -2.300  1.00 51.39      JA   O  
+ANISOU  172  O   HOH D 672     7066   6781   5680   -109   -229   -484  JA   O  
+HETATM  173  O   HOH D 673     -54.065   5.948  32.331  1.00 52.62      JA   O  
+ANISOU  173  O   HOH D 673     6388   6901   6705    140    -64     25  JA   O  
+HETATM  174  O   HOH D 674     -51.321   7.541  -5.616  1.00 44.09      JA   O  
+ANISOU  174  O   HOH D 674     6107   6146   4500    233   -602    222  JA   O  
+HETATM  175  O   HOH D 675     -23.928  -2.581   6.892  1.00 43.00      JA   O  
+ANISOU  175  O   HOH D 675     5651   5487   5200     79    454    -46  JA   O  
+HETATM  176  O   HOH D 676     -54.417   1.513 -16.336  1.00 47.05      JA   O  
+ANISOU  176  O   HOH D 676     6845   6831   4201    128   -943    -18  JA   O  
+HETATM  177  O   HOH D 677     -62.173  14.744  -9.815  1.00 45.04      JA   O  
+ANISOU  177  O   HOH D 677     6107   6489   4516    535  -1224    529  JA   O  
+HETATM  178  O   HOH D 678     -34.001   4.074  14.864  1.00 33.08      JA   O  
+ANISOU  178  O   HOH D 678     4315   4240   4014     65     76     86  JA   O  
+HETATM  179  O   HOH D 679     -49.147  -3.619  26.001  1.00 26.37      JA   O  
+ANISOU  179  O   HOH D 679     3184   3508   3328    -45   -133    -18  JA   O  
+HETATM  180  O   HOH D 680     -40.367   4.527  27.753  1.00 45.64      JA   O  
+ANISOU  180  O   HOH D 680     5741   5825   5774     65    -54     55  JA   O  
+HETATM  181  O   HOH D 681     -55.512  -7.363  26.861  1.00 42.68      JA   O  
+ANISOU  181  O   HOH D 681     5098   5650   5468   -160   -171    -52  JA   O  
+HETATM  182  O   HOH D 682     -52.723   6.171  34.875  1.00 60.06      JA   O  
+ANISOU  182  O   HOH D 682     7368   7815   7637    133    -22     18  JA   O  
+HETATM  183  O   HOH D 683     -52.717   5.639   0.381  1.00 23.79      JA   O  
+ANISOU  183  O   HOH D 683     3284   3509   2247    188   -573    129  JA   O  
+HETATM  184  O   HOH D 684     -37.870 -13.255   5.935  1.00 38.94      JA   O  
+ANISOU  184  O   HOH D 684     5288   4992   4516    -48     16   -360  JA   O  
+HETATM  185  O   HOH D 685     -55.821 -15.202  -6.667  1.00 46.96      JA   O  
+ANISOU  185  O   HOH D 685     6428   6466   4947   -310   -829   -662  JA   O  
+HETATM  186  O   HOH D 686     -33.007  -7.337  14.625  1.00 29.67      JA   O  
+ANISOU  186  O   HOH D 686     3888   3757   3630     22    103   -115  JA   O  
+HETATM  187  O   HOH D 687     -51.593   4.028 -17.940  1.00 42.41      JA   O  
+ANISOU  187  O   HOH D 687     6416   6222   3476    183   -795    110  JA   O  
+HETATM  188  O   HOH D 688     -66.980 -10.538  14.397  1.00 47.13      JA   O  
+ANISOU  188  O   HOH D 688     5398   6509   6000   -335   -674   -248  JA   O  
+HETATM  189  O   HOH D 689     -33.646 -12.131   9.097  1.00 37.44      JA   O  
+ANISOU  189  O   HOH D 689     5014   4736   4476      6    132   -278  JA   O  
+HETATM  190  O   HOH D 690     -70.769  -4.442  11.579  1.00 38.33      JA   O  
+ANISOU  190  O   HOH D 690     4132   5589   4843   -136   -870   -156  JA   O  
+HETATM  191  O   HOH D 691     -65.646 -10.502  -6.158  1.00 46.89      JA   O  
+ANISOU  191  O   HOH D 691     6003   6753   5059   -293  -1295   -493  JA   O  
+HETATM  192  O   HOH D 692     -56.676 -23.515  11.598  1.00 57.01      JA   O  
+ANISOU  192  O   HOH D 692     7218   7264   7178   -556   -480   -541  JA   O  
+HETATM  193  O   HOH D 693     -58.595 -12.693  -3.233  1.00 36.90      JA   O  
+ANISOU  193  O   HOH D 693     4919   5236   3867   -285   -887   -522  JA   O  
+HETATM  194  O   HOH D 694     -47.940  -1.483 -15.823  1.00 38.81      JA   O  
+ANISOU  194  O   HOH D 694     5927   5647   3171     67   -547   -148  JA   O  
+HETATM  195  O   HOH D 695     -35.956  -1.767  -7.215  1.00 40.53      JA   O  
+ANISOU  195  O   HOH D 695     5889   5505   4004     74    131   -105  JA   O  
+HETATM  196  O   HOH D 696     -54.777  19.038  15.257  1.00 59.74      JA   O  
+ANISOU  196  O   HOH D 696     7526   7729   7443    484   -370    319  JA   O  
+HETATM  197  O   HOH D 697     -51.556   7.349  -1.638  1.00 30.00      JA   O  
+ANISOU  197  O   HOH D 697     4172   4296   2929    222   -555    195  JA   O  
+HETATM  198  O   HOH D 698     -80.046   7.270  -5.582  1.00 47.34      JA   O  
+ANISOU  198  O   HOH D 698     5251   7264   5471    402  -1957    172  JA   O  
+HETATM  199  O   HOH D 699     -30.744  -3.761  12.774  1.00 38.76      JA   O  
+ANISOU  199  O   HOH D 699     5054   4933   4738     47    172    -57  JA   O  
+HETATM  200  O   HOH D 700     -46.822  10.148  20.058  1.00 36.93      JA   O  
+ANISOU  200  O   HOH D 700     4659   4810   4564    194   -163    135  JA   O  
+HETATM  201  O   HOH D 701     -77.553  -0.412   6.019  1.00 46.24      JA   O  
+ANISOU  201  O   HOH D 701     4882   6869   5818     21  -1306    -92  JA   O  
+HETATM  202  O   HOH D 702     -41.185   0.839  -7.696  1.00 37.14      JA   O  
+ANISOU  202  O   HOH D 702     5452   5161   3498     94   -128    -15  JA   O  
+HETATM  203  O   HOH D 703     -57.125 -11.483  26.316  1.00 50.96      JA   O  
+ANISOU  203  O   HOH D 703     6122   6676   6564   -275   -193    -91  JA   O  
+HETATM  204  O   HOH D 704     -58.679  -1.825 -11.681  1.00 36.10      JA   O  
+ANISOU  204  O   HOH D 704     5109   5422   3186     29  -1092   -168  JA   O  
+HETATM  205  O   HOH D 705     -49.800 -12.487  23.258  1.00 36.69      JA   O  
+ANISOU  205  O   HOH D 705     4535   4736   4671   -209   -167   -125  JA   O  
+HETATM  206  O   HOH D 706     -68.985 -10.353   5.829  1.00 52.19      JA   O  
+ANISOU  206  O   HOH D 706     6132   7308   6389   -338  -1026   -351  JA   O  
+HETATM  207  O   HOH D 707     -39.212   6.886  -9.181  1.00 52.06      JA   O  
+ANISOU  207  O   HOH D 707     7436   7034   5312    157    -28    232  JA   O  
+HETATM  208  O   HOH D 708     -68.090  22.809   4.686  1.00 48.38      JA   O  
+ANISOU  208  O   HOH D 708     5871   6622   5891    872  -1021    580  JA   O  
+HETATM  209  O   HOH D 709     -26.865   7.762  -0.927  1.00 31.85      JA   O  
+ANISOU  209  O   HOH D 709     4537   4188   3377     67    481    247  JA   O  
+HETATM  210  O   HOH D 710     -60.537 -18.036  14.876  1.00 54.92      JA   O  
+ANISOU  210  O   HOH D 710     6697   7197   6972   -487   -507   -369  JA   O  
+HETATM  211  O   HOH D 711     -25.244  -2.331   9.082  1.00 38.08      JA   O  
+ANISOU  211  O   HOH D 711     4994   4850   4627     70    373    -33  JA   O  
+HETATM  212  O   HOH D 712     -41.337   2.229  20.320  1.00 35.69      JA   O  
+ANISOU  212  O   HOH D 712     4532   4619   4410     58    -77     40  JA   O  
+HETATM  213  O   HOH D 713     -54.259 -16.728   0.883  1.00 56.08      JA   O  
+ANISOU  213  O   HOH D 713     7376   7425   6507   -332   -617   -582  JA   O  
+HETATM  214  O   HOH D 714     -65.025   6.061 -14.482  1.00 43.24      JA   O  
+ANISOU  214  O   HOH D 714     5908   6530   3990    287  -1524    177  JA   O  
+HETATM  215  O   HOH D 715     -44.635 -12.774   2.204  1.00 35.38      JA   O  
+ANISOU  215  O   HOH D 715     4880   4695   3868   -122   -233   -417  JA   O  
+HETATM  216  O   HOH D 716     -43.636 -13.986   4.442  1.00 39.94      JA   O  
+ANISOU  216  O   HOH D 716     5414   5203   4558   -129   -183   -416  JA   O  
+HETATM  217  O   HOH D 717     -76.732   1.866  18.791  1.00 57.02      JA   O  
+ANISOU  217  O   HOH D 717     6050   8065   7552    101   -702    -23  JA   O  
+HETATM  218  O   HOH D 718     -33.926  11.400  18.236  1.00 50.25      JA   O  
+ANISOU  218  O   HOH D 718     6474   6328   6289     89     57    187  JA   O  
+HETATM  219  O   HOH D 719     -60.537   8.147  28.055  1.00 47.10      JA   O  
+ANISOU  219  O   HOH D 719     5506   6323   6065    243   -179     43  JA   O  
+HETATM  220  O   HOH D 720     -49.346   8.419  30.279  1.00 53.23      JA   O  
+ANISOU  220  O   HOH D 720     6591   6884   6752    164    -83     48  JA   O  
+HETATM  221  O   HOH D 721     -64.604 -12.455  17.021  1.00 46.85      JA   O  
+ANISOU  221  O   HOH D 721     5435   6362   6005   -377   -538   -244  JA   O  
+HETATM  222  O   HOH D 722     -50.386  -3.552  -9.324  1.00 42.56      JA   O  
+ANISOU  222  O   HOH D 722     6062   6015   4095      9   -607   -214  JA   O  
+HETATM  223  O   HOH D 723     -55.314 -18.085  17.956  1.00 57.75      JA   O  
+ANISOU  223  O   HOH D 723     7176   7421   7345   -402   -330   -298  JA   O  
+HETATM  224  O   HOH D 724     -33.329 -11.955   1.594  1.00 42.84      JA   O  
+ANISOU  224  O   HOH D 724     5903   5515   4858     22    199   -374  JA   O  
+HETATM  225  O   HOH D 725     -53.189   8.267  30.656  1.00 49.03      JA   O  
+ANISOU  225  O   HOH D 725     5969   6417   6243    188    -90     40  JA   O  
+HETATM  226  O   HOH D 726     -34.961 -12.944   6.214  1.00 43.50      JA   O  
+ANISOU  226  O   HOH D 726     5861   5537   5129     -9    111   -341  JA   O  
+HETATM  227  O   HOH D 727     -31.775   2.068  27.670  1.00 49.59      JA   O  
+ANISOU  227  O   HOH D 727     6244   6240   6358     28      3     58  JA   O  
+HETATM  228  O   HOH D 728     -60.605  11.412  -1.976  1.00 34.49      JA   O  
+ANISOU  228  O   HOH D 728     4505   5015   3584    399   -945    323  JA   O  
+HETATM  229  O   HOH D 729     -71.981  27.366  18.457  1.00 66.99      JA   O  
+ANISOU  229  O   HOH D 729     7825   8780   8847   1098   -605    379  JA   O  
+HETATM  230  O   HOH D 730     -75.798   8.898  21.085  1.00 54.56      JA   O  
+ANISOU  230  O   HOH D 730     5793   7672   7264    397   -581     72  JA   O  
+HETATM  231  O   HOH D 731     -40.001  -0.479  -6.235  1.00 50.17      JA   O  
+ANISOU  231  O   HOH D 731     7053   6765   5244     77    -68    -61  JA   O  
+HETATM  232  O   HOH D 732     -70.549   9.119  26.320  1.00 53.71      JA   O  
+ANISOU  232  O   HOH D 732     5927   7391   7089    354   -306     47  JA   O  
+HETATM  233  O   HOH D 733     -40.105 -12.143  12.562  1.00 43.20      JA   O  
+ANISOU  233  O   HOH D 733     5651   5504   5259    -74    -56   -246  JA   O  
+HETATM  234  O   HOH D 734     -58.938   9.436  26.893  1.00 47.47      JA   O  
+ANISOU  234  O   HOH D 734     5623   6331   6083    269   -196     61  JA   O  
+HETATM  235  O   HOH D 735     -33.629 -11.951  -4.985  1.00 52.63      JA   O  
+ANISOU  235  O   HOH D 735     7371   6865   5762     28    235   -463  JA   O  
+HETATM  236  O   HOH D 736     -45.264  12.749   3.833  1.00 55.78      JA   O  
+ANISOU  236  O   HOH D 736     7423   7311   6458    254   -247    332  JA   O  
+HETATM  237  O   HOH D 737     -69.326   9.773 -13.783  1.00 59.56      JA   O  
+ANISOU  237  O   HOH D 737     7763   8661   6205    447  -1746    339  JA   O  
+HETATM  238  O   HOH D 738     -41.369   7.444   7.700  1.00 42.19      JA   O  
+ANISOU  238  O   HOH D 738     5609   5539   4882    141   -103    169  JA   O  
+HETATM  239  O   HOH D 739     -47.345 -14.001  -2.893  1.00 62.38      JA   O  
+ANISOU  239  O   HOH D 739     8434   8217   7051   -170   -382   -538  JA   O  
+HETATM  240  O   HOH D 740     -49.263   2.754  29.529  1.00 50.28      JA   O  
+ANISOU  240  O   HOH D 740     6196   6540   6368     63    -93     29  JA   O  
+HETATM  241  O   HOH D 741     -49.364 -16.225   7.155  1.00 56.04      JA   O  
+ANISOU  241  O   HOH D 741     7305   7253   6737   -252   -350   -445  JA   O  
+HETATM  242  O   HOH D 742     -48.762   6.358  14.819  1.00 32.08      JA   O  
+ANISOU  242  O   HOH D 742     4067   4302   3821    154   -254    102  JA   O  
+HETATM  243  O   HOH D 743     -46.206   7.467  19.373  1.00 39.15      JA   O  
+ANISOU  243  O   HOH D 743     4942   5111   4822    149   -160    104  JA   O  
+HETATM  244  O   HOH D 744     -41.723  11.251   4.041  1.00 51.87      JA   O  
+ANISOU  244  O   HOH D 744     6954   6781   5974    196   -121    293  JA   O  
+HETATM  245  O   HOH D 745     -39.841   1.287  18.418  1.00 46.35      JA   O  
+ANISOU  245  O   HOH D 745     5917   5964   5731     50    -54     29  JA   O  
+HETATM  246  O   HOH D 746     -51.060  11.282   8.326  1.00 41.26      JA   O  
+ANISOU  246  O   HOH D 746     5346   5529   4802    279   -393    244  JA   O  
+HETATM  247  O   HOH D 747     -46.804  11.620  25.603  1.00 54.28      JA   O  
+ANISOU  247  O   HOH D 747     6813   6958   6853    206   -113    105  JA   O  
+HETATM  248  O   HOH D 748     -53.225  17.041  16.132  1.00 51.71      JA   O  
+ANISOU  248  O   HOH D 748     6513   6717   6418    411   -324    272  JA   O  
+HETATM  249  O   HOH D 749     -28.247  -6.683   3.941  1.00 38.47      JA   O  
+ANISOU  249  O   HOH D 749     5223   4952   4443     74    358   -183  JA   O  
+HETATM  250  O   HOH D 750     -61.889 -12.483  20.521  1.00 46.99      JA   O  
+ANISOU  250  O   HOH D 750     5513   6289   6051   -350   -389   -190  JA   O  
+HETATM  251  O   HOH D 751     -37.472  10.604   5.865  1.00 40.06      JA   O  
+ANISOU  251  O   HOH D 751     5430   5211   4578    145     24    267  JA   O  
+HETATM  252  O   HOH D 752     -32.849   5.551  24.650  1.00 51.66      JA   O  
+ANISOU  252  O   HOH D 752     6542   6512   6574     46     21     84  JA   O  
+HETATM  253  O   HOH D 753     -24.764  -5.233   5.975  1.00 43.29      JA   O  
+ANISOU  253  O   HOH D 753     5729   5522   5196     89    445   -121  JA   O  
+HETATM  254  O   HOH D 754     -84.072   8.571  17.835  1.00 52.36      JA   O  
+ANISOU  254  O   HOH D 754     5026   7669   7201    450   -879     77  JA   O  
+HETATM  255  O   HOH D 755     -38.320  -2.593  26.920  1.00 42.72      JA   O  
+ANISOU  255  O   HOH D 755     5377   5430   5424      2    -39     15  JA   O  
+HETATM  256  O   HOH D 756     -44.868   2.772 -14.386  1.00 54.83      JA   O  
+ANISOU  256  O   HOH D 756     7943   7595   5293    136   -354     58  JA   O  
+HETATM  257  O   HOH D 757     -53.117 -18.608   8.819  1.00 42.79      JA   O  
+ANISOU  257  O   HOH D 757     5522   5565   5172   -365   -439   -482  JA   O  
+HETATM  258  O   HOH D 758     -46.898 -16.783   6.576  1.00 55.98      JA   O  
+ANISOU  258  O   HOH D 758     7364   7199   6709   -222   -276   -463  JA   O  
+HETATM  259  O   HOH D 759     -67.433   7.430 -15.280  1.00 53.35      JA   O  
+ANISOU  259  O   HOH D 759     7124   7881   5265    350  -1690    242  JA   O  
+HETATM  260  O   HOH D 760     -77.706  13.258  -0.543  1.00 42.90      JA   O  
+ANISOU  260  O   HOH D 760     4701   6471   5127    650  -1609    352  JA   O  
+HETATM  261  O   HOH D 761     -82.014  12.039  17.894  1.00 54.12      JA   O  
+ANISOU  261  O   HOH D 761     5412   7789   7362    603   -835    136  JA   O  
+HETATM  262  O   HOH D 762     -78.594  17.121  19.628  1.00 64.47      JA   O  
+ANISOU  262  O   HOH D 762     6968   8899   8628    794   -683    198  JA   O  
+HETATM  263  O   HOH D 763     -35.038  -2.565  16.815  1.00 43.69      JA   O  
+ANISOU  263  O   HOH D 763     5618   5573   5409     29     42    -24  JA   O  
+HETATM  264  O   HOH D 764     -79.725  17.241   4.573  1.00 43.61      JA   O  
+ANISOU  264  O   HOH D 764     4553   6468   5549    850  -1437    412  JA   O  
+HETATM  265  O   HOH D 765     -46.038  -3.090 -15.091  1.00 59.26      JA   O  
+ANISOU  265  O   HOH D 765     8517   8180   5819     43   -427   -216  JA   O  
+HETATM  266  O   HOH D 766     -50.561   0.900  28.678  1.00 42.74      JA   O  
+ANISOU  266  O   HOH D 766     5213   5610   5415     32   -110     17  JA   O  
+HETATM  267  O   HOH D 767     -44.776 -16.481   4.722  1.00 54.31      JA   O  
+ANISOU  267  O   HOH D 767     7232   6985   6419   -182   -218   -483  JA   O  
+HETATM  268  O   HOH D 768     -37.744   2.078  -5.098  1.00 46.24      JA   O  
+ANISOU  268  O   HOH D 768     6529   6219   4823     99     38     41  JA   O  
+HETATM  269  O   HOH D 769     -36.871   1.733  15.815  1.00 42.44      JA   O  
+ANISOU  269  O   HOH D 769     5476   5452   5195     56      8     40  JA   O  
+HETATM  270  O   HOH D 770     -55.736  -2.837  29.771  1.00 52.82      JA   O  
+ANISOU  270  O   HOH D 770     6354   6964   6750    -57   -117     -6  JA   O  
+HETATM  271  O   HOH D 771     -58.968  12.812  -0.567  1.00 46.52      JA   O  
+ANISOU  271  O   HOH D 771     6051   6460   5165    419   -841    360  JA   O  
+HETATM  272  O   HOH D 772     -26.890  -4.669   9.742  1.00 52.94      JA   O  
+ANISOU  272  O   HOH D 772     6884   6722   6510     70    316    -86  JA   O  
+HETATM  273  O   HOH D 773     -75.638  -4.918   6.105  1.00 55.54      JA   O  
+ANISOU  273  O   HOH D 773     6175   7968   6960   -171  -1239   -212  JA   O  
+HETATM  274  O   HOH D 774     -44.033  13.392  -2.922  1.00 52.75      JA   O  
+ANISOU  274  O   HOH D 774     7278   7005   5758    264   -239    424  JA   O  
+HETATM  275  O   HOH D 775     -75.577  -0.975  14.311  1.00 42.56      JA   O  
+ANISOU  275  O   HOH D 775     4352   6241   5579    -14   -878    -79  JA   O  
+HETATM  276  O   HOH D 776     -82.909  14.256   6.869  1.00 51.75      JA   O  
+ANISOU  276  O   HOH D 776     5283   7616   6764    745  -1430    297  JA   O  
+HETATM  277  O   HOH D 777     -27.027  -9.216  -2.193  1.00 45.85      JA   O  
+ANISOU  277  O   HOH D 777     6352   5936   5133     96    498   -318  JA   O  
+HETATM  278  O   HOH D 778     -31.137 -10.866   9.370  1.00 52.55      JA   O  
+ANISOU  278  O   HOH D 778     6904   6641   6421     38    202   -239  JA   O  
+HETATM  279  O   HOH D 779     -82.057  10.774   8.288  1.00 55.50      JA   O  
+ANISOU  279  O   HOH D 779     5753   8092   7242    561  -1333    192  JA   O  
+HETATM  280  O   HOH D 780     -49.591  12.626  13.730  1.00 62.14      JA   O  
+ANISOU  280  O   HOH D 780     7917   8070   7623    279   -282    226  JA   O  
+HETATM  281  O   HOH D 781     -75.618   0.667  -4.633  1.00 46.86      JA   O  
+ANISOU  281  O   HOH D 781     5407   7073   5322     87  -1709    -75  JA   O  
+HETATM  282  O   HOH D 782     -45.812 -16.984   8.937  1.00 61.96      JA   O  
+ANISOU  282  O   HOH D 782     8081   7904   7556   -211   -222   -423  JA   O  
+HETATM  283  O   HOH D 783     -32.889  -3.059  16.417  1.00 47.87      JA   O  
+ANISOU  283  O   HOH D 783     6151   6081   5957     35     89    -29  JA   O  
+HETATM  284  O   HOH D 784     -47.311   7.998  15.760  1.00 44.77      JA   O  
+ANISOU  284  O   HOH D 784     5693   5865   5453    172   -212    129  JA   O  
+HETATM  285  O   HOH D 785     -79.065  16.859   2.356  1.00 55.40      JA   O  
+ANISOU  285  O   HOH D 785     6146   7984   6919    826  -1521    432  JA   O  
+HETATM  286  O   HOH D 786     -42.145 -11.623  -1.629  1.00 48.92      JA   O  
+ANISOU  286  O   HOH D 786     6741   6452   5394    -72   -151   -427  JA   O  
+HETATM  287  O   HOH D 787     -67.512  -6.727  -9.565  1.00 54.89      JA   O  
+ANISOU  287  O   HOH D 787     7051   7930   5875   -172  -1502   -380  JA   O  
+HETATM  288  O   HOH D 788     -25.582  10.778   1.333  1.00 42.36      JA   O  
+ANISOU  288  O   HOH D 788     5797   5446   4852     45    497    328  JA   O  
+HETATM  289  O   HOH D 789     -35.923  11.694  18.716  1.00 59.49      JA   O  
+ANISOU  289  O   HOH D 789     7640   7513   7449    109     19    184  JA   O  
+HETATM  290  O   HOH D 790     -70.570  -3.087  13.918  1.00 51.99      JA   O  
+ANISOU  290  O   HOH D 790     5825   7296   6633    -87   -777   -114  JA   O  
+HETATM  291  O   HOH D 791     -26.140   9.571  -2.669  1.00 37.55      JA   O  
+ANISOU  291  O   HOH D 791     5322   4916   4031     62    541    319  JA   O  
+HETATM  292  O   HOH D 792     -62.419   6.100 -15.786  1.00 47.80      JA   O  
+ANISOU  292  O   HOH D 792     6656   7076   4432    277  -1409    188  JA   O  
+HETATM  293  O   HOH D 793     -42.145  -0.359 -12.442  1.00 55.94      JA   O  
+ANISOU  293  O   HOH D 793     8026   7651   5579     87   -190    -76  JA   O  
+HETATM  294  O   HOH D 794     -62.886   0.516 -14.879  1.00 60.11      JA   O  
+ANISOU  294  O   HOH D 794     8139   8637   6064     99  -1413    -78  JA   O  
+HETATM  295  O   HOH D 795     -75.060  -2.889   8.333  1.00 48.72      JA   O  
+ANISOU  295  O   HOH D 795     5286   7071   6156    -85  -1124   -144  JA   O  
+HETATM  296  O   HOH D 796     -78.535  14.514  19.274  1.00 49.05      JA   O  
+ANISOU  296  O   HOH D 796     4996   6994   6645    676   -702    164  JA   O  
+HETATM  297  O   HOH D 797     -39.088 -12.186   1.872  1.00 40.04      JA   O  
+ANISOU  297  O   HOH D 797     5531   5221   4461    -48    -23   -391  JA   O  
+HETATM  298  O   HOH D 798     -52.369   6.734 -17.052  1.00 52.19      JA   O  
+ANISOU  298  O   HOH D 798     7601   7441   4787    244   -829    238  JA   O  
+HETATM  299  O   HOH D 799     -38.149 -13.594   3.461  1.00 62.72      JA   O  
+ANISOU  299  O   HOH D 799     8370   8033   7426    -51     11   -407  JA   O  
+HETATM  300  O   HOH D 800     -37.439 -11.886  -0.791  1.00 50.82      JA   O  
+ANISOU  300  O   HOH D 800     6989   6612   5711    -22     47   -414  JA   O  
+HETATM  301  O   HOH D 801     -62.210 -12.313   8.238  1.00 38.28      JA   O  
+ANISOU  301  O   HOH D 801     4618   5320   4607   -333   -732   -358  JA   O  
+HETATM  302  O   HOH D 802     -50.933  13.488   8.160  1.00 49.23      JA   O  
+ANISOU  302  O   HOH D 802     6380   6508   5817    323   -390    300  JA   O  
+HETATM  303  O   HOH D 803     -64.021   2.218  31.360  1.00 66.25      JA   O  
+ANISOU  303  O   HOH D 803     7766   8841   8563     75   -105      2  JA   O  
+HETATM  304  O   HOH D 804     -68.994  -3.161 -11.780  1.00 43.18      JA   O  
+ANISOU  304  O   HOH D 804     5583   6562   4262    -45  -1659   -244  JA   O  
+HETATM  305  O   HOH D 805     -48.103 -13.680  24.894  1.00 41.22      JA   O  
+ANISOU  305  O   HOH D 805     5136   5252   5275   -211   -129   -109  JA   O  
+HETATM  306  O   HOH D 806     -32.395  -4.635  14.679  1.00 46.89      JA   O  
+ANISOU  306  O   HOH D 806     6058   5956   5803     35    115    -65  JA   O  
+HETATM  307  O   HOH D 807     -65.274   3.497 -14.373  1.00 56.19      JA   O  
+ANISOU  307  O   HOH D 807     7524   8185   5641    200  -1536     58  JA   O  
+HETATM  308  O   HOH D 808     -79.794   9.330  -7.044  1.00 56.52      JA   O  
+ANISOU  308  O   HOH D 808     6497   8431   6547    501  -2016    261  JA   O  
+HETATM  309  O   HOH D 809     -37.291  10.453   8.538  1.00 47.92      JA   O  
+ANISOU  309  O   HOH D 809     6357   6173   5675    137     23    243  JA   O  
+HETATM  310  O   HOH D 810     -21.645  -3.261   8.569  1.00 48.36      JA   O  
+ANISOU  310  O   HOH D 810     6248   6129   5996     87    491    -49  JA   O  
+HETATM  311  O   HOH D 811     -69.503   1.103 -14.131  1.00 50.98      JA   O  
+ANISOU  311  O   HOH D 811     6651   7630   5090    119  -1773    -60  JA   O  
+HETATM  312  O   HOH D 812     -83.966  12.336   5.242  1.00 45.94      JA   O  
+ANISOU  312  O   HOH D 812     4500   6966   5990    664  -1554    259  JA   O  
+HETATM  313  O   HOH D 813     -70.534  -5.671 -12.623  1.00 58.82      JA   O  
+ANISOU  313  O   HOH D 813     7529   8583   6236   -147  -1775   -364  JA   O  
+HETATM  314  O   HOH D 814     -35.002  14.887  18.025  1.00 68.17      JA   O  
+ANISOU  314  O   HOH D 814     8778   8560   8563    118     41    238  JA   O  
+HETATM  315  O   HOH D 815     -83.939  13.237   2.800  1.00 47.79      JA   O  
+ANISOU  315  O   HOH D 815     4811   7225   6123    714  -1684    310  JA   O  
+HETATM  316  O   HOH D 816     -63.032   7.649 -17.885  1.00 62.11      JA   O  
+ANISOU  316  O   HOH D 816     8553   8942   6103    334  -1505    271  JA   O  
+HETATM  317  O   HOH D 817     -38.451 -16.186   2.945  1.00 65.43      JA   O  
+ANISOU  317  O   HOH D 817     8749   8336   7777    -77      4   -491  JA   O  
+HETATM  318  O   HOH D 818     -86.319  11.702   6.275  1.00 51.76      JA   O  
+ANISOU  318  O   HOH D 818     5037   7771   6858    654  -1576    230  JA   O  
+END

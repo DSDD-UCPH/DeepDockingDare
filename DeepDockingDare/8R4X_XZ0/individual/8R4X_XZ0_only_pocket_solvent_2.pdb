@@ -1,0 +1,26 @@
+CRYST1  109.180  121.390  134.300  90.00  90.00  90.00 P 21 21 21   16
+HETATM    1  O   HOH D 526     -46.200  10.191   2.602  1.00 35.91      JA   O  
+ANISOU    1  O   HOH D 526     4910   4859   3875    226   -293    267  JA   O  
+HETATM    2  O   HOH D 546     -44.088   5.902  -3.887  1.00 24.05      JA   O  
+ANISOU    2  O   HOH D 546     3630   3465   2044    160   -251    166  JA   O  
+HETATM    3  O   HOH D 549     -49.523  11.903   1.330  1.00 35.97      JA   O  
+ANISOU    3  O   HOH D 549     4907   4922   3839    291   -430    325  JA   O  
+HETATM    4  O   HOH D 556     -50.956   9.735  -0.844  1.00 33.46      JA   O  
+ANISOU    4  O   HOH D 556     4613   4690   3412    266   -517    271  JA   O  
+HETATM    5  O   HOH D 603     -43.396   9.757   2.799  1.00 35.21      JA   O  
+ANISOU    5  O   HOH D 603     4851   4729   3798    195   -187    257  JA   O  
+HETATM    6  O   HOH D 614     -49.105   9.643   9.059  1.00 37.27      JA   O  
+ANISOU    6  O   HOH D 614     4854   4999   4308    228   -326    202  JA   O  
+HETATM    7  O   HOH D 626     -49.146   7.823  -3.507  1.00 37.03      JA   O  
+ANISOU    7  O   HOH D 626     5184   5172   3714    220   -474    225  JA   O  
+HETATM    8  O   HOH D 683     -52.717   5.639   0.381  1.00 23.79      JA   O  
+ANISOU    8  O   HOH D 683     3284   3509   2247    188   -573    129  JA   O  
+HETATM    9  O   HOH D 697     -51.556   7.349  -1.638  1.00 30.00      JA   O  
+ANISOU    9  O   HOH D 697     4172   4296   2929    222   -555    195  JA   O  
+HETATM   10  O   HOH D 736     -45.264  12.749   3.833  1.00 55.78      JA   O  
+ANISOU   10  O   HOH D 736     7423   7311   6458    254   -247    332  JA   O  
+HETATM   11  O   HOH D 746     -51.060  11.282   8.326  1.00 41.26      JA   O  
+ANISOU   11  O   HOH D 746     5346   5529   4802    279   -393    244  JA   O  
+HETATM   12  O   HOH D 802     -50.933  13.488   8.160  1.00 49.23      JA   O  
+ANISOU   12  O   HOH D 802     6380   6508   5817    323   -390    300  JA   O  
+END

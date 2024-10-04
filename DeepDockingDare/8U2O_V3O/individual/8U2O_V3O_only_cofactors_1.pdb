@@ -1,0 +1,26 @@
+CRYST1   65.977   46.485  111.278  90.00 100.14  90.00 P 1 21 1      4
+HETATM    1  O1  SO4 B 401      -5.046   8.200  23.020  1.00 39.26      H    O  
+HETATM    2  O2  SO4 B 401      -3.024   6.993  22.314  1.00 48.90      H    O  
+HETATM    3  O3  SO4 B 401      -3.424   7.575  24.669  1.00 48.08      H    O  
+HETATM    4  O4  SO4 B 401      -2.844   9.294  23.031  1.00 45.06      H    O  
+HETATM    5  S   SO4 B 401      -3.579   8.013  23.244  1.00 48.64      H    S  
+HETATM    6 CL    CL B 402      -0.945   3.748  29.223  1.00 64.08      I   CL1-
+HETATM    7 CL    CL B 403     -16.609 -10.128  -5.496  1.00 67.88      J   CL1-
+HETATM    8  C1  GOL B 404       1.127   0.838   9.468  1.00 67.14      K    C  
+HETATM    9  O1  GOL B 404       0.482   1.389  10.608  1.00 67.32      K    O  
+HETATM   10  C2  GOL B 404       0.958  -0.672   9.482  1.00 56.17      K    C  
+HETATM   11  O2  GOL B 404       0.094  -0.994  10.559  1.00 58.67      K    O  
+HETATM   12  C3  GOL B 404       0.447  -1.296   8.190  1.00 46.19      K    C  
+HETATM   13  O3  GOL B 404       0.433  -0.382   7.119  1.00 52.56      K    O  
+CONECT    1    5
+CONECT    2    5
+CONECT    3    5
+CONECT    4    5
+CONECT    5    1    2    3    4
+CONECT    8    9   10
+CONECT    9    8
+CONECT   10    8   11   12
+CONECT   11   10
+CONECT   12   10   13
+CONECT   13   12
+END

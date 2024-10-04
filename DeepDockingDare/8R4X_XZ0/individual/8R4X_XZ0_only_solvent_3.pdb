@@ -1,0 +1,796 @@
+CRYST1  109.180  121.390  134.300  90.00  90.00  90.00 P 21 21 21   16
+HETATM    1  O   HOH B 501     -23.113   3.736  26.550  1.00 47.49      HA   O  
+ANISOU    1  O   HOH B 501     5891   5912   6240      7     84     85  HA   O  
+HETATM    2  O   HOH B 502     -22.308  13.728  52.639  1.00 47.40      HA   O  
+ANISOU    2  O   HOH B 502     6092   5883   6035   -125   -456   -135  HA   O  
+HETATM    3  O   HOH B 503     -16.852   5.861  25.277  1.00 27.71      HA   O  
+ANISOU    3  O   HOH B 503     3267   3377   3886    -34    170    115  HA   O  
+HETATM    4  O   HOH B 504     -43.810  22.899  54.092  1.00 53.88      HA   O  
+ANISOU    4  O   HOH B 504     7135   6701   6638    250     72   -360  HA   O  
+HETATM    5  O   HOH B 505     -49.770  15.076  35.395  1.00 38.48      HA   O  
+ANISOU    5  O   HOH B 505     4767   4929   4923    278    -16      9  HA   O  
+HETATM    6  O   HOH B 506     -25.949  23.546  20.982  1.00 44.59      HA   O  
+ANISOU    6  O   HOH B 506     5798   5284   5862    -37    168    317  HA   O  
+HETATM    7  O   HOH B 507     -48.776  20.279  49.592  1.00 41.75      HA   O  
+ANISOU    7  O   HOH B 507     5401   5266   5196    321    145   -239  HA   O  
+HETATM    8  O   HOH B 508     -24.779  38.526  23.901  1.00 45.27      HA   O  
+ANISOU    8  O   HOH B 508     6127   4793   6279   -136    160    392  HA   O  
+HETATM    9  O   HOH B 509     -32.681  13.075  55.389  1.00 51.98      HA   O  
+ANISOU    9  O   HOH B 509     6845   6560   6345     -4   -233   -168  HA   O  
+HETATM   10  O   HOH B 510     -32.875  29.787  25.434  1.00 33.86      HA   O  
+ANISOU   10  O   HOH B 510     4558   3762   4544    117     39    266  HA   O  
+HETATM   11  O   HOH B 511      -1.276  20.470  23.849  1.00 63.26      HA   O  
+ANISOU   11  O   HOH B 511     7326   7677   9034   -490    395    270  HA   O  
+HETATM   12  O   HOH B 512     -21.604  25.571  53.106  1.00 37.80      HA   O  
+ANISOU   12  O   HOH B 512     5023   4398   4942   -233   -470   -363  HA   O  
+HETATM   13  O   HOH B 513     -13.541  10.868  43.648  1.00 51.22      HA   O  
+ANISOU   13  O   HOH B 513     6197   6323   6940   -167   -380      7  HA   O  
+HETATM   14  O   HOH B 514     -30.405  14.691  23.527  1.00 47.08      HA   O  
+ANISOU   14  O   HOH B 514     6022   5815   6051     44     64    177  HA   O  
+HETATM   15  O   HOH B 515     -17.948  41.246  44.618  1.00 46.09      HA   O  
+ANISOU   15  O   HOH B 515     6187   4748   6577   -474   -304   -344  HA   O  
+HETATM   16  O   HOH B 516     -19.013   2.273  30.169  1.00 35.05      HA   O  
+ANISOU   16  O   HOH B 516     4210   4314   4792      2     27     84  HA   O  
+HETATM   17  O   HOH B 517     -23.670  15.114  16.078  1.00 51.34      HA   O  
+ANISOU   17  O   HOH B 517     6585   6345   6577    -29    288    283  HA   O  
+HETATM   18  O   HOH B 518      -7.395  18.364  37.268  1.00 27.27      HA   O  
+ANISOU   18  O   HOH B 518     2973   3145   4245   -369   -203     38  HA   O  
+HETATM   19  O   HOH B 519     -30.646  19.563  29.885  1.00 42.04      HA   O  
+ANISOU   19  O   HOH B 519     5400   5063   5510     36     -4    118  HA   O  
+HETATM   20  O   HOH B 520       4.115  22.703  31.530  1.00 44.91      HA   O  
+ANISOU   20  O   HOH B 520     4705   5313   7048   -680     49    148  HA   O  
+HETATM   21  O   HOH B 521     -53.654  24.478  42.292  1.00 33.24      HA   O  
+ANISOU   21  O   HOH B 521     4177   4123   4328    519    124   -152  HA   O  
+HETATM   22  O   HOH B 522     -41.433  14.936  36.033  1.00 36.35      HA   O  
+ANISOU   22  O   HOH B 522     4618   4542   4650    163    -38     13  HA   O  
+HETATM   23  O   HOH B 523     -21.966  45.607  39.125  1.00 39.19      HA   O  
+ANISOU   23  O   HOH B 523     5472   3637   5782   -337   -118   -170  HA   O  
+HETATM   24  O   HOH B 524      -6.746  35.169  24.579  1.00 43.23      HA   O  
+ANISOU   24  O   HOH B 524     5283   4638   6503   -701    327    360  HA   O  
+HETATM   25  O   HOH B 525      -7.381  11.042  33.081  1.00 48.17      HA   O  
+ANISOU   25  O   HOH B 525     5541   5907   6855   -206    -43    105  HA   O  
+HETATM   26  O   HOH B 526     -19.081  35.142  26.991  1.00 27.50      HA   O  
+ANISOU   26  O   HOH B 526     3667   2654   4128   -313    139    271  HA   O  
+HETATM   27  O   HOH B 527     -28.860  32.657  54.110  1.00 54.81      HA   O  
+ANISOU   27  O   HOH B 527     7438   6352   7036    -78   -294   -534  HA   O  
+HETATM   28  O   HOH B 528     -33.778  38.573  48.845  1.00 45.84      HA   O  
+ANISOU   28  O   HOH B 528     6367   4959   6091    102   -117   -473  HA   O  
+HETATM   29  O   HOH B 529     -20.020  21.995  35.895  1.00 24.78      HA   O  
+ANISOU   29  O   HOH B 529     3092   2753   3570   -189   -102     28  HA   O  
+HETATM   30  O   HOH B 530      -7.753  24.919  41.676  1.00 38.99      HA   O  
+ANISOU   30  O   HOH B 530     4588   4477   5747   -510   -364    -86  HA   O  
+HETATM   31  O   HOH B 531     -17.851  13.897  17.372  1.00 37.90      HA   O  
+ANISOU   31  O   HOH B 531     4730   4625   5044    -97    374    258  HA   O  
+HETATM   32  O   HOH B 532       5.375  18.306  24.149  1.00 57.40      HA   O  
+ANISOU   32  O   HOH B 532     6199   7016   8594   -543    452    260  HA   O  
+HETATM   33  O   HOH B 533     -38.507  35.419  30.828  1.00 23.38      HA   O  
+ANISOU   33  O   HOH B 533     3319   2260   3306    299     -9    135  HA   O  
+HETATM   34  O   HOH B 534     -24.904  41.819  44.236  1.00 35.17      HA   O  
+ANISOU   34  O   HOH B 534     4955   3361   5047   -213   -197   -342  HA   O  
+HETATM   35  O   HOH B 535     -18.844  11.170  48.622  1.00 38.06      HA   O  
+ANISOU   35  O   HOH B 535     4744   4693   5027   -131   -438    -47  HA   O  
+HETATM   36  O   HOH B 536     -28.022  45.904  37.895  1.00 42.78      HA   O  
+ANISOU   36  O   HOH B 536     6019   4106   6130    -80    -54   -124  HA   O  
+HETATM   37  O   HOH B 537     -43.783   7.963  43.084  1.00 24.62      HA   O  
+ANISOU   37  O   HOH B 537     3102   3190   3062     91      2    -14  HA   O  
+HETATM   38  O   HOH B 538     -53.811  20.054  27.105  1.00 45.10      HA   O  
+ANISOU   38  O   HOH B 538     5578   5754   5804    462   -143    138  HA   O  
+HETATM   39  O   HOH B 539     -22.822  35.804  26.264  1.00 29.59      HA   O  
+ANISOU   39  O   HOH B 539     4028   2909   4306   -195    128    294  HA   O  
+HETATM   40  O   HOH B 540     -46.341  20.604  28.907  1.00 39.70      HA   O  
+ANISOU   40  O   HOH B 540     5051   4927   5107    331    -73    119  HA   O  
+HETATM   41  O   HOH B 541     -11.441  39.894  46.361  1.00 45.34      HA   O  
+ANISOU   41  O   HOH B 541     5885   4723   6619   -701   -459   -386  HA   O  
+HETATM   42  O   HOH B 542     -32.589  10.991  51.913  1.00 36.72      HA   O  
+ANISOU   42  O   HOH B 542     4824   4624   4505     -1   -207    -96  HA   O  
+HETATM   43  O   HOH B 543     -36.783  22.261  53.554  1.00 43.82      HA   O  
+ANISOU   43  O   HOH B 543     5885   5359   5405    101   -106   -329  HA   O  
+HETATM   44  O   HOH B 544     -42.090  32.931  31.336  1.00 23.65      HA   O  
+ANISOU   44  O   HOH B 544     3274   2439   3273    385    -23    111  HA   O  
+HETATM   45  O   HOH B 545     -19.247  47.294  37.327  1.00 48.01      HA   O  
+ANISOU   45  O   HOH B 545     6570   4644   7027   -461    -88   -101  HA   O  
+HETATM   46  O   HOH B 546     -15.919  33.683  27.155  1.00 26.34      HA   O  
+ANISOU   46  O   HOH B 546     3407   2557   4043   -396    155    261  HA   O  
+HETATM   47  O   HOH B 547     -23.648  29.240  23.684  1.00 36.55      HA   O  
+ANISOU   47  O   HOH B 547     4810   4059   5016   -125    158    317  HA   O  
+HETATM   48  O   HOH B 548      -3.210  32.055  35.383  1.00 44.99      HA   O  
+ANISOU   48  O   HOH B 548     5251   4988   6856   -771   -122     35  HA   O  
+HETATM   49  O   HOH B 549     -55.279   6.404  38.893  1.00 34.78      HA   O  
+ANISOU   49  O   HOH B 549     4117   4660   4440    144     60     -2  HA   O  
+HETATM   50  O   HOH B 550     -24.346  36.673  49.647  1.00 35.11      HA   O  
+ANISOU   50  O   HOH B 550     4887   3627   4825   -223   -318   -464  HA   O  
+HETATM   51  O   HOH B 551     -12.556  14.995  42.018  1.00 38.52      HA   O  
+ANISOU   51  O   HOH B 551     4577   4646   5411   -240   -336    -14  HA   O  
+HETATM   52  O   HOH B 552     -14.940  42.233  40.566  1.00 35.43      HA   O  
+ANISOU   52  O   HOH B 552     4742   3325   5395   -588   -222   -199  HA   O  
+HETATM   53  O   HOH B 553     -25.768  26.465  58.126  1.00 44.34      HA   O  
+ANISOU   53  O   HOH B 553     6050   5267   5530   -154   -452   -501  HA   O  
+HETATM   54  O   HOH B 554     -15.594  46.559  39.464  1.00 46.70      HA   O  
+ANISOU   54  O   HOH B 554     6300   4517   6927   -617   -172   -185  HA   O  
+HETATM   55  O   HOH B 555     -21.271   5.252  41.439  1.00 27.29      HA   O  
+ANISOU   55  O   HOH B 555     3314   3346   3707    -41   -233     56  HA   O  
+HETATM   56  O   HOH B 556      -6.350  30.941  40.679  1.00 43.01      HA   O  
+ANISOU   56  O   HOH B 556     5140   4786   6417   -671   -329   -109  HA   O  
+HETATM   57  O   HOH B 557     -31.004  18.044  31.941  1.00 22.08      HA   O  
+ANISOU   57  O   HOH B 557     2852   2568   2970     36    -28     82  HA   O  
+HETATM   58  O   HOH B 558     -16.536  37.114  19.766  1.00 46.27      HA   O  
+ANISOU   58  O   HOH B 558     6095   4968   6517   -396    365    523  HA   O  
+HETATM   59  O   HOH B 559     -25.022  32.252  53.944  1.00 37.31      HA   O  
+ANISOU   59  O   HOH B 559     5161   4127   4887   -190   -390   -518  HA   O  
+HETATM   60  O   HOH B 560     -28.709  33.801  32.663  1.00 23.21      HA   O  
+ANISOU   60  O   HOH B 560     3235   2210   3374    -21    -10     84  HA   O  
+HETATM   61  O   HOH B 561     -34.145  11.574  33.266  1.00 25.68      HA   O  
+ANISOU   61  O   HOH B 561     3257   3160   3341     58    -47     56  HA   O  
+HETATM   62  O   HOH B 562      -5.833  15.451  21.123  1.00 35.21      HA   O  
+ANISOU   62  O   HOH B 562     3952   4226   5201   -289    451    255  HA   O  
+HETATM   63  O   HOH B 563     -39.020  28.308  27.461  1.00 34.13      HA   O  
+ANISOU   63  O   HOH B 563     4548   3906   4515    265    -22    199  HA   O  
+HETATM   64  O   HOH B 564     -36.267  28.451  27.143  1.00 31.90      HA   O  
+ANISOU   64  O   HOH B 564     4279   3589   4254    196     -2    210  HA   O  
+HETATM   65  O   HOH B 565     -31.472  32.074  27.367  1.00 30.04      HA   O  
+ANISOU   65  O   HOH B 565     4100   3174   4138     77     37    230  HA   O  
+HETATM   66  O   HOH B 566      -2.934  21.721  34.231  1.00 26.62      HA   O  
+ANISOU   66  O   HOH B 566     2734   2989   4391   -518    -86     86  HA   O  
+HETATM   67  O   HOH B 567      -7.047  30.221  21.762  1.00 33.45      HA   O  
+ANISOU   67  O   HOH B 567     3984   3603   5121   -580    426    396  HA   O  
+HETATM   68  O   HOH B 568     -25.174   6.285  21.456  1.00 41.62      HA   O  
+ANISOU   68  O   HOH B 568     5237   5190   5386     14    157    116  HA   O  
+HETATM   69  O   HOH B 569     -42.814  17.098  36.598  1.00 39.66      HA   O  
+ANISOU   69  O   HOH B 569     5050   4941   5080    205    -28     -1  HA   O  
+HETATM   70  O   HOH B 570     -30.296  39.073  35.647  1.00 23.60      HA   O  
+ANISOU   70  O   HOH B 570     3421   2041   3504     21    -33    -18  HA   O  
+HETATM   71  O   HOH B 571     -42.403  15.612  33.194  1.00 35.49      HA   O  
+ANISOU   71  O   HOH B 571     4502   4434   4547    190    -43     46  HA   O  
+HETATM   72  O   HOH B 572      -8.094  29.436  43.157  1.00 41.08      HA   O  
+ANISOU   72  O   HOH B 572     4958   4604   6048   -599   -411   -164  HA   O  
+HETATM   73  O   HOH B 573     -27.849   9.049  14.619  1.00 52.87      HA   O  
+ANISOU   73  O   HOH B 573     6812   6660   6616     39    218    186  HA   O  
+HETATM   74  O   HOH B 574      -3.820  14.898  25.255  1.00 30.90      HA   O  
+ANISOU   74  O   HOH B 574     3270   3679   4792   -314    300    203  HA   O  
+HETATM   75  O   HOH B 575     -22.343  45.976  28.765  1.00 33.89      HA   O  
+ANISOU   75  O   HOH B 575     4808   2944   5126   -288    104    257  HA   O  
+HETATM   76  O   HOH B 576     -60.010  25.237  27.769  1.00 46.22      HA   O  
+ANISOU   76  O   HOH B 576     5601   5876   6085    718   -164    153  HA   O  
+HETATM   77  O   HOH B 577     -19.506  14.957  49.905  1.00 33.96      HA   O  
+ANISOU   77  O   HOH B 577     4293   4128   4481   -165   -454   -120  HA   O  
+HETATM   78  O   HOH B 578     -16.622  -0.426  27.027  1.00 39.43      HA   O  
+ANISOU   78  O   HOH B 578     4716   4866   5399     37    124     74  HA   O  
+HETATM   79  O   HOH B 579      -7.174   8.658  21.502  1.00 51.04      HA   O  
+ANISOU   79  O   HOH B 579     5952   6318   7123   -131    413    177  HA   O  
+HETATM   80  O   HOH B 580     -12.213  17.659  44.431  1.00 50.63      HA   O  
+ANISOU   80  O   HOH B 580     6153   6143   6942   -295   -418    -72  HA   O  
+HETATM   81  O   HOH B 581      -5.756  20.943  40.798  1.00 38.63      HA   O  
+ANISOU   81  O   HOH B 581     4396   4540   5742   -463   -354    -34  HA   O  
+HETATM   82  O   HOH B 582     -40.830  11.615  36.905  1.00 26.13      HA   O  
+ANISOU   82  O   HOH B 582     3303   3291   3335    119    -41     14  HA   O  
+HETATM   83  O   HOH B 583     -24.076   7.363  47.419  1.00 36.37      HA   O  
+ANISOU   83  O   HOH B 583     4592   4527   4700    -53   -318      5  HA   O  
+HETATM   84  O   HOH B 584     -28.589  12.980  22.741  1.00 45.68      HA   O  
+ANISOU   84  O   HOH B 584     5822   5654   5881     23     94    172  HA   O  
+HETATM   85  O   HOH B 585     -45.133  18.261  38.431  1.00 25.53      HA   O  
+ANISOU   85  O   HOH B 585     3254   3161   3286    253     -5    -35  HA   O  
+HETATM   86  O   HOH B 586     -12.527   8.482  19.509  1.00 39.49      HA   O  
+ANISOU   86  O   HOH B 586     4707   4866   5430    -84    403    176  HA   O  
+HETATM   87  O   HOH B 587     -21.561   3.789  32.258  1.00 23.49      HA   O  
+ANISOU   87  O   HOH B 587     2801   2856   3268     -9    -29     80  HA   O  
+HETATM   88  O   HOH B 588     -54.214  30.832  38.414  1.00 25.66      HA   O  
+ANISOU   88  O   HOH B 588     3284   2958   3509    682     73    -96  HA   O  
+HETATM   89  O   HOH B 589     -23.118  17.618  28.038  1.00 21.08      HA   O  
+ANISOU   89  O   HOH B 589     2638   2402   2968    -80     61    150  HA   O  
+HETATM   90  O   HOH B 590     -31.260  32.575  52.246  1.00 42.81      HA   O  
+ANISOU   90  O   HOH B 590     5898   4836   5532     -1   -213   -481  HA   O  
+HETATM   91  O   HOH B 591     -45.286  34.282  33.229  1.00 29.77      HA   O  
+ANISOU   91  O   HOH B 591     4039   3201   4072    495    -14     54  HA   O  
+HETATM   92  O   HOH B 592     -39.838  19.924  51.620  1.00 50.63      HA   O  
+ANISOU   92  O   HOH B 592     6666   6295   6274    148    -34   -256  HA   O  
+HETATM   93  O   HOH B 593     -30.235   1.487  31.249  1.00 40.00      HA   O  
+ANISOU   93  O   HOH B 593     5006   5006   5188     19    -27     60  HA   O  
+HETATM   94  O   HOH B 594     -24.674  -0.434  38.813  1.00 24.70      HA   O  
+ANISOU   94  O   HOH B 594     3015   3034   3335      8   -151     87  HA   O  
+HETATM   95  O   HOH B 595     -46.058  13.038  39.993  1.00 28.10      HA   O  
+ANISOU   95  O   HOH B 595     3523   3596   3560    188      8    -30  HA   O  
+HETATM   96  O   HOH B 596      -6.602  24.444  39.061  1.00 29.95      HA   O  
+ANISOU   96  O   HOH B 596     3372   3339   4670   -518   -272    -26  HA   O  
+HETATM   97  O   HOH B 597     -32.688  21.948  28.814  1.00 36.08      HA   O  
+ANISOU   97  O   HOH B 597     4692   4271   4747     81      0    144  HA   O  
+HETATM   98  O   HOH B 598     -16.211   5.614  36.623  1.00 32.01      HA   O  
+ANISOU   98  O   HOH B 598     3765   3914   4484    -58   -147     78  HA   O  
+HETATM   99  O   HOH B 599     -50.735  30.558  24.923  1.00 38.59      HA   O  
+ANISOU   99  O   HOH B 599     5010   4572   5080    617   -133    270  HA   O  
+HETATM  100  O   HOH B 600     -28.982  22.146  22.768  1.00 37.73      HA   O  
+ANISOU  100  O   HOH B 600     4923   4465   4949     23     98    263  HA   O  
+HETATM  101  O   HOH B 601     -42.155  30.185  47.533  1.00 28.40      HA   O  
+ANISOU  101  O   HOH B 601     3930   3176   3685    311     22   -324  HA   O  
+HETATM  102  O   HOH B 602      -0.432  13.413  30.385  1.00 36.06      HA   O  
+ANISOU  102  O   HOH B 602     3720   4361   5622   -332     87    146  HA   O  
+HETATM  103  O   HOH B 603     -33.804  42.958  29.999  1.00 31.22      HA   O  
+ANISOU  103  O   HOH B 603     4502   2848   4511    178     28    190  HA   O  
+HETATM  104  O   HOH B 604      -1.201  23.224  25.649  1.00 43.89      HA   O  
+ANISOU  104  O   HOH B 604     4891   5148   6637   -568    315    257  HA   O  
+HETATM  105  O   HOH B 605     -31.542  40.912  41.840  1.00 38.92      HA   O  
+ANISOU  105  O   HOH B 605     5452   3916   5419     48    -86   -249  HA   O  
+HETATM  106  O   HOH B 606     -40.196  32.283  47.476  1.00 34.36      HA   O  
+ANISOU  106  O   HOH B 606     4741   3829   4486    276     -9   -349  HA   O  
+HETATM  107  O   HOH B 607     -47.982  15.389  30.952  1.00 43.17      HA   O  
+ANISOU  107  O   HOH B 607     5396   5495   5512    269    -66     67  HA   O  
+HETATM  108  O   HOH B 608     -40.315  41.432  37.455  1.00 42.62      HA   O  
+ANISOU  108  O   HOH B 608     5899   4437   5857    395      6    -96  HA   O  
+HETATM  109  O   HOH B 609     -50.639  23.230  24.558  1.00 40.87      HA   O  
+ANISOU  109  O   HOH B 609     5180   5094   5255    473   -149    213  HA   O  
+HETATM  110  O   HOH B 610     -15.992  15.200  46.686  1.00 37.31      HA   O  
+ANISOU  110  O   HOH B 610     4582   4518   5075   -208   -433    -79  HA   O  
+HETATM  111  O   HOH B 611     -59.019  29.140  27.533  1.00 42.46      HA   O  
+ANISOU  111  O   HOH B 611     5228   5255   5652    801   -156    184  HA   O  
+HETATM  112  O   HOH B 612     -48.017  23.731  24.675  1.00 41.08      HA   O  
+ANISOU  112  O   HOH B 612     5265   5063   5280    426   -120    218  HA   O  
+HETATM  113  O   HOH B 613     -10.208  14.571  40.634  1.00 47.00      HA   O  
+ANISOU  113  O   HOH B 613     5555   5722   6579   -261   -312     10  HA   O  
+HETATM  114  O   HOH B 614     -22.332  32.655  54.703  1.00 45.67      HA   O  
+ANISOU  114  O   HOH B 614     6198   5166   5989   -275   -473   -545  HA   O  
+HETATM  115  O   HOH B 615      -3.764  24.957  19.425  1.00 32.21      HA   O  
+ANISOU  115  O   HOH B 615     3626   3635   4975   -538    565    398  HA   O  
+HETATM  116  O   HOH B 616      -5.034  29.424  23.282  1.00 29.39      HA   O  
+ANISOU  116  O   HOH B 616     3355   3115   4697   -621    388    352  HA   O  
+HETATM  117  O   HOH B 617     -53.982  11.698  38.551  1.00 42.12      HA   O  
+ANISOU  117  O   HOH B 617     5113   5514   5376    254     48    -21  HA   O  
+HETATM  118  O   HOH B 618     -18.808  10.905  52.199  1.00 54.55      HA   O  
+ANISOU  118  O   HOH B 618     6889   6812   7025   -136   -529    -73  HA   O  
+HETATM  119  O   HOH B 619     -29.122  39.405  27.653  1.00 33.22      HA   O  
+ANISOU  119  O   HOH B 619     4648   3243   4732      4     66    264  HA   O  
+HETATM  120  O   HOH B 620     -19.704  27.978  49.571  1.00 33.36      HA   O  
+ANISOU  120  O   HOH B 620     4397   3723   4555   -291   -426   -321  HA   O  
+HETATM  121  O   HOH B 621      -7.167  22.633  13.423  1.00 43.40      HA   O  
+ANISOU  121  O   HOH B 621     5254   5153   6082   -397    743    480  HA   O  
+HETATM  122  O   HOH B 622     -50.766  30.846  48.242  1.00 45.30      HA   O  
+ANISOU  122  O   HOH B 622     5961   5419   5832    559    184   -359  HA   O  
+HETATM  123  O   HOH B 623     -50.055  13.752  45.676  1.00 29.46      HA   O  
+ANISOU  123  O   HOH B 623     3688   3836   3671    235    114   -101  HA   O  
+HETATM  124  O   HOH B 624     -15.468  29.927  48.775  1.00 35.56      HA   O  
+ANISOU  124  O   HOH B 624     4590   3921   5002   -424   -485   -325  HA   O  
+HETATM  125  O   HOH B 625     -37.191  25.544  39.763  1.00 33.90      HA   O  
+ANISOU  125  O   HOH B 625     4488   3938   4453    166    -51    -87  HA   O  
+HETATM  126  O   HOH B 626       1.028  19.892  24.590  1.00 46.95      HA   O  
+ANISOU  126  O   HOH B 626     5130   5631   7077   -518    384    257  HA   O  
+HETATM  127  O   HOH B 627     -22.818  22.810  22.724  1.00 26.49      HA   O  
+ANISOU  127  O   HOH B 627     3426   2983   3656   -104    178    279  HA   O  
+HETATM  128  O   HOH B 628     -22.495  34.006  51.360  1.00 36.64      HA   O  
+ANISOU  128  O   HOH B 628     5019   3939   4962   -270   -397   -472  HA   O  
+HETATM  129  O   HOH B 629      -5.941  11.742  19.094  1.00 42.98      HA   O  
+ANISOU  129  O   HOH B 629     4934   5277   6120   -202    531    233  HA   O  
+HETATM  130  O   HOH B 630     -41.953  12.826  48.514  1.00 28.95      HA   O  
+ANISOU  130  O   HOH B 630     3774   3686   3538    119     -2   -108  HA   O  
+HETATM  131  O   HOH B 631     -39.821  21.574  49.749  1.00 35.06      HA   O  
+ANISOU  131  O   HOH B 631     4684   4270   4368    166    -33   -250  HA   O  
+HETATM  132  O   HOH B 632     -12.095  44.089  34.760  1.00 43.06      HA   O  
+ANISOU  132  O   HOH B 632     5642   4177   6539   -708    -49     19  HA   O  
+HETATM  133  O   HOH B 633     -38.182   9.601  42.310  1.00 30.12      HA   O  
+ANISOU  133  O   HOH B 633     3845   3801   3799     65    -64    -14  HA   O  
+HETATM  134  O   HOH B 634     -14.683   2.961  33.059  1.00 37.29      HA   O  
+ANISOU  134  O   HOH B 634     4376   4586   5208    -21    -45     93  HA   O  
+HETATM  135  O   HOH B 635     -20.332  18.735  28.014  1.00 21.44      HA   O  
+ANISOU  135  O   HOH B 635     2643   2412   3092   -134     80    160  HA   O  
+HETATM  136  O   HOH B 636     -55.735  24.997  32.816  1.00 24.20      HA   O  
+ANISOU  136  O   HOH B 636     2935   2996   3264    601    -38     47  HA   O  
+HETATM  137  O   HOH B 637     -36.426  34.023  48.979  1.00 34.19      HA   O  
+ANISOU  137  O   HOH B 637     4793   3707   4491    170    -77   -413  HA   O  
+HETATM  138  O   HOH B 638     -47.579  34.219  47.205  1.00 49.40      HA   O  
+ANISOU  138  O   HOH B 638     6595   5753   6423    525    122   -371  HA   O  
+HETATM  139  O   HOH B 639     -54.863  18.222  31.068  1.00 41.81      HA   O  
+ANISOU  139  O   HOH B 639     5097   5384   5404    430    -79     65  HA   O  
+HETATM  140  O   HOH B 640     -47.084  40.795  40.911  1.00 44.29      HA   O  
+ANISOU  140  O   HOH B 640     6038   4778   6014    630     72   -223  HA   O  
+HETATM  141  O   HOH B 641     -48.133  15.041  45.230  1.00 42.43      HA   O  
+ANISOU  141  O   HOH B 641     5374   5426   5322    233     81   -108  HA   O  
+HETATM  142  O   HOH B 642     -19.026   9.802  26.365  1.00 21.75      HA   O  
+ANISOU  142  O   HOH B 642     2579   2593   3091    -64    123    132  HA   O  
+HETATM  143  O   HOH B 643     -18.283  32.841  45.482  1.00 31.85      HA   O  
+ANISOU  143  O   HOH B 643     4207   3325   4570   -370   -340   -277  HA   O  
+HETATM  144  O   HOH B 644     -15.685  16.370  43.080  1.00 32.09      HA   O  
+ANISOU  144  O   HOH B 644     3883   3815   4494   -219   -332    -45  HA   O  
+HETATM  145  O   HOH B 645      -2.066  27.663  17.752  1.00 48.58      HA   O  
+ANISOU  145  O   HOH B 645     5691   5640   7128   -640    674    474  HA   O  
+HETATM  146  O   HOH B 646     -40.918  23.700  26.699  1.00 43.08      HA   O  
+ANISOU  146  O   HOH B 646     5596   5207   5564    268    -44    185  HA   O  
+HETATM  147  O   HOH B 647     -32.944   5.788  26.702  1.00 37.32      HA   O  
+ANISOU  147  O   HOH B 647     4713   4688   4780     43      4     79  HA   O  
+HETATM  148  O   HOH B 648     -23.408  16.943  18.384  1.00 45.64      HA   O  
+ANISOU  148  O   HOH B 648     5841   5571   5928    -48    249    281  HA   O  
+HETATM  149  O   HOH B 649      -8.709  39.744  32.503  1.00 38.44      HA   O  
+ANISOU  149  O   HOH B 649     4823   3812   5971   -752     18    111  HA   O  
+HETATM  150  O   HOH B 650     -32.813  19.727  41.478  1.00 22.44      HA   O  
+ANISOU  150  O   HOH B 650     2962   2604   2959     46   -108    -76  HA   O  
+HETATM  151  O   HOH B 651      -4.539  29.678  36.086  1.00 34.99      HA   O  
+ANISOU  151  O   HOH B 651     4000   3807   5489   -679   -152     22  HA   O  
+HETATM  152  O   HOH B 652     -25.313  44.370  43.058  1.00 45.04      HA   O  
+ANISOU  152  O   HOH B 652     6267   4475   6371   -205   -165   -322  HA   O  
+HETATM  153  O   HOH B 653     -28.625  48.382  34.144  1.00 41.23      HA   O  
+ANISOU  153  O   HOH B 653     5888   3768   6007    -45      7     29  HA   O  
+HETATM  154  O   HOH B 654     -28.593  47.456  31.383  1.00 39.50      HA   O  
+ANISOU  154  O   HOH B 654     5643   3605   5762    -36     41    148  HA   O  
+HETATM  155  O   HOH B 655     -48.062  30.497  25.162  1.00 38.17      HA   O  
+ANISOU  155  O   HOH B 655     5008   4476   5019    541   -104    265  HA   O  
+HETATM  156  O   HOH B 656     -33.410  34.801  29.007  1.00 35.96      HA   O  
+ANISOU  156  O   HOH B 656     4907   3828   4927    138     17    194  HA   O  
+HETATM  157  O   HOH B 657      -1.366  15.681  26.041  1.00 34.49      HA   O  
+ANISOU  157  O   HOH B 657     3611   4126   5367   -369    288    203  HA   O  
+HETATM  158  O   HOH B 658     -37.009  19.819  47.316  1.00 36.09      HA   O  
+ANISOU  158  O   HOH B 658     4764   4398   4552    107    -84   -179  HA   O  
+HETATM  159  O   HOH B 659     -47.563  16.866  34.710  1.00 30.33      HA   O  
+ANISOU  159  O   HOH B 659     3794   3831   3901    279    -27     19  HA   O  
+HETATM  160  O   HOH B 660     -18.324   8.691  18.624  1.00 30.98      HA   O  
+ANISOU  160  O   HOH B 660     3808   3807   4157    -41    329    173  HA   O  
+HETATM  161  O   HOH B 661     -53.261  15.080  44.240  1.00 39.60      HA   O  
+ANISOU  161  O   HOH B 661     4894   5146   5008    306    140   -103  HA   O  
+HETATM  162  O   HOH B 662     -13.607  39.523  23.427  1.00 46.61      HA   O  
+ANISOU  162  O   HOH B 662     6069   4875   6764   -542    302    427  HA   O  
+HETATM  163  O   HOH B 663     -40.962  23.765  30.487  1.00 28.64      HA   O  
+ANISOU  163  O   HOH B 663     3754   3367   3763    260    -38    108  HA   O  
+HETATM  164  O   HOH B 664      -3.575  19.529  15.187  1.00 43.95      HA   O  
+ANISOU  164  O   HOH B 664     5096   5291   6311   -402    748    400  HA   O  
+HETATM  165  O   HOH B 665     -33.852  34.649  25.238  1.00 47.10      HA   O  
+ANISOU  165  O   HOH B 665     6337   5262   6296    163     41    308  HA   O  
+HETATM  166  O   HOH B 666     -24.638  46.419  29.960  1.00 37.84      HA   O  
+ANISOU  166  O   HOH B 666     5356   3429   5593   -198     72    208  HA   O  
+HETATM  167  O   HOH B 667     -12.450  43.553  27.318  1.00 37.48      HA   O  
+ANISOU  167  O   HOH B 667     4949   3504   5787   -660    197    311  HA   O  
+HETATM  168  O   HOH B 668     -10.519  11.069  15.694  1.00 51.52      HA   O  
+ANISOU  168  O   HOH B 668     6240   6386   6948   -135    572    244  HA   O  
+HETATM  169  O   HOH B 669     -52.794  15.690  32.663  1.00 45.10      HA   O  
+ANISOU  169  O   HOH B 669     5540   5811   5787    338    -51     39  HA   O  
+HETATM  170  O   HOH B 670     -49.642  33.659  26.889  1.00 41.49      HA   O  
+ANISOU  170  O   HOH B 670     5450   4793   5521    638    -92    239  HA   O  
+HETATM  171  O   HOH B 671       1.316  28.831  34.082  1.00 37.06      HA   O  
+ANISOU  171  O   HOH B 671     3961   4118   6004   -806    -75     84  HA   O  
+HETATM  172  O   HOH B 672     -47.256  39.252  37.904  1.00 49.04      HA   O  
+ANISOU  172  O   HOH B 672     6577   5450   6604    622     42   -108  HA   O  
+HETATM  173  O   HOH B 673     -41.376  14.873  31.467  1.00 48.79      HA   O  
+ANISOU  173  O   HOH B 673     6190   6121   6228    172    -48     68  HA   O  
+HETATM  174  O   HOH B 674       0.070  26.865  30.065  1.00 37.36      HA   O  
+ANISOU  174  O   HOH B 674     4034   4213   5949   -708    118    179  HA   O  
+HETATM  175  O   HOH B 675     -39.170  30.725  24.531  1.00 41.77      HA   O  
+ANISOU  175  O   HOH B 675     5579   4803   5490    298    -17    292  HA   O  
+HETATM  176  O   HOH B 676     -16.867  17.675  47.232  1.00 32.99      HA   O  
+ANISOU  176  O   HOH B 676     4093   3929   4512   -228   -432   -120  HA   O  
+HETATM  177  O   HOH B 677     -55.916  20.800  38.149  1.00 37.87      HA   O  
+ANISOU  177  O   HOH B 677     4616   4841   4931    492     62    -53  HA   O  
+HETATM  178  O   HOH B 678     -11.587   6.706  28.878  1.00 35.17      HA   O  
+ANISOU  178  O   HOH B 678     4033   4299   5029    -82     98    116  HA   O  
+HETATM  179  O   HOH B 679     -13.394   6.563  22.837  1.00 44.92      HA   O  
+ANISOU  179  O   HOH B 679     5373   5554   6142    -56    282    137  HA   O  
+HETATM  180  O   HOH B 680     -52.099  26.724  48.459  1.00 49.41      HA   O  
+ANISOU  180  O   HOH B 680     6380   6103   6291    513    204   -310  HA   O  
+HETATM  181  O   HOH B 681     -42.052  26.191  29.872  1.00 27.64      HA   O  
+ANISOU  181  O   HOH B 681     3658   3184   3662    312    -40    128  HA   O  
+HETATM  182  O   HOH B 682     -36.104  28.722  41.575  1.00 26.03      HA   O  
+ANISOU  182  O   HOH B 682     3562   2833   3494    153    -62   -150  HA   O  
+HETATM  183  O   HOH B 683     -13.287  19.663  12.383  1.00 57.36      HA   O  
+ANISOU  183  O   HOH B 683     7221   7007   7566   -226    626    433  HA   O  
+HETATM  184  O   HOH B 684     -58.184  25.077  39.839  1.00 37.14      HA   O  
+ANISOU  184  O   HOH B 684     4528   4679   4905    641    120   -107  HA   O  
+HETATM  185  O   HOH B 685     -13.969  28.366  12.737  1.00 50.41      HA   O  
+ANISOU  185  O   HOH B 685     6487   5879   6788   -337    609    592  HA   O  
+HETATM  186  O   HOH B 686     -14.699  33.783  18.956  1.00 40.56      HA   O  
+ANISOU  186  O   HOH B 686     5258   4386   5766   -410    412    508  HA   O  
+HETATM  187  O   HOH B 687     -15.850  19.170  49.390  1.00 42.31      HA   O  
+ANISOU  187  O   HOH B 687     5295   5092   5688   -270   -510   -174  HA   O  
+HETATM  188  O   HOH B 688     -48.557  15.062  28.032  1.00 53.11      HA   O  
+ANISOU  188  O   HOH B 688     6650   6776   6753    278   -100    100  HA   O  
+HETATM  189  O   HOH B 689     -17.443  39.804  47.464  1.00 39.95      HA   O  
+ANISOU  189  O   HOH B 689     5397   4057   5726   -485   -391   -429  HA   O  
+HETATM  190  O   HOH B 690     -41.466  27.994  52.014  1.00 49.49      HA   O  
+ANISOU  190  O   HOH B 690     6643   5945   6217    257     16   -405  HA   O  
+HETATM  191  O   HOH B 691     -23.278  29.077  55.661  1.00 48.62      HA   O  
+ANISOU  191  O   HOH B 691     6540   5685   6248   -225   -474   -497  HA   O  
+HETATM  192  O   HOH B 692     -31.043  26.701  54.264  1.00 43.07      HA   O  
+ANISOU  192  O   HOH B 692     5861   5093   5413    -16   -250   -423  HA   O  
+HETATM  193  O   HOH B 693     -39.792  34.670  24.198  1.00 41.22      HA   O  
+ANISOU  193  O   HOH B 693     5588   4587   5485    354    -16    336  HA   O  
+HETATM  194  O   HOH B 694     -11.234  46.763  31.344  1.00 57.82      HA   O  
+ANISOU  194  O   HOH B 694     7559   5899   8511   -777     75    159  HA   O  
+HETATM  195  O   HOH B 695     -30.862  22.519  27.069  1.00 32.70      HA   O  
+ANISOU  195  O   HOH B 695     4271   3816   4338     50     29    182  HA   O  
+HETATM  196  O   HOH B 696     -33.254  13.552  27.359  1.00 28.38      HA   O  
+ANISOU  196  O   HOH B 696     3629   3476   3678     69      0    121  HA   O  
+HETATM  197  O   HOH B 697     -20.178  41.010  21.935  1.00 35.85      HA   O  
+ANISOU  197  O   HOH B 697     4931   3466   5223   -313    264    489  HA   O  
+HETATM  198  O   HOH B 698     -30.927  49.742  31.615  1.00 47.14      HA   O  
+ANISOU  198  O   HOH B 698     6698   4456   6759     66     41    141  HA   O  
+HETATM  199  O   HOH B 699      -5.044  26.840  38.835  1.00 39.06      HA   O  
+ANISOU  199  O   HOH B 699     4497   4423   5921   -608   -270    -33  HA   O  
+HETATM  200  O   HOH B 700     -38.707  35.476  49.492  1.00 53.00      HA   O  
+ANISOU  200  O   HOH B 700     7208   6056   6872    251    -30   -452  HA   O  
+HETATM  201  O   HOH B 701     -29.773  31.438  31.684  1.00 22.04      HA   O  
+ANISOU  201  O   HOH B 701     3048   2162   3163     15     -4    109  HA   O  
+HETATM  202  O   HOH B 702     -49.446  17.781  23.298  1.00 45.93      HA   O  
+ANISOU  202  O   HOH B 702     5785   5851   5815    351   -159    184  HA   O  
+HETATM  203  O   HOH B 703     -12.933   8.512  39.353  1.00 31.79      HA   O  
+ANISOU  203  O   HOH B 703     3667   3869   4544   -126   -249     58  HA   O  
+HETATM  204  O   HOH B 704     -49.176  23.760  49.664  1.00 36.03      HA   O  
+ANISOU  204  O   HOH B 704     4719   4458   4512    388    159   -292  HA   O  
+HETATM  205  O   HOH B 705     -23.019   5.288  30.323  1.00 22.91      HA   O  
+ANISOU  205  O   HOH B 705     2765   2785   3156    -10      9     84  HA   O  
+HETATM  206  O   HOH B 706      -9.891  12.012  38.981  1.00 42.21      HA   O  
+ANISOU  206  O   HOH B 706     4905   5148   5985   -213   -257     45  HA   O  
+HETATM  207  O   HOH B 707     -40.718  40.688  28.430  1.00 37.23      HA   O  
+ANISOU  207  O   HOH B 707     5191   3805   5150    431     -6    235  HA   O  
+HETATM  208  O   HOH B 708      -8.688  11.758  36.952  1.00 59.08      HA   O  
+ANISOU  208  O   HOH B 708     6986   7284   8179   -216   -189     67  HA   O  
+HETATM  209  O   HOH B 709      -2.477  20.233  41.485  1.00 46.80      HA   O  
+ANISOU  209  O   HOH B 709     5279   5605   6897   -509   -416    -34  HA   O  
+HETATM  210  O   HOH B 710     -42.205  23.962  35.833  1.00 19.88      HA   O  
+ANISOU  210  O   HOH B 710     2638   2262   2652    275    -25     -3  HA   O  
+HETATM  211  O   HOH B 711      -6.374  10.979  30.628  1.00 43.31      HA   O  
+ANISOU  211  O   HOH B 711     4888   5293   6274   -209     56    127  HA   O  
+HETATM  212  O   HOH B 712     -11.801  21.596  43.138  1.00 33.00      HA   O  
+ANISOU  212  O   HOH B 712     3942   3813   4783   -366   -376    -91  HA   O  
+HETATM  213  O   HOH B 713     -30.839  29.566  55.406  1.00 49.45      HA   O  
+ANISOU  213  O   HOH B 713     6743   5813   6232    -23   -263   -509  HA   O  
+HETATM  214  O   HOH B 714     -33.675  17.696  31.598  1.00 33.80      HA   O  
+ANISOU  214  O   HOH B 714     4344   4084   4414     79    -30     83  HA   O  
+HETATM  215  O   HOH B 715     -25.252   5.864  28.890  1.00 26.58      HA   O  
+ANISOU  215  O   HOH B 715     3272   3262   3566      0     26     86  HA   O  
+HETATM  216  O   HOH B 716     -51.710  25.666  21.680  1.00 56.62      HA   O  
+ANISOU  216  O   HOH B 716     7215   7054   7245    552   -199    298  HA   O  
+HETATM  217  O   HOH B 717     -31.351  36.082  28.978  1.00 43.78      HA   O  
+ANISOU  217  O   HOH B 717     5918   4746   5971     75     30    202  HA   O  
+HETATM  218  O   HOH B 718     -31.292  38.137  28.933  1.00 43.84      HA   O  
+ANISOU  218  O   HOH B 718     5973   4662   6023     76     36    212  HA   O  
+HETATM  219  O   HOH B 719     -49.729  18.198  45.727  1.00 28.03      HA   O  
+ANISOU  219  O   HOH B 719     3561   3568   3521    310    114   -151  HA   O  
+HETATM  220  O   HOH B 720      -3.376  35.487  34.159  1.00 34.19      HA   O  
+ANISOU  220  O   HOH B 720     3961   3478   5550   -847    -61     64  HA   O  
+HETATM  221  O   HOH B 721      -5.416  14.018  37.844  1.00 45.02      HA   O  
+ANISOU  221  O   HOH B 721     5095   5479   6532   -304   -240     54  HA   O  
+HETATM  222  O   HOH B 722      -9.816   5.399  36.966  1.00 59.26      HA   O  
+ANISOU  222  O   HOH B 722     7011   7363   8142    -86   -186     91  HA   O  
+HETATM  223  O   HOH B 723     -35.952  23.016  27.962  1.00 35.45      HA   O  
+ANISOU  223  O   HOH B 723     4636   4197   4637    154    -12    161  HA   O  
+HETATM  224  O   HOH B 724       1.697  20.910  27.448  1.00 51.35      HA   O  
+ANISOU  224  O   HOH B 724     5643   6161   7704   -567    248    215  HA   O  
+HETATM  225  O   HOH B 725      -6.895  38.199  30.944  1.00 49.18      HA   O  
+ANISOU  225  O   HOH B 725     6076   5247   7361   -780     78    166  HA   O  
+HETATM  226  O   HOH B 726       4.913  17.132  31.437  1.00 50.33      HA   O  
+ANISOU  226  O   HOH B 726     5274   6133   7716   -518     51    147  HA   O  
+HETATM  227  O   HOH B 727      -2.071  20.832  17.025  1.00 54.93      HA   O  
+ANISOU  227  O   HOH B 727     6402   6642   7825   -466    698    392  HA   O  
+HETATM  228  O   HOH B 728     -47.017  14.445  43.981  1.00 28.38      HA   O  
+ANISOU  228  O   HOH B 728     3592   3634   3555    212     53    -85  HA   O  
+HETATM  229  O   HOH B 729     -27.378  40.692  51.831  1.00 50.41      HA   O  
+ANISOU  229  O   HOH B 729     7004   5411   6739   -139   -280   -608  HA   O  
+HETATM  230  O   HOH B 730      -3.800  15.916  22.881  1.00 38.85      HA   O  
+ANISOU  230  O   HOH B 730     4308   4675   5777   -332    405    241  HA   O  
+HETATM  231  O   HOH B 731     -35.013  48.076  37.056  1.00 37.01      HA   O  
+ANISOU  231  O   HOH B 731     5387   3308   5366    226     -2   -100  HA   O  
+HETATM  232  O   HOH B 732     -30.900  33.210  29.622  1.00 26.08      HA   O  
+ANISOU  232  O   HOH B 732     3608   2618   3682     55     20    171  HA   O  
+HETATM  233  O   HOH B 733      -8.320  37.599  34.664  1.00 43.67      HA   O  
+ANISOU  233  O   HOH B 733     5420   4577   6597   -731    -69     39  HA   O  
+HETATM  234  O   HOH B 734     -42.507  20.732  50.423  1.00 43.52      HA   O  
+ANISOU  234  O   HOH B 734     5735   5399   5403    208     23   -252  HA   O  
+HETATM  235  O   HOH B 735     -24.068  44.176  38.237  1.00 34.30      HA   O  
+ANISOU  235  O   HOH B 735     4845   3103   5085   -238    -89   -128  HA   O  
+HETATM  236  O   HOH B 736     -27.403  15.946  19.769  1.00 50.88      HA   O  
+ANISOU  236  O   HOH B 736     6532   6272   6530     11    156    242  HA   O  
+HETATM  237  O   HOH B 737     -39.359  44.882  46.680  1.00 58.53      HA   O  
+ANISOU  237  O   HOH B 737     8099   6291   7849    358      7   -480  HA   O  
+HETATM  238  O   HOH B 738     -25.715   9.112  54.460  1.00 59.17      HA   O  
+ANISOU  238  O   HOH B 738     7640   7464   7378    -66   -408    -67  HA   O  
+HETATM  239  O   HOH B 739     -41.446  39.823  35.322  1.00 34.62      HA   O  
+ANISOU  239  O   HOH B 739     4828   3515   4810    427      3    -15  HA   O  
+HETATM  240  O   HOH B 740     -39.349  28.836  51.333  1.00 35.20      HA   O  
+ANISOU  240  O   HOH B 740     4849   4077   4448    212    -31   -400  HA   O  
+HETATM  241  O   HOH B 741     -31.046  20.759  54.598  1.00 44.78      HA   O  
+ANISOU  241  O   HOH B 741     5993   5478   5543    -18   -262   -311  HA   O  
+HETATM  242  O   HOH B 742     -62.565  25.797  33.132  1.00 32.10      HA   O  
+ANISOU  242  O   HOH B 742     3718   4109   4370    779    -30     35  HA   O  
+HETATM  243  O   HOH B 743     -26.592   6.646  47.353  1.00 39.18      HA   O  
+ANISOU  243  O   HOH B 743     4981   4901   5005    -34   -274     10  HA   O  
+HETATM  244  O   HOH B 744     -32.221  41.578  39.751  1.00 44.64      HA   O  
+ANISOU  244  O   HOH B 744     6180   4607   6174     81    -58   -177  HA   O  
+HETATM  245  O   HOH B 745     -34.053  19.564  29.012  1.00 44.71      HA   O  
+ANISOU  245  O   HOH B 745     5756   5434   5798     98    -11    128  HA   O  
+HETATM  246  O   HOH B 746      -0.252  23.019  27.905  1.00 41.92      HA   O  
+ANISOU  246  O   HOH B 746     4577   4904   6447   -589    215    212  HA   O  
+HETATM  247  O   HOH B 747     -13.853  25.810  15.321  1.00 39.03      HA   O  
+ANISOU  247  O   HOH B 747     4948   4498   5382   -311    527    485  HA   O  
+HETATM  248  O   HOH B 748     -40.061  17.192  28.776  1.00 38.10      HA   O  
+ANISOU  248  O   HOH B 748     4877   4714   4885    182    -44    113  HA   O  
+HETATM  249  O   HOH B 749     -38.318  31.119  49.792  1.00 30.99      HA   O  
+ANISOU  249  O   HOH B 749     4337   3440   3998    206    -48   -395  HA   O  
+HETATM  250  O   HOH B 750     -17.505  46.421  29.969  1.00 36.68      HA   O  
+ANISOU  250  O   HOH B 750     5063   3251   5622   -501     98    212  HA   O  
+HETATM  251  O   HOH B 751     -12.513  40.680  25.277  1.00 36.08      HA   O  
+ANISOU  251  O   HOH B 751     4713   3478   5517   -605    256    371  HA   O  
+HETATM  252  O   HOH B 752     -51.617  20.065  42.009  1.00 38.10      HA   O  
+ANISOU  252  O   HOH B 752     4777   4820   4881    387     91   -111  HA   O  
+HETATM  253  O   HOH B 753     -20.128   6.308  44.924  1.00 41.79      HA   O  
+ANISOU  253  O   HOH B 753     5166   5190   5524    -63   -327     36  HA   O  
+HETATM  254  O   HOH B 754      -5.265  14.302  18.446  1.00 40.79      HA   O  
+ANISOU  254  O   HOH B 754     4660   4968   5872   -264    571    274  HA   O  
+HETATM  255  O   HOH B 755     -37.672  24.321  26.219  1.00 49.79      HA   O  
+ANISOU  255  O   HOH B 755     6477   6002   6438    204    -17    202  HA   O  
+HETATM  256  O   HOH B 756     -51.766  16.441  26.035  1.00 50.21      HA   O  
+ANISOU  256  O   HOH B 756     6241   6446   6392    354   -148    131  HA   O  
+HETATM  257  O   HOH B 757     -42.551  38.384  36.871  1.00 46.71      HA   O  
+ANISOU  257  O   HOH B 757     6320   5130   6299    446      8    -66  HA   O  
+HETATM  258  O   HOH B 758     -54.987  13.718  41.948  1.00 39.01      HA   O  
+ANISOU  258  O   HOH B 758     4735   5115   4970    303    120    -67  HA   O  
+HETATM  259  O   HOH B 759     -35.264  11.539  28.771  1.00 28.23      HA   O  
+ANISOU  259  O   HOH B 759     3589   3501   3636     79    -23     94  HA   O  
+HETATM  260  O   HOH B 760     -33.670  15.844  28.575  1.00 45.92      HA   O  
+ANISOU  260  O   HOH B 760     5868   5660   5920     79    -10    118  HA   O  
+HETATM  261  O   HOH B 761     -33.505  26.583  53.742  1.00 52.08      HA   O  
+ANISOU  261  O   HOH B 761     7000   6252   6536     46   -183   -411  HA   O  
+HETATM  262  O   HOH B 762     -13.440  36.597  19.572  1.00 56.91      HA   O  
+ANISOU  262  O   HOH B 762     7344   6332   7946   -492    420    526  HA   O  
+HETATM  263  O   HOH B 763     -27.878  18.907  20.674  1.00 36.57      HA   O  
+ANISOU  263  O   HOH B 763     4746   4398   4752     11    138    265  HA   O  
+HETATM  264  O   HOH B 764     -24.538  19.094  19.000  1.00 46.95      HA   O  
+ANISOU  264  O   HOH B 764     6041   5695   6101    -42    220    299  HA   O  
+HETATM  265  O   HOH B 765     -45.130  27.437  50.519  1.00 40.52      HA   O  
+ANISOU  265  O   HOH B 765     5430   4863   5104    348     89   -363  HA   O  
+HETATM  266  O   HOH B 766     -17.530   8.258  45.716  1.00 31.42      HA   O  
+ANISOU  266  O   HOH B 766     3809   3859   4269   -102   -385     15  HA   O  
+HETATM  267  O   HOH B 767     -18.140  16.837  51.534  1.00 44.15      HA   O  
+ANISOU  267  O   HOH B 767     5598   5394   5781   -209   -523   -171  HA   O  
+HETATM  268  O   HOH B 768     -16.262   1.567  31.090  1.00 38.47      HA   O  
+ANISOU  268  O   HOH B 768     4569   4739   5307      4     11     89  HA   O  
+HETATM  269  O   HOH B 769     -57.206  22.828  39.907  1.00 49.25      HA   O  
+ANISOU  269  O   HOH B 769     6059   6257   6397    563    110    -96  HA   O  
+HETATM  270  O   HOH B 770     -55.943  19.250  36.430  1.00 55.71      HA   O  
+ANISOU  270  O   HOH B 770     6847   7136   7184    459     26    -20  HA   O  
+HETATM  271  O   HOH B 771     -10.307   8.291  38.566  1.00 43.08      HA   O  
+ANISOU  271  O   HOH B 771     5001   5297   6069   -140   -240     69  HA   O  
+HETATM  272  O   HOH B 772     -16.771   7.018  17.166  1.00 38.69      HA   O  
+ANISOU  272  O   HOH B 772     4757   4800   5141    -30    397    160  HA   O  
+HETATM  273  O   HOH B 773     -38.806  22.038  31.297  1.00 27.00      HA   O  
+ANISOU  273  O   HOH B 773     3533   3177   3549    197    -34     90  HA   O  
+HETATM  274  O   HOH B 774     -21.615  33.380  25.907  1.00 26.79      HA   O  
+ANISOU  274  O   HOH B 774     3601   2650   3929   -216    140    290  HA   O  
+HETATM  275  O   HOH B 775     -20.656   6.799  19.601  1.00 44.77      HA   O  
+ANISOU  275  O   HOH B 775     5582   5571   5856    -11    265    139  HA   O  
+HETATM  276  O   HOH B 776     -43.947  18.534  50.114  1.00 44.08      HA   O  
+ANISOU  276  O   HOH B 776     5757   5537   5457    209     49   -215  HA   O  
+HETATM  277  O   HOH B 777      -9.294  31.566  17.721  1.00 47.26      HA   O  
+ANISOU  277  O   HOH B 777     5901   5324   6732   -531    547    520  HA   O  
+HETATM  278  O   HOH B 778     -41.573  22.217  24.548  1.00 41.10      HA   O  
+ANISOU  278  O   HOH B 778     5334   5014   5268    271    -56    215  HA   O  
+HETATM  279  O   HOH B 779     -25.123  46.344  36.547  1.00 42.39      HA   O  
+ANISOU  279  O   HOH B 779     5939   4011   6155   -200    -47    -68  HA   O  
+HETATM  280  O   HOH B 780     -28.386  14.823  21.637  1.00 43.31      HA   O  
+ANISOU  280  O   HOH B 780     5548   5328   5578     22    113    204  HA   O  
+HETATM  281  O   HOH B 781     -45.088  13.962  37.712  1.00 40.71      HA   O  
+ANISOU  281  O   HOH B 781     5127   5160   5179    194    -14     -9  HA   O  
+HETATM  282  O   HOH B 782     -41.919   9.379  44.792  1.00 16.61      HA   O  
+ANISOU  282  O   HOH B 782     2135   2146   2031     90    -15    -35  HA   O  
+HETATM  283  O   HOH B 783      -0.079  26.947  38.958  1.00 45.22      HA   O  
+ANISOU  283  O   HOH B 783     5047   5219   6916   -732   -311    -29  HA   O  
+HETATM  284  O   HOH B 784     -37.789  21.411  28.780  1.00 39.96      HA   O  
+ANISOU  284  O   HOH B 784     5177   4829   5179    178    -27    135  HA   O  
+HETATM  285  O   HOH B 785     -27.038   3.333  23.920  1.00 47.64      HA   O  
+ANISOU  285  O   HOH B 785     5987   5967   6148     26     93     77  HA   O  
+HETATM  286  O   HOH B 786     -35.917  12.797  31.265  1.00 29.93      HA   O  
+ANISOU  286  O   HOH B 786     3808   3702   3864     88    -37     74  HA   O  
+HETATM  287  O   HOH B 787     -41.841  37.173  47.260  1.00 55.29      HA   O  
+ANISOU  287  O   HOH B 787     7482   6294   7230    377     30   -406  HA   O  
+HETATM  288  O   HOH B 788     -41.237  26.675  26.992  1.00 35.59      HA   O  
+ANISOU  288  O   HOH B 788     4691   4173   4658    306    -41    197  HA   O  
+HETATM  289  O   HOH B 789      -3.446  11.512  22.543  1.00 52.15      HA   O  
+ANISOU  289  O   HOH B 789     5941   6430   7443   -231    421    205  HA   O  
+HETATM  290  O   HOH B 790     -41.455   5.237  32.782  1.00 42.06      HA   O  
+ANISOU  290  O   HOH B 790     5269   5372   5339     67    -50     43  HA   O  
+HETATM  291  O   HOH B 791     -42.849  12.991  37.550  1.00 44.73      HA   O  
+ANISOU  291  O   HOH B 791     5654   5654   5686    155    -28      0  HA   O  
+HETATM  292  O   HOH B 792     -47.622  26.801  50.350  1.00 44.24      HA   O  
+ANISOU  292  O   HOH B 792     5849   5389   5573    400    139   -351  HA   O  
+HETATM  293  O   HOH B 793     -26.161  16.815  18.003  1.00 54.64      HA   O  
+ANISOU  293  O   HOH B 793     7027   6734   7000     -5    206    280  HA   O  
+HETATM  294  O   HOH B 794      -9.243  18.067  41.547  1.00 47.11      HA   O  
+ANISOU  294  O   HOH B 794     5579   5676   6646   -343   -352    -28  HA   O  
+HETATM  295  O   HOH B 795     -41.412   3.321  33.823  1.00 66.12      HA   O  
+ANISOU  295  O   HOH B 795     8310   8425   8386     44    -48     40  HA   O  
+HETATM  296  O   HOH B 796      -2.921  28.120  39.681  1.00 42.99      HA   O  
+ANISOU  296  O   HOH B 796     4926   4888   6518   -694   -321    -58  HA   O  
+HETATM  297  O   HOH B 797     -15.571   3.102  36.048  1.00 41.29      HA   O  
+ANISOU  297  O   HOH B 797     4913   5097   5681    -27   -133     89  HA   O  
+HETATM  298  O   HOH B 798     -13.861  27.647  48.982  1.00 45.38      HA   O  
+ANISOU  298  O   HOH B 798     5746   5242   6253   -434   -526   -294  HA   O  
+HETATM  299  O   HOH B 799     -42.180   2.841  35.889  1.00 58.64      HA   O  
+ANISOU  299  O   HOH B 799     7359   7489   7432     37    -41     38  HA   O  
+HETATM  300  O   HOH B 800     -10.607  42.350  45.767  1.00 57.65      HA   O  
+ANISOU  300  O   HOH B 800     7470   6157   8278   -774   -445   -394  HA   O  
+HETATM  301  O   HOH B 801     -25.504  34.411  24.264  1.00 47.96      HA   O  
+ANISOU  301  O   HOH B 801     6382   5317   6524    -96    137    344  HA   O  
+HETATM  302  O   HOH B 802     -43.421   5.668  41.385  1.00 38.39      HA   O  
+ANISOU  302  O   HOH B 802     4822   4939   4824     64    -11     12  HA   O  
+HETATM  303  O   HOH B 803     -60.254  21.921  29.753  1.00 46.14      HA   O  
+ANISOU  303  O   HOH B 803     5525   5955   6050    625   -121     95  HA   O  
+HETATM  304  O   HOH B 804     -13.064  12.948  43.847  1.00 46.02      HA   O  
+ANISOU  304  O   HOH B 804     5543   5638   6305   -205   -391    -15  HA   O  
+HETATM  305  O   HOH B 805      -4.667  31.954  24.635  1.00 34.90      HA   O  
+ANISOU  305  O   HOH B 805     4072   3716   5471   -694    340    336  HA   O  
+HETATM  306  O   HOH B 806     -30.304  32.437  25.794  1.00 48.80      HA   O  
+ANISOU  306  O   HOH B 806     6485   5531   6523     48     64    278  HA   O  
+HETATM  307  O   HOH B 807       1.940  13.946  31.762  1.00 43.45      HA   O  
+ANISOU  307  O   HOH B 807     4534   5300   6674   -379     26    136  HA   O  
+HETATM  308  O   HOH B 808      -7.468  11.189  35.255  1.00 44.81      HA   O  
+ANISOU  308  O   HOH B 808     5122   5482   6423   -213   -128     86  HA   O  
+HETATM  309  O   HOH B 809      -2.322  26.547  21.040  1.00 35.54      HA   O  
+ANISOU  309  O   HOH B 809     3987   4006   5512   -615    518    382  HA   O  
+HETATM  310  O   HOH B 810     -22.432  46.863  25.993  1.00 43.68      HA   O  
+ANISOU  310  O   HOH B 810     6091   4142   6365   -281    164    378  HA   O  
+HETATM  311  O   HOH B 811     -30.342  25.131  56.440  1.00 43.49      HA   O  
+ANISOU  311  O   HOH B 811     5930   5210   5384    -38   -295   -438  HA   O  
+HETATM  312  O   HOH B 812     -13.682  44.506  39.594  1.00 38.71      HA   O  
+ANISOU  312  O   HOH B 812     5174   3617   5918   -667   -197   -176  HA   O  
+HETATM  313  O   HOH B 813     -14.324  20.141  48.138  1.00 53.71      HA   O  
+ANISOU  313  O   HOH B 813     6689   6503   7217   -308   -501   -165  HA   O  
+HETATM  314  O   HOH B 814     -15.738  42.605  43.430  1.00 49.08      HA   O  
+ANISOU  314  O   HOH B 814     6529   5048   7072   -571   -297   -312  HA   O  
+HETATM  315  O   HOH B 815     -33.407  27.500  23.183  1.00 60.87      HA   O  
+ANISOU  315  O   HOH B 815     7959   7276   7893    130     47    302  HA   O  
+HETATM  316  O   HOH B 816      -5.703  39.398  29.492  1.00 40.46      HA   O  
+ANISOU  316  O   HOH B 816     4956   4090   6326   -844    144    220  HA   O  
+HETATM  317  O   HOH B 817       0.132  13.760  27.464  1.00 44.34      HA   O  
+ANISOU  317  O   HOH B 817     4756   5409   6681   -341    231    179  HA   O  
+HETATM  318  O   HOH B 818     -47.069  15.445  41.112  1.00 34.30      HA   O  
+ANISOU  318  O   HOH B 818     4323   4359   4350    235     29    -59  HA   O  
+HETATM  319  O   HOH B 819     -11.985   4.360  37.970  1.00 53.28      HA   O  
+ANISOU  319  O   HOH B 819     6331   6612   7302    -61   -210     89  HA   O  
+HETATM  320  O   HOH B 820       0.693  24.306  23.957  1.00 51.00      HA   O  
+ANISOU  320  O   HOH B 820     5728   6031   7618   -634    416    302  HA   O  
+HETATM  321  O   HOH B 821     -49.874  15.911  41.761  1.00 41.40      HA   O  
+ANISOU  321  O   HOH B 821     5181   5294   5254    281     64    -74  HA   O  
+HETATM  322  O   HOH B 822     -45.608  16.358  36.608  1.00 29.64      HA   O  
+ANISOU  322  O   HOH B 822     3738   3724   3801    238    -17     -3  HA   O  
+HETATM  323  O   HOH B 823       0.519  14.969  24.319  1.00 49.89      HA   O  
+ANISOU  323  O   HOH B 823     5476   6101   7380   -371    388    223  HA   O  
+HETATM  324  O   HOH B 824     -23.454  31.859  24.555  1.00 38.04      HA   O  
+ANISOU  324  O   HOH B 824     5039   4148   5266   -147    148    316  HA   O  
+HETATM  325  O   HOH B 825     -58.691  23.205  28.057  1.00 48.43      HA   O  
+ANISOU  325  O   HOH B 825     5894   6186   6323    632   -152    136  HA   O  
+HETATM  326  O   HOH B 826     -55.569  22.417  42.396  1.00 47.67      HA   O  
+ANISOU  326  O   HOH B 826     5923   6042   6146    513    145   -140  HA   O  
+HETATM  327  O   HOH B 827     -49.826  18.577  43.200  1.00 37.38      HA   O  
+ANISOU  327  O   HOH B 827     4718   4736   4749    325     85   -116  HA   O  
+HETATM  328  O   HOH B 828     -18.966   4.003  41.446  1.00 49.37      HA   O  
+ANISOU  328  O   HOH B 828     6055   6141   6563    -38   -257     70  HA   O  
+HETATM  329  O   HOH B 829     -16.071  26.082  14.417  1.00 44.53      HA   O  
+ANISOU  329  O   HOH B 829     5731   5200   5990   -260    506    507  HA   O  
+HETATM  330  O   HOH B 830     -12.095  18.990  41.950  1.00 37.18      HA   O  
+ANISOU  330  O   HOH B 830     4437   4399   5292   -313   -335    -47  HA   O  
+HETATM  331  O   HOH B 831     -15.372  47.448  29.068  1.00 47.79      HA   O  
+ANISOU  331  O   HOH B 831     6445   4596   7116   -602    135    254  HA   O  
+HETATM  332  O   HOH B 832     -13.526  15.171  46.735  1.00 52.83      HA   O  
+ANISOU  332  O   HOH B 832     6474   6482   7115   -242   -475    -75  HA   O  
+HETATM  333  O   HOH B 833      -6.394  14.340  39.808  1.00 55.98      HA   O  
+ANISOU  333  O   HOH B 833     6537   6866   7866   -304   -314     28  HA   O  
+HETATM  334  O   HOH B 834      -6.862  18.427  40.120  1.00 37.47      HA   O  
+ANISOU  334  O   HOH B 834     4258   4445   5534   -386   -319     -5  HA   O  
+HETATM  335  O   HOH B 835     -14.157   6.425  38.306  1.00 38.02      HA   O  
+ANISOU  335  O   HOH B 835     4477   4671   5297    -84   -208     73  HA   O  
+HETATM  336  O   HOH B 836      -6.206  39.173  26.608  1.00 41.73      HA   O  
+ANISOU  336  O   HOH B 836     5149   4266   6443   -811    258    320  HA   O  
+HETATM  337  O   HOH B 837     -14.684  -0.974  25.951  1.00 51.94      HA   O  
+ANISOU  337  O   HOH B 837     6253   6447   7033     48    171     72  HA   O  
+HETATM  338  O   HOH B 838      -5.058  10.307  26.264  1.00 38.36      HA   O  
+ANISOU  338  O   HOH B 838     4223   4683   5670   -196    244    162  HA   O  
+HETATM  339  O   HOH B 839     -18.029   8.472  48.046  1.00 51.25      HA   O  
+ANISOU  339  O   HOH B 839     6366   6385   6721   -106   -439     -3  HA   O  
+HETATM  340  O   HOH B 840     -11.510   5.745  26.290  1.00 42.64      HA   O  
+ANISOU  340  O   HOH B 840     4988   5257   5957    -61    187    121  HA   O  
+HETATM  341  O   HOH B 841     -57.009  29.334  26.040  1.00 45.47      HA   O  
+ANISOU  341  O   HOH B 841     5685   5596   5996    757   -174    225  HA   O  
+HETATM  342  O   HOH B 842     -40.689  44.307  36.621  1.00 52.52      HA   O  
+ANISOU  342  O   HOH B 842     7223   5547   7187    440     15    -73  HA   O  
+HETATM  343  O   HOH B 843     -35.212  15.784  30.455  1.00 35.02      HA   O  
+ANISOU  343  O   HOH B 843     4482   4292   4532     96    -29     92  HA   O  
+HETATM  344  O   HOH B 844      -2.207  24.155  17.369  1.00 43.94      HA   O  
+ANISOU  344  O   HOH B 844     5059   5161   6475   -547    684    433  HA   O  
+HETATM  345  O   HOH B 845       0.503  25.369  28.071  1.00 40.42      HA   O  
+ANISOU  345  O   HOH B 845     4384   4650   6325   -671    215    220  HA   O  
+HETATM  346  O   HOH B 846     -20.188  47.620  29.779  1.00 37.82      HA   O  
+ANISOU  346  O   HOH B 846     5306   3337   5727   -397     96    222  HA   O  
+HETATM  347  O   HOH B 847     -58.771  20.982  38.356  1.00 55.05      HA   O  
+ANISOU  347  O   HOH B 847     6707   7068   7143    550     84    -60  HA   O  
+HETATM  348  O   HOH B 848       0.991  28.654  36.653  1.00 52.71      HA   O  
+ANISOU  348  O   HOH B 848     5960   6109   7957   -801   -202     19  HA   O  
+HETATM  349  O   HOH B 849     -52.882  18.662  24.872  1.00 51.77      HA   O  
+ANISOU  349  O   HOH B 849     6444   6623   6602    421   -174    165  HA   O  
+HETATM  350  O   HOH B 850     -44.842  38.741  36.846  1.00 54.29      HA   O  
+ANISOU  350  O   HOH B 850     7261   6103   7263    531     20    -68  HA   O  
+HETATM  351  O   HOH B 851     -41.043  29.622  23.252  1.00 54.03      HA   O  
+ANISOU  351  O   HOH B 851     7108   6424   6995    342    -41    313  HA   O  
+HETATM  352  O   HOH B 852     -46.078  25.023  23.134  1.00 51.03      HA   O  
+ANISOU  352  O   HOH B 852     6591   6264   6533    408   -110    265  HA   O  
+HETATM  353  O   HOH B 853       2.278  22.328  24.245  1.00 43.91      HA   O  
+ANISOU  353  O   HOH B 853     4715   5194   6775   -611    417    283  HA   O  
+HETATM  354  O   HOH B 854       3.552  21.582  28.590  1.00 54.83      HA   O  
+ANISOU  354  O   HOH B 854     5987   6595   8251   -626    202    200  HA   O  
+HETATM  355  O   HOH B 855     -46.197  36.838  34.071  1.00 40.93      HA   O  
+ANISOU  355  O   HOH B 855     5497   4518   5538    559     -1     27  HA   O  
+HETATM  356  O   HOH B 856     -30.625  22.359  56.337  1.00 52.36      HA   O  
+ANISOU  356  O   HOH B 856     7011   6411   6471    -31   -290   -376  HA   O  
+HETATM  357  O   HOH B 857     -17.402  13.579  48.802  1.00 42.99      HA   O  
+ANISOU  357  O   HOH B 857     5354   5281   5699   -174   -468    -83  HA   O  
+HETATM  358  O   HOH B 858      -4.625   9.432  28.576  1.00 47.33      HA   O  
+ANISOU  358  O   HOH B 858     5320   5825   6838   -185    148    142  HA   O  
+HETATM  359  O   HOH B 859     -13.056   8.435  42.323  1.00 42.12      HA   O  
+ANISOU  359  O   HOH B 859     5000   5189   5814   -130   -344     41  HA   O  
+HETATM  360  O   HOH B 860     -26.340  47.131  27.628  1.00 49.19      HA   O  
+ANISOU  360  O   HOH B 860     6847   4842   7001   -120    105    308  HA   O  
+HETATM  361  O   HOH B 861      -1.966  11.330  31.273  1.00 45.51      HA   O  
+ANISOU  361  O   HOH B 861     4971   5580   6741   -262     40    131  HA   O  
+HETATM  362  O   HOH B 862     -40.960  34.782  48.416  1.00 47.74      HA   O  
+ANISOU  362  O   HOH B 862     6497   5438   6205    320     11   -411  HA   O  
+HETATM  363  O   HOH B 863     -43.978  31.209  49.095  1.00 44.06      HA   O  
+ANISOU  363  O   HOH B 863     5938   5155   5648    370     64   -382  HA   O  
+HETATM  364  O   HOH B 864     -24.058  48.268  31.525  1.00 52.86      HA   O  
+ANISOU  364  O   HOH B 864     7300   5220   7565   -238     50    145  HA   O  
+HETATM  365  O   HOH B 865     -62.799  23.698  31.484  1.00 45.12      HA   O  
+ANISOU  365  O   HOH B 865     5325   5828   5991    725    -80     65  HA   O  
+HETATM  366  O   HOH B 866      -2.012  13.855  21.959  1.00 57.09      HA   O  
+ANISOU  366  O   HOH B 866     6527   7030   8136   -303    468    236  HA   O  
+HETATM  367  O   HOH B 867     -51.385  19.777  23.344  1.00 50.86      HA   O  
+ANISOU  367  O   HOH B 867     6392   6465   6468    422   -179    202  HA   O  
+HETATM  368  O   HOH B 868     -37.189  26.564  24.579  1.00 58.95      HA   O  
+ANISOU  368  O   HOH B 868     7687   7096   7615    214     -4    257  HA   O  
+HETATM  369  O   HOH B 869     -32.742  24.993  23.273  1.00 49.33      HA   O  
+ANISOU  369  O   HOH B 869     6453   5886   6405    105     50    276  HA   O  
+HETATM  370  O   HOH B 870     -37.159  23.937  55.583  1.00 60.58      HA   O  
+ANISOU  370  O   HOH B 870     8076   7457   7483    113   -101   -403  HA   O  
+HETATM  371  O   HOH B 871      -2.940  28.962  21.686  1.00 43.64      HA   O  
+ANISOU  371  O   HOH B 871     5075   4947   6558   -661    484    391  HA   O  
+HETATM  372  O   HOH B 872       2.727  13.655  26.893  1.00 47.54      HA   O  
+ANISOU  372  O   HOH B 872     5029   5830   7205   -368    278    190  HA   O  
+HETATM  373  O   HOH B 873      -6.208  33.049  22.335  1.00 47.87      HA   O  
+ANISOU  373  O   HOH B 873     5826   5322   7040   -665    419    410  HA   O  
+HETATM  374  O   HOH B 874     -11.682  45.648  41.371  1.00 50.58      HA   O  
+ANISOU  374  O   HOH B 874     6657   5064   7499   -774   -270   -255  HA   O  
+HETATM  375  O   HOH B 875      -3.418  12.109  25.213  1.00 38.07      HA   O  
+ANISOU  375  O   HOH B 875     4136   4631   5700   -252    304    186  HA   O  
+HETATM  376  O   HOH B 876      -3.847  35.774  24.308  1.00 39.73      HA   O  
+ANISOU  376  O   HOH B 876     4732   4176   6187   -807    370    376  HA   O  
+HETATM  377  O   HOH B 877      -3.397  35.386  36.694  1.00 54.13      HA   O  
+ANISOU  377  O   HOH B 877     6490   6013   8063   -852   -173    -15  HA   O  
+HETATM  378  O   HOH B 878     -31.279  22.520  24.385  1.00 40.57      HA   O  
+ANISOU  378  O   HOH B 878     5290   4827   5300     66     53    233  HA   O  
+HETATM  379  O   HOH B 879     -22.710   5.926  45.918  1.00 49.49      HA   O  
+ANISOU  379  O   HOH B 879     6203   6182   6418    -49   -311     32  HA   O  
+HETATM  380  O   HOH B 880     -14.196  47.338  37.242  1.00 61.23      HA   O  
+ANISOU  380  O   HOH B 880     8110   6305   8849   -680   -112    -94  HA   O  
+HETATM  381  O   HOH B 881      -3.893  38.034  25.618  1.00 39.83      HA   O  
+ANISOU  381  O   HOH B 881     4788   4085   6261   -864    317    349  HA   O  
+HETATM  382  O   HOH B 882     -19.989  47.472  35.197  1.00 50.03      HA   O  
+ANISOU  382  O   HOH B 882     6841   4890   7278   -423    -33    -11  HA   O  
+HETATM  383  O   HOH B 883     -19.826   6.775  48.080  1.00 54.73      HA   O  
+ANISOU  383  O   HOH B 883     6841   6844   7110    -76   -408     18  HA   O  
+HETATM  384  O   HOH B 884     -17.586  46.762  32.693  1.00 47.14      HA   O  
+ANISOU  384  O   HOH B 884     6395   4555   6960   -511     26     98  HA   O  
+HETATM  385  O   HOH B 885     -13.013  46.578  35.094  1.00 48.55      HA   O  
+ANISOU  385  O   HOH B 885     6439   4738   7271   -712    -51      0  HA   O  
+HETATM  386  O   HOH B 886     -62.532  24.820  27.334  1.00 51.03      HA   O  
+ANISOU  386  O   HOH B 886     6113   6553   6724    764   -193    158  HA   O  
+HETATM  387  O   HOH B 887       1.560  26.094  25.809  1.00 42.06      HA   O  
+ANISOU  387  O   HOH B 887     4563   4844   6572   -709    336    275  HA   O  
+HETATM  388  O   HOH B 888     -24.684  47.071  25.365  1.00 54.52      HA   O  
+ANISOU  388  O   HOH B 888     7511   5517   7686   -183    157    405  HA   O  
+HETATM  389  O   HOH B 889      -1.008  11.526  26.423  1.00 38.17      HA   O  
+ANISOU  389  O   HOH B 889     4020   4656   5827   -265    271    176  HA   O  
+HETATM  390  O   HOH B 890      -1.579  10.232  34.026  1.00 59.22      HA   O  
+ANISOU  390  O   HOH B 890     6678   7332   8490   -244    -87    110  HA   O  
+HETATM  391  O   HOH B 891     -15.189  47.745  33.862  1.00 51.19      HA   O  
+ANISOU  391  O   HOH B 891     6871   5006   7571   -630     -5     49  HA   O  
+HETATM  392  O   HOH B 892      -1.738  10.005  28.454  1.00 57.29      HA   O  
+ANISOU  392  O   HOH B 892     6453   7089   8225   -223    170    151  HA   O  
+HETATM  393  O   HOH B 893     -39.881  46.532  36.242  1.00 56.85      HA   O  
+ANISOU  393  O   HOH B 893     7838   5963   7801    429     18    -63  HA   O  
+HETATM  394  O   HOH B 894     -20.840  48.817  31.851  1.00 54.05      HA   O  
+ANISOU  394  O   HOH B 894     7406   5322   7806   -386     50    134  HA   O  
+HETATM  395  O   HOH B 895       3.832  25.010  26.565  1.00 46.08      HA   O  
+ANISOU  395  O   HOH B 895     4926   5398   7185   -732    314    256  HA   O  
+HETATM  396  O   HOH B 896     -32.948  26.200  57.797  1.00 63.95      HA   O  
+ANISOU  396  O   HOH B 896     8587   7802   7908     20   -230   -495  HA   O  
+HETATM  397  O   HOH B 897     -33.522  25.140  59.936  1.00 75.24      HA   O  
+ANISOU  397  O   HOH B 897    10057   9293   9238     25   -231   -518  HA   O  
+END

@@ -1,0 +1,28 @@
+CRYST1  109.180  121.390  134.300  90.00  90.00  90.00 P 21 21 21   16
+HETATM    1  O   HOH C 508     -50.556 -11.393  63.459  1.00 43.63      IA   O  
+ANISOU    1  O   HOH C 508     5813   5787   4977   -252    358    404  IA   O  
+HETATM    2  O   HOH C 528     -44.442  -9.303  62.551  1.00 37.05      IA   O  
+ANISOU    2  O   HOH C 528     5043   4887   4146   -159    126    349  IA   O  
+HETATM    3  O   HOH C 530     -44.877  -6.598  69.576  1.00 27.94      IA   O  
+ANISOU    3  O   HOH C 530     4106   3869   2642   -139    185    334  IA   O  
+HETATM    4  O   HOH C 576     -50.060  -8.432  69.145  1.00 40.34      IA   O  
+ANISOU    4  O   HOH C 576     5582   5483   4263   -203    410    380  IA   O  
+HETATM    5  O   HOH C 629     -51.983  -9.944  65.885  1.00 36.97      IA   O  
+ANISOU    5  O   HOH C 629     5008   5019   4021   -243    446    389  IA   O  
+HETATM    6  O   HOH C 636     -46.969  -9.771  62.388  1.00 37.54      IA   O  
+ANISOU    6  O   HOH C 636     5068   4975   4222   -188    215    355  IA   O  
+HETATM    7  O   HOH C 643     -46.944  -8.572  56.886  1.00 47.04      IA   O  
+ANISOU    7  O   HOH C 643     6119   6132   5621   -162    164    266  IA   O  
+HETATM    8  O   HOH C 675     -53.745  -5.685  65.752  1.00 28.42      IA   O  
+ANISOU    8  O   HOH C 675     3863   4011   2925   -170    511    256  IA   O  
+HETATM    9  O   HOH C 677     -50.567  -8.201  56.350  1.00 34.83      IA   O  
+ANISOU    9  O   HOH C 677     4491   4638   4103   -184    261    245  IA   O  
+HETATM   10  O   HOH C 696     -45.432 -10.413  58.172  1.00 54.28      IA   O  
+ANISOU   10  O   HOH C 696     7099   7017   6508   -176    131    325  IA   O  
+HETATM   11  O   HOH C 709     -52.653  -7.864  67.204  1.00 34.42      IA   O  
+ANISOU   11  O   HOH C 709     4705   4751   3622   -210    492    338  IA   O  
+HETATM   12  O   HOH C 773     -52.909  -5.543  55.384  1.00 33.81      IA   O  
+ANISOU   12  O   HOH C 773     4279   4565   4002   -146    310    177  IA   O  
+HETATM   13  O   HOH C 813     -46.576 -12.052  60.779  1.00 48.49      IA   O  
+ANISOU   13  O   HOH C 813     6427   6302   5695   -215    189    395  IA   O  
+END

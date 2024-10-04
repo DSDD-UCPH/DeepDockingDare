@@ -1,0 +1,32 @@
+CRYST1  109.180  121.390  134.300  90.00  90.00  90.00 P 21 21 21   16
+HETATM    1  O   HOH A 522     -30.704 -26.304  42.020  1.00 34.16      GA   O  
+ANISOU    1  O   HOH A 522     4486   3808   4685    -14   -118    294  GA   O  
+HETATM    2  O   HOH A 532     -34.106 -25.163  40.459  1.00 33.53      GA   O  
+ANISOU    2  O   HOH A 532     4393   3790   4556    -92    -74    235  GA   O  
+HETATM    3  O   HOH A 551     -36.311 -31.948  36.641  1.00 23.76      GA   O  
+ANISOU    3  O   HOH A 551     3245   2314   3468   -179    -26    149  GA   O  
+HETATM    4  O   HOH A 554     -36.858 -25.120  39.860  1.00 34.09      GA   O  
+ANISOU    4  O   HOH A 554     4459   3888   4605   -156    -48    211  GA   O  
+HETATM    5  O   HOH A 559     -28.641 -29.647  37.779  1.00 28.34      GA   O  
+ANISOU    5  O   HOH A 559     3757   2921   4090     46    -77    199  GA   O  
+HETATM    6  O   HOH A 632     -31.240 -31.398  38.521  1.00 34.73      GA   O  
+ANISOU    6  O   HOH A 632     4620   3682   4893    -29    -66    222  GA   O  
+HETATM    7  O   HOH A 658     -30.910 -18.886  39.221  1.00 34.07      GA   O  
+ANISOU    7  O   HOH A 658     4363   4011   4572    -11    -99    177  GA   O  
+HETATM    8  O   HOH A 697     -27.482 -27.876  35.853  1.00 23.96      GA   O  
+ANISOU    8  O   HOH A 697     3154   2421   3528     76    -58    140  GA   O  
+HETATM    9  O   HOH A 725     -35.919 -20.592  41.204  1.00 56.21      GA   O  
+ANISOU    9  O   HOH A 725     7214   6821   7322   -111    -69    216  GA   O  
+HETATM   10  O   HOH A 752     -33.934 -19.538  39.747  1.00 34.12      GA   O  
+ANISOU   10  O   HOH A 752     4392   4027   4543    -67    -80    183  GA   O  
+HETATM   11  O   HOH A 791     -30.801 -24.512  44.040  1.00 57.69      GA   O  
+ANISOU   11  O   HOH A 791     7461   6857   7601    -17   -142    330  GA   O  
+HETATM   12  O   HOH A 799     -28.949 -19.443  40.925  1.00 36.56      GA   O  
+ANISOU   12  O   HOH A 799     4680   4303   4910     23   -134    220  GA   O  
+HETATM   13  O   HOH A 873     -34.885 -23.838  42.863  1.00 45.44      GA   O  
+ANISOU   13  O   HOH A 873     5905   5358   6004   -107    -83    283  GA   O  
+HETATM   14  O   HOH A 878     -29.031 -19.481  43.133  1.00 49.59      GA   O  
+ANISOU   14  O   HOH A 878     6350   5961   6532     19   -162    266  GA   O  
+HETATM   15  O   HOH A 880     -34.578 -21.620  43.163  1.00 58.89      GA   O  
+ANISOU   15  O   HOH A 880     7582   7125   7667    -91    -92    271  GA   O  
+END

@@ -1,0 +1,110 @@
+CRYST1  110.320  122.596  378.458  90.00  90.00  90.00 P 21 21 21   32
+HETATM    1  P1  FBP A 601      -0.189 -22.003 -65.420  1.00 52.55      I    P  
+HETATM    2  P2  FBP A 601      -3.849 -23.788 -72.466  1.00 40.29      I    P  
+HETATM    3  O1P FBP A 601       0.820 -21.494 -66.430  1.00 56.43      I    O  
+HETATM    4  O2P FBP A 601       0.047 -23.470 -65.153  1.00 49.46      I    O  
+HETATM    5  O3P FBP A 601      -0.095 -21.179 -64.156  1.00 47.61      I    O  
+HETATM    6  O4P FBP A 601      -4.133 -22.680 -73.462  1.00 44.06      I    O  
+HETATM    7  O5P FBP A 601      -2.749 -24.663 -73.005  1.00 46.56      I    O  
+HETATM    8  O6P FBP A 601      -5.077 -24.649 -72.270  1.00 49.45      I    O  
+HETATM    9  C1  FBP A 601      -2.209 -20.531 -66.296  1.00 41.84      I    C  
+HETATM   10  O1  FBP A 601      -1.728 -21.853 -66.022  1.00 61.06      I    O  
+HETATM   11  C2  FBP A 601      -3.405 -20.620 -67.271  1.00 44.79      I    C  
+HETATM   12  O2  FBP A 601      -4.021 -19.353 -67.325  1.00 45.39      I    O  
+HETATM   13  C3  FBP A 601      -4.430 -21.714 -66.774  1.00 46.46      I    C  
+HETATM   14  O3  FBP A 601      -5.345 -21.174 -65.935  1.00 48.57      I    O  
+HETATM   15  C4  FBP A 601      -5.055 -22.156 -68.066  1.00 47.46      I    C  
+HETATM   16  O4  FBP A 601      -5.789 -23.441 -67.882  1.00 39.21      I    O  
+HETATM   17  C5  FBP A 601      -3.967 -22.286 -68.854  1.00 47.09      I    C  
+HETATM   18  O5  FBP A 601      -3.048 -21.014 -68.466  1.00 50.47      I    O  
+HETATM   19  C6  FBP A 601      -4.319 -22.282 -70.314  1.00 44.02      I    C  
+HETATM   20  O6  FBP A 601      -3.408 -23.106 -71.022  1.00 46.45      I    O  
+HETATM   21 MN    MN A 602       6.401 -30.302-103.282  1.00 61.76      J   MN  
+HETATM   22  K     K A 603      10.605 -30.766 -99.760  1.00 90.06      K    K  
+HETATM   23  CA  PYR A 604       6.383 -27.701-102.112  1.00 60.05      L    C  
+HETATM   24  C   PYR A 604       5.700 -27.555-103.321  1.00 57.00      L    C  
+HETATM   25  O   PYR A 604       5.694 -28.516-104.214  1.00 59.81      L    O  
+HETATM   26  CB  PYR A 604       6.414 -26.569-101.126  1.00 65.60      L    C  
+HETATM   27  OXT PYR A 604       5.043 -26.451-103.575  1.00 50.72      L    O  
+HETATM   28  O3  PYR A 604       7.010 -28.817-101.827  1.00 65.21      L    O  
+HETATM   29  P1  FBP B 602     -34.632  -4.991-135.061  1.00 41.02      N    P  
+HETATM   30  P2  FBP B 602     -30.953  -2.337-128.559  1.00 39.28      N    P  
+HETATM   31  O1P FBP B 602     -35.539  -5.866-135.902  1.00 39.41      N    O  
+HETATM   32  O2P FBP B 602     -33.220  -5.531-135.097  1.00 32.54      N    O  
+HETATM   33  O3P FBP B 602     -34.640  -3.561-135.541  1.00 37.17      N    O  
+HETATM   34  O4P FBP B 602     -29.845  -1.670-129.340  1.00 47.39      N    O  
+HETATM   35  O5P FBP B 602     -30.329  -3.294-127.561  1.00 36.49      N    O  
+HETATM   36  O6P FBP B 602     -31.755  -1.305-127.803  1.00 38.62      N    O  
+HETATM   37  C1  FBP B 602     -35.103  -6.251-132.785  1.00 32.96      N    C  
+HETATM   38  O1  FBP B 602     -35.200  -5.017-133.503  1.00 43.50      N    O  
+HETATM   39  C2  FBP B 602     -34.997  -5.882-131.292  1.00 44.20      N    C  
+HETATM   40  O2  FBP B 602     -35.276  -7.009-130.487  1.00 39.61      N    O  
+HETATM   41  C3  FBP B 602     -36.022  -4.742-130.943  1.00 40.12      N    C  
+HETATM   42  O3  FBP B 602     -37.216  -5.293-130.619  1.00 40.78      N    O  
+HETATM   43  C4  FBP B 602     -35.353  -4.104-129.761  1.00 39.50      N    C  
+HETATM   44  O4  FBP B 602     -35.953  -2.766-129.489  1.00 37.64      N    O  
+HETATM   45  C5  FBP B 602     -34.084  -4.002-130.212  1.00 38.06      N    C  
+HETATM   46  O5  FBP B 602     -33.832  -5.360-131.039  1.00 41.28      N    O  
+HETATM   47  C6  FBP B 602     -33.075  -3.872-129.107  1.00 39.97      N    C  
+HETATM   48  O6  FBP B 602     -31.977  -3.120-129.596  1.00 40.64      N    O  
+HETATM   49 MN    MN B 603       1.007   3.028-118.687  1.00 87.45      O   MN  
+HETATM   50  K     K B 604       0.498   3.402-123.543  1.00 98.88      P    K  
+HETATM   51  CA  PYR B 605      -0.526  -0.267-117.997  1.00 72.45      Q    C  
+HETATM   52  C   PYR B 605       0.015   0.990-118.177  1.00 78.37      Q    C  
+HETATM   53  O   PYR B 605      -0.281   1.662-119.263  1.00 77.52      Q    O  
+HETATM   54  CB  PYR B 605      -1.228  -0.931-119.148  1.00 72.56      Q    C  
+HETATM   55  OXT PYR B 605       0.815   1.478-117.258  1.00 66.27      Q    O  
+HETATM   56  O3  PYR B 605      -0.415  -0.838-116.822  1.00 51.62      Q    O  
+CONECT    1    3    4    5   10
+CONECT    2    6    7    8   20
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1
+CONECT    6    2
+CONECT    7    2
+CONECT    8    2
+CONECT    9   10   11
+CONECT   10    1    9
+CONECT   11    9   12   13   18
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13
+CONECT   15   13   16   17
+CONECT   16   15
+CONECT   17   15   18   19
+CONECT   18   11   17
+CONECT   19   17   20
+CONECT   20    2   19
+CONECT   23   24   26   28
+CONECT   24   23   25   27
+CONECT   25   24
+CONECT   26   23
+CONECT   27   24
+CONECT   28   23
+CONECT   29   31   32   33   38
+CONECT   30   34   35   36   48
+CONECT   31   29
+CONECT   32   29
+CONECT   33   29
+CONECT   34   30
+CONECT   35   30
+CONECT   36   30
+CONECT   37   38   39
+CONECT   38   29   37
+CONECT   39   37   40   41   46
+CONECT   40   39
+CONECT   41   39   42   43
+CONECT   42   41
+CONECT   43   41   44   45
+CONECT   44   43
+CONECT   45   43   46   47
+CONECT   46   39   45
+CONECT   47   45   48
+CONECT   48   30   47
+CONECT   51   52   54   56
+CONECT   52   51   53   55
+CONECT   53   52
+CONECT   54   51
+CONECT   55   52
+CONECT   56   51
+END

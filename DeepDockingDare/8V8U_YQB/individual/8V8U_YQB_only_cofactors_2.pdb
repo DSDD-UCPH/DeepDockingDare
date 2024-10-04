@@ -1,0 +1,92 @@
+CRYST1   84.633  121.859  163.881  90.00  91.69  90.00 P 1 21 1      4
+HETATM    1  N   1LT C1100       3.460  -6.906   0.569  1.00 66.94      G    N  
+ANISOU    1  N   1LT C1100     8478   8478   8478      0      0      0  G    N  
+HETATM    2  C   1LT C1100       5.826  -6.906  -0.022  1.00 75.80      G    C  
+ANISOU    2  C   1LT C1100     9601   9601   9601      0      0      0  G    C  
+HETATM    3  O   1LT C1100       0.024  -9.141   1.734  1.00 61.40      G    O  
+ANISOU    3  O   1LT C1100     7777   7777   7777      0      0      0  G    O  
+HETATM    4  C1  1LT C1100       4.651  -7.579   0.531  1.00 72.17      G    C  
+ANISOU    4  C1  1LT C1100     9141   9141   9141      0      0      0  G    C  
+HETATM    5  N1  1LT C1100       1.094  -7.048   1.215  1.00 58.21      G    N  
+ANISOU    5  N1  1LT C1100     7373   7373   7373      0      0      0  G    N  
+HETATM    6  O1  1LT C1100      -2.659 -10.311   1.991  1.00 83.91      G    O  
+ANISOU    6  O1  1LT C1100    10627  10627  10627      0      0      0  G    O  
+HETATM    7  C2  1LT C1100       2.431  -7.565   1.080  1.00 59.52      G    C  
+ANISOU    7  C2  1LT C1100     7539   7539   7539      0      0      0  G    C  
+HETATM    8  N2  1LT C1100      -1.426  -7.252   1.647  1.00 54.37      G    N  
+ANISOU    8  N2  1LT C1100     6886   6886   6886      0      0      0  G    N  
+HETATM    9  C3  1LT C1100      -0.097  -7.919   1.550  1.00 57.71      G    C  
+ANISOU    9  C3  1LT C1100     7309   7309   7309      0      0      0  G    C  
+HETATM   10  N3  1LT C1100      -3.242  -9.457  -0.065  1.00 84.81      G    N  
+ANISOU   10  N3  1LT C1100    10741  10741  10741      0      0      0  G    N  
+HETATM   11  C4  1LT C1100      -1.642  -5.970   1.467  1.00 59.26      G    C  
+ANISOU   11  C4  1LT C1100     7505   7505   7505      0      0      0  G    C  
+HETATM   12  N4  1LT C1100       7.589 -11.982   1.481  1.00 87.55      G    N  
+ANISOU   12  N4  1LT C1100    11088  11088  11088      0      0      0  G    N  
+HETATM   13  C5  1LT C1100      -3.185  -5.748   1.560  1.00 72.42      G    C  
+ANISOU   13  C5  1LT C1100     9172   9172   9172      0      0      0  G    C  
+HETATM   14  C6  1LT C1100      -3.793  -7.182   1.486  1.00 72.39      G    C  
+ANISOU   14  C6  1LT C1100     9168   9168   9168      0      0      0  G    C  
+HETATM   15  C7  1LT C1100      -2.859  -7.952   1.998  1.00 60.13      G    C  
+ANISOU   15  C7  1LT C1100     7616   7616   7616      0      0      0  G    C  
+HETATM   16  C8  1LT C1100      -2.906  -9.337   1.339  1.00 72.17      G    C  
+ANISOU   16  C8  1LT C1100     9141   9141   9141      0      0      0  G    C  
+HETATM   17  C9  1LT C1100       4.632  -8.896   1.031  1.00 69.76      G    C  
+ANISOU   17  C9  1LT C1100     8836   8836   8836      0      0      0  G    C  
+HETATM   18  C10 1LT C1100       5.738  -9.986   1.169  1.00 73.86      G    C  
+ANISOU   18  C10 1LT C1100     9355   9355   9355      0      0      0  G    C  
+HETATM   19  C11 1LT C1100       7.025  -9.858   0.639  1.00 83.38      G    C  
+ANISOU   19  C11 1LT C1100    10561  10561  10561      0      0      0  G    C  
+HETATM   20  C12 1LT C1100       7.933 -10.873   0.811  1.00 90.71      G    C  
+ANISOU   20  C12 1LT C1100    11489  11489  11489      0      0      0  G    C  
+HETATM   21  C13 1LT C1100       6.421 -12.130   1.968  1.00 82.89      G    C  
+ANISOU   21  C13 1LT C1100    10499  10499  10499      0      0      0  G    C  
+HETATM   22  C14 1LT C1100       5.417 -11.125   1.840  1.00 87.25      G    C  
+ANISOU   22  C14 1LT C1100    11050  11050  11050      0      0      0  G    C  
+HETATM   23  C15 1LT C1100       6.106 -13.472   2.753  1.00 67.77      G    C  
+ANISOU   23  C15 1LT C1100     8583   8583   8583      0      0      0  G    C  
+HETATM   24  C16 1LT C1100       4.589 -13.724   2.795  1.00 61.37      G    C  
+ANISOU   24  C16 1LT C1100     7773   7773   7773      0      0      0  G    C  
+HETATM   25  C17 1LT C1100       6.842 -14.658   2.045  1.00 81.66      G    C  
+ANISOU   25  C17 1LT C1100    10342  10342  10342      0      0      0  G    C  
+HETATM   26  C18 1LT C1100       6.648 -13.285   4.255  1.00 80.01      G    C  
+ANISOU   26  C18 1LT C1100    10134  10134  10134      0      0      0  G    C  
+HETATM   27  F   1LT C1100       7.955 -13.017   4.213  1.00 83.91      G    F  
+ANISOU   27  F   1LT C1100    10628  10628  10628      0      0      0  G    F  
+HETATM   28  F1  1LT C1100       5.964 -12.232   4.811  1.00 73.81      G    F  
+ANISOU   28  F1  1LT C1100     9348   9348   9348      0      0      0  G    F  
+HETATM   29  F2  1LT C1100       6.437 -14.428   4.991  1.00100.41      G    F  
+ANISOU   29  F2  1LT C1100    12717  12717  12717      0      0      0  G    F  
+HETATM   30  S   1LT C1100       3.016  -9.085   1.507  1.00 80.12      G    S  
+ANISOU   30  S   1LT C1100    10147  10147  10147      0      0      0  G    S  
+CONECT    1    4    7
+CONECT    2    4
+CONECT    3    9
+CONECT    4    1    2   17
+CONECT    5    7    9
+CONECT    6   16
+CONECT    7    1    5   30
+CONECT    8    9   11   15
+CONECT    9    3    5    8
+CONECT   10   16
+CONECT   11    8   13
+CONECT   12   20   21
+CONECT   13   11   14
+CONECT   14   13   15
+CONECT   15    8   14   16
+CONECT   16    6   10   15
+CONECT   17    4   18   30
+CONECT   18   17   19   22
+CONECT   19   18   20
+CONECT   20   12   19
+CONECT   21   12   22   23
+CONECT   22   18   21
+CONECT   23   21   24   25   26
+CONECT   24   23
+CONECT   25   23
+CONECT   26   23   27   28   29
+CONECT   27   26
+CONECT   28   26
+CONECT   29   26
+CONECT   30    7   17
+END
