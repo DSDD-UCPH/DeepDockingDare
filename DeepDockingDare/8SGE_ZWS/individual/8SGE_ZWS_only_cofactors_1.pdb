@@ -1,64 +1,28 @@
 CRYST1   44.900   88.490   89.220  90.00 104.45  90.00 P 1 21 1      4
-HETATM    1  C1  GOL A 401      14.611  -1.605  23.276  1.00 32.67      C    C  
-HETATM    2  O1  GOL A 401      15.858  -1.587  23.991  1.00 30.96      C    O  
-HETATM    3  C2  GOL A 401      14.075  -2.997  23.031  1.00 32.38      C    C  
-HETATM    4  O2  GOL A 401      14.183  -3.744  24.219  1.00 31.41      C    O  
-HETATM    5  C3  GOL A 401      12.626  -2.992  22.601  1.00 34.69      C    C  
-HETATM    6  O3  GOL A 401      12.170  -4.327  22.315  1.00 35.36      C    O  
-HETATM    7  C1  GOL A 402      -0.415  -6.833  23.550  1.00 44.97      D    C  
-HETATM    8  O1  GOL A 402      -1.751  -6.535  23.161  1.00 44.68      D    O  
-HETATM    9  C2  GOL A 402       0.320  -7.417  22.370  1.00 44.71      D    C  
-HETATM   10  O2  GOL A 402       1.731  -7.470  22.602  1.00 44.60      D    O  
-HETATM   11  C3  GOL A 402      -0.216  -8.788  22.046  1.00 43.89      D    C  
-HETATM   12  O3  GOL A 402      -0.161  -8.984  20.650  1.00 42.84      D    O  
-HETATM   13  C1  GOL A 403      29.819   6.190  34.622  1.00 39.10      E    C  
-HETATM   14  O1  GOL A 403      28.945   7.252  34.287  1.00 38.61      E    O  
-HETATM   15  C2  GOL A 403      30.224   5.356  33.431  1.00 39.66      E    C  
-HETATM   16  O2  GOL A 403      30.994   6.161  32.542  1.00 39.12      E    O  
-HETATM   17  C3  GOL A 403      31.036   4.195  33.959  1.00 39.93      E    C  
-HETATM   18  O3  GOL A 403      31.568   3.373  32.935  1.00 39.83      E    O  
-HETATM   19  C1  GOL A 404      26.384   0.721  40.228  1.00 44.75      F    C  
-HETATM   20  O1  GOL A 404      25.348   1.458  40.870  1.00 44.81      F    O  
-HETATM   21  C2  GOL A 404      25.840  -0.418  39.401  1.00 44.18      F    C  
-HETATM   22  O2  GOL A 404      25.760  -0.071  37.996  1.00 42.74      F    O  
-HETATM   23  C3  GOL A 404      26.645  -1.676  39.633  1.00 44.54      F    C  
-HETATM   24  O3  GOL A 404      26.460  -2.148  40.974  1.00 44.78      F    O  
-HETATM   25  C1  GOL A 405      36.663   0.944  21.938  1.00 47.79      G    C  
-HETATM   26  O1  GOL A 405      36.149   1.633  23.070  1.00 46.27      G    O  
-HETATM   27  C2  GOL A 405      37.034  -0.470  22.306  1.00 49.81      G    C  
-HETATM   28  O2  GOL A 405      37.833  -1.035  21.263  1.00 50.97      G    O  
-HETATM   29  C3  GOL A 405      37.773  -0.539  23.621  1.00 50.40      G    C  
-HETATM   30  O3  GOL A 405      36.954  -1.076  24.653  1.00 50.89      G    O  
-HETATM   31  C1  GOL A 401      59.511  -1.605  23.276  1.00 32.67      C    C  
-HETATM   32  O1  GOL A 401      60.758  -1.587  23.991  1.00 30.96      C    O  
-HETATM   33  C2  GOL A 401      58.975  -2.997  23.031  1.00 32.38      C    C  
-HETATM   34  O2  GOL A 401      59.083  -3.744  24.219  1.00 31.41      C    O  
-HETATM   35  C3  GOL A 401      57.526  -2.992  22.601  1.00 34.69      C    C  
-HETATM   36  O3  GOL A 401      57.070  -4.327  22.315  1.00 35.36      C    O  
-HETATM   37  C1  GOL A 402      44.485  -6.833  23.550  1.00 44.97      D    C  
-HETATM   38  O1  GOL A 402      43.149  -6.535  23.161  1.00 44.68      D    O  
-HETATM   39  C2  GOL A 402      45.220  -7.417  22.370  1.00 44.71      D    C  
-HETATM   40  O2  GOL A 402      46.631  -7.470  22.602  1.00 44.60      D    O  
-HETATM   41  C3  GOL A 402      44.684  -8.788  22.046  1.00 43.89      D    C  
-HETATM   42  O3  GOL A 402      44.739  -8.984  20.650  1.00 42.84      D    O  
-HETATM   43  C1  GOL A 403      74.719   6.190  34.622  1.00 39.10      E    C  
-HETATM   44  O1  GOL A 403      73.845   7.252  34.287  1.00 38.61      E    O  
-HETATM   45  C2  GOL A 403      75.124   5.356  33.431  1.00 39.66      E    C  
-HETATM   46  O2  GOL A 403      75.894   6.161  32.542  1.00 39.12      E    O  
-HETATM   47  C3  GOL A 403      75.936   4.195  33.959  1.00 39.93      E    C  
-HETATM   48  O3  GOL A 403      76.468   3.373  32.935  1.00 39.83      E    O  
-HETATM   49  C1  GOL A 404      71.284   0.721  40.228  1.00 44.75      F    C  
-HETATM   50  O1  GOL A 404      70.248   1.458  40.870  1.00 44.81      F    O  
-HETATM   51  C2  GOL A 404      70.740  -0.418  39.401  1.00 44.18      F    C  
-HETATM   52  O2  GOL A 404      70.660  -0.071  37.996  1.00 42.74      F    O  
-HETATM   53  C3  GOL A 404      71.545  -1.676  39.633  1.00 44.54      F    C  
-HETATM   54  O3  GOL A 404      71.360  -2.148  40.974  1.00 44.78      F    O  
-HETATM   55  C1  GOL A 405      81.563   0.944  21.938  1.00 47.79      G    C  
-HETATM   56  O1  GOL A 405      81.049   1.633  23.070  1.00 46.27      G    O  
-HETATM   57  C2  GOL A 405      81.934  -0.470  22.306  1.00 49.81      G    C  
-HETATM   58  O2  GOL A 405      82.733  -1.035  21.263  1.00 50.97      G    O  
-HETATM   59  C3  GOL A 405      82.673  -0.539  23.621  1.00 50.40      G    C  
-HETATM   60  O3  GOL A 405      81.854  -1.076  24.653  1.00 50.89      G    O  
+HETATM    1  C1  GOL B 401      14.428   4.433 -25.054  1.00 31.63      I    C  
+HETATM    2  O1  GOL B 401      15.670   4.466 -25.788  1.00 30.23      I    O  
+HETATM    3  C2  GOL B 401      13.895   5.806 -24.708  1.00 30.96      I    C  
+HETATM    4  O2  GOL B 401      13.973   6.619 -25.846  1.00 29.23      I    O  
+HETATM    5  C3  GOL B 401      12.450   5.774 -24.255  1.00 33.37      I    C  
+HETATM    6  O3  GOL B 401      11.953   7.094 -23.954  1.00 33.62      I    O  
+HETATM    7  C1  GOL B 402      25.800   4.290 -43.687  1.00 39.97      J    C  
+HETATM    8  O1  GOL B 402      26.244   5.592 -43.292  1.00 39.46      J    O  
+HETATM    9  C2  GOL B 402      26.221   3.226 -42.703  1.00 40.62      J    C  
+HETATM   10  O2  GOL B 402      26.473   3.840 -41.446  1.00 41.15      J    O  
+HETATM   11  C3  GOL B 402      25.116   2.208 -42.540  1.00 39.89      J    C  
+HETATM   12  O3  GOL B 402      25.402   0.987 -43.216  1.00 39.48      J    O  
+HETATM   13  C1  GOL B 403      -0.389 -18.872 -21.355  1.00 51.46      K    C  
+HETATM   14  O1  GOL B 403      -0.586 -19.777 -22.433  1.00 52.11      K    O  
+HETATM   15  C2  GOL B 403      -1.329 -17.697 -21.485  1.00 50.77      K    C  
+HETATM   16  O2  GOL B 403      -1.288 -17.191 -22.825  1.00 50.93      K    O  
+HETATM   17  C3  GOL B 403      -0.907 -16.618 -20.517  1.00 49.57      K    C  
+HETATM   18  O3  GOL B 403      -1.845 -15.547 -20.481  1.00 48.20      K    O  
+HETATM   19  C1  GOL B 404      36.177   1.711 -24.622  1.00 36.32      L    C  
+HETATM   20  O1  GOL B 404      36.598   2.072 -23.311  1.00 36.06      L    O  
+HETATM   21  C2  GOL B 404      36.348   2.925 -25.494  1.00 37.65      L    C  
+HETATM   22  O2  GOL B 404      37.614   3.506 -25.250  1.00 39.23      L    O  
+HETATM   23  C3  GOL B 404      36.101   2.738 -26.972  1.00 36.62      L    C  
+HETATM   24  O3  GOL B 404      34.707   2.588 -27.205  1.00 34.15      L    O  
 CONECT    1    2    3
 CONECT    2    1
 CONECT    3    1    4    5
@@ -83,40 +47,4 @@ CONECT   21   19   22   23
 CONECT   22   21
 CONECT   23   21   24
 CONECT   24   23
-CONECT   25   26   27
-CONECT   26   25
-CONECT   27   25   28   29
-CONECT   28   27
-CONECT   29   27   30
-CONECT   30   29
-CONECT   31   32   33
-CONECT   32   31
-CONECT   33   31   34   35
-CONECT   34   33
-CONECT   35   33   36
-CONECT   36   35
-CONECT   37   38   39
-CONECT   38   37
-CONECT   39   37   40   41
-CONECT   40   39
-CONECT   41   39   42
-CONECT   42   41
-CONECT   43   44   45
-CONECT   44   43
-CONECT   45   43   46   47
-CONECT   46   45
-CONECT   47   45   48
-CONECT   48   47
-CONECT   49   50   51
-CONECT   50   49
-CONECT   51   49   52   53
-CONECT   52   51
-CONECT   53   51   54
-CONECT   54   53
-CONECT   55   56   57
-CONECT   56   55
-CONECT   57   55   58   59
-CONECT   58   57
-CONECT   59   57   60
-CONECT   60   59
 END

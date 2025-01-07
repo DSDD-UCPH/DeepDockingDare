@@ -1,11 +1,57 @@
 CRYST1   96.771   96.771  112.480  90.00  90.00  90.00 P 43          8
-HETATM    1  N   SCN B 402      34.374   3.068 -24.726  1.00 94.14      G    N  
-ANISOU    1  N   SCN B 402    12267  11321  12182   -223    802    336  G    N  
-HETATM    2  C   SCN B 402      33.924   2.806 -25.785  1.00 90.51      G    C  
-ANISOU    2  C   SCN B 402    11923  10852  11615   -249    786    427  G    C  
-HETATM    3  S   SCN B 402      33.243   2.398 -27.400  1.00 90.41      G    S  
-ANISOU    3  S   SCN B 402    12095  10827  11427   -296    755    565  G    S  
-CONECT    1    2
-CONECT    2    1    3
-CONECT    3    2
+HETATM    1  C1  GOL A 402       0.592 -57.851 -20.338  1.00 92.75      D    C  
+ANISOU    1  C1  GOL A 402    11828  11752  11659   -729    103   -437  D    C  
+HETATM    2  O1  GOL A 402      -0.393 -57.412 -21.261  1.00100.26      D    O  
+ANISOU    2  O1  GOL A 402    12738  12752  12603   -800     -8   -477  D    O  
+HETATM    3  C2  GOL A 402      -0.072 -58.779 -19.368  1.00100.97      D    C  
+ANISOU    3  C2  GOL A 402    12831  12739  12793   -774    164   -407  D    C  
+HETATM    4  O2  GOL A 402       0.701 -58.815 -18.202  1.00 91.52      D    O  
+ANISOU    4  O2  GOL A 402    11644  11526  11602   -695    250   -340  D    O  
+HETATM    5  C3  GOL A 402      -1.488 -58.336 -19.044  1.00106.42      D    C  
+ANISOU    5  C3  GOL A 402    13396  13490  13551   -829    117   -394  D    C  
+HETATM    6  O3  GOL A 402      -2.436 -59.183 -19.713  1.00 99.43      D    O  
+ANISOU    6  O3  GOL A 402    12505  12559  12716   -944     73   -450  D    O  
+HETATM    7  HO1 GOL A 402      -0.003 -57.350 -22.144  1.00120.59      D    H  
+HETATM    8  HO2 GOL A 402       1.522 -59.296 -18.373  1.00110.10      D    H  
+HETATM    9  HO3 GOL A 402      -3.195 -59.338 -19.134  1.00119.60      D    H  
+HETATM   10  H2  GOL A 402      -0.113 -59.782 -19.816  1.00121.44      D    H  
+HETATM   11  H11 GOL A 402       1.395 -58.369 -20.865  1.00111.58      D    H  
+HETATM   12  H12 GOL A 402       1.018 -56.996 -19.809  1.00111.58      D    H  
+HETATM   13  H31 GOL A 402      -1.650 -58.385 -17.966  1.00127.99      D    H  
+HETATM   14  H32 GOL A 402      -1.631 -57.301 -19.362  1.00127.99      D    H  
+HETATM   15  C1  PEG A 403      -5.648 -50.031 -13.867  1.00 87.92      E    C  
+ANISOU   15  C1  PEG A 403    10176  11669  11559   -560    174   -213  E    C  
+HETATM   16  O1  PEG A 403      -4.591 -49.128 -13.695  1.00 70.12      E    O  
+ANISOU   16  O1  PEG A 403     7979   9452   9214   -466    176   -190  E    O  
+HETATM   17  C2  PEG A 403      -6.035 -50.085 -15.343  1.00 98.44      E    C  
+ANISOU   17  C2  PEG A 403    11496  12994  12913   -595     23   -244  E    C  
+HETATM   18  O2  PEG A 403      -6.233 -51.416 -15.721  1.00105.24      E    O  
+ANISOU   18  O2  PEG A 403    12412  13797  13777   -678     22   -262  E    O  
+HETATM   19  C3  PEG A 403      -6.236 -51.616 -17.106  1.00105.41      E    C  
+ANISOU   19  C3  PEG A 403    12476  13806  13769   -712   -109   -291  E    C  
+HETATM   20  C4  PEG A 403      -6.338 -53.110 -17.402  1.00108.11      E    C  
+ANISOU   20  C4  PEG A 403    12891  14077  14108   -801    -90   -316  E    C  
+HETATM   21  O4  PEG A 403      -5.867 -53.366 -18.696  1.00107.11      E    O  
+ANISOU   21  O4  PEG A 403    12865  13933  13900   -821   -190   -346  E    O  
+CONECT    1    2    3   11   12
+CONECT    2    1    7
+CONECT    3    1    4    5   10
+CONECT    4    3    8
+CONECT    5    3    6   13   14
+CONECT    6    5    9
+CONECT    7    2
+CONECT    8    4
+CONECT    9    6
+CONECT   10    3
+CONECT   11    1
+CONECT   12    1
+CONECT   13    5
+CONECT   14    5
+CONECT   15   16   17
+CONECT   16   15
+CONECT   17   15   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20
 END

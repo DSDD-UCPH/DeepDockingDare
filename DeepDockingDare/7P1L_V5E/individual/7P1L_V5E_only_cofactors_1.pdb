@@ -1,18 +1,10 @@
 CRYST1   50.989   95.733   68.579  90.00  91.98  90.00 P 1 21 1      4
-HETATM    1  C1  EDO A 402     -17.068   7.396 -15.725  1.00 26.44      D    C  
-HETATM    2  O1  EDO A 402     -16.601   7.806 -14.446  1.00 28.98      D    O  
-HETATM    3  C2  EDO A 402     -16.708   5.918 -15.948  1.00 24.18      D    C  
-HETATM    4  O2  EDO A 402     -15.295   5.944 -16.067  1.00 25.19      D    O  
-HETATM    5  C1  EDO A 403     -11.149 -10.869  -6.168  1.00 31.57      E    C  
-HETATM    6  O1  EDO A 403     -12.033 -11.684  -6.923  1.00 34.55      E    O  
-HETATM    7  C2  EDO A 403     -10.946  -9.477  -6.892  1.00 25.55      E    C  
-HETATM    8  O2  EDO A 403     -10.210  -9.773  -8.073  1.00 29.54      E    O  
+HETATM    1  C1  EDO B 402     -33.034  41.555 -55.446  1.00 23.65      G    C  
+HETATM    2  O1  EDO B 402     -32.320  41.055 -54.303  1.00 24.97      G    O  
+HETATM    3  C2  EDO B 402     -33.391  43.063 -55.213  1.00 23.67      G    C  
+HETATM    4  O2  EDO B 402     -34.205  43.063 -54.039  1.00 23.25      G    O  
 CONECT    1    2    3
 CONECT    2    1
 CONECT    3    1    4
 CONECT    4    3
-CONECT    5    6    7
-CONECT    6    5
-CONECT    7    5    8
-CONECT    8    7
 END

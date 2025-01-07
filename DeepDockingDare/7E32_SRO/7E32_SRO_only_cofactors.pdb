@@ -29,7 +29,7 @@ HETATM   28  C27 CLR R 402      84.776 117.415 103.607  1.00 50.40      G    C
 CONECT    1    3   11
 CONECT    2    4
 CONECT    3    1    4
-CONECT    4    3    2    5
+CONECT    4    2    3    5
 CONECT    5    4    6
 CONECT    6    5    7   11
 CONECT    7    6    8

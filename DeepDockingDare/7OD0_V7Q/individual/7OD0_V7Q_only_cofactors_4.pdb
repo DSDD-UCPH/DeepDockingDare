@@ -1,73 +1,39 @@
 CRYST1   77.593   77.640   81.995  92.46  90.00 119.98 P 1           6
-HETATM    1  C   ACT D 402      21.756  -5.501  51.929  1.00 18.80      AA   C  
-HETATM    2  O   ACT D 402      20.754  -5.028  51.301  1.00 20.21      AA   O  
-HETATM    3  CH3 ACT D 402      21.554  -6.715  52.888  1.00 18.39      AA   C  
-HETATM    4  OXT ACT D 402      22.911  -5.047  51.805  1.00 15.03      AA   O  
-HETATM    5  H1  ACT D 402      20.617  -6.785  53.131  1.00 18.54      AA   H  
-HETATM    6  H2  ACT D 402      22.087  -6.583  53.688  1.00 18.53      AA   H  
-HETATM    7  H3  ACT D 402      21.837  -7.531  52.446  1.00 18.52      AA   H  
-HETATM    8  C   ACT D 403      24.176  -9.700  51.036  1.00 24.50      BA   C  
-HETATM    9  O   ACT D 403      24.473  -8.998  50.048  1.00 23.49      BA   O  
-HETATM   10  CH3 ACT D 403      25.369 -10.326  51.800  1.00 23.70      BA   C  
-HETATM   11  OXT ACT D 403      22.980  -9.926  51.413  1.00 21.59      BA   O  
-HETATM   12  H1  ACT D 403      25.093 -10.564  52.700  1.00 23.95      BA   H  
-HETATM   13  H2  ACT D 403      26.101  -9.690  51.842  1.00 23.96      BA   H  
-HETATM   14  H3  ACT D 403      25.666 -11.125  51.335  1.00 23.96      BA   H  
-HETATM   15  C1  EDO D 404      25.229   1.434  56.321  1.00 30.61      CA   C  
-HETATM   16  O1  EDO D 404      26.609   1.657  56.184  1.00 33.25      CA   O  
-HETATM   17  C2  EDO D 404      24.507   2.651  56.731  1.00 32.23      CA   C  
-HETATM   18  O2  EDO D 404      23.177   2.354  57.122  1.00 35.25      CA   O  
-HETATM   19  HO1 EDO D 404      26.953   0.959  55.957  0.00 29.47      CA   H  
-HETATM   20  HO2 EDO D 404      22.718   2.169  56.436  1.00 34.29      CA   H  
-HETATM   21  H11 EDO D 404      25.082   0.736  56.992  1.00 31.59      CA   H  
-HETATM   22  H12 EDO D 404      24.869   1.119  55.468  1.00 31.56      CA   H  
-HETATM   23  H21 EDO D 404      24.492   3.284  55.983  1.00 32.52      CA   H  
-HETATM   24  H22 EDO D 404      24.980   3.069  57.480  1.00 32.52      CA   H  
-HETATM   25  C1  EDO D 405      18.189  13.645  50.913  1.00 23.80      DA   C  
-HETATM   26  O1  EDO D 405      17.696  12.436  50.376  1.00 23.47      DA   O  
-HETATM   27  C2  EDO D 405      17.361  14.817  50.592  1.00 23.55      DA   C  
-HETATM   28  O2  EDO D 405      15.988  14.605  50.887  1.00 23.86      DA   O  
-HETATM   29  HO1 EDO D 405      18.229  11.823  50.605  0.00 20.00      DA   H  
-HETATM   30  HO2 EDO D 405      15.886  14.561  51.726  1.00 23.76      DA   H  
-HETATM   31  H11 EDO D 405      19.094  13.798  50.571  1.00 23.66      DA   H  
-HETATM   32  H12 EDO D 405      18.245  13.558  51.888  1.00 23.66      DA   H  
-HETATM   33  H21 EDO D 405      17.457  15.023  49.639  1.00 23.68      DA   H  
-HETATM   34  H22 EDO D 405      17.685  15.586  51.106  1.00 23.68      DA   H  
-HETATM   35 ZN    ZN D 406      22.929  -4.881  49.663  1.00  8.18      EA  ZN  
-HETATM   36 CA    CA D 407      36.536  -5.093  47.362  1.00 10.79      FA  CA  
-HETATM   37 CA    CA D 408      33.140  -5.026  38.957  1.00 15.14      GA  CA  
-CONECT    1    2    3    4
-CONECT    2    1
-CONECT    3    1    5    6    7
-CONECT    4    1
-CONECT    5    3
-CONECT    6    3
-CONECT    7    3
-CONECT    8    9   10   11
-CONECT    9    8
-CONECT   10    8   12   13   14
-CONECT   11    8
-CONECT   12   10
-CONECT   13   10
-CONECT   14   10
-CONECT   15   16   17   21   22
-CONECT   16   15   19
-CONECT   17   15   18   23   24
-CONECT   18   17   20
-CONECT   19   16
-CONECT   20   18
-CONECT   21   15
-CONECT   22   15
-CONECT   23   17
-CONECT   24   17
-CONECT   25   26   27   31   32
-CONECT   26   25   29
-CONECT   27   25   28   33   34
-CONECT   28   27   30
-CONECT   29   26
-CONECT   30   28
-CONECT   31   25
-CONECT   32   25
-CONECT   33   27
-CONECT   34   27
+HETATM    1  C1  EDO B 402      56.117 -50.119  -0.242  1.00 23.57      N    C  
+HETATM    2  O1  EDO B 402      55.465 -50.743  -1.320  1.00 25.43      N    O  
+HETATM    3  C2  EDO B 402      56.366 -48.693  -0.532  1.00 22.28      N    C  
+HETATM    4  O2  EDO B 402      55.167 -47.957  -0.566  1.00 22.27      N    O  
+HETATM    5  HO1 EDO B 402      55.351 -51.515  -1.114  0.00 24.92      N    H  
+HETATM    6  HO2 EDO B 402      54.856 -47.891   0.218  1.00 22.27      N    H  
+HETATM    7  H11 EDO B 402      56.972 -50.568  -0.075  1.00 23.68      N    H  
+HETATM    8  H12 EDO B 402      55.564 -50.195   0.562  1.00 23.67      N    H  
+HETATM    9  H21 EDO B 402      56.819 -48.615  -1.398  1.00 22.57      N    H  
+HETATM   10  H22 EDO B 402      56.954 -48.322   0.159  1.00 22.57      N    H  
+HETATM   11  C   ACT B 403      40.971 -34.831  -1.755  1.00 13.36      O    C  
+HETATM   12  O   ACT B 403      42.042 -34.209  -1.624  1.00 10.82      O    O  
+HETATM   13  CH3 ACT B 403      39.818 -34.121  -2.490  1.00 13.57      O    C  
+HETATM   14  OXT ACT B 403      40.779 -36.007  -1.321  1.00 13.70      O    O  
+HETATM   15  H1  ACT B 403      39.219 -34.781  -2.871  1.00 13.57      O    H  
+HETATM   16  H2  ACT B 403      40.181 -33.564  -3.198  1.00 13.56      O    H  
+HETATM   17  H3  ACT B 403      39.330 -33.562  -1.865  1.00 13.54      O    H  
+HETATM   18 ZN    ZN B 404      42.142 -34.259   0.462  1.00  8.82      P   ZN  
+HETATM   19 CA    CA B 405      48.885 -22.326   2.891  1.00 10.42      Q   CA  
+HETATM   20 CA    CA B 406      47.128 -25.399  11.352  1.00 15.79      R   CA  
+CONECT    1    2    3    7    8
+CONECT    2    1    5
+CONECT    3    1    4    9   10
+CONECT    4    3    6
+CONECT    5    2
+CONECT    6    4
+CONECT    7    1
+CONECT    8    1
+CONECT    9    3
+CONECT   10    3
+CONECT   11   12   13   14
+CONECT   12   11
+CONECT   13   11   15   16   17
+CONECT   14   11
+CONECT   15   13
+CONECT   16   13
+CONECT   17   13
 END

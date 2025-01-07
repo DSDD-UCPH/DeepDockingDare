@@ -1,28 +1,34 @@
 CRYST1  109.180  121.390  134.300  90.00  90.00  90.00 P 21 21 21   16
-HETATM    1  O   HOH C 508     -50.556 -11.393  63.459  1.00 43.63      IA   O  
-ANISOU    1  O   HOH C 508     5813   5787   4977   -252    358    404  IA   O  
-HETATM    2  O   HOH C 528     -44.442  -9.303  62.551  1.00 37.05      IA   O  
-ANISOU    2  O   HOH C 528     5043   4887   4146   -159    126    349  IA   O  
-HETATM    3  O   HOH C 530     -44.877  -6.598  69.576  1.00 27.94      IA   O  
-ANISOU    3  O   HOH C 530     4106   3869   2642   -139    185    334  IA   O  
-HETATM    4  O   HOH C 576     -50.060  -8.432  69.145  1.00 40.34      IA   O  
-ANISOU    4  O   HOH C 576     5582   5483   4263   -203    410    380  IA   O  
-HETATM    5  O   HOH C 629     -51.983  -9.944  65.885  1.00 36.97      IA   O  
-ANISOU    5  O   HOH C 629     5008   5019   4021   -243    446    389  IA   O  
-HETATM    6  O   HOH C 636     -46.969  -9.771  62.388  1.00 37.54      IA   O  
-ANISOU    6  O   HOH C 636     5068   4975   4222   -188    215    355  IA   O  
-HETATM    7  O   HOH C 643     -46.944  -8.572  56.886  1.00 47.04      IA   O  
-ANISOU    7  O   HOH C 643     6119   6132   5621   -162    164    266  IA   O  
-HETATM    8  O   HOH C 675     -53.745  -5.685  65.752  1.00 28.42      IA   O  
-ANISOU    8  O   HOH C 675     3863   4011   2925   -170    511    256  IA   O  
-HETATM    9  O   HOH C 677     -50.567  -8.201  56.350  1.00 34.83      IA   O  
-ANISOU    9  O   HOH C 677     4491   4638   4103   -184    261    245  IA   O  
-HETATM   10  O   HOH C 696     -45.432 -10.413  58.172  1.00 54.28      IA   O  
-ANISOU   10  O   HOH C 696     7099   7017   6508   -176    131    325  IA   O  
-HETATM   11  O   HOH C 709     -52.653  -7.864  67.204  1.00 34.42      IA   O  
-ANISOU   11  O   HOH C 709     4705   4751   3622   -210    492    338  IA   O  
-HETATM   12  O   HOH C 773     -52.909  -5.543  55.384  1.00 33.81      IA   O  
-ANISOU   12  O   HOH C 773     4279   4565   4002   -146    310    177  IA   O  
-HETATM   13  O   HOH C 813     -46.576 -12.052  60.779  1.00 48.49      IA   O  
-ANISOU   13  O   HOH C 813     6427   6302   5695   -215    189    395  IA   O  
+HETATM    1  O   HOH B 510     -32.875  29.787  25.434  1.00 33.86      HA   O  
+ANISOU    1  O   HOH B 510     4558   3762   4544    117     39    266  HA   O  
+HETATM    2  O   HOH B 519     -30.646  19.563  29.885  1.00 42.04      HA   O  
+ANISOU    2  O   HOH B 519     5400   5063   5510     36     -4    118  HA   O  
+HETATM    3  O   HOH B 533     -38.507  35.419  30.828  1.00 23.38      HA   O  
+ANISOU    3  O   HOH B 533     3319   2260   3306    299     -9    135  HA   O  
+HETATM    4  O   HOH B 563     -39.020  28.308  27.461  1.00 34.13      HA   O  
+ANISOU    4  O   HOH B 563     4548   3906   4515    265    -22    199  HA   O  
+HETATM    5  O   HOH B 564     -36.267  28.451  27.143  1.00 31.90      HA   O  
+ANISOU    5  O   HOH B 564     4279   3589   4254    196     -2    210  HA   O  
+HETATM    6  O   HOH B 565     -31.472  32.074  27.367  1.00 30.04      HA   O  
+ANISOU    6  O   HOH B 565     4100   3174   4138     77     37    230  HA   O  
+HETATM    7  O   HOH B 597     -32.688  21.948  28.814  1.00 36.08      HA   O  
+ANISOU    7  O   HOH B 597     4692   4271   4747     81      0    144  HA   O  
+HETATM    8  O   HOH B 656     -33.410  34.801  29.007  1.00 35.96      HA   O  
+ANISOU    8  O   HOH B 656     4907   3828   4927    138     17    194  HA   O  
+HETATM    9  O   HOH B 695     -30.862  22.519  27.069  1.00 32.70      HA   O  
+ANISOU    9  O   HOH B 695     4271   3816   4338     50     29    182  HA   O  
+HETATM   10  O   HOH B 701     -29.773  31.438  31.684  1.00 22.04      HA   O  
+ANISOU   10  O   HOH B 701     3048   2162   3163     15     -4    109  HA   O  
+HETATM   11  O   HOH B 723     -35.952  23.016  27.962  1.00 35.45      HA   O  
+ANISOU   11  O   HOH B 723     4636   4197   4637    154    -12    161  HA   O  
+HETATM   12  O   HOH B 732     -30.900  33.210  29.622  1.00 26.08      HA   O  
+ANISOU   12  O   HOH B 732     3608   2618   3682     55     20    171  HA   O  
+HETATM   13  O   HOH B 755     -37.672  24.321  26.219  1.00 49.79      HA   O  
+ANISOU   13  O   HOH B 755     6477   6002   6438    204    -17    202  HA   O  
+HETATM   14  O   HOH B 815     -33.407  27.500  23.183  1.00 60.87      HA   O  
+ANISOU   14  O   HOH B 815     7959   7276   7893    130     47    302  HA   O  
+HETATM   15  O   HOH B 868     -37.189  26.564  24.579  1.00 58.95      HA   O  
+ANISOU   15  O   HOH B 868     7687   7096   7615    214     -4    257  HA   O  
+HETATM   16  O   HOH B 869     -32.742  24.993  23.273  1.00 49.33      HA   O  
+ANISOU   16  O   HOH B 869     6453   5886   6405    105     50    276  HA   O  
 END

@@ -39,20 +39,20 @@ CONECT    2   27
 CONECT    3   28
 CONECT    4   34
 CONECT    5   35
-CONECT    6   22    8
-CONECT    7   12   11
+CONECT    6    8   22
+CONECT    7   11   12
 CONECT    8    6   30
-CONECT    9   20   10
+CONECT    9   10   20
 CONECT   10    9   21
 CONECT   11    7   27
 CONECT   12    7   28
 CONECT   13   14   31
 CONECT   14   13   33
-CONECT   15   29   17
-CONECT   16   32   18
+CONECT   15   17   29
+CONECT   16   18   32
 CONECT   17   15   34
 CONECT   18   16   35
-CONECT   19   29   22
+CONECT   19   22   29
 CONECT   20    9   23   25
 CONECT   21   10   24   26
 CONECT   22    6   19   34
@@ -61,12 +61,12 @@ CONECT   24   21
 CONECT   25   20
 CONECT   26   21   29
 CONECT   27    1    2   11
-CONECT   28   12    3   31
+CONECT   28    3   12   31
 CONECT   29   15   19   26
 CONECT   30    8   32   33
-CONECT   31   28   13   35
+CONECT   31   13   28   35
 CONECT   32   16   30   34
 CONECT   33   14   30   35
-CONECT   34   22   32    4   17
-CONECT   35   31   33    5   18
+CONECT   34    4   17   22   32
+CONECT   35    5   18   31   33
 END

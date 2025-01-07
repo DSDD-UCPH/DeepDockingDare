@@ -5,10 +5,22 @@ HETATM    3  C2  GOL A1001     -50.335  30.838 -53.649  1.00 41.95      E    C
 HETATM    4  O2  GOL A1001     -50.260  29.396 -53.749  1.00 42.10      E    O  
 HETATM    5  C3  GOL A1001     -50.070  31.555 -54.966  1.00 42.04      E    C  
 HETATM    6  O3  GOL A1001     -50.101  32.977 -54.765  1.00 45.47      E    O  
+HETATM    7  C1  GOL D1001     -38.650  73.365 -26.832  1.00 39.13      J    C  
+HETATM    8  O1  GOL D1001     -38.777  74.561 -27.610  1.00 28.29      J    O  
+HETATM    9  C2  GOL D1001     -37.452  72.595 -27.352  1.00 45.84      J    C  
+HETATM   10  O2  GOL D1001     -36.881  71.813 -26.293  1.00 47.94      J    O  
+HETATM   11  C3  GOL D1001     -37.938  71.715 -28.500  1.00 48.98      J    C  
+HETATM   12  O3  GOL D1001     -36.972  71.633 -29.545  1.00 50.86      J    O  
 CONECT    1    2    3
 CONECT    2    1
 CONECT    3    1    4    5
 CONECT    4    3
 CONECT    5    3    6
 CONECT    6    5
+CONECT    7    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12
+CONECT   12   11
 END

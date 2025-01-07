@@ -30,68 +30,6 @@ ANISOU   17  OXT ACT A 306     1950   2604   1476   -241   -135   -118  G    O
 HETATM   18  H1  ACT A 306      41.584  19.075  13.316  1.00 24.38      G    H  
 HETATM   19  H2  ACT A 306      42.390  20.427  13.493  1.00 24.38      G    H  
 HETATM   20  H3  ACT A 306      41.616  19.799  14.724  1.00 24.38      G    H  
-HETATM   21 ZN    ZN A 302      -7.358  -7.633  17.401  0.83 11.32      C   ZN  
-ANISOU   21 ZN    ZN A 302     1444   1865    991   -219    -87   -198  C   ZN  
-HETATM   22 ZN    ZN A 303       8.837 -10.780   3.929  0.78 10.76      D   ZN  
-ANISOU   22 ZN    ZN A 303     1285   1782   1022    -52    -12   -115  D   ZN  
-HETATM   23  C1  EDO A 304     -39.331 -28.657  15.869  1.00 26.74      E    C  
-ANISOU   23  C1  EDO A 304     2964   3857   3340   -938    254   -657  E    C  
-HETATM   24  O1  EDO A 304     -39.206 -27.511  16.716  1.00 27.86      E    O  
-ANISOU   24  O1  EDO A 304     3110   4036   3440   -876    218   -598  E    O  
-HETATM   25  C2  EDO A 304     -38.645 -28.337  14.546  1.00 24.81      E    C  
-ANISOU   25  C2  EDO A 304     2722   3627   3076   -906    215   -690  E    C  
-HETATM   26  O2  EDO A 304     -38.471 -26.917  14.444  1.00 28.84      E    O  
-ANISOU   26  O2  EDO A 304     3221   4205   3531   -827    148   -655  E    O  
-HETATM   27  HO1 EDO A 304     -39.769 -27.622  17.494  1.00 33.45      E    H  
-HETATM   28  HO2 EDO A 304     -37.719 -26.645  14.988  1.00 34.62      E    H  
-HETATM   29  H11 EDO A 304     -38.864 -29.526  16.337  1.00 32.10      E    H  
-HETATM   30  H12 EDO A 304     -40.385 -28.892  15.702  1.00 32.10      E    H  
-HETATM   31  H21 EDO A 304     -37.676 -28.837  14.497  1.00 29.78      E    H  
-HETATM   32  H22 EDO A 304     -39.252 -28.699  13.713  1.00 29.78      E    H  
-HETATM   33 CL    CL A 305      -6.718  -8.713  15.503  1.00 15.10      F   CL  
-ANISOU   33 CL    CL A 305     1968   2270   1500   -131   -139    -95  F   CL  
-HETATM   34  C   ACT A 306       1.512  -6.373  14.302  1.00 15.09      G    C  
-ANISOU   34  C   ACT A 306     1882   2426   1424   -220   -117   -130  G    C  
-HETATM   35  O   ACT A 306       2.453  -6.383  13.489  1.00 18.21      G    O  
-ANISOU   35  O   ACT A 306     2279   2809   1831   -204   -119   -113  G    O  
-HETATM   36  CH3 ACT A 306       0.274  -5.586  13.925  1.00 20.31      G    C  
-ANISOU   36  CH3 ACT A 306     2579   2998   2139   -214    -88   -162  G    C  
-HETATM   37  OXT ACT A 306       1.395  -6.907  15.385  1.00 15.87      G    O  
-ANISOU   37  OXT ACT A 306     1950   2604   1476   -241   -135   -118  G    O  
-HETATM   38  H1  ACT A 306      -0.269  -6.110  13.316  1.00 24.38      G    H  
-HETATM   39  H2  ACT A 306       0.537  -4.758  13.493  1.00 24.38      G    H  
-HETATM   40  H3  ACT A 306      -0.237  -5.386  14.724  1.00 24.38      G    H  
-HETATM   41 ZN    ZN A 302       3.016  -7.633  15.899  0.83 11.32      C   ZN  
-ANISOU   41 ZN    ZN A 302     1444   1865    991    219    -87    198  C   ZN  
-HETATM   42 ZN    ZN A 303     -13.179 -10.780  29.371  0.78 10.76      D   ZN  
-ANISOU   42 ZN    ZN A 303     1285   1782   1022     52    -12    115  D   ZN  
-HETATM   43  C1  EDO A 304      34.989 -28.657  17.431  1.00 26.74      E    C  
-ANISOU   43  C1  EDO A 304     2964   3857   3340    938    254    657  E    C  
-HETATM   44  O1  EDO A 304      34.864 -27.511  16.585  1.00 27.86      E    O  
-ANISOU   44  O1  EDO A 304     3110   4036   3440    876    218    598  E    O  
-HETATM   45  C2  EDO A 304      34.303 -28.337  18.755  1.00 24.81      E    C  
-ANISOU   45  C2  EDO A 304     2722   3627   3076    906    215    690  E    C  
-HETATM   46  O2  EDO A 304      34.129 -26.917  18.856  1.00 28.84      E    O  
-ANISOU   46  O2  EDO A 304     3221   4205   3531    827    148    655  E    O  
-HETATM   47  HO1 EDO A 304      35.427 -27.622  15.806  1.00 33.45      E    H  
-HETATM   48  HO2 EDO A 304      33.377 -26.645  18.312  1.00 34.62      E    H  
-HETATM   49  H11 EDO A 304      34.522 -29.526  16.963  1.00 32.10      E    H  
-HETATM   50  H12 EDO A 304      36.043 -28.892  17.598  1.00 32.10      E    H  
-HETATM   51  H21 EDO A 304      33.334 -28.837  18.803  1.00 29.78      E    H  
-HETATM   52  H22 EDO A 304      34.910 -28.699  19.587  1.00 29.78      E    H  
-HETATM   53 CL    CL A 305       2.375  -8.713  17.797  1.00 15.10      F   CL  
-ANISOU   53 CL    CL A 305     1968   2270   1500    131   -139     95  F   CL  
-HETATM   54  C   ACT A 306      -5.854  -6.373  18.998  1.00 15.09      G    C  
-ANISOU   54  C   ACT A 306     1882   2426   1424    220   -117    130  G    C  
-HETATM   55  O   ACT A 306      -6.795  -6.383  19.811  1.00 18.21      G    O  
-ANISOU   55  O   ACT A 306     2279   2809   1831    204   -119    113  G    O  
-HETATM   56  CH3 ACT A 306      -4.616  -5.586  19.375  1.00 20.31      G    C  
-ANISOU   56  CH3 ACT A 306     2579   2998   2139    214    -88    162  G    C  
-HETATM   57  OXT ACT A 306      -5.737  -6.907  17.915  1.00 15.87      G    O  
-ANISOU   57  OXT ACT A 306     1950   2604   1476    241   -135    118  G    O  
-HETATM   58  H1  ACT A 306      -4.073  -6.110  19.984  1.00 24.38      G    H  
-HETATM   59  H2  ACT A 306      -4.880  -4.758  19.807  1.00 24.38      G    H  
-HETATM   60  H3  ACT A 306      -4.105  -5.386  18.576  1.00 24.38      G    H  
 CONECT    3    4    5    9   10
 CONECT    4    3    7
 CONECT    5    3    6   11   12
@@ -109,38 +47,4 @@ CONECT   17   14
 CONECT   18   16
 CONECT   19   16
 CONECT   20   16
-CONECT   23   24   25   29   30
-CONECT   24   23   27
-CONECT   25   23   26   31   32
-CONECT   26   25   28
-CONECT   27   24
-CONECT   28   26
-CONECT   29   23
-CONECT   30   23
-CONECT   31   25
-CONECT   32   25
-CONECT   34   35   36   37
-CONECT   35   34
-CONECT   36   34   38   39   40
-CONECT   37   34
-CONECT   38   36
-CONECT   39   36
-CONECT   40   36
-CONECT   43   44   45   49   50
-CONECT   44   43   47
-CONECT   45   43   46   51   52
-CONECT   46   45   48
-CONECT   47   44
-CONECT   48   46
-CONECT   49   43
-CONECT   50   43
-CONECT   51   45
-CONECT   52   45
-CONECT   54   55   56   57
-CONECT   55   54
-CONECT   56   54   58   59   60
-CONECT   57   54
-CONECT   58   56
-CONECT   59   56
-CONECT   60   56
 END

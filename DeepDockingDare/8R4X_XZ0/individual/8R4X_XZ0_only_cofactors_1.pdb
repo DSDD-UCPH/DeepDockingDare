@@ -1,86 +1,16 @@
 CRYST1  109.180  121.390  134.300  90.00  90.00  90.00 P 21 21 21   16
-HETATM    1  C1  EDO A 401     -20.163   0.641  36.367  1.00 40.94      I    C  
-ANISOU    1  C1  EDO A 401     4978   5066   5509      7   -124     87  I    C  
-HETATM    2  O1  EDO A 401     -19.149  -0.151  35.759  1.00 29.23      I    O  
-ANISOU    2  O1  EDO A 401     3470   3577   4057     15   -113     90  I    O  
-HETATM    3  C2  EDO A 401     -20.714  -0.045  37.612  1.00 41.94      I    C  
-ANISOU    3  C2  EDO A 401     5122   5197   5618     10   -151     91  I    C  
-HETATM    4  O2  EDO A 401     -20.749  -1.489  37.511  1.00 31.73      I    O  
-ANISOU    4  O2  EDO A 401     3827   3900   4328     23   -148     96  I    O  
-HETATM    5  C1  EDO A 402     -28.805 -28.971  42.329  1.00 51.44      J    C  
-ANISOU    5  C1  EDO A 402     6704   5888   6955     36   -137    331  J    C  
-HETATM    6  O1  EDO A 402     -27.671 -28.123  42.375  1.00 59.34      J    O  
-ANISOU    6  O1  EDO A 402     7679   6912   7956     65   -152    328  J    O  
-HETATM    7  C2  EDO A 402     -28.749 -29.601  40.947  1.00 43.53      J    C  
-ANISOU    7  C2  EDO A 402     5699   4856   5983     40   -118    295  J    C  
-HETATM    8  O2  EDO A 402     -29.329 -28.596  40.110  1.00 30.71      J    O  
-ANISOU    8  O2  EDO A 402     4059   3272   4337     24   -104    261  J    O  
-HETATM    9  C1  EDO A 403     -24.316 -26.378  41.698  1.00 35.15      K    C  
-ANISOU    9  C1  EDO A 403     4536   3888   4931    144   -180    305  K    C  
-HETATM   10  O1  EDO A 403     -23.684 -25.463  42.608  1.00 34.81      K    O  
-ANISOU   10  O1  EDO A 403     4478   3877   4872    153   -205    323  K    O  
-HETATM   11  C2  EDO A 403     -24.337 -27.795  42.244  1.00 48.32      K    C  
-ANISOU   11  C2  EDO A 403     6231   5509   6620    151   -187    332  K    C  
-HETATM   12  O2  EDO A 403     -25.126 -27.829  43.435  1.00 51.11      K    O  
-ANISOU   12  O2  EDO A 403     6608   5870   6941    129   -199    363  K    O  
-HETATM   13  C1  EDO A 404     -28.645 -16.494  37.250  1.00 43.50      L    C  
-ANISOU   13  C1  EDO A 404     5506   5241   5783     29    -92    134  L    C  
-HETATM   14  O1  EDO A 404     -28.495 -17.685  36.403  1.00 33.27      L    O  
-ANISOU   14  O1  EDO A 404     4216   3915   4509     34    -79    123  L    O  
-HETATM   15  C2  EDO A 404     -29.424 -15.340  36.588  1.00 34.49      L    C  
-ANISOU   15  C2  EDO A 404     4359   4128   4616     17    -81    117  L    C  
-HETATM   16  O2  EDO A 404     -28.583 -14.485  35.782  1.00 22.45      L    O  
-ANISOU   16  O2  EDO A 404     2818   2614   3099     29    -75    104  L    O  
-HETATM   17  C1  EDO A 405     -17.964 -20.776  17.130  1.00 33.79      M    C  
-ANISOU   17  C1  EDO A 405     4261   3898   4681    269    394   -259  M    C  
-HETATM   18  O1  EDO A 405     -16.756 -20.664  16.325  1.00 56.14      M    O  
-ANISOU   18  O1  EDO A 405     7073   6733   7525    292    440   -271  M    O  
-HETATM   19  C2  EDO A 405     -18.751 -21.914  16.498  1.00 39.79      M    C  
-ANISOU   19  C2  EDO A 405     5063   4632   5422    265    396   -293  M    C  
-HETATM   20  O2  EDO A 405     -19.185 -21.686  15.097  1.00 44.34      M    O  
-ANISOU   20  O2  EDO A 405     5671   5227   5947    256    422   -322  M    O  
-HETATM   21  C1  EDO A 406     -40.597 -16.319  34.808  1.00 35.90      N    C  
-ANISOU   21  C1  EDO A 406     4549   4395   4695   -152    -37     61  N    C  
-HETATM   22  O1  EDO A 406     -40.664 -15.251  33.875  1.00 37.85      N    O  
-ANISOU   22  O1  EDO A 406     4785   4666   4929   -142    -40     44  N    O  
-HETATM   23  C2  EDO A 406     -41.076 -15.753  36.163  1.00 28.43      N    C  
-ANISOU   23  C2  EDO A 406     3598   3468   3736   -156    -35     82  N    C  
-HETATM   24  O2  EDO A 406     -41.155 -16.986  36.901  1.00 57.33      N    O  
-ANISOU   24  O2  EDO A 406     7271   7103   7409   -170    -32     98  N    O  
-HETATM   25  C1  EDO A 407       4.097 -16.672  48.151  1.00 49.86      O    C  
-ANISOU   25  C1  EDO A 407     5322   6093   7530    528   -829    422  O    C  
-HETATM   26  O1  EDO A 407       4.804 -15.572  47.577  1.00 68.99      O    O  
-ANISOU   26  O1  EDO A 407     7687   8540   9986    505   -813    397  O    O  
-HETATM   27  C2  EDO A 407       3.623 -16.239  49.523  1.00 39.82      O    C  
-ANISOU   27  C2  EDO A 407     4093   4839   6197    505   -894    438  O    C  
-HETATM   28  O2  EDO A 407       2.645 -15.202  49.342  1.00 58.83      O    O  
-ANISOU   28  O2  EDO A 407     6543   7260   8548    459   -866    415  O    O  
+HETATM    1  C1  EDO C 401     -52.222   3.728  38.312  1.00 52.69      X    C  
+ANISOU    1  C1  EDO C 401     6450   6885   6683     73     29     16  X    C  
+HETATM    2  O1  EDO C 401     -51.064   4.293  37.678  1.00 68.72      X    O  
+ANISOU    2  O1  EDO C 401     8506   8893   8710     82     13     16  X    O  
+HETATM    3  C2  EDO C 401     -52.005   2.232  38.403  1.00 50.83      X    C  
+ANISOU    3  C2  EDO C 401     6216   6649   6447     42     29     22  X    C  
+HETATM    4  O2  EDO C 401     -51.947   1.615  37.103  1.00 48.87      X    O  
+ANISOU    4  O2  EDO C 401     5962   6399   6207     32      9     24  X    O  
+HETATM    5 CL    CL C 403     -39.555   1.261  38.638  1.00 66.20      Z   CL  
+ANISOU    5 CL    CL C 403     8345   8419   8389     12    -50     49  Z   CL  
 CONECT    1    2    3
 CONECT    2    1
 CONECT    3    1    4
 CONECT    4    3
-CONECT    5    6    7
-CONECT    6    5
-CONECT    7    5    8
-CONECT    8    7
-CONECT    9   10   11
-CONECT   10    9
-CONECT   11    9   12
-CONECT   12   11
-CONECT   13   14   15
-CONECT   14   13
-CONECT   15   13   16
-CONECT   16   15
-CONECT   17   18   19
-CONECT   18   17
-CONECT   19   17   20
-CONECT   20   19
-CONECT   21   22   23
-CONECT   22   21
-CONECT   23   21   24
-CONECT   24   23
-CONECT   25   26   27
-CONECT   26   25
-CONECT   27   25   28
-CONECT   28   27
 END

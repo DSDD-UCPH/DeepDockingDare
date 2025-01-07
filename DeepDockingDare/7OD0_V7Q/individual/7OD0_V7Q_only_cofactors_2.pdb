@@ -1,60 +1,73 @@
 CRYST1   77.593   77.640   81.995  92.46  90.00 119.98 P 1           6
-HETATM    1  C1  EDO F 402      34.969  18.994  -1.021  1.00 25.47      PA   C  
-HETATM    2  O1  EDO F 402      36.113  18.945  -0.179  1.00 29.20      PA   O  
-HETATM    3  C2  EDO F 402      34.321  17.673  -1.102  1.00 23.67      PA   C  
-HETATM    4  O2  EDO F 402      34.472  16.920   0.073  1.00 22.42      PA   O  
-HETATM    5  HO1 EDO F 402      36.447  19.746  -0.064  0.00 25.65      PA   H  
-HETATM    6  HO2 EDO F 402      34.436  17.434   0.744  1.00 22.75      PA   H  
-HETATM    7  H11 EDO F 402      35.245  19.268  -1.920  1.00 25.85      PA   H  
-HETATM    8  H12 EDO F 402      34.331  19.656  -0.683  1.00 25.85      PA   H  
-HETATM    9  H21 EDO F 402      34.709  17.176  -1.852  1.00 23.77      PA   H  
-HETATM   10  H22 EDO F 402      33.366  17.799  -1.281  1.00 23.77      PA   H  
-HETATM   11  C1  EDO F 403      29.697   5.933  -8.223  1.00 35.72      QA   C  
-HETATM   12  O1  EDO F 403      31.045   6.144  -8.545  1.00 39.32      QA   O  
-HETATM   13  C2  EDO F 403      29.316   6.660  -7.008  1.00 36.03      QA   C  
-HETATM   14  O2  EDO F 403      28.139   6.126  -6.428  1.00 37.68      QA   O  
-HETATM   15  HO1 EDO F 403      31.287   5.585  -9.440  0.00 41.38      QA   H  
-HETATM   16  HO2 EDO F 403      27.477   6.304  -6.923  1.00 37.16      QA   H  
-HETATM   17  H11 EDO F 403      29.546   4.976  -8.084  1.00 36.63      QA   H  
-HETATM   18  H12 EDO F 403      29.134   6.231  -8.968  1.00 36.62      QA   H  
-HETATM   19  H21 EDO F 403      29.168   7.603  -7.231  1.00 36.34      QA   H  
-HETATM   20  H22 EDO F 403      30.048   6.608  -6.359  1.00 36.35      QA   H  
-HETATM   21  C   ACT F 404      30.397  -1.604  -1.760  1.00 11.39      RA   C  
-HETATM   22  O   ACT F 404      29.349  -0.968  -1.644  1.00  8.73      RA   O  
-HETATM   23  CH3 ACT F 404      30.320  -3.029  -2.363  1.00 11.88      RA   C  
-HETATM   24  OXT ACT F 404      31.522  -1.167  -1.382  1.00 12.93      RA   O  
-HETATM   25  H1  ACT F 404      31.138  -3.226  -2.845  1.00 11.79      RA   H  
-HETATM   26  H2  ACT F 404      29.565  -3.084  -2.972  1.00 11.77      RA   H  
-HETATM   27  H3  ACT F 404      30.197  -3.674  -1.649  1.00 11.77      RA   H  
-HETATM   28 ZN    ZN F 405      29.303  -0.883   0.431  1.00  7.25      SA  ZN  
-HETATM   29 CA    CA F 406      15.598  -1.055   2.778  1.00  9.53      TA  CA  
-HETATM   30 CA    CA F 407      19.144  -0.970  11.089  1.00 16.31      UA  CA  
-HETATM   31 CA    CA F 408      36.972   8.122  -0.688  1.00 35.19      VA  CA  
-CONECT    1    2    3    7    8
-CONECT    2    1    5
-CONECT    3    1    4    9   10
-CONECT    4    3    6
-CONECT    5    2
-CONECT    6    4
-CONECT    7    1
-CONECT    8    1
-CONECT    9    3
-CONECT   10    3
-CONECT   11   12   13   17   18
-CONECT   12   11   15
-CONECT   13   11   14   19   20
-CONECT   14   13   16
-CONECT   15   12
-CONECT   16   14
-CONECT   17   11
-CONECT   18   11
-CONECT   19   13
-CONECT   20   13
-CONECT   21   22   23   24
-CONECT   22   21
-CONECT   23   21   25   26   27
-CONECT   24   21
-CONECT   25   23
-CONECT   26   23
-CONECT   27   23
+HETATM    1  C   ACT D 402      21.756  -5.501  51.929  1.00 18.80      AA   C  
+HETATM    2  O   ACT D 402      20.754  -5.028  51.301  1.00 20.21      AA   O  
+HETATM    3  CH3 ACT D 402      21.554  -6.715  52.888  1.00 18.39      AA   C  
+HETATM    4  OXT ACT D 402      22.911  -5.047  51.805  1.00 15.03      AA   O  
+HETATM    5  H1  ACT D 402      20.617  -6.785  53.131  1.00 18.54      AA   H  
+HETATM    6  H2  ACT D 402      22.087  -6.583  53.688  1.00 18.53      AA   H  
+HETATM    7  H3  ACT D 402      21.837  -7.531  52.446  1.00 18.52      AA   H  
+HETATM    8  C   ACT D 403      24.176  -9.700  51.036  1.00 24.50      BA   C  
+HETATM    9  O   ACT D 403      24.473  -8.998  50.048  1.00 23.49      BA   O  
+HETATM   10  CH3 ACT D 403      25.369 -10.326  51.800  1.00 23.70      BA   C  
+HETATM   11  OXT ACT D 403      22.980  -9.926  51.413  1.00 21.59      BA   O  
+HETATM   12  H1  ACT D 403      25.093 -10.564  52.700  1.00 23.95      BA   H  
+HETATM   13  H2  ACT D 403      26.101  -9.690  51.842  1.00 23.96      BA   H  
+HETATM   14  H3  ACT D 403      25.666 -11.125  51.335  1.00 23.96      BA   H  
+HETATM   15  C1  EDO D 404      25.229   1.434  56.321  1.00 30.61      CA   C  
+HETATM   16  O1  EDO D 404      26.609   1.657  56.184  1.00 33.25      CA   O  
+HETATM   17  C2  EDO D 404      24.507   2.651  56.731  1.00 32.23      CA   C  
+HETATM   18  O2  EDO D 404      23.177   2.354  57.122  1.00 35.25      CA   O  
+HETATM   19  HO1 EDO D 404      26.953   0.959  55.957  0.00 29.47      CA   H  
+HETATM   20  HO2 EDO D 404      22.718   2.169  56.436  1.00 34.29      CA   H  
+HETATM   21  H11 EDO D 404      25.082   0.736  56.992  1.00 31.59      CA   H  
+HETATM   22  H12 EDO D 404      24.869   1.119  55.468  1.00 31.56      CA   H  
+HETATM   23  H21 EDO D 404      24.492   3.284  55.983  1.00 32.52      CA   H  
+HETATM   24  H22 EDO D 404      24.980   3.069  57.480  1.00 32.52      CA   H  
+HETATM   25  C1  EDO D 405      18.189  13.645  50.913  1.00 23.80      DA   C  
+HETATM   26  O1  EDO D 405      17.696  12.436  50.376  1.00 23.47      DA   O  
+HETATM   27  C2  EDO D 405      17.361  14.817  50.592  1.00 23.55      DA   C  
+HETATM   28  O2  EDO D 405      15.988  14.605  50.887  1.00 23.86      DA   O  
+HETATM   29  HO1 EDO D 405      18.229  11.823  50.605  0.00 20.00      DA   H  
+HETATM   30  HO2 EDO D 405      15.886  14.561  51.726  1.00 23.76      DA   H  
+HETATM   31  H11 EDO D 405      19.094  13.798  50.571  1.00 23.66      DA   H  
+HETATM   32  H12 EDO D 405      18.245  13.558  51.888  1.00 23.66      DA   H  
+HETATM   33  H21 EDO D 405      17.457  15.023  49.639  1.00 23.68      DA   H  
+HETATM   34  H22 EDO D 405      17.685  15.586  51.106  1.00 23.68      DA   H  
+HETATM   35 ZN    ZN D 406      22.929  -4.881  49.663  1.00  8.18      EA  ZN  
+HETATM   36 CA    CA D 407      36.536  -5.093  47.362  1.00 10.79      FA  CA  
+HETATM   37 CA    CA D 408      33.140  -5.026  38.957  1.00 15.14      GA  CA  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5    6    7
+CONECT    4    1
+CONECT    5    3
+CONECT    6    3
+CONECT    7    3
+CONECT    8    9   10   11
+CONECT    9    8
+CONECT   10    8   12   13   14
+CONECT   11    8
+CONECT   12   10
+CONECT   13   10
+CONECT   14   10
+CONECT   15   16   17   21   22
+CONECT   16   15   19
+CONECT   17   15   18   23   24
+CONECT   18   17   20
+CONECT   19   16
+CONECT   20   18
+CONECT   21   15
+CONECT   22   15
+CONECT   23   17
+CONECT   24   17
+CONECT   25   26   27   31   32
+CONECT   26   25   29
+CONECT   27   25   28   33   34
+CONECT   28   27   30
+CONECT   29   26
+CONECT   30   28
+CONECT   31   25
+CONECT   32   25
+CONECT   33   27
+CONECT   34   27
 END

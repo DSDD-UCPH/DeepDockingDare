@@ -50,57 +50,6 @@ HETATM   48  O8A ACO A 201      27.516  -2.258  16.649  1.00 16.94      B    O
 HETATM   49  N9A ACO A 201      23.301  -4.155  13.962  1.00 13.99      B    N  
 HETATM   50  O9A ACO A 201      26.810  -0.494  15.186  1.00 15.01      B    O  
 HETATM   51  CCP ACO A 201      18.883  -1.431  11.264  1.00  9.23      B    C  
-HETATM   52  CAP ACO A 201     -15.935  -1.791   8.809  1.00  9.84      B    C  
-HETATM   53  C   ACO A 201     -24.418  -4.066  10.133  1.00 12.01      B    C  
-HETATM   54  O   ACO A 201     -24.320  -3.299   9.216  1.00 11.14      B    O  
-HETATM   55  OAP ACO A 201     -14.950  -2.826   8.647  1.00 12.55      B    O  
-HETATM   56  CBP ACO A 201     -16.563  -1.901  10.224  1.00  8.70      B    C  
-HETATM   57  CDP ACO A 201     -17.823  -1.023  10.340  1.00  9.30      B    C  
-HETATM   58  CEP ACO A 201     -16.915  -3.364  10.517  1.00 10.91      B    C  
-HETATM   59  CH3 ACO A 201     -25.520  -4.015  11.153  1.00 12.53      B    C  
-HETATM   60  P1A ACO A 201     -12.624   0.814  13.877  1.00  8.32      B    P  
-HETATM   61  P2A ACO A 201     -13.899   0.621  11.311  1.00  8.11      B    P  
-HETATM   62  P3B ACO A 201      -7.690  -0.944  16.571  1.00 12.63      B    P  
-HETATM   63  S1P ACO A 201     -23.366  -5.480  10.313  1.00 11.36      B    S  
-HETATM   64  C2P ACO A 201     -22.168  -5.112   8.998  1.00 11.56      B    C  
-HETATM   65  C3P ACO A 201     -21.110  -4.152   9.515  1.00 10.47      B    C  
-HETATM   66  N4P ACO A 201     -20.545  -3.415   8.401  1.00 10.11      B    N  
-HETATM   67  C5P ACO A 201     -19.744  -3.974   7.500  1.00 11.39      B    C  
-HETATM   68  O5P ACO A 201     -19.275  -5.110   7.649  1.00 13.95      B    O  
-HETATM   69  C6P ACO A 201     -19.406  -3.126   6.304  1.00 11.95      B    C  
-HETATM   70  C7P ACO A 201     -17.945  -3.248   5.940  1.00 10.86      B    C  
-HETATM   71  N8P ACO A 201     -17.069  -3.038   7.082  1.00 11.02      B    N  
-HETATM   72  C9P ACO A 201     -16.906  -1.852   7.644  1.00 10.02      B    C  
-HETATM   73  O9P ACO A 201     -17.528  -0.851   7.295  1.00 11.37      B    O  
-HETATM   74  C1B ACO A 201     -11.094  -4.005  15.419  1.00 14.06      B    C  
-HETATM   75  N1A ACO A 201      -9.458  -6.713  11.330  1.00 16.93      B    N  
-HETATM   76  O1A ACO A 201     -11.475   1.482  13.255  1.00  9.66      B    O  
-HETATM   77  C2A ACO A 201      -9.062  -6.709  12.607  1.00 17.74      B    C  
-HETATM   78  C2B ACO A 201      -9.766  -3.471  15.948  1.00 13.89      B    C  
-HETATM   79  O2A ACO A 201     -13.476   1.653  14.786  1.00  9.17      B    O  
-HETATM   80  O2B ACO A 201      -9.547  -3.970  17.258  1.00 15.56      B    O  
-HETATM   81  C3B ACO A 201     -10.055  -1.975  15.950  1.00 12.20      B    C  
-HETATM   82  N3A ACO A 201      -9.489  -5.937  13.615  1.00 18.47      B    N  
-HETATM   83  O3A ACO A 201     -13.573   0.153  12.788  1.00 10.30      B    O  
-HETATM   84  O3B ACO A 201      -9.229  -1.226  16.866  1.00 11.39      B    O  
-HETATM   85  C4A ACO A 201     -10.428  -5.067  13.199  1.00 16.13      B    C  
-HETATM   86  C4B ACO A 201     -11.493  -1.916  16.430  1.00 11.35      B    C  
-HETATM   87  O4A ACO A 201     -14.056   2.110  11.250  1.00  8.66      B    O  
-HETATM   88  O4B ACO A 201     -12.101  -3.085  15.830  1.00 12.61      B    O  
-HETATM   89  C5A ACO A 201     -10.921  -4.938  11.912  1.00 15.45      B    C  
-HETATM   90  C5B ACO A 201     -12.238  -0.672  16.020  1.00 10.80      B    C  
-HETATM   91  O5A ACO A 201     -12.892   0.020  10.367  1.00 10.42      B    O  
-HETATM   92  O5B ACO A 201     -12.148  -0.522  14.597  1.00 10.30      B    O  
-HETATM   93  C6A ACO A 201     -10.408  -5.828  10.939  1.00 15.51      B    C  
-HETATM   94  N6A ACO A 201     -10.856  -5.888   9.685  1.00 16.46      B    N  
-HETATM   95  O6A ACO A 201     -15.303  -0.018  11.106  1.00  9.33      B    O  
-HETATM   96  N7A ACO A 201     -11.883  -3.939  11.852  1.00 13.03      B    N  
-HETATM   97  O7A ACO A 201      -7.305   0.097  17.511  1.00 14.04      B    O  
-HETATM   98  C8A ACO A 201     -11.970  -3.516  13.091  1.00 12.08      B    C  
-HETATM   99  O8A ACO A 201      -6.914  -2.258  16.649  1.00 16.94      B    O  
-HETATM  100  N9A ACO A 201     -11.129  -4.155  13.962  1.00 13.99      B    N  
-HETATM  101  O9A ACO A 201      -7.620  -0.494  15.186  1.00 15.01      B    O  
-HETATM  102  CCP ACO A 201     -15.547  -1.431  11.264  1.00  9.23      B    C  
 CONECT    1    4    5   21
 CONECT    2    3    8   12
 CONECT    3    2
@@ -152,55 +101,4 @@ CONECT   48   11
 CONECT   49   23   34   47
 CONECT   50   11
 CONECT   51    5   44
-CONECT   52   55   56   72
-CONECT   53   54   59   63
-CONECT   54   53
-CONECT   55   52
-CONECT   56   52   57   58  102
-CONECT   57   56
-CONECT   58   56
-CONECT   59   53
-CONECT   60   76   79   83   92
-CONECT   61   83   87   91   95
-CONECT   62   84   97   99  101
-CONECT   63   53   64
-CONECT   64   63   65
-CONECT   65   64   66
-CONECT   66   65   67
-CONECT   67   66   68   69
-CONECT   68   67
-CONECT   69   67   70
-CONECT   70   69   71
-CONECT   71   70   72
-CONECT   72   52   71   73
-CONECT   73   72
-CONECT   74   78   88  100
-CONECT   75   77   93
-CONECT   76   60
-CONECT   77   75   82
-CONECT   78   74   80   81
-CONECT   79   60
-CONECT   80   78
-CONECT   81   78   84   86
-CONECT   82   77   85
-CONECT   83   60   61
-CONECT   84   62   81
-CONECT   85   82   89  100
-CONECT   86   81   88   90
-CONECT   87   61
-CONECT   88   74   86
-CONECT   89   85   93   96
-CONECT   90   86   92
-CONECT   91   61
-CONECT   92   60   90
-CONECT   93   75   89   94
-CONECT   94   93
-CONECT   95   61  102
-CONECT   96   89   98
-CONECT   97   62
-CONECT   98   96  100
-CONECT   99   62
-CONECT  100   74   85   98
-CONECT  101   62
-CONECT  102   56   95
 END

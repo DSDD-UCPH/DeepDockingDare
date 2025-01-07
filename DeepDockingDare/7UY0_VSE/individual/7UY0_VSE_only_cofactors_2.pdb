@@ -1,27 +1,37 @@
 CRYST1   49.430  112.090  213.730  90.00  90.00  90.00 P 21 21 21    4
-HETATM    1  C1  GOL A 601      45.147   4.954 -13.394  1.00 82.21      C    C  
-HETATM    2  O1  GOL A 601      44.473   5.884 -14.206  1.00 81.06      C    O  
-HETATM    3  C2  GOL A 601      44.182   4.549 -12.223  1.00 80.66      C    C  
-HETATM    4  O2  GOL A 601      42.849   4.717 -12.573  1.00 81.07      C    O  
-HETATM    5  C3  GOL A 601      44.545   3.057 -11.882  1.00 78.24      C    C  
-HETATM    6  O3  GOL A 601      43.589   2.546 -10.986  1.00 75.08      C    O  
-HETATM    7  C1  GOL A 602      40.369  -4.308 -25.930  1.00 83.91      D    C  
-HETATM    8  O1  GOL A 602      41.283  -3.373 -26.433  1.00 83.55      D    O  
-HETATM    9  C2  GOL A 602      39.867  -5.230 -27.081  1.00 84.29      D    C  
-HETATM   10  O2  GOL A 602      39.557  -4.504 -28.227  1.00 88.62      D    O  
-HETATM   11  C3  GOL A 602      38.589  -5.985 -26.518  1.00 80.73      D    C  
-HETATM   12  O3  GOL A 602      38.944  -6.842 -25.462  1.00 70.99      D    O  
-HETATM   13 CL    CL A 604      28.385  -3.886 -26.763  1.00 83.46      F   CL  
+HETATM    1  C1  GOL B 601      62.301 -11.398  19.629  1.00 92.59      G    C  
+HETATM    2  O1  GOL B 601      62.896 -12.489  18.990  1.00 91.21      G    O  
+HETATM    3  C2  GOL B 601      60.972 -11.898  20.269  1.00 92.27      G    C  
+HETATM    4  O2  GOL B 601      61.207 -12.827  21.272  1.00 93.36      G    O  
+HETATM    5  C3  GOL B 601      60.265 -10.610  20.807  1.00 90.62      G    C  
+HETATM    6  O3  GOL B 601      58.886 -10.869  20.906  1.00 89.72      G    O  
+HETATM    7 CL    CL B 603      54.194  -0.946  14.102  1.00 71.92      I   CL  
+HETATM    8 CL    CL B 604      16.677  -2.142  34.880  1.00 96.34      J   CL  
+HETATM    9 CL    CL B 605      32.334  21.455  28.246  1.00 93.15      K   CL  
+HETATM   10  P   PO4 B 606      21.304   2.245  34.882  1.00164.88      L    P  
+HETATM   11  O1  PO4 B 606      20.716   1.099  34.094  1.00164.78      L    O  
+HETATM   12  O2  PO4 B 606      20.385   3.439  34.789  1.00164.54      L    O  
+HETATM   13  O3  PO4 B 606      22.655   2.616  34.318  1.00165.46      L    O  
+HETATM   14  O4  PO4 B 606      21.467   1.831  36.325  1.00165.28      L    O  
+HETATM   15  P   PO4 B 607      11.799   8.798  45.335  1.00140.74      M    P  
+HETATM   16  O1  PO4 B 607      12.686   9.636  44.444  1.00140.99      M    O  
+HETATM   17  O2  PO4 B 607      10.415   9.399  45.368  1.00142.46      M    O  
+HETATM   18  O3  PO4 B 607      11.729   7.388  44.800  1.00139.75      M    O  
+HETATM   19  O4  PO4 B 607      12.364   8.776  46.733  1.00140.39      M    O  
 CONECT    1    2    3
 CONECT    2    1
 CONECT    3    1    4    5
 CONECT    4    3
 CONECT    5    3    6
 CONECT    6    5
-CONECT    7    8    9
-CONECT    8    7
-CONECT    9    7   10   11
-CONECT   10    9
-CONECT   11    9   12
-CONECT   12   11
+CONECT   10   11   12   13   14
+CONECT   11   10
+CONECT   12   10
+CONECT   13   10
+CONECT   14   10
+CONECT   15   16   17   18   19
+CONECT   16   15
+CONECT   17   15
+CONECT   18   15
+CONECT   19   15
 END

@@ -5,20 +5,9 @@ HETATM    3  O3  SO4 B 402     -33.787   4.860  25.301  0.92 19.78      F    O
 HETATM    4  O4  SO4 B 402     -34.275   2.509  24.679  0.92 26.47      F    O  
 HETATM    5  S   SO4 B 402     -33.756   3.857  24.198  0.92 27.77      F    S  
 HETATM    6 CL    CL B 403     -22.405  15.043  13.359  1.00 47.92      G   CL  
-HETATM    7  O1  SO4 B 402    -103.691   3.619  23.565  0.92 24.53      F    O  
-HETATM    8  O2  SO4 B 402    -106.006   4.376  23.175  0.92 33.00      F    O  
-HETATM    9  O3  SO4 B 402    -105.057   4.860  25.301  0.92 19.78      F    O  
-HETATM   10  O4  SO4 B 402    -105.545   2.509  24.679  0.92 26.47      F    O  
-HETATM   11  S   SO4 B 402    -105.026   3.857  24.198  0.92 27.77      F    S  
-HETATM   12 CL    CL B 403     -93.675  15.043  13.359  1.00 47.92      G   CL  
 CONECT    1    5
 CONECT    2    5
 CONECT    3    5
 CONECT    4    5
 CONECT    5    1    2    3    4
-CONECT    7   11
-CONECT    8   11
-CONECT    9   11
-CONECT   10   11
-CONECT   11    7    8    9   10
 END

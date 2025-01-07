@@ -13,8 +13,8 @@ HETATM    6  P   6YU A 501      72.069 -78.042  17.132  1.00 39.25      B    P
 ANISOU    6  P   6YU A 501     3833   6912   4167   -652   -123    731  B    P  
 HETATM    7  PA  6YU A 501      69.209 -77.790  16.545  1.00 39.73      B    P  
 ANISOU    7  PA  6YU A 501     3959   7102   4036   -681   -127    813  B    P  
-HETATM    8  O1P 6YU A 501      72.319 -79.225  16.260  1.00 40.03      B    O1-
-ANISOU    8  O1P 6YU A 501     3940   7018   4251   -655    -89    690  B    O1-
+HETATM    8  O1P 6YU A 501      72.319 -79.225  16.260  1.00 40.03      B    O  
+ANISOU    8  O1P 6YU A 501     3940   7018   4251   -655    -89    690  B    O  
 HETATM    9  O2P 6YU A 501      72.830 -78.226  18.522  1.00 38.29      B    O  
 ANISOU    9  O2P 6YU A 501     3701   6717   4131   -634   -210    704  B    O  
 HETATM   10  O3P 6YU A 501      70.509 -77.865  17.477  1.00 39.83      B    O  
@@ -45,8 +45,8 @@ HETATM   22  N1  6YU A 501      75.010 -69.383  16.018  1.00 39.16      B    N
 ANISOU   22  N1  6YU A 501     3754   6689   4437   -764    249    888  B    N  
 HETATM   23  N1A 6YU A 501      62.594 -85.996  17.686  1.00 45.62      B    N  
 ANISOU   23  N1A 6YU A 501     4919   7914   4502  -1120   -232    627  B    N  
-HETATM   24  O1A 6YU A 501      68.069 -77.306  17.379  1.00 40.16      B    O1-
-ANISOU   24  O1A 6YU A 501     4017   7170   4072   -677   -151    848  B    O1-
+HETATM   24  O1A 6YU A 501      68.069 -77.306  17.379  1.00 40.16      B    O  
+ANISOU   24  O1A 6YU A 501     4017   7170   4072   -677   -151    848  B    O  
 HETATM   25  C2  6YU A 501      75.982 -68.882  15.257  1.00 43.24      B    C  
 ANISOU   25  C2  6YU A 501     4241   7170   5019   -812    357    878  B    C  
 HETATM   26  C2A 6YU A 501      63.349 -85.818  16.607  1.00 43.29      B    C  
@@ -145,7 +145,7 @@ CONECT    8    6
 CONECT    9    6
 CONECT   10    6    7
 CONECT   11   12   13
-CONECT   12   11    6
+CONECT   12    6   11
 CONECT   13   11   14   15
 CONECT   14   13
 CONECT   15   13   16   17
@@ -153,9 +153,9 @@ CONECT   16   15
 CONECT   17   15   18   19
 CONECT   18   17
 CONECT   19   17   67
-CONECT   20   65   27   43
+CONECT   20   27   43   65
 CONECT   21   28
-CONECT   22   66   25
+CONECT   22   25   66
 CONECT   23   26   51
 CONECT   24    7
 CONECT   25   22   29   34
@@ -174,17 +174,17 @@ CONECT   37   34   41   42
 CONECT   38   35   44   65
 CONECT   39   32   43   45
 CONECT   40   33   48
-CONECT   41   37   66   47
+CONECT   41   37   47   66
 CONECT   42   37
-CONECT   43   39   20
+CONECT   43   20   39
 CONECT   44   38   51   57
 CONECT   45   39   49
-CONECT   46   63   47   50
+CONECT   46   47   50   63
 CONECT   47    3   41   46
 CONECT   48   40   52
 CONECT   49    7   45
 CONECT   50   46   54
-CONECT   51   44   23   53
+CONECT   51   23   44   53
 CONECT   52   48   56
 CONECT   53   51
 CONECT   54   50   55   58
@@ -197,7 +197,7 @@ CONECT   60   58
 CONECT   61   56   64
 CONECT   62   58   63
 CONECT   63   46   62   67
-CONECT   64   61    5
+CONECT   64    5   61
 CONECT   65   20   38   59
 CONECT   66   22   41   67
 CONECT   67   19   63   66

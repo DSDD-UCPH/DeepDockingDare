@@ -27,34 +27,6 @@ HETATM   25  N7  ADP A 801       7.696  21.590  15.580  1.00 37.96      C    N
 HETATM   26  C8  ADP A 801       8.776  21.884  14.849  1.00 25.18      C    C  
 HETATM   27  N9  ADP A 801       8.680  23.082  14.171  1.00 25.92      C    N  
 HETATM   28 ZN    ZN A 803       8.496   8.590  44.864  1.00 35.86      E   ZN  
-HETATM   29  PA  ADP A 801     -42.958 -11.111  73.247  1.00 26.53      C    P  
-HETATM   30  PB  ADP A 801     -42.588 -13.573  71.722  1.00 28.78      C    P  
-HETATM   31  C5' ADP A 801     -43.477  -9.545  71.193  1.00 24.74      C    C  
-HETATM   32  O5' ADP A 801     -42.945  -9.664  72.584  1.00 25.32      C    O  
-HETATM   33  C4' ADP A 801     -43.418  -8.075  70.846  1.00 26.72      C    C  
-HETATM   34  O4' ADP A 801     -42.032  -7.657  70.715  1.00 28.54      C    O  
-HETATM   35  C3' ADP A 801     -44.069  -7.788  69.510  1.00 31.10      C    C  
-HETATM   36  O3' ADP A 801     -45.479  -7.517  69.634  1.00 30.52      C    O  
-HETATM   37  C2' ADP A 801     -43.264  -6.583  68.984  1.00 25.71      C    C  
-HETATM   38  O2' ADP A 801     -43.782  -5.361  69.520  1.00 36.75      C    O  
-HETATM   39  C1' ADP A 801     -41.885  -6.784  69.617  1.00 26.11      C    C  
-HETATM   40  N1  ADP A 801     -37.230  -6.410  67.477  1.00 27.35      C    N  
-HETATM   41  O1A ADP A 801     -42.004 -11.021  74.395  1.00 34.30      C    O1-
-HETATM   42  O1B ADP A 801     -42.416 -14.233  73.074  1.00 25.22      C    O1-
-HETATM   43  C2  ADP A 801     -37.902  -5.604  68.304  1.00 24.44      C    C  
-HETATM   44  O2A ADP A 801     -44.374 -11.555  73.508  1.00 25.36      C    O  
-HETATM   45  O2B ADP A 801     -44.014 -13.645  71.115  1.00 31.07      C    O  
-HETATM   46  N3  ADP A 801     -39.134  -5.771  68.829  1.00 28.16      C    N  
-HETATM   47  O3A ADP A 801     -42.387 -12.000  72.071  1.00 27.50      C    O  
-HETATM   48  O3B ADP A 801     -41.445 -13.917  70.699  1.00 30.84      C    O  
-HETATM   49  C4  ADP A 801     -39.691  -6.934  68.407  1.00 25.93      C    C  
-HETATM   50  C5  ADP A 801     -39.089  -7.847  67.543  1.00 24.39      C    C  
-HETATM   51  C6  ADP A 801     -37.799  -7.573  67.055  1.00 27.36      C    C  
-HETATM   52  N6  ADP A 801     -37.143  -8.378  66.230  1.00 30.72      C    N  
-HETATM   53  N7  ADP A 801     -39.952  -8.931  67.324  1.00 37.96      C    N  
-HETATM   54  C8  ADP A 801     -41.032  -8.636  68.055  1.00 25.18      C    C  
-HETATM   55  N9  ADP A 801     -40.936  -7.438  68.733  1.00 25.92      C    N  
-HETATM   56 ZN    ZN A 803     -40.752 -21.931  38.040  1.00 35.86      E   ZN  
 CONECT    1    4   13   16   19
 CONECT    2   14   17   19   20
 CONECT    3    4    5
@@ -82,31 +54,4 @@ CONECT   24   23
 CONECT   25   22   26
 CONECT   26   25   27
 CONECT   27   11   21   26
-CONECT   29   32   41   44   47
-CONECT   30   42   45   47   48
-CONECT   31   32   33
-CONECT   32   29   31
-CONECT   33   31   34   35
-CONECT   34   33   39
-CONECT   35   33   36   37
-CONECT   36   35
-CONECT   37   35   38   39
-CONECT   38   37
-CONECT   39   34   37   55
-CONECT   40   43   51
-CONECT   41   29
-CONECT   42   30
-CONECT   43   40   46
-CONECT   44   29
-CONECT   45   30
-CONECT   46   43   49
-CONECT   47   29   30
-CONECT   48   30
-CONECT   49   46   50   55
-CONECT   50   49   51   53
-CONECT   51   40   50   52
-CONECT   52   51
-CONECT   53   50   54
-CONECT   54   53   55
-CONECT   55   39   49   54
 END
