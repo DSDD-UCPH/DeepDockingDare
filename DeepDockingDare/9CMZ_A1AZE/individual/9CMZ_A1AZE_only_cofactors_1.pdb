@@ -1,24 +1,12 @@
 CRYST1   77.539   99.428   78.148  90.00 100.78  90.00 P 1 21 1      6
-HETATM    1 CL    CL B 401      55.467   2.420 -66.786  1.00 77.69      I   CL  
-HETATM    2  O1  SO4 B 402      25.985  -7.556 -49.312  1.00 51.40      J    O  
-HETATM    3  O2  SO4 B 402      26.515  -9.781 -48.463  1.00 60.31      J    O  
-HETATM    4  O3  SO4 B 402      27.786  -7.908 -47.668  1.00 68.31      J    O  
-HETATM    5  O4  SO4 B 402      25.529  -8.115 -46.904  1.00 69.24      J    O  
-HETATM    6  S   SO4 B 402      26.427  -8.334 -48.104  1.00 68.82      J    S  
-HETATM    7 CL    CL B 401      70.084   2.420-143.555  1.00 77.69      I   CL  
-HETATM    8  O1  SO4 B 402      40.602  -7.556-126.081  1.00 51.40      J    O  
-HETATM    9  O2  SO4 B 402      41.132  -9.781-125.232  1.00 60.31      J    O  
-HETATM   10  O3  SO4 B 402      42.403  -7.908-124.437  1.00 68.31      J    O  
-HETATM   11  O4  SO4 B 402      40.146  -8.115-123.673  1.00 69.24      J    O  
-HETATM   12  S   SO4 B 402      41.044  -8.334-124.873  1.00 68.82      J    S  
-CONECT    2    6
-CONECT    3    6
-CONECT    4    6
-CONECT    5    6
-CONECT    6    2    3    4    5
-CONECT    8   12
-CONECT    9   12
-CONECT   10   12
-CONECT   11   12
-CONECT   12    8    9   10   11
+HETATM    1  O1  SO4 C 401      63.448  -4.484   0.931  1.00105.42      L    O  
+HETATM    2  O2  SO4 C 401      62.590  -6.288  -0.480  1.00 92.25      L    O  
+HETATM    3  O3  SO4 C 401      62.438  -6.488   1.932  1.00 91.61      L    O  
+HETATM    4  O4  SO4 C 401      61.061  -4.810   0.778  1.00 80.33      L    O  
+HETATM    5  S   SO4 C 401      62.376  -5.523   0.791  1.00 83.96      L    S  
+CONECT    1    5
+CONECT    2    5
+CONECT    3    5
+CONECT    4    5
+CONECT    5    1    2    3    4
 END

@@ -1,4 +1,10 @@
 CRYST1   48.442   87.884   73.075  90.00  96.75  90.00 P 1 21 1      4
-HETATM    1  UNK UNL A1402      13.072  -7.871  54.754  1.00  6.47      D    X  
-ANISOU    1  UNK UNL A1402     1090    975    391    528   -580   -283  D    X  
+HETATM    1  UNK UNL B1402      16.978  20.605 -11.535  1.00  5.17      F    X  
+ANISOU    1  UNK UNL B1402      437    752    775     61   -515    -50  F    X  
+HETATM    2  UNK UNL B1403       1.360   4.789  -7.284  1.00 30.04      G    X  
+ANISOU    2  UNK UNL B1403     2656   3988   4768    654    881    729  G    X  
+HETATM    3  UNK UNL B1404      30.857   4.919 -11.910  1.00 12.51      H    X  
+ANISOU    3  UNK UNL B1404     1125   2570   1056   -744   -290    489  H    X  
+HETATM    4  UNK UNL B1405      24.837   9.351  -6.721  1.00 27.00      I    X  
+ANISOU    4  UNK UNL B1405     3334   3917   3007   -570  -1230    314  I    X  
 END
